@@ -17,6 +17,7 @@
   <message>
     <key>q00000023_00_1049</key>
     <original>巨人兵の居場所に関する情報を探す</original>
+    <translation>Find information about the whereabouts of giant soldiers</translation>
   </message>
   <message>
     <key>q00000023_00_1598</key>
@@ -33,14 +34,17 @@
   <message>
     <key>q00000023_00_1050</key>
     <original>巨人兵ゴリアテを撃破し鍵を入手する</original>
+    <translation>Defeat the giant soldier Goliath to obtain the key</translation>
   </message>
   <message>
     <key>q00000023_00_1601</key>
     <original>鍵を拾う</original>
+    <translation>Pick up the keys</translation>
   </message>
   <message>
     <key>q00000023_00_1051</key>
     <original>クラウスに鍵を渡す</original>
+    <Translation>Give the keys to Klaus</Translation>
   </message>
   <message>
     <key>q00000023_00_1195</key>
