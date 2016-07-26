@@ -2084,6 +2084,7 @@
   <message>
     <key>NPC_NAME_722</key>
     <original>チャールズ</original>
+    <translation>Charles</translation>
   </message>
   <message>
     <key>NPC_NAME_723</key>
@@ -2123,6 +2124,7 @@
   <message>
     <key>NPC_NAME_731</key>
     <original>エウニケ</original>
+    <translation>Eunik</translation>
   </message>
   <message>
     <key>NPC_NAME_732</key>
@@ -2147,6 +2149,7 @@
   <message>
     <key>NPC_NAME_741</key>
     <original>エイブラム</original>
+   <translation>Abram</translation>
   </message>
   <message>
     <key>NPC_NAME_742</key>
@@ -2441,6 +2444,7 @@
   <message>
     <key>NPC_NAME_822</key>
     <original>セカンドポーン</original>
+    <translation>Second Pawn</translation>
   </message>
   <message>
     <key>NPC_NAME_823</key>
@@ -2453,6 +2457,7 @@
   <message>
     <key>NPC_NAME_827</key>
     <original>グランエント</original>
+    <translation>Gran Ent</translation>
   </message>
   <message>
     <key>NPC_NAME_828</key>
@@ -2467,6 +2472,7 @@
   <message>
     <key>NPC_NAME_831</key>
     <original>ロイグ</original>
+    <translation>Loig</translation>
   </message>
   <message>
     <key>NPC_NAME_833</key>
@@ -2475,11 +2481,12 @@
   <message>
     <key>NPC_NAME_838</key>
     <original>リュカ</original>
+    <translation>Luka</translation>
   </message>
   <message>
     <key>NPC_NAME_839</key>
     <original>ベルトラン</original>
-    <translation>Bertrand</translation>
+    <translation>Betland</translation>
   </message>
   <message>
     <key>NPC_NAME_840</key>
