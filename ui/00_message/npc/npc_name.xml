@@ -362,6 +362,7 @@
   <message>
     <key>NPC_NAME_326</key>
     <original>ジョナス</original>
+    <translation>Jonas</translation>
   </message>
   <message>
     <key>NPC_NAME_327</key>
@@ -2486,7 +2487,7 @@
   <message>
     <key>NPC_NAME_839</key>
     <original>ベルトラン</original>
-    <translation>Bertrand</translation>
+    <translation>Betland</translation>
   </message>
   <message>
     <key>NPC_NAME_840</key>
