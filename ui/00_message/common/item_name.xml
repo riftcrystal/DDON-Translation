@@ -35121,48 +35121,63 @@
   </item>
   <item id="13595">
     <original>マーキスアーマー</original>
+    <translation>Marquis Armor</translation>
   </item>
   <item id="13596">
     <original>マーキスアーマー</original>
+    <translation>Marquis Armor</translation>
   </item>
   <item id="13597">
     <original>マーキスアーマー</original>
+    <translation>Marquis Armor</translation>
   </item>
   <item id="13598">
     <original>マーキスアーマー</original>
+    <translation>Marquis Armor</translation>
   </item>
   <item id="13599">
     <original>マーキスアーマー</original>
+    <translation>Marquis Armor</translation>
   </item>
   <item id="13600">
     <original>マーキスウェア</original>
+    <translation>Marquis Wear</translation>
   </item>
   <item id="13601">
     <original>マーキスウェア</original>
+    <translation>Marquis Wear</translation>
   </item>
   <item id="13602">
     <original>マーキスウェア</original>
+    <translation>Marquis Wear</translation>
   </item>
   <item id="13603">
     <original>マーキスウェア</original>
+    <translation>Marquis Wear</translation>
   </item>
   <item id="13604">
     <original>マーキスウェア</original>
+    <translation>Marquis Wear</translation>
   </item>
   <item id="13605">
     <original>マーキスグローブ</original>
+    <translation>Marquis Gloves</translation>
   </item>
   <item id="13606">
     <original>マーキスグローブ</original>
+    <translation>Marquis Gloves</translation>
   </item>
   <item id="13607">
     <original>マーキスグローブ</original>
+    <translation>Marquis Gloves</translation>
   </item>
   <item id="13608">
     <original>マーキスグローブ</original>
+    <translation>Marquis Gloves</translation>
   </item>
   <item id="13609">
     <original>マーキスグローブ</original>
+    <translation>Marquis Gloves</translation>
   </item>
   <item id="13610">
     <original>マーキスキュイス</original>
@@ -35181,18 +35196,23 @@
   </item>
   <item id="13615">
     <original>マーキスレッグス</original>
+    <translation>Marquis Legs</translation>
   </item>
   <item id="13616">
     <original>マーキスレッグス</original>
+    <translation>Marquis Legs</translation>
   </item>
   <item id="13617">
     <original>マーキスレッグス</original>
+    <translation>Marquis Legs</translation>
   </item>
   <item id="13618">
     <original>マーキスレッグス</original>
+    <translation>Marquis Legs</translation>
   </item>
   <item id="13619">
     <original>マーキスレッグス</original>
+    <translation>Marquis Legs</translation>
   </item>
   <item id="13653">
     <original>延焼のクレスト・改</original>
@@ -35459,21 +35479,26 @@
   </item>
   <item id="13793">
     <original>スタールビーリング</original>
+    <translation>Star Ruby Ring</translation>
   </item>
   <item id="13794">
     <original>ヴァルキリーリング</original>
+    <translation>Valkyrie Ring</translation>
   </item>
   <item id="13795">
     <original>ブリリアントジェムブレス</original>
+    <translation>Brilliant Gem Breath</translation>
   </item>
   <item id="13796">
     <original>シャイニングバングル</original>
+    <translation>Shining Bangle</translation>
   </item>
   <item id="13797">
     <original>ヘリオドールピアス</original>
   </item>
   <item id="13798">
     <original>オラクルズピアス</original>
+    <translation>Oracles Pierce</translation>
   </item>
   <item id="13799">
     <original>聖者の腕輪</original>
@@ -36085,6 +36110,7 @@
   </item>
   <item id="14022">
     <original>ブレッシングピアス</original>
+    <translation>Blazing Pierce</translation>
   </item>
   <item id="14023">
     <original>サルヴェーションソード</original>
@@ -36112,18 +36138,23 @@
   </item>
   <item id="14035">
     <original>サルヴェーションシールド</original>
+    <translation>Salvation Shield</translation>
   </item>
   <item id="14036">
     <original>サルヴェーションシールド</original>
+    <translation>Salvation Shield</translation>
   </item>
   <item id="14037">
     <original>サルヴェーションシールド</original>
+    <translation>Salvation Shield</translation>
   </item>
   <item id="14038">
     <original>サルヴェーションシールド</original>
+    <translation>Salvation Shield</translation>
   </item>
   <item id="14039">
     <original>サルヴェーションシールド</original>
+    <translation>Salvation Shield</translation>
   </item>
   <item id="14045">
     <original>サルヴェーションブレード</original>
@@ -36175,18 +36206,23 @@
   </item>
   <item id="14069">
     <original>サルヴェーションロッド</original>
+    <translation>Salvation Rod</translation>
   </item>
   <item id="14070">
     <original>サルヴェーションロッド</original>
+    <translation>Salvation Rod</translation>
   </item>
   <item id="14071">
     <original>サルヴェーションロッド</original>
+    <translation>Salvation Rod</translation>
   </item>
   <item id="14072">
     <original>サルヴェーションロッド</original>
+    <translation>Salvation Rod</translation>
   </item>
   <item id="14073">
     <original>サルヴェーションロッド</original>
+    <translation>Salvation Rod</translation>
   </item>
   <item id="14079">
     <original>サルヴェーションダガー</original>
@@ -36566,8 +36602,10 @@
   </item>
   <item id="14255">
     <original>アニバーサリーケーキ・1周年</original>
+    <translation>Anniversary Cake: 1 Year Anniversary</translation>
   </item>
   <item id="14256">
     <original>デコレーション・1周年</original>
+    <translation>Decoration: 1 Year Anniversary</translation>
   </item>
 </item_data>
