@@ -362,6 +362,7 @@
   <message>
     <key>NPC_NAME_326</key>
     <original>ジョナス</original>
+    <translation>Jonas</translation>
   </message>
   <message>
     <key>NPC_NAME_327</key>
@@ -2457,7 +2458,11 @@
   <message>
     <key>NPC_NAME_827</key>
     <original>グランエント</original>
+<<<<<<< HEAD
+    <translation>Gran Ent</translation>
+=======
     <translation>Grand Ent</translation>
+>>>>>>> refs/remotes/riftcrystal/master
   </message>
   <message>
     <key>NPC_NAME_828</key>
@@ -2486,7 +2491,7 @@
   <message>
     <key>NPC_NAME_839</key>
     <original>ベルトラン</original>
-    <translation>Bertrand</translation>
+    <translation>Betland</translation>
   </message>
   <message>
     <key>NPC_NAME_840</key>
