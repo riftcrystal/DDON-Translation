@@ -2458,11 +2458,7 @@
   <message>
     <key>NPC_NAME_827</key>
     <original>グランエント</original>
-<<<<<<< HEAD
-    <translation>Gran Ent</translation>
-=======
     <translation>Grand Ent</translation>
->>>>>>> refs/remotes/riftcrystal/master
   </message>
   <message>
     <key>NPC_NAME_828</key>
