@@ -226,6 +226,7 @@
   <message>
     <key>STAGE_NAME_48</key>
     <original>ジンゲン組合宿　風啼き亭</original>
+    <translation>Singing Winds Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_49</key>
@@ -245,12 +246,12 @@
   <message>
     <key>STAGE_NAME_52</key>
     <original>キノザ組合宿　紅水晶亭</original>
-    <translation>Red Crystal Pavilion</translation>
+    <translation>Red Crystal Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_53</key>
     <original>ドラワン組合宿　眠り狼亭</original>
-    <translation>Slumbering Wolf Pavilion</translation>
+    <translation>Sleeping Wolf Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_54</key>
@@ -282,10 +283,12 @@
   <message>
     <key>STAGE_NAME_60</key>
     <original>廃都の住居跡</original>
+    <translation>Old Capital Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_61</key>
     <original>ゾマ組合宿　金の杯亭</original>
+    <translation>Golden Tankard Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_62</key>
@@ -305,6 +308,7 @@
   <message>
     <key>STAGE_NAME_65</key>
     <original>廃都の住居跡</original>
+    <translation>Old Capital Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_66</key>
@@ -384,6 +388,7 @@
   <message>
     <key>STAGE_NAME_81</key>
     <original>禊の神殿　離殿</original>
+    <translation>Temple of Purification South Chamber</translation>
   </message>
   <message>
     <key>STAGE_NAME_82</key>
@@ -552,14 +557,17 @@
   <message>
     <key>STAGE_NAME_115</key>
     <original>ドリード排水路</original>
+    <translation>Dreed Drainage Channels</translation>
   </message>
   <message>
     <key>STAGE_NAME_116</key>
     <original>汚水溜め</original>
+    <translation>Cesspool</translation>
   </message>
   <message>
     <key>STAGE_NAME_117</key>
     <original>地下通用口</original>
+    <translation>Underground Side Entrance</translation>
   </message>
   <message>
     <key>STAGE_NAME_118</key>
@@ -569,6 +577,7 @@
   <message>
     <key>STAGE_NAME_119</key>
     <original>北側排水路</original>
+    <translation>North Drainage Channel</translation>
   </message>
   <message>
     <key>STAGE_NAME_120</key>
@@ -578,10 +587,12 @@
   <message>
     <key>STAGE_NAME_121</key>
     <original>中二階</original>
+    <translation>Balcony</translation>
   </message>
   <message>
     <key>STAGE_NAME_122</key>
     <original>浄水区</original>
+    <translation>Purified Water Section</translation>
   </message>
   <message>
     <key>STAGE_NAME_123</key>
@@ -596,6 +607,7 @@
   <message>
     <key>STAGE_NAME_125</key>
     <original>城の古井戸</original>
+    <translation>Fort's Old Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_126</key>
@@ -605,6 +617,7 @@
   <message>
     <key>STAGE_NAME_127</key>
     <original>村の枯れ井戸</original>
+    <translation>Village's Abandoned Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_128</key>
@@ -613,6 +626,7 @@
   <message>
     <key>STAGE_NAME_129</key>
     <original>生活用水汲み場</original>
+    <translation>Common Waterhole</translation>
   </message>
   <message>
     <key>STAGE_NAME_130</key>
@@ -622,10 +636,12 @@
   <message>
     <key>STAGE_NAME_131</key>
     <original>啼き井戸</original>
+    <translation>Keening Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_132</key>
     <original>賢者の古井戸</original>
+    <translation>Sage's Old Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_133</key>
@@ -1169,7 +1185,7 @@
   <message>
     <key>STAGE_NAME_317</key>
     <original>調査隊駐屯地</original>
-    <translation>Survey Corps Camp</translation>
+    <translation>Reconnaissance Expedition Garrison</translation>
   </message>
   <message>
     <key>STAGE_NAME_318</key>

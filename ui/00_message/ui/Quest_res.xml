@@ -247,6 +247,7 @@
   <message>
     <key>QUEST_MSG_BN_UNDETECTED</key>
     <original>未公開ボーナス</original>
+    <translation>Hidden Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_REPLAY</key>
@@ -461,6 +462,7 @@
   <message>
     <key>QUEST_MSG_BN_UNDETECTED1</key>
     <original>未公開ボーナス(取得済)</original>
+    <translation>Hidden Bonus (Acquired)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_TIMEBONUS</key>

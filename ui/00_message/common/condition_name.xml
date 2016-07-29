@@ -232,17 +232,21 @@
   <message>
     <key>CONDITION_NAME_58</key>
     <original>侵食・軽度</original>
+    <translation>Slight Corruption</translation>
   </message>
   <message>
     <key>CONDITION_NAME_59</key>
     <original>侵食・重度</original>
+    <translation>Severe Corruption</translation>
   </message>
   <message>
     <key>CONDITION_NAME_60</key>
     <original>侵食・危険</original>
+    <translation>Critical Corruption</translation>
   </message>
   <message>
     <key>CONDITION_NAME_61</key>
     <original>侵食耐性</original>
+    <translation>Corruption Resist</translation>
   </message>
 </resource>

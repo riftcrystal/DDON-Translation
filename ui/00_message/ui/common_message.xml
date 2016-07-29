@@ -47,54 +47,67 @@
   <message>
     <key>common_ok</key>
     <original>OK</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>common_unit_g</key>
     <original>G</original>
+    <translation>G</translation>
   </message>
   <message>
     <key>common_unit_r</key>
     <original>R</original>
+    <translation>R</translation>
   </message>
   <message>
     <key>common_unit_bo</key>
     <original>BO</original>
+    <translation>BO</translation>
   </message>
   <message>
     <key>common_unit_gp</key>
     <original>GP</original>
+    <translation>GP</translation>
   </message>
   <message>
     <key>common_unit_xp</key>
     <original>XP</original>
+    <translation>XP</translation>
   </message>
   <message>
     <key>common_unit_jp</key>
     <original>JP</original>
+    <translation>JP</translation>
   </message>
   <message>
     <key>common_unit_cap</key>
     <original>CAP</original>
+    <translation>CAP</translation>
   </message>
   <message>
     <key>common_unit_ap</key>
     <original>AP</original>
+    <translation>AP</translation>
   </message>
   <message>
     <key>common_unit_pt</key>
     <original>pt</original>
+    <translation>pt</translation>
   </message>
   <message>
     <key>common_unit_cp</key>
     <original>CP</original>
+    <translation>CP</translation>
   </message>
   <message>
     <key>common_unit_cr</key>
     <original>CR</original>
+    <translation>CR</translation>
   </message>
   <message>
     <key>common_unit_lv</key>
     <original>LV.</original>
+    <translation>LV.</translation>
   </message>
   <message>
     <key>common_unitname_g</key>
@@ -124,10 +137,12 @@
   <message>
     <key>common_clan_s_begin</key>
     <original>≪</original>
+    <translation>≪</translation>
   </message>
   <message>
     <key>common_clan_s_end</key>
     <original>≫</original>
+    <translation>≫</translation>
   </message>
   <message>
     <key>common_unitname_gs</key>
@@ -152,42 +167,52 @@
   <message>
     <key>common_above</key>
     <original>～</original>
+    <translation>～</translation>
   </message>
   <message>
     <key>common_open_bracket</key>
     <original>(</original>
+    <translation>(</translation>
   </message>
   <message>
     <key>common_close_bracket</key>
     <original>)</original>
+    <translation>)</translation>
   </message>
   <message>
     <key>common_grade</key>
     <original>★</original>
+    <translation>★</translation>
   </message>
   <message>
     <key>common_up</key>
     <original>UP</original>
+    <translation>UP</translation>
   </message>
   <message>
     <key>common_down</key>
     <original>DOWN</original>
+    <translation>DOWN</translation>
   </message>
   <message>
     <key>common_off</key>
     <original>OFF</original>
+    <translation>OFF</translation>
   </message>
   <message>
     <key>common_max</key>
     <original>/MAX</original>
+    <translation>/MAX</translation>
   </message>
   <message>
     <key>common_hyphen</key>
     <original>-</original>
+    <translation>-</translation>
   </message>
   <message>
     <key>common_plus</key>
     <original>+</original>
+    <translation>+</translation>
   </message>
   <message>
     <key>common_complete</key>
@@ -214,6 +239,7 @@
   <message>
     <key>common_guide_blank</key>
     <original></original>
+    <translation></translation>
   </message>
   <message>
     <key>common_guide_change_info</key>
@@ -258,6 +284,7 @@
   <message>
     <key>common_date_format</key>
     <original>%Y/%m/%d</original>
+    <translation>%Y/%m/%d</translation>
   </message>
   <message>
     <key>common_guide_open</key>
@@ -287,22 +314,27 @@
   <message>
     <key>common_indicator_lestania</key>
     <original>GT</original>
+    <translation>GT</translation>
   </message>
   <message>
     <key>common_indicator_local</key>
     <original>LT</original>
+    <translation>LT</translation>
   </message>
   <message>
     <key>common_indicator_server</key>
     <original>ST</original>
+    <translation>ST</translation>
   </message>
   <message>
     <key>common_indicator_lobby</key>
     <original>World</original>
+    <translation>World</translation>
   </message>
   <message>
     <key>common_key_alt</key>
     <original>Alt</original>
+    <translation>Alt</translation>
   </message>
   <message>
     <key>common_indicator_saving</key>
@@ -406,10 +438,12 @@
   <message>
     <key>common_edit_savedata_author</key>
     <original>作成者：</original>
+    <translation>Author: </translation>
   </message>
   <message>
     <key>common_edit_savedata_sex</key>
     <original>性別：</original>
+    <translation>Gender: </translation>
   </message>
   <message>
     <key>common_edit_savedata_comment</key>
@@ -481,7 +515,7 @@
   <message>
     <key>common_enemy_transform_erosion_01</key>
     <original>・軽度</original>
-    <translation> (Mild)</translation>
+    <translation> (Slight)</translation>
   </message>
   <message>
     <key>common_enemy_transform_erosion_02</key>
@@ -491,7 +525,7 @@
   <message>
     <key>common_enemy_transform_erosion_03</key>
     <original>・危険</original>
-    <translation> (Danger)</translation>
+    <translation> (Critical)</translation>
   </message>
   <message>
     <key>common_switch_deposit</key>
@@ -504,6 +538,7 @@
   <message>
     <key>common_quest_unpublished</key>
     <original>？？？？？？</original>
+    <translation>??????</translation>
   </message>
   <message>
     <key>common_custom_skill_pallet_sub</key>

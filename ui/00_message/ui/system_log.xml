@@ -939,12 +939,12 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_goldstone_get</key>
     <original>黄金石を&lt;VAL&gt;個、入手しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Received &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;).</translation>
+    <translation>Received &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_silvertickets_get</key>
     <original>シルバーチケットを&lt;VAL&gt;枚、入手しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Received &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;).</translation>
+    <translation>Received &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_success_input_eventcode</key>
@@ -977,12 +977,12 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_silvertichet_lost</key>
     <original>シルバーチケットを&lt;VAL&gt;枚、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Used &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;).</translation>
+    <translation>Used &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
     <original>黄金石を&lt;VAL&gt;個、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Used &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;).</translation>
+    <translation>Used &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_bo_lost</key>
@@ -1002,23 +1002,23 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_login_unclaimed_qreward</key>
     <original>保管ボックスに未受け取りのクエスト報酬があります</original>
-    <translation>There are quest rewards awaiting claim at the
-storage box.</translation>
+    <translation>There are quest rewards that can be claimed
+at the Storage Box.</translation>
   </message>
   <message>
     <key>syslog_quest_repeat_reward</key>
     <original>＜&lt;NAME QUEST&gt;＞の報酬に、繰り返しボーナスが適用されました</original>
-    <translation>"&lt;NAME QUEST&gt;" has received a bonus for being repeated.</translation>
+    <translation>Earned a bonus reward for repeating "&lt;NAME QUEST&gt;".</translation>
   </message>
   <message>
     <key>syslog_quest_undiscover_reward</key>
     <original>＜&lt;NAME QUEST&gt;＞の未公開報酬を獲得しました</original>
-    <translation>"&lt;NAME QUEST&gt;" has received a bonus reward for being finished for the first time.</translation>
+    <translation>Earned the hidden reward for "&lt;NAME QUEST&gt;".</translation>
   </message>
   <message>
     <key>syslog_quest_help_reward</key>
     <original>リーダーが＜&lt;NAME QUEST&gt;＞をクリアしたため、アシスト報酬を獲得しました</original>
-    <translation>Party leader has completed "&lt;NAME QUEST&gt;" and you have received a reward for assisting.</translation>
+    <translation>Party leader has cleared "&lt;NAME QUEST&gt;" and you have received a reward for assisting.</translation>
   </message>
   <message>
     <key>syslog_quest_party_bonus</key>
@@ -1158,6 +1158,8 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <key>syslog_break_region_raid_boss</key>
     <original>&lt;VAL&gt;の部位破壊に成功！
 討伐成功時にボーナス追加！</original>
+    <translation>Successfully broke part of &lt;VAL&gt;!
+Additional bonus on clear!</translation>
   </message>
   <message>
     <key>syslog_quest_progress_failed</key>
@@ -1167,6 +1169,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_break_region_lose_raid_boss</key>
     <original>&lt;VAL&gt;の部位が壊れた！</original>
+    <translation>Part of &lt;VAL&gt; has broken!</translation>
   </message>
   <message>
     <key>syslog_clan_member_login</key>

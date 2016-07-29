@@ -302,8 +302,8 @@ chant gauge further.&lt;/COL&gt;</translation>
     <original>炎属性攻撃を対象に当てた際
 延焼の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases chance to cause burning when attacking
-enemies with fire element attacks.
+    <translation>Increases chance to cause burning when
+attacking enemies with fire element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases burning chance.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1764,8 +1764,8 @@ Aura.
     <key>ABILITY_INFO_118</key>
     <original>高所からのジャンプ降下攻撃の威力が増加する
 &lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of drop attacks performed
-from high places.
+    <translation>Increases the damage of drop attacks
+performed from high places.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>

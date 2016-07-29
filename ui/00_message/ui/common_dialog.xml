@@ -1819,7 +1819,8 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_quest_info_update</key>
     <original>パーティーメンバーが＜&lt;VAL&gt;＞を進行しました</original>
-    <translation>A party member has updated progress on the quest "&lt;VAL&gt;".</translation>
+    <translation>A party member has updated progress on the
+quest "&lt;VAL&gt;".</translation>
   </message>
   <message>
     <key>ana_quest_info_accept_solo</key>
@@ -2021,7 +2022,8 @@ until the promotion test is cleared.</translation>
     <original>長時間、操作が行われていません
 この状態があと &lt;VAL&gt;分 続くと、サーバーとの接続が切断されます</original>
     <translation>There have been no actions for a long time.
-If this continues for &lt;VAL&gt; minutes, you will be disconnected.</translation>
+If this continues for &lt;VAL&gt; minutes, you will
+be disconnected.</translation>
   </message>
   <message>
     <key>ana_disable_not_leader_common_err</key>
@@ -2420,6 +2422,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_quest_announce_set_discover_add</key>
     <original>未公開クエスト「%s」を発見した！</original>
+    <translation>Discovered the Hidden Quest "%s"!</translation>
   </message>
   <message>
     <key>ana_mission_order_err_condition</key>

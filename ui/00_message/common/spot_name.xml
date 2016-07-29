@@ -37,7 +37,7 @@
   <message>
     <key>SPOT_NAME_457</key>
     <original>ドラワン</original>
-    <translation>Dorawan</translation>
+    <translation>Drawan</translation>
   </message>
   <message>
     <key>SPOT_NAME_458</key>
@@ -172,7 +172,7 @@
   <message>
     <key>SPOT_NAME_484</key>
     <original>禊の神殿　離殿</original>
-    <translation>Temple of Purification: South Chamber</translation>
+    <translation>Temple of Purification South Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_485</key>
@@ -1036,6 +1036,7 @@
   <message>
     <key>SPOT_NAME_669</key>
     <original>啼き井戸</original>
+    <translation>Keening Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_670</key>
@@ -1109,7 +1110,7 @@
   <message>
     <key>SPOT_NAME_687</key>
     <original>調査隊駐屯地</original>
-    <translation>Survey Corps Camp</translation>
+    <translation>Reconnaissance Expedition Garrison</translation>
   </message>
   <message>
     <key>SPOT_NAME_689</key>

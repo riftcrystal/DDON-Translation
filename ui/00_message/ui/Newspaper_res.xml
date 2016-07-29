@@ -53,6 +53,7 @@
   <message>
     <key>np_msg_sercret_reward</key>
     <original>未公開報酬</original>
+    <translation>Hidden Reward</translation>
   </message>
   <message>
     <key>np_msg_reward_rim</key>

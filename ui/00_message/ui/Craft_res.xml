@@ -913,6 +913,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_MAKE_ITEM_NOTHING</key>
     <original>作成できるアイテムがありません</original>
+    <translation>There are no items that can be created.</translation>
   </message>
   <message>
     <key>CRAFT_MAKING_NOTHING</key>

@@ -21,7 +21,7 @@
   <message>
     <key>caplink_profile</key>
     <original>プロフィール/カプリンク設定</original>
-    <translation>Profile / Caplink Settings</translation>
+    <translation>Profile/Caplink Settings</translation>
   </message>
   <message>
     <key>caplink_achievement</key>
@@ -919,10 +919,12 @@
   <message>
     <key>caplink_achievement_not_complete</key>
     <original>未達成</original>
+    <translation>Not Achieved</translation>
   </message>
   <message>
     <key>caplink_achievement_receive_enable</key>
     <original>受け取り可</original>
+    <translation>Reward Available</translation>
   </message>
   <message>
     <key>caplink_achievement_received</key>
@@ -931,22 +933,27 @@
   <message>
     <key>caplink_achievement_receive</key>
     <original>受け取る</original>
+    <translation>Receive</translation>
   </message>
   <message>
     <key>caplink_achievement_difficulty</key>
     <original>難易度</original>
+    <translation>Difficulty</translation>
   </message>
   <message>
     <key>caplink_achievement_condition</key>
     <original>条件</original>
+    <translation>Condition</translation>
   </message>
   <message>
     <key>caplink_achievement_reward</key>
     <original>報酬</original>
+    <translation>Reward</translation>
   </message>
   <message>
     <key>caplink_achievement_period_infinity</key>
     <original>無制限</original>
+    <translation>Unlimited</translation>
   </message>
   <message>
     <key>caplink_confirm_receive_reward</key>
@@ -955,6 +962,7 @@
   <message>
     <key>caplink_ddon_fullname</key>
     <original>ドラゴンズドグマオンライン</original>
+    <translation>Dragon's Dogma Online</translation>
   </message>
   <message>
     <key>caplink_ddon_condition</key>

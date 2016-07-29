@@ -74,9 +74,11 @@ a &lt;COL FFFF00&gt;revival force?&lt;/COL&gt;</translation>
     <original>から再開します
 よろしいですか？
 &lt;COL AA1414&gt;状態異常【弱化】が発生します&lt;/COL&gt;</original>
-    <translation>Are you sure you want to revive
+    <translation>
+Are you sure you want to revive
 at the last camp?
-&lt;COL AA1414&gt;You will be afflicted with the Weakness debilitation.&lt;/COL&gt;</translation>
+&lt;COL AA1414&gt;You will be afflicted with
+the Weakness debilitation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>RETRY_MSG_REVIVE_MENU_RIM</key>
