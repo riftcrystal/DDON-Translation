@@ -39,7 +39,7 @@
   </named_param>
   <named_param id="120">
     <original type="Prefix">亡都巨人兵</original>
-    <translation type="Prefix">Ruined Giant Soldier </translation>
+    <translation type="Prefix">Ruins Giant Warrior </translation>
   </named_param>
   <named_param id="122">
     <original type="Replace">ゴブリンの尖兵</original>
@@ -219,7 +219,7 @@
   </named_param>
   <named_param id="166">
     <original type="Replace">黒鉄の巨人兵</original>
-    <translation type="Replace">Giant Black Iron Soldier</translation>
+    <translation type="Replace">Black Iron Giant Warrior</translation>
   </named_param>
   <named_param id="167">
     <original type="Replace">錬魔スケルトン</original>
@@ -237,7 +237,7 @@
   </named_param>
   <named_param id="171">
     <original type="Replace">紫銅の巨人兵</original>
-    <translation type="Replace">Giant Copper Soldier</translation>
+    <translation type="Replace">Copper Giant Warrior</translation>
   </named_param>
   <named_param id="172">
     <original type="Prefix">炎練</original>
@@ -480,7 +480,7 @@
   </named_param>
   <named_param id="249">
     <original type="Replace">錆鉄の巨人兵</original>
-    <translation type="Replace">Giant Rusted Iron Soldier</translation>
+    <translation type="Replace">Rusted Iron Giant Warrior</translation>
   </named_param>
   <named_param id="250">
     <original type="Replace">錆鉄の錬魔ゴブリン</original>

@@ -17,31 +17,37 @@
   <message>
     <key>q00000023_00_1049</key>
     <original>巨人兵の居場所に関する情報を探す</original>
+    <translation>Find information on the Giant Warrior's whereabouts</translation>
   </message>
   <message>
     <key>q00000023_00_1598</key>
     <original>亡都メルゴダのワールドクエストを1回クリアする</original>
+    <translation>Clear one World Quest in Mergoda Ruins</translation>
   </message>
   <message>
     <key>q00000023_00_1599</key>
     <original>術師の取引所のアリアドネに報告する</original>
-    <translation>Report back to 術師の取引所のアリアドネ</translation>
+    <translation>Report back to Ariadne in Alchemist's Exchange</translation>
   </message>
   <message>
     <key>q00000023_00_1600</key>
     <original>巨人兵のいる亡都メルゴダ王宮層へ向かう</original>
+    <translation>Head to the Giant Warrior in Mergoda Ruins Royal Palace Level</translation>
   </message>
   <message>
     <key>q00000023_00_1050</key>
     <original>巨人兵ゴリアテを撃破し鍵を入手する</original>
+    <translation>Defeat the Giant Warrior Goliath to obtain the key</translation>
   </message>
   <message>
     <key>q00000023_00_1601</key>
     <original>鍵を拾う</original>
+    <translation>Pick up the key</translation>
   </message>
   <message>
     <key>q00000023_00_1051</key>
     <original>クラウスに鍵を渡す</original>
+    <translation>Hand over the key to Klaus</translation>
   </message>
   <message>
     <key>q00000023_00_1195</key>
