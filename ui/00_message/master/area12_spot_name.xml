@@ -7,6 +7,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>メルゴダ居住区</original>
+    <translation>Mergoda Residential Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -16,10 +17,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>封じの玄室</original>
+    <translation>Sealed Sepulcher</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>錬金研究室</original>
+    <translation>Alchemy Laboratory</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -34,18 +37,21 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>宮殿前広場</original>
+    <translation>Palace Plaza</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>メルガン・アルケミデア</original>
+    <translation>Mergan Alchemdia</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>亡都メルゴダ　下層</original>
-    <translation>Lower Mergoda Ruins</translation>
+    <translation>Mergoda Ruins: Lower Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>亡都メルゴダ　王宮層</original>
+    <translation>Mergoda Ruins: Royal Palace Level</translation>
   </message>
 </resource>

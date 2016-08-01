@@ -265,6 +265,7 @@
   <message>
     <key>STAGE_NAME_56</key>
     <original>術師の取引所</original>
+    <translation>Alchemist's Exchange</translation>
   </message>
   <message>
     <key>STAGE_NAME_57</key>
@@ -364,7 +365,7 @@
   <message>
     <key>STAGE_NAME_76</key>
     <original>亡都メルゴダ　下層</original>
-    <translation>Lower Mergoda Ruins</translation>
+    <translation>Mergoda Ruins: Lower Level</translation>
   </message>
   <message>
     <key>STAGE_NAME_77</key>
@@ -404,7 +405,7 @@
   <message>
     <key>STAGE_NAME_84</key>
     <original>亡都メルゴダ　王宮層</original>
-    <translation>Mergoda Ruins Royal Palace Level</translation>
+    <translation>Mergoda Ruins: Royal Palace Level</translation>
   </message>
   <message>
     <key>STAGE_NAME_85</key>
@@ -1134,7 +1135,7 @@
   <message>
     <key>STAGE_NAME_288</key>
     <original>亡都メルゴダ　王宮層</original>
-    <translation>Mergoda Ruins Royal Palace Level</translation>
+    <translation>Mergoda Ruins: Royal Palace Level</translation>
   </message>
   <message>
     <key>STAGE_NAME_289</key>

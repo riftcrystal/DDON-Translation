@@ -7,10 +7,12 @@
   <message>
     <key>FIELD_AREA_INFO_2</key>
     <original>メルゴダ下層</original>
+    <translation>Mergoda Lower Level</translation>
   </message>
   <message>
     <key>FIELD_AREA_INFO_3</key>
     <original>メルゴダ王宮層</original>
+    <translation>Mergoda Royal Palace Level</translation>
   </message>
   <message>
     <key>FIELD_AREA_INFO_4</key>
