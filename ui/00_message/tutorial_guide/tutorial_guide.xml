@@ -127,6 +127,7 @@
   <message>
     <key>TUTORIAL_71</key>
     <original>ウォリアーの戦術的役割</original>
+    <translation>Tactical role of the Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_72</key>
@@ -185,6 +186,7 @@
   <message>
     <key>TUTORIAL_87</key>
     <original>装備品</original>
+    <translation>Equipment</translation> 
   </message>
   <message>
     <key>TUTORIAL_88</key>
@@ -228,10 +230,12 @@
   <message>
     <key>TUTORIAL_107</key>
     <original>エクストリームミッション</original>
+    <translation>Extreme Mission</translation>
   </message>
   <message>
     <key>TUTORIAL_109</key>
     <original>覚者のさらなる成長・竜力の継承</original>
+    <translation>Further Growth of the Arisen : Dragon Force Augmentation</translation>
   </message>
   <message>
     <key>TUTORIAL_110</key>
@@ -396,10 +400,12 @@
   <message>
     <key>TUTORIAL_169</key>
     <original>アルケミストの戦法：基本</original>
+    <translation>Basic Tactics: Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_170</key>
     <original>アルケミストの戦術的役割</original>
+    <translation>Tactical role of a Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_172</key>
@@ -481,10 +487,12 @@
   <message>
     <key>TUTORIAL_216</key>
     <original>ウォリアーの戦法：追記</original>
+    <translation>Advanced Tactics: Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_218</key>
     <original>アルケミストの戦法：追記</original>
+    <translation>Advanced Tactics: Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_219</key>
