@@ -17,10 +17,12 @@
   <message>
     <key>pawn_fb_01_001</key>
     <original>コーディネートが素敵だ！</original>
+    <translation>Lovely coordination!</translation>
   </message>
   <message>
     <key>pawn_fb_01_002</key>
     <original>アバンギャルドだ！</original>
+    <translation>Avant-garde!</translation>
   </message>
   <message>
     <key>pawn_fb_01_003</key>
@@ -30,18 +32,22 @@
   <message>
     <key>pawn_fb_01_004</key>
     <original>配色がいいね！</original>
+    <translation>Nice color scheme!</translation>
   </message>
   <message>
     <key>pawn_fb_01_005</key>
     <original>憧れる装備だ！</original>
+    <translation>Yearns for the equipment!</translation>
   </message>
   <message>
     <key>pawn_fb_01_006</key>
     <original>自分のポーンよりいいね！</original>
+    <translation>Better than one's pawn!</translation>
   </message>
   <message>
     <key>pawn_fb_01_007</key>
     <original>可愛いね！</original>
+    <translation>Cute!</translation>
   </message>
   <message>
     <key>pawn_fb_01_008</key>
@@ -51,38 +57,47 @@
   <message>
     <key>pawn_fb_01_009</key>
     <original>自分のポーンと同じくらいの見栄えだ</original>
+    <translation>About the same appearance as one's pawn</translation>
   </message>
   <message>
     <key>pawn_fb_01_010</key>
     <original>なかなか素敵な着合わせだ</original>
+    <translation>Quite nice set of clothes</translation>
   </message>
   <message>
     <key>pawn_fb_01_011</key>
     <original>良いコーディネートじゃないか</original>
+    <translation>Good coordination isn't it?</translation>
   </message>
   <message>
     <key>pawn_fb_01_012</key>
     <original>外見はいまいちかな・・・</original>
+    <translation>Appearance is somewhat lacking I wonder...</translation>
   </message>
   <message>
     <key>pawn_fb_01_013</key>
     <original>オシャレにも気を使おうぜ</original>
+    <translation>To be fashionable, use care!</translation>
   </message>
   <message>
     <key>pawn_fb_01_014</key>
     <original>ダサいぜ・・・</original>
+    <translation>So passé...</translation>
   </message>
   <message>
     <key>pawn_fb_01_015</key>
     <original>そのセンスは理解不能だ</original>
+    <translation>That sense is impossible to understand</translation>
   </message>
   <message>
     <key>pawn_fb_01_016</key>
     <original>すごい色だ・・</original>
+    <translation>Terrible color..</translation>
   </message>
   <message>
     <key>pawn_fb_02_001</key>
     <original>君が居なかったらダメだった</original>
+    <translation>Without you, it would be hopeless</translation>
   </message>
   <message>
     <key>pawn_fb_02_002</key>
@@ -92,121 +107,151 @@
   <message>
     <key>pawn_fb_02_003</key>
     <original>その強さになるにはどのくらいかかるんだ</original>
+    <translation>How long does it take to become that strong?</translation>
   </message>
   <message>
     <key>pawn_fb_02_004</key>
     <original>良い働きだった！</original>
+    <translation>It was good work!</translation>
   </message>
   <message>
     <key>pawn_fb_02_005</key>
     <original>何度も助けられた</original>
+    <translation>Was helped many times</translation>
   </message>
   <message>
     <key>pawn_fb_02_006</key>
     <original>いいアシストだったよ</original>
+    <translation>It was a good assist!</translation>
   </message>
   <message>
     <key>pawn_fb_02_007</key>
     <original>期待通りだった</original>
+    <translation>Met my expectations</translation>
   </message>
   <message>
     <key>pawn_fb_02_008</key>
     <original>守ってくれてありがとう</original>
+    <translation>Thank you for giving me protection</translation>
   </message>
   <message>
     <key>pawn_fb_02_009</key>
     <original>助けになった</original>
+    <translation>Helped me out</translation>
   </message>
   <message>
     <key>pawn_fb_02_010</key>
     <original>まぁまぁの働きぶりだった</original>
+    <translation>It was a so-so kind of work</translation>
   </message>
   <message>
     <key>pawn_fb_02_011</key>
     <original>次はもう少しいい働きを期待している</original>
+    <translation>The next in line are expecting a bit better work</translation>
   </message>
   <message>
     <key>pawn_fb_02_012</key>
     <original>まだまだ強くなってほしい</original>
+    <translation>Not enough, I want you to become stronger</translation>
   </message>
   <message>
     <key>pawn_fb_02_013</key>
     <original>精進あるのみだ</original>
+    <translation>Nothing but devotion</translation>
   </message>
   <message>
     <key>pawn_fb_02_014</key>
     <original>弱かったぞ・・・</original>
+    <translation>Was so weak...</translation>
   </message>
   <message>
     <key>pawn_fb_02_015</key>
     <original>助けることが多かった・・・</original>
+    <translation>Something to rescue many times...</translation>
   </message>
   <message>
     <key>pawn_fb_02_016</key>
     <original>役に立たなかった・・・</original>
+    <translation>Was useless...</translation>
   </message>
   <message>
     <key>pawn_fb_03_001</key>
     <original>いいものができた！</original>
+    <translation>Something good came out!</translation>
   </message>
   <message>
     <key>pawn_fb_03_002</key>
     <original>おかげでいいアイテムが作れたよ！</original>
+    <translation>Thanks to you, a nice item was made!</translation>
   </message>
   <message>
     <key>pawn_fb_03_003</key>
     <original>着実にやってくれた！</original>
+    <translation>It turned out solid!</translation>
   </message>
   <message>
     <key>pawn_fb_03_004</key>
     <original>いいクラフト能力だ！</original>
+    <translation>Good crafting ability!</translation>
   </message>
   <message>
     <key>pawn_fb_03_005</key>
     <original>ナイスな働きだった！</original>
+    <translation>Nice work was done!</translation>
   </message>
   <message>
     <key>pawn_fb_03_006</key>
     <original>いいアシストだった！</original>
+    <translation>It was a good assist!</translation>
   </message>
   <message>
     <key>pawn_fb_03_007</key>
     <original>十分に働いてくれた</original>
+    <translation>Sufficiently worked for me</translation>
   </message>
   <message>
     <key>pawn_fb_03_008</key>
     <original>期待通りだった</original>
+    <translation>Met my expectations</translation>
   </message>
   <message>
     <key>pawn_fb_03_009</key>
     <original>悪くない能力だ</original>
+    <translation>Not bad ability</translation>
   </message>
   <message>
     <key>pawn_fb_03_010</key>
     <original>次もよろしく頼む</original>
+    <translation>Give my regards to the next in line also</translation>
   </message>
   <message>
     <key>pawn_fb_03_011</key>
     <original>クラフトの性能はまだまだだな・・・</original>
+    <translation>Crafting performance still needs work...</translation>
   </message>
   <message>
     <key>pawn_fb_03_012</key>
     <original>次はもう少しいい働きを期待している</original>
+    <translation>The next in line are expecting a bit better work</translation>
   </message>
   <message>
     <key>pawn_fb_03_013</key>
     <original>精進あるのみだ</original>
+    <translation>Nothing but devotion</translation>
   </message>
   <message>
     <key>pawn_fb_03_014</key>
     <original>能力がまだまだ低い・・・</original>
+    <translation>The ability has a long way to go from being low...</translation>
   </message>
   <message>
     <key>pawn_fb_03_015</key>
     <original>経験がたりないな</original>
+    <translation>Not enough experience</translation>
   </message>
   <message>
     <key>pawn_fb_03_016</key>
     <original>がんばってね</original>
+    <translation>Do your best, OK?</translation>
   </message>
 </resource>
