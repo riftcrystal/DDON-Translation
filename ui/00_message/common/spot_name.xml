@@ -377,6 +377,7 @@
   <message>
     <key>SPOT_NAME_525</key>
     <original>ドラワン教会</original>
+    <translation>Drawan Church</translation>
   </message>
   <message>
     <key>SPOT_NAME_526</key>
@@ -396,6 +397,7 @@
   <message>
     <key>SPOT_NAME_529</key>
     <original>テゴル川</original>
+    <translation>Tegor River</translation>
   </message>
   <message>
     <key>SPOT_NAME_530</key>
@@ -705,10 +707,12 @@
   <message>
     <key>SPOT_NAME_593</key>
     <original>妖精の枯れ井戸</original>
+    <translation>Fairy's Withered Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_594</key>
     <original>水陰の淵辺</original>
+    <translation>Deep Water's Edge</translation>
   </message>
   <message>
     <key>SPOT_NAME_595</key>
@@ -937,6 +941,7 @@
   <message>
     <key>SPOT_NAME_643</key>
     <original>ガルドノック哨戒地</original>
+    <translation>Gardnox Patrol Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_644</key>
@@ -1410,6 +1415,7 @@
   <message>
     <key>SPOT_NAME_822</key>
     <original>霧幻のテラス　深層</original>
+    <translation>Misty Illusion Terrace Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_823</key>
@@ -1418,6 +1424,7 @@
   <message>
     <key>SPOT_NAME_824</key>
     <original>侵食魔の巣窟　脇道</original>
+    <translation>Infected Den Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_825</key>
@@ -1440,6 +1447,7 @@
   <message>
     <key>SPOT_NAME_830</key>
     <original>侵食魔の巣窟　脇道</original>
+    <translation>Infected Den Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_831</key>
@@ -1468,10 +1476,12 @@
   <message>
     <key>SPOT_NAME_837</key>
     <original>霧幻のテラス　深層</original>
+    <translation>Misty Illusion Terrace Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_838</key>
     <original>侵食魔の巣窟　奥底　深層</original>
+    <translation>Infected Den Depths: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_839</key>
@@ -1567,6 +1577,7 @@
   <message>
     <key>SPOT_NAME_861</key>
     <original>侵食魔の巣窟　奥底　危険区域</original>
+    <translation>Infected Den Depths: Dangerous Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_862</key>

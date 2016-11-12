@@ -87,7 +87,7 @@
   <message>
     <key>FUNC_SELECT_NAME_20</key>
     <original>オーブ交換：珍品／素材</original>
-    <translation>Orb Exchange: Curiosities / Materials</translation>
+    <translation>Orb Exchange: Rare Items / Materials</translation>
   </message>
   <message>
     <key>FUNC_SELECT_NAME_21</key>
@@ -231,5 +231,10 @@
     <key>FUNC_SELECT_NAME_54</key>
     <original>ボックストレジャーズロット</original>
     <translation>Box Treasure Lot</translation>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_57</key>
+    <original>プレイポイントショップ</original>
+    <translation>Play Point Shop</translation>
   </message>
 </resource>

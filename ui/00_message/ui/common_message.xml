@@ -394,12 +394,12 @@
   <message>
     <key>common_switch_expand</key>
     <original>拡張枠</original>
-    <translation>Expanded Storage</translation>
+    <translation>Expansion</translation>
   </message>
   <message>
     <key>common_switch_strage</key>
     <original>通常枠</original>
-    <translation>Storage</translation>
+    <translation>Normal</translation>
   </message>
   <message>
     <key>common_numbox</key>
@@ -530,6 +530,7 @@
   <message>
     <key>common_switch_deposit</key>
     <original>通常枠</original>
+    <translation>Normal</translation>
   </message>
   <message>
     <key>common_unit_multiplication</key>
@@ -562,13 +563,21 @@
   <message>
     <key>common_switch_deposit_ex01</key>
     <original>拡張枠</original>
+    <translation>Expansion</translation>
   </message>
   <message>
     <key>common_colon</key>
     <original>：</original>
+    <translation>：</translation>
   </message>
   <message>
     <key>common_nakaten</key>
     <original>・</original>
+    <translation>・</translation>
+  </message>
+  <message>
+    <key>common_unit_pp</key>
+    <original>PP</original>
+    <translation>PP</translation>
   </message>
 </resource>

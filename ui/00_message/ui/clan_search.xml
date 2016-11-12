@@ -2,6 +2,7 @@
   <message>
     <key>CLAN_SEARCH_MSG_NAME</key>
     <original>クランの名前</original>
+    <translation>Clan Name</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK</key>
@@ -14,26 +15,32 @@
   <message>
     <key>CLAN_SEARCH_MSG_MOTTO</key>
     <original>モットー</original>
+    <translation>Motto</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ATIME</key>
     <original>活動時間帯</original>
+    <translation>Activity Time</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_STYLE</key>
     <original>特徴</original>
+    <translation>Style</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_OK</key>
     <original>完了</original>
+    <translation>Search</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_CANCEL</key>
     <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_SEARCH_BACK</key>
     <original>検索条件変更に戻る</original>
+    <translation>Back</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER_LIST</key>
@@ -70,18 +77,22 @@
   <message>
     <key>CLAN_SEARCH_INDEX_EN</key>
     <original>Clan Search</original>
+    <translation>Clan Search</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_INDEX_JP</key>
     <original>クラン検索</original>
+    <translation>Clan Search</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_SHORT_NAME</key>
     <original>略称で検索</original>
+    <translation>Search Tags</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK_EN</key>
     <original>Rank</original>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_NOT_FOUND</key>

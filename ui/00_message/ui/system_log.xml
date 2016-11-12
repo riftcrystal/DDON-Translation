@@ -477,7 +477,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_craft_consume_gold</key>
     <original>&lt;VAL GOLD&gt;を消費しました</original>
-    <translation>&lt;VAL GOLD&gt; has been spent.</translation>
+    <translation>&lt;VAL GOLD&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_craft_start</key>
@@ -627,17 +627,17 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_money_get</key>
     <original>&lt;VAL G&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL G&gt;.</translation>
+    <translation>&lt;VAL G&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_rim_get</key>
     <original>&lt;VAL R&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL R&gt;.</translation>
+    <translation>&lt;VAL R&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_bo_get</key>
     <original>&lt;VAL BO&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL BO&gt;.</translation>
+    <translation>&lt;VAL BO&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_bless_get</key>
@@ -1213,5 +1213,25 @@ Additional bonus on clear!</translation>
   <message>
     <key>syslog_not_speak_a_while</key>
     <original>しばらく発言できません</original>
+  </message>
+  <message>
+    <key>syslog_pp_get</key>
+    <original>&lt;VAL PP&gt;を入手しました</original>
+    <translation>&lt;VAL PP&gt; obtained.</translation>
+  </message>
+  <message>
+    <key>syslog_pp_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PP&gt; obtained.</translation>
+  </message>
+  <message>
+    <key>syslog_pp_lost</key>
+    <original>&lt;VAL PP&gt;を消費しました</original>
+    <translation>&lt;VAL PP&gt; spent.</translation>
+  </message>
+  <message>
+    <key>syslog_change_xp_mode</key>
+    <original>%sの入手ポイントを%sに切り替えました</original>
+    <translation>Switched from %s-earning to %s-earning mode.</translation>
   </message>
 </resource>

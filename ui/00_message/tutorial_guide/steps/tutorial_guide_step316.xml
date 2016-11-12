@@ -1,0 +1,38 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_510</key>
+    <original>&lt;COL 78f5ff&gt;《プレイポイント》が入手可能になりました！&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;《プレイポイント（PP）》&lt;/COL&gt;は
+各ジョブがレベル70に到達した後に
+経験値（XP）の代わりに獲得することができます
+
+集めたプレイポイントを使い、
+《プレイポイントショップ》にて様々な要素を
+購入しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_515</key>
+    <original>また、《プレイポイント》を入手するためには
+白竜神殿にいるアーチボルトに話しかけ、
+プレイポイントを取得するモードに切り替えてから
+敵を倒す必要があります
+
+&lt;COL ffdc78&gt;※敵討伐時のプレイポイント入手に関しては
+自分と同レベル相当の中～大型モンスターが
+対象となります&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;※取得モードが通常/PPモードどちらの状態でも、
+メインクエストクリア報酬では経験値を取得します&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_516</key>
+    <original>＜プレイポイント獲得モードへの切替方法＞
+
+《戦技補佐》画面の《ジョブ》からジョブ別に
+プレイポイント獲得モードに切替可能です
+
+※モード切替が可能になったジョブに関しては
+いつでも元に戻すことが可能です</original>
+  </message>
+</resource>

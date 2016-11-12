@@ -12,16 +12,17 @@
   <message>
     <key>RELEASE_CONTENT_3</key>
     <original>ワールドクエスト</original>
-    <translation>World Quest</translation>
+    <translation>World Quests</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_4</key>
     <original>グランドミッション</original>
-    <translation>Grand Mission</translation>
+    <translation>Grand Missions</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_5</key>
     <original>エクストリームミッション</original>
+    <translation>Extreme Missions</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_6</key>
@@ -106,6 +107,7 @@
   <message>
     <key>RELEASE_CONTENT_23</key>
     <original>ウォリアーのジョブ修練</original>
+    <translation>Warrior Job Training</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_24</key>
@@ -115,6 +117,7 @@
   <message>
     <key>RELEASE_CONTENT_25</key>
     <original>アルケミストのジョブ修練</original>
+    <translation>Alchemist Job Training</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_26</key>
@@ -147,73 +150,66 @@
   <message>
     <key>RELEASE_CONTENT_37</key>
     <original>ジョブオーブツリー</original>
+    <translation>Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_38</key>
     <original>ファイターのジョブオーブツリー</original>
+    <translation>Fighter Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_39</key>
     <original>ハンターのジョブオーブツリー</original>
+    <translation>Hunter Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_40</key>
     <original>プリーストのジョブオーブツリー</original>
+    <translation>Priest Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_41</key>
     <original>シールドセージのジョブオーブツリー</original>
+    <translation>Shield Sage Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_42</key>
     <original>シーカーのジョブオーブツリー</original>
+    <translation>Seeker Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_43</key>
     <original>ソーサラーのジョブオーブツリー</original>
+    <translation>Sorcerer Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_44</key>
     <original>ウォリアーのジョブオーブツリー</original>
+    <translation>Warrior Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_45</key>
     <original>エレメントアーチャーのジョブオーブツリー</original>
+    <translation>Element Archer Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_46</key>
     <original>アルケミストのジョブオーブツリー</original>
+    <translation>Alchemist Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_47</key>
     <original>魔赤島ワールドクエスト</original>
+    <translation>Maseki Island World Quests</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_49</key>
     <original>マイルーム</original>
+    <translation>My Room</translation>
   </message>
   <message>
-    <key>RELEASE_CONTENT_51</key>
-    <original>スピリットランサーのジョブ修練</original>
-  </message>
-  <message>
-    <key>RELEASE_CONTENT_52</key>
-    <original>スピリットランサーのジョブオーブツリー</original>
-  </message>
-  <message>
-    <key>RELEASE_CONTENT_53</key>
-    <original>新大陸ー浸食森ワールドクエスト</original>
-  </message>
-  <message>
-    <key>RELEASE_CONTENT_54</key>
-    <original>新大陸ー綺麗森ワールドクエスト</original>
-  </message>
-  <message>
-    <key>RELEASE_CONTENT_55</key>
-    <original>新大陸ー平原ワールドクエスト</original>
-  </message>
-  <message>
-    <key>RELEASE_CONTENT_56</key>
-    <original>新大陸ー渓谷ワールドクエスト</original>
+    <key>RELEASE_CONTENT_57</key>
+    <original>プレイポイント</original>
+    <translation>Play Points</translation>
   </message>
 </resource>

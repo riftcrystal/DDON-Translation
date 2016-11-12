@@ -377,6 +377,7 @@
   <message>
     <key>poptop_clan_interval_now</key>
     <original>インターバル期間中</original>
+    <translation>Interval Duration</translation>
   </message>
   <message>
     <key>poptop_entryboard_less_member_go</key>
@@ -401,6 +402,7 @@
   <message>
     <key>poptop_clan_invite_direct</key>
     <original>直接招待</original>
+    <translation>Direct Invites</translation>
   </message>
   <message>
     <key>poptop_depositbox_menu_ex01</key>

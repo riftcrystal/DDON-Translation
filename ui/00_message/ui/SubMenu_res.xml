@@ -57,12 +57,12 @@
   <message>
     <key>msg_SUB_MENU_APPLY_CLAN</key>
     <original>クランへの加入申請をする</original>
-    <translation>Apply to clan</translation>
+    <translation>Apply to Clan</translation>
   </message>
   <message>
     <key>msg_SUB_MENU_CANCEL_APPLY_CLAN</key>
     <original>クランへの加入申請を取り消す</original>
-    <translation>Cancel clan application</translation>
+    <translation>Cancel Clan Application</translation>
   </message>
   <message>
     <key>msg_SUB_MENU_ALLOW_APPLY_CLAN</key>

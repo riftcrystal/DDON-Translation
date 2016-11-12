@@ -413,14 +413,17 @@ You have &lt;VAL&gt; remaining.</translation>
     <original>&lt;NAME CLAN&gt;に
 加入申請をします。よろしいですか？
 （一定期間承認されない場合、申請はキャンセルされます）</original>
-    <translation>You will submit an application to join &lt;NAME CLAN&gt;.
+    <translation>You will submit an application to
+join &lt;NAME CLAN&gt;.
 Are you sure?
-(If it is not accepted within a period of time, the invite will be canceled)</translation>
+(If it is not accepted within a period of time,
+the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_join</key>
     <original>&lt;NAME CLAN&gt;に加入申請しました</original>
-    <translation>You have submitted an application to join &lt;NAME CLAN&gt;.</translation>
+    <translation>You have submitted an application to
+join &lt;NAME CLAN&gt;.</translation>
   </message>
   <message>
     <key>ana_clan_join_cancel_q</key>
@@ -480,7 +483,8 @@ Are you sure?</translation>
 （一定期間承認されない場合、申請はキャンセルされます）</original>
     <translation>&lt;NAME TARGET&gt; will be invited to the clan.
 Are you sure?
-(If it is not accepted within a period of time, the invite will be canceled)</translation>
+(If it is not accepted within a period of time,
+the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_invite</key>
@@ -1635,7 +1639,7 @@ Are you sure?</translation>
   <message>
     <key>ana_box_err_exspace</key>
     <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>You cannot use the expanded storage.
+    <translation>You cannot use the storage expansion.
 The effect of "&lt;OPCS&gt;" will allow this.</translation>
   </message>
   <message>
@@ -1908,7 +1912,7 @@ please wait for a while.
   <message>
     <key>ana_box_disable</key>
     <original>拡張枠は使用できません</original>
-    <translation>This cannot be used.</translation>
+    <translation>Storage expansion cannot be used.</translation>
   </message>
   <message>
     <key>ana_nomore_choice</key>
@@ -2272,6 +2276,7 @@ and activated.
   <message>
     <key>ana_mail_deleted</key>
     <original>削除しました</original>
+    <translation>It has been deleted.</translation>
   </message>
   <message>
     <key>ana_mail_delete_all_read_mail_0</key>
@@ -2350,6 +2355,7 @@ and activated.
   <message>
     <key>ana_CLAN_ERR_INTERVAL</key>
     <original>クランインターバル期間中のためできません</original>
+    <translation>You cannot in the duration of the Clan Interval.</translation>
   </message>
   <message>
     <key>ana_already_received_supplies</key>

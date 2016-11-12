@@ -938,6 +938,7 @@
   </named_param>
   <named_param id="436">
     <original type="Replace">虚無の騎士</original>
+    <translation type="Replace">Noble Knight</translation>
   </named_param>
   <named_param id="437">
     <original type="Prefix">無より生み出されし</original>
@@ -1227,6 +1228,7 @@
   </named_param>
   <named_param id="544">
     <original type="Replace">呪われた騎士</original>
+    <translation type="Replace">Cursed Knight</translation>
   </named_param>
   <named_param id="545">
     <original type="Prefix"></original>
@@ -1962,15 +1964,18 @@
   </named_param>
   <named_param id="897">
     <original type="Replace">木立の石像鬼</original>
+    <translation type="Replace">Grove Statue Demon</translation>
   </named_param>
   <named_param id="898">
     <original type="Prefix">異端の</original>
+    <translation type="Prefix">Heretic </translation>
   </named_param>
   <named_param id="899">
     <original type="Replace">侵食に抗う戦鬼</original>
   </named_param>
   <named_param id="900">
     <original type="Replace">虚ろの騎士</original>
+    <translation type="Replace">Hollow Knight</translation>
   </named_param>
   <named_param id="901">
     <original type="Replace">跡地荒らしの黒大鷲</original>
@@ -2016,6 +2021,7 @@
   </named_param>
   <named_param id="913">
     <original type="Replace">眠らずの冥騎士</original>
+    <translation type="Replace">Restless Death Knight</translation>
   </named_param>
   <named_param id="914">
     <original type="Prefix">魔獣喰いの</original>
@@ -2835,5 +2841,56 @@
   </named_param>
   <named_param id="1431">
     <original type="Replace">礎の番人</original>
+  </named_param>
+  <named_param id="1463">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1465">
+    <original type="Prefix">竜力に引かれた</original>
+  </named_param>
+  <named_param id="1466">
+    <original type="Replace">集いし者たち</original>
+  </named_param>
+  <named_param id="1478">
+    <original type="Replace">淀みの影</original>
+  </named_param>
+  <named_param id="1479">
+    <original type="Replace">淀みの影</original>
+  </named_param>
+  <named_param id="1515">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1516">
+    <original type="Replace">対の大竜力・天</original>
+  </named_param>
+  <named_param id="1530">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1531">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1532">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1533">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1534">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1535">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1536">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1537">
+    <original type="Suffix">・ブレイズ</original>
+  </named_param>
+  <named_param id="1541">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1544">
+    <original type="Replace">対の大竜力・地</original>
   </named_param>
 </named_params>

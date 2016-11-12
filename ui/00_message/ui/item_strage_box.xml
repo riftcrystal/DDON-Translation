@@ -127,7 +127,7 @@
   <message>
     <key>option_send_exbox</key>
     <original>拡張枠に送る</original>
-    <translation>Send to Extra Box</translation>
+    <translation>Send to Expansion</translation>
   </message>
   <message>
     <key>option_send_num_specified</key>

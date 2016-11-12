@@ -203,4 +203,14 @@
     <original>ボックストレジャーズロット</original>
     <translation>Box Treasure Lot</translation>
   </message>
+  <message>
+    <key>shop_title_pp_shop</key>
+    <original>Play Point Shop</original>
+    <translation>Play Point Shop</translation>
+  </message>
+  <message>
+    <key>shop_title_pp_shop_sub</key>
+    <original>プレイポイントショップ</original>
+    <translation>Play Point Shop</translation>
+  </message>
 </resource>

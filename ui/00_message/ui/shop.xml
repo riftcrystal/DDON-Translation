@@ -210,4 +210,39 @@ not be able to equip this item.&lt;/COL&gt;
     <key>SHOP_TEXT_CHOOSE_TRY_ON</key>
     <original>試着する対象を選択してください</original>
   </message>
+  <message>
+    <key>SHOP_TEXT_STOCK</key>
+    <original>在庫数</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_PURCHASED</key>
+    <original>購入済み</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONPPBUY_1</key>
+    <original>以下を購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL PP&gt;</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONPPBUY_2</key>
+    <original>以下を購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　購入価格：&lt;VAL PP&gt;</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ERR_01</key>
+    <original>対象のジョブでは、まだ購入する権利がありません</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ERR_02</key>
+    <original>すでに購入済みです</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ERR_03</key>
+    <original>プレイポイントが足りません</original>
+  </message>
 </resource>

@@ -1057,7 +1057,7 @@
   <message>
     <key>ABILITY_NAME_98</key>
     <original>活性</original>
-    <translation>Active</translation>
+    <translation>Invigorated</translation>
   </message>
   <message>
     <key>ABILITY_NAME_118</key>
@@ -1237,6 +1237,7 @@
   <message>
     <key>ABILITY_NAME_20</key>
     <original>強靭</original>
+    <translation>Resilience</translation>
   </message>
   <message>
     <key>ABILITY_NAME_251</key>

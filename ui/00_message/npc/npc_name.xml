@@ -948,6 +948,7 @@
   <message>
     <key>NPC_NAME_441</key>
     <original>ジョーダン</original>
+    <translation>Jordan</translation>
   </message>
   <message>
     <key>NPC_NAME_442</key>
@@ -2013,7 +2014,7 @@
   <message>
     <key>NPC_NAME_698</key>
     <original>シェリー</original>
-    <translation>Sherry</translation>
+    <translation>Shelly</translation>
   </message>
   <message>
     <key>NPC_NAME_699</key>

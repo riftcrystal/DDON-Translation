@@ -10,18 +10,22 @@
   <message>
     <key>GMD_CLAN_LIST_TAB_APPLY</key>
     <original>加入申請中リスト</original>
+    <translation>Applications</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED</key>
     <original>スカウトエントリー招待</original>
+    <translation>Invitations</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_EN</key>
     <original>Clan List</original>
+    <translation>Clan List</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_JP</key>
     <original>クランリスト</original>
+    <translation>Clan List</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_NAME</key>
@@ -40,10 +44,12 @@
   <message>
     <key>GMD_CLAN_LIST_NO_JOIN_REQ</key>
     <original>加入申請がありません</original>
+    <translation>There are no applicants</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITE</key>
     <original>招待していません</original>
+    <translation>There are no invitations</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_APPLY</key>
@@ -56,5 +62,6 @@
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED_DIRECT</key>
     <original>直接招待</original>
+    <translation>Direct Invites</translation>
   </message>
 </resource>

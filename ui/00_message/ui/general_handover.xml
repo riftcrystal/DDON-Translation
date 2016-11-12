@@ -51,6 +51,7 @@
   <message>
     <key>HANDOVER_MSG_BTN_FINISH</key>
     <original>完了</original>
+    <translation>Complete</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE04</key>
