@@ -1599,7 +1599,7 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY</key>
     <original>他プレイヤーのエフェクト透明度</original>
-    <translation>Transparency Effect for Other Players</translation>
+    <translation>Visibility of Other Player's Effects</translation>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NORMAL</key>

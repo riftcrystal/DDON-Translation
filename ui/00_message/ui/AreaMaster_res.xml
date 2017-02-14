@@ -42,6 +42,7 @@
   <message>
     <key>areamaster_msg_mainreward</key>
     <original>メイン報酬</original>
+	<translation>Main Reward</translation>
   </message>
   <message>
     <key>areamaster_msg_clearbonus</key>
@@ -51,15 +52,21 @@
   <message>
     <key>areamaster_msg_price</key>
     <original>情報料金</original>
+	<translation>Information Fee</translation>
   </message>
   <message>
     <key>areamaster_msg_button_buy</key>
     <original>情報購入</original>
+	<translation>Purchase information</translation>
   </message>
   <message>
     <key>areamaster_msg_dialog_buy</key>
     <original>&lt;VAL GOLD&gt;を消費して&lt;NAME QUEST&gt;のクエスト情報を購入します
 よろしいですか？</original>
+	<translation>Spend &lt;VAL GOLD&gt; and purchase quest information for
+	&lt;NAME QUEST&gt;
+	Is this OK?</translation>
+	
   </message>
   <message>
     <key>areamaster_msg_title_e</key>
@@ -193,6 +200,11 @@
 マップが確認できるようになりました
 エリアマスターから知りえるワールドクエスト情報
 および、スポット情報の確認に利用しましょう</original>
+	<translation>From the "Map" option,
+	you can now view area and world quest information that you have available
+	for the following areas :
+	"Mergoda Ruins: Lower Level" "Mergoda Ruins: Royal Palace Level".
+	Let's use it to confirm spot information.
   </message>
   <message>
     <key>areamaster_msg_spotmask</key>
@@ -217,6 +229,7 @@
   <message>
     <key>areamaster_msg_close</key>
     <original>現在は封鎖されている</original>
+	<translation>Currently blocked off
   </message>
   <message>
     <key>areamaster_msg_gold</key>
@@ -236,7 +249,7 @@
   <message>
     <key>areamaster_msg_disable_koukendo</key>
     <original>パーティーリーダーしか閲覧できません</original>
-    <translation>Party Leaderしか閲覧できません</translation>
+    <translation>Only viewable by the Party Leader</translation>
   </message>
   <message>
     <key>areamaster_msg_blank</key>
@@ -281,6 +294,7 @@
   <message>
     <key>areamaster_msg_header_recommend_level</key>
     <original>推奨レベル</original>
+	<translation>Recommended Level</translation>
   </message>
   <message>
     <key>areamaster_msg_header_spot</key>
@@ -290,6 +304,7 @@
   <message>
     <key>areamaster_msg_header_item_rank</key>
     <original>入手IR</original>
+	<translation>Obtain IR</translation>
   </message>
   <message>
     <key>areamaster_msg_header_hot_spot</key>

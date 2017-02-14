@@ -66,6 +66,7 @@
   <message>
     <key>ACHIEVEMENT_MSG_RECEIVE_NOTICE</key>
     <original>アチーブメント報酬を受け取りました</original>
+	<translation>Achievement reward received.</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_MSG_NOTHING</key>
