@@ -29,7 +29,7 @@
     <original>新規にセーブデータを作成しています
 PCの電源を切らないでください</original>
 	<translation>Creating new save data.
-	Do not turn off the PC.
+	Do not turn off the PC.</translation>
   </message>
   <message>
     <key>sys_announce_savedata_broken</key>
@@ -57,7 +57,7 @@ PCの電源を切らないでください</original>
 新規に作成します</original>
 	<translation>Other user's save data
 	cannot be used and will be discarded.
-	Please create a new save.
+	Please create a new save.</translation>
   </message>
   <message>
     <key>sys_announce_goto_launcher</key>
