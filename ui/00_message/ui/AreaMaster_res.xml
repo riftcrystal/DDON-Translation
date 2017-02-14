@@ -204,7 +204,7 @@
 	you can now view area and world quest information that you have available
 	for the following areas :
 	"Mergoda Ruins: Lower Level" "Mergoda Ruins: Royal Palace Level".
-	Let's use it to confirm spot information.
+	Let's use it to confirm spot information.</translation>
   </message>
   <message>
     <key>areamaster_msg_spotmask</key>
@@ -229,7 +229,7 @@
   <message>
     <key>areamaster_msg_close</key>
     <original>現在は封鎖されている</original>
-	<translation>Currently blocked off
+    <translation>Currently blocked off</translation>
   </message>
   <message>
     <key>areamaster_msg_gold</key>
