@@ -12,6 +12,7 @@
   <message>
     <key>CALI_MSG_GUID_END</key>
     <original>確認終了</original>
+    <translation>Confirm Exit</translation>
   </message>
   <message>
     <key>CALI_MSG_BUTTON_EDIT</key>
