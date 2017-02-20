@@ -73,7 +73,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_TABSKILLABI</key>
     <original>スキル・アビリティ</original>
-	<translation>Skill ・ Ability</translation>
+	<translation>Skills ・ Augments</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABHISTORY</key>
@@ -83,7 +83,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_TABPLAYER</key>
     <original>功績・覚者力</original>
-	<translation>Achievements ・ Awakenings</translation>
+	<translation>Achievements ・ Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPAWN</key>
@@ -131,12 +131,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_TIREDATK</key>
     <original>疲労攻力</original>
-	<translation>Fatigue Attack</translation>
+	<translation>Exhaust Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKEDATK</key>
     <original>気絶攻力</original>
-	<translation>Stun Attack</translation>
+	<translation>Knockout Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DEFENCE</key>
@@ -402,7 +402,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_NOWRENTAL</key>
     <original>レンタル中</original>
-	<translation>Rented Currently</translation>
+	<translation>Currently Rented</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SENID</key>
