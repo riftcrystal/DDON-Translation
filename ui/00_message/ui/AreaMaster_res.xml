@@ -2,195 +2,195 @@
   <message>
     <key>areamaster_msg_rank</key>
     <original>Rank</original>
-  <translation>Rank</translation>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>areamaster_msg_questhint_e</key>
     <original>Quest Hint</original>
-  <translation>Quest Hint</translation>
+    <translation>Quest Hint</translation>
   </message>
   <message>
     <key>areamaster_msg_questhint_j</key>
     <original>クエストヒント</original>
-  <translation>Quest Hint</translation>
+    <translation>Quest Hint</translation>
   </message>
   <message>
     <key>areamaster_msg_abstraction</key>
     <original>概要</original>
-  <translation>Summary</translation>
+    <translation>Summary</translation>
   </message>
   <message>
     <key>areamaster_msg_reward</key>
     <original>報酬</original>
-  <translation>Rewards</translation>
+    <translation>Rewards</translation>
   </message>
   <message>
     <key>areamaster_msg_bought</key>
     <original>購入済み</original>
-  <translation>Bought</translation>
+    <translation>Bought</translation>
   </message>
   <message>
     <key>areamaster_msg_recommend</key>
     <original>推奨</original>
-  <translation>Recommended</translation>
+    <translation>Recommended</translation>
   </message>
   <message>
     <key>areamaster_msg_masking</key>
     <original>？？？</original>
-  <translation>???</translation>
+    <translation>???</translation>
   </message>
   <message>
     <key>areamaster_msg_mainreward</key>
     <original>メイン報酬</original>
-  <translation>Main Reward</translation>
+    <translation>Main Reward</translation>
   </message>
   <message>
     <key>areamaster_msg_clearbonus</key>
     <original>クリアボーナス</original>
-  <translation>Clear Bonus</translation>
+    <translation>Clear Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_price</key>
     <original>情報料金</original>
-  <translation>Information Fee</translation>
+    <translation>Information Fee</translation>
   </message>
   <message>
     <key>areamaster_msg_button_buy</key>
     <original>情報購入</original>
-  <translation>Purchase information</translation>
+    <translation>Purchase information</translation>
   </message>
   <message>
     <key>areamaster_msg_dialog_buy</key>
     <original>&lt;VAL GOLD&gt;を消費して&lt;NAME QUEST&gt;のクエスト情報を購入します
 よろしいですか？</original>
-  <translation>Spend &lt;VAL GOLD&gt; and purchase quest information for
+    <translation>Spend &lt;VAL GOLD&gt; and purchase quest information for
 &lt;NAME QUEST&gt;
 Is this OK?</translation>	
   </message>
   <message>
     <key>areamaster_msg_title_e</key>
     <original>Area Status</original>
-  <translation>Area Status</translation>
+    <translation>Area Status</translation>
   </message>
   <message>
     <key>areamaster_msg_spot_info</key>
     <original>スポット情報</original>
-  <translation>Spot Information</translation>
+    <translation>Spot Information</translation>
   </message>
   <message>
     <key>areamaster_msg_populator</key>
     <original>入手可能アイテム</original>
-  <translation>Available Items</translation>
+    <translation>Available Items</translation>
   </message>
   <message>
     <key>areamaster_msg_title_j</key>
     <original>エリア説明</original>
-  <translation>Area Status</translation>
+    <translation>Area Status</translation>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_e</key>
     <original>エリア名声度</original>
-  <translation>Area Reputation</translation>
+    <translation>Area Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_j</key>
     <original>Area Reputation </original>
-  <translation>Area Reputation</translation>
+    <translation>Area Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_rankbonus</key>
     <original>ランクボーナス</original>
-  <translation>Rank Bonus</translation>
+    <translation>Rank Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_contribution</key>
     <original>名声度</original>
-  <translation>Reputation</translation>
+    <translation>Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_next</key>
     <original>次のランクアップまで</original>
-  <translation>Next Rank</translation>
+    <translation>Next Rank</translation>
   </message>
   <message>
     <key>areamaster_msg_ap_thisweek</key>
     <original>今週のポイント</original>
-  <translation>Points This Week</translation>
+    <translation>Points This Week</translation>
   </message>
   <message>
     <key>areamaster_msg_weekly</key>
     <original>Weekly</original>
-  <translation>Weekly</translation>
+    <translation>Weekly</translation>
   </message>
   <message>
     <key>areamaster_msg_last_week</key>
     <original>先週</original>
-  <translation>Last Week</translation>
+    <translation>Last Week</translation>
   </message>
   <message>
     <key>areamaster_msg_this_week</key>
     <original>今週</original>
-  <translation>This Week</translation>
+    <translation>This Week</translation>
   </message>
   <message>
     <key>areamaster_msg_bonus_point</key>
     <original>Bonus Point</original>
-  <translation>Bonus Point</translation>
+    <translation>Bonus Point</translation>
   </message>
   <message>
     <key>areamaster_msg_limited_bonus</key>
     <original>期間限定ボーナス</original>
-  <translation>Limited Time Bonus</translation>
+    <translation>Limited Time Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_target</key>
     <original>Target</original>
-  <translation>Target</translation>
+    <translation>Target</translation>
   </message>
   <message>
     <key>areamaster_msg_point</key>
     <original>Point</original>
-  <translation>Point</translation>
+    <translation>Point</translation>
   </message>
   <message>
     <key>areamaster_msg_clear</key>
     <original>Clear</original>
-  <translation>Clear</translation>
+    <translation>Clear</translation>
   </message>
   <message>
     <key>areamaster_msg_total</key>
     <original>Total</original>
-  <translation>Total</translation>
+    <translation>Total</translation>
   </message>
   <message>
     <key>areamaster_msg_bonus</key>
     <original>Bonus</original>
-  <translation>Bonus</translation>
+    <translation>Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_map_title</key>
     <original>Area Map</original>
-  <translation>Area Map</translation>
+    <translation>Area Map</translation>
   </message>
   <message>
     <key>areamaster_msg_equal</key>
     <original>＝</original>
-  <translation>＝</translation>
+    <translation>＝</translation>
   </message>
   <message>
     <key>areamaster_msg_mul</key>
     <original>×</original>
-  <translation>×</translation>
+    <translation>×</translation>
   </message>
   <message>
     <key>areamaster_msg_area_point_title</key>
     <original>エリア名声度：&lt;NAME AREA_NAME&gt;</original>
-  <translation>Area Reputation: &lt;NAME AREA_NAME&gt;</translation>
+    <translation>Area Reputation: &lt;NAME AREA_NAME&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_checkmap</key>
     <original>地図で確認</original>
-  <translation>Check Map</translation>
+    <translation>Check Map</translation>
   </message>
   <message>
     <key>areamaster_msg_mergodahint</key>
@@ -199,7 +199,7 @@ Is this OK?</translation>
 マップが確認できるようになりました
 エリアマスターから知りえるワールドクエスト情報
 および、スポット情報の確認に利用しましょう</original>
-  <translation>From the "Map" option,
+    <translation>From the "Map" option,
 you can now view area and world quest information that you have available
 for the following areas :
 "Mergoda Ruins: Lower Level" "Mergoda Ruins: Royal Palace Level".
@@ -208,111 +208,111 @@ Let's use it to confirm spot information.</translation>
   <message>
     <key>areamaster_msg_spotmask</key>
     <original>？？？？？</original>
-  <translation>?????</translation>
+    <translation>?????</translation>
   </message>
   <message>
     <key>areamaster_msg_detectedquest</key>
     <original>公開クエスト</original>
-  <translation>Discovered Quests</translation>
+    <translation>Discovered Quests</translation>
   </message>
   <message>
     <key>areamaster_msg_undetectedquest</key>
     <original>未公開クエスト</original>
-  <translation>Undiscovered Quests</translation>
+    <translation>Undiscovered Quests</translation>
   </message>
   <message>
     <key>areamaster_msg_no_watch</key>
     <original>今のところ警戒情報はない</original>
-  <translation>There is no warning information so far</translation>
+    <translation>There is no warning information so far</translation>
   </message>
   <message>
     <key>areamaster_msg_close</key>
     <original>現在は封鎖されている</original>
-  <translation>Currently blocked off</translation>
+    <translation>Currently blocked off</translation>
   </message>
   <message>
     <key>areamaster_msg_gold</key>
     <original>&lt;VAL GOLD&gt;</original>
-  <translation>&lt;VAL GOLD&gt;</translation>
+    <translation>&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_rim</key>
     <original>&lt;VAL RIM&gt;</original>
-  <translation>&lt;VAL RIM&gt;</translation>
+    <translation>&lt;VAL RIM&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_xp</key>
     <original>&lt;VAL XP&gt;</original>
-  <translation>&lt;VAL XP&gt;</translation>
+    <translation>&lt;VAL XP&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_disable_koukendo</key>
     <original>パーティーリーダーしか閲覧できません</original>
-  <translation>Only viewable by the Party Leader</translation>
+    <translation>Only viewable by the Party Leader</translation>
   </message>
   <message>
     <key>areamaster_msg_blank</key>
     <original>-</original>
-  <translation>-</translation>
+    <translation>-</translation>
   </message>
   <message>
     <key>areamaster_msg_tab_rewardlist</key>
     <original>支援品　一覧</original>
-  <translation>Support Goods List</translation>
+    <translation>Support Goods List</translation>
   </message>
   <message>
     <key>areamaster_msg_tab_bonus</key>
     <original>名声度</original>
-  <translation>Reputation</translation>
+    <translation>Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_point_first</key>
     <original>&lt;VAL&gt; &lt;UNIT AP&gt; ～</original>
-  <translation>&lt;VAL&gt; &lt;UNIT AP&gt; ～</translation>
+    <translation>&lt;VAL&gt; &lt;UNIT AP&gt; ～</translation>
   </message>
   <message>
     <key>areamaster_msg_point_end</key>
     <original>～ &lt;VAL&gt; &lt;UNIT AP&gt;</original>
-  <translation>～ &lt;VAL&gt; &lt;UNIT AP&gt;</translation>
+    <translation>～ &lt;VAL&gt; &lt;UNIT AP&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_point_bet</key>
     <original>&lt;VAL&gt; &lt;UNIT AP&gt; ～ &lt;VAL&gt; &lt;UNIT AP&gt;</original>
-  <translation>&lt;VAL&gt; &lt;UNIT AP&gt; ～ &lt;VAL&gt; &lt;UNIT AP&gt;</translation>
+    <translation>&lt;VAL&gt; &lt;UNIT AP&gt; ～ &lt;VAL&gt; &lt;UNIT AP&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_area_trial</key>
     <original>特殊条件</original>
-  <translation>Trial</translation>
+    <translation>Trial</translation>
   </message>
   <message>
     <key>areamaster_msg_item_num</key>
     <original> × &lt;VAL&gt;</original>
-  <translation> × &lt;VAL&gt;</translation>
+    <translation> × &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_header_recommend_level</key>
     <original>推奨レベル</original>
-  <translation>Recommended Level</translation>
+    <translation>Recommended Level</translation>
   </message>
   <message>
     <key>areamaster_msg_header_spot</key>
     <original>スポット</original>
-  <translation>Spot</translation>
+    <translation>Spot</translation>
   </message>
   <message>
     <key>areamaster_msg_header_item_rank</key>
     <original>入手IR</original>
-  <translation>Obtain IR</translation>
+    <translation>Obtain IR</translation>
   </message>
   <message>
     <key>areamaster_msg_header_hot_spot</key>
     <original>ホットスポット</original>
-  <translation>Hotspot</translation>
+    <translation>Hotspot</translation>
   </message>
   <message>
     <key>areamaster_msg_header_expedition_num</key>
     <original>派遣数</original>
-  <translation>Dispatch Num</translation>
+    <translation>Dispatch Num</translation>
   </message>
 </resource>
