@@ -3,8 +3,8 @@
     <key>net_signout_return_l</key>
     <original>認証サーバーとの接続が切れました
 ランチャーに戻ります</original>
-	<translation>The connection with the authentication server has expired.
-	Exiting to the launcher.</translation>
+    <translation>The connection with the authentication server has expired.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common</key>
@@ -15,46 +15,46 @@
 このゲームをプレイするにはインターネットへの
 接続が必要となりますので接続状況をご確認ください
 ランチャーを再起動いたします</original>
-	<translation>Cannot reach the internet server.
-	Check to make sure the internet connection has
-	not been disconnected or unplugged.
-	
-	To play this game,
-	an internet connection is required.
-	Restarting the launcher now.</translation>
+    <translation>Cannot reach the internet server.
+Check to make sure the internet connection has
+not been disconnected or unplugged.
+
+To play this game,
+an internet connection is required.
+Restarting the launcher now.</translation>
   </message>
   <message>
     <key>net_network_cancel_return_l_common</key>
     <original>ネットワークの開始がキャンセルされました
 ランチャーに戻ります</original>
-	<translation>Connection to the servers cancelled.
-	Exiting to the launcher.</translation>
+    <translation>Connection to the servers cancelled.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_network_ng_return_l_common</key>
     <original>ネットワークの開始に失敗しました
 ランチャーに戻ります</original>
-	<translation>Cannot connect.
-	Exiting to the launcher.</translation>
+    <translation>Cannot connect.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_network_error_common</key>
     <original>通信エラーが発生しました</original>
-	<translation>A communication error has occurred.</translation>
+    <translation>A communication error has occurred.</translation>
   </message>
   <message>
     <key>net_network_error_return_t_common</key>
     <original>通信エラーが発生しました
 タイトル画面に戻ります</original>
-	<translation>A communication error has occurred.
-	Returning to the title screen.</translation>
+    <translation>A communication error has occurred.
+Returning to the title screen.</translation>
   </message>
   <message>
     <key>net_network_error_return_l_common</key>
     <original>通信エラーが発生しました
 ランチャーに戻ります</original>
-	<translation>A communication error has occurred.
-	Exiting to the launcher.</translation>
+    <translation>A communication error has occurred.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_server_error_common</key>
@@ -72,57 +72,57 @@ Exiting to launcher.</translation>
     <key>net_server_error_return_t_common</key>
     <original>サーバーから切断されました
 タイトル画面に戻ります</original>
-	<translation>Failed to connect to the server.
-	Returning to the title screen.</translation>
+    <translation>Failed to connect to the server.
+Returning to the title screen.</translation>
   </message>
   <message>
     <key>net_login_error_common</key>
     <original>ログインに失敗しました</original>
-	<translation>Failed to login.</translation>
+    <translation>Failed to login.</translation>
   </message>
   <message>
     <key>net_login_error_return_l_common</key>
     <original>ログインに失敗しました
 ランチャーに戻ります</original>
-	<translation>Failed to login.
-	Exiting to the launcher.</translation>
+    <translation>Failed to login.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_server_error_back_t_common</key>
     <original>サーバーから切断されました
 タイトル画面に戻ります</original>
-	<translation>Failed to connect to the server.
-	Returning to the title screen.</translation>
+    <translation>Failed to connect to the server.
+Returning to the title screen.</translation>
   </message>
   <message>
     <key>net_server_timeout_back_t_common</key>
     <original>サーバーとの接続がタイムアウトになりました
 タイトル画面に戻ります</original>
-	<translation>The connection with the server has timed out.
-	Returning to the title screen.</translation>
+    <translation>The connection with the server has timed out.
+Returning to the title screen.</translation>
   </message>
   <message>
     <key>net_version_error_back_l_common</key>
     <original>更新データが見つかりました
 アップデートする必要がありますので
 ランチャー画面へ戻ります</original>
-	<translation>An update to the game is available.
-	Updating to the latest version is required.
-	Exiting to the launcher.</translation>
+    <translation>An update to the game is available.
+Updating to the latest version is required.
+Exiting to the launcher.</translation>
   </message>
   <message>
     <key>net_autologout</key>
     <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました
 タイトル画面に戻ります</original>
-	<translation>Due to prolonged inactivity,
-	the connection to the server has been disconnected.
-	Returning to the title screen.</translation>
+    <translation>Due to prolonged inactivity,
+the connection to the server has been disconnected.
+Returning to the title screen.</translation>
   </message>
   <message>
     <key>net_signout_return_l_keep</key>
     <original>認証サーバーとの接続が切れました</original>
-	<translation>The connection with the authentication server has expired.</translation>
+    <translation>The connection with the authentication server has expired.</translation>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common_keep</key>
@@ -132,34 +132,34 @@ Exiting to launcher.</translation>
 
 このゲームをプレイするにはインターネットへの
 接続が必要となりますので接続状況をご確認ください</original>
-	<translation>Cannot reach the internet server.
-	Check to make sure the internet connection has
-	not been disconnected or unplugged.
-	
-	To play this game,
-	an internet connection is required.</translation>
+    <translation>Cannot reach the internet server.
+Check to make sure the internet connection has
+not been disconnected or unplugged.
+
+To play this game,
+an internet connection is required.</translation>
   </message>
   <message>
     <key>net_server_error_return_t_common_keep</key>
     <original>サーバーから切断されました</original>
-	<translation>Disconnected from the server.</translation>
+    <translation>Disconnected from the server.</translation>
   </message>
   <message>
     <key>net_server_error_back_t_common_keep</key>
     <original>サーバーから切断されました</original>
-	<translation>Disconnected from the server.</translation>
+    <translation>Disconnected from the server.</translation>
   </message>
   <message>
     <key>net_server_timeout_back_t_common_keep</key>
     <original>サーバーとの接続がタイムアウトになりました</original>
-	<translation>The connection with the server has timed out.</translation>
+    <translation>The connection with the server has timed out.</translation>
   </message>
   <message>
     <key>net_autologout_keep</key>
     <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました</original>
-	<translation>Due to prolonged inactivity,
-	the connection to the server has been disconnected.</translation>
+    <translation>Due to prolonged inactivity,
+the connection to the server has been disconnected.</translation>
   </message>
   <message>
     <key>net_edit_keep</key>
@@ -171,13 +171,13 @@ Exiting to launcher.</translation>
 
 ゲームを終了するにはエディット(または美容院)の
 画面でキャンセル操作をおこなってください</original>
-	<translation>Due to a disconnection from the server,
-	the game cannot proceed.
-	
-	It is recommended that you save edits
-	you have performed.
-	
-	After completing edits,
-	please perform the cancel operation on the screen.</translation>
+    <translation>Due to a disconnection from the server,
+the game cannot proceed.
+
+It is recommended that you save edits
+you have performed.
+
+After completing edits,
+please perform the cancel operation on the screen.</translation>
   </message>
 </resource>
