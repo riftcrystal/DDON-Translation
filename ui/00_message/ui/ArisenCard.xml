@@ -6,6 +6,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_ARISENCARDJP</key>
     <original>覚者プロフィール</original>
+    <translation>Arisen Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARD</key>
@@ -14,10 +15,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARDJP</key>
     <original>ポーンプロフィール</original>
+    <translation>Pawn Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CARDMENU</key>
     <original>プロフィールの編集</original>
+    <translation>Edit Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CLAN</key>
@@ -30,6 +33,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_MEMBER</key>
     <original>メンバー数</original>
+    <translation>Members</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_JOBLV</key>
@@ -46,30 +50,37 @@
   <message>
     <key>ARISEN_CARD_TEXT_LGOAL</key>
     <original>冒険目的</original>
+    <translation>Adventure Goal</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SGOAL</key>
     <original>活動場所</original>
+    <translation>Activity Location</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STYLE</key>
     <original>プレイスタイル</original>
+    <translation>Play Style</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPROFILE</key>
     <original>プロフィール</original>
+    <translation>Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSTATUS</key>
     <original>ステータス</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSKILLABI</key>
     <original>スキル・アビリティ</original>
+    <translation>Skills / Augments</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABHISTORY</key>
     <original>ヒストリー</original>
+    <translation>History</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPLAYER</key>
@@ -86,18 +97,22 @@
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALATK</key>
     <original>物理攻撃力</original>
+    <translation>Physical Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALATK</key>
     <original>魔法攻撃力</original>
+    <translation>Magick Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALDEF</key>
     <original>物理防御力</original>
+    <translation>Physical Defense</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALDEF</key>
     <original>魔法防御力</original>
+    <translation>Magick Defense</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OFFENCE</key>
@@ -106,18 +121,22 @@
   <message>
     <key>ARISEN_CARD_TEXT_STRENGTH</key>
     <original>筋力</original>
+    <translation>Strength</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANCEATK</key>
     <original>チャンス攻力</original>
+    <translation>Chance Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TIREDATK</key>
     <original>疲労攻力</original>
+    <translation>Exhaust Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKEDATK</key>
     <original>気絶攻力</original>
+    <translation>Knockout Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DEFENCE</key>
@@ -127,10 +146,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_DEFPWR</key>
     <original>耐久力</original>
+    <translation>Endurance</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CUREPWR</key>
     <original>生命治癒力</original>
+    <translation>Healing Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ELEMENT</key>
@@ -163,10 +184,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_CUSTOMSKILL</key>
     <original>カスタムスキル</original>
+    <translation>Custom Skill</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NORMALSKILL</key>
     <original>ノーマルスキル</original>
+    <translation>Core Skill</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_COST</key>
@@ -179,30 +202,37 @@
   <message>
     <key>ARISEN_CARD_TEXT_PHARMACY</key>
     <original>生産作業スピード</original>
+    <translation>Production Speed</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_FORGING</key>
     <original>装備の強化技術</original>
+    <translation>Equipment Enhancement</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SEWING</key>
     <original>高品質装備の作成力</original>
+    <translation>Equipment Quality</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHASING</key>
     <original>消耗品の生産数アップ</original>
+    <translation>Consumable Quantity</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HERMETIC</key>
     <original>コストパフォーマンス</original>
+    <translation>Cost Performance</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OWNER</key>
     <original>覚者：</original>
+    <translation>Arisen: </translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHARACTER</key>
     <original>性格：</original>
+    <translation>Personality: </translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HP</key>
@@ -215,6 +245,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_NOJOIN</key>
     <original>クランには所属していません。</original>
+    <translation>Does not belong to a clan.</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ADV</key>
@@ -247,10 +278,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_TOTALVALUE</key>
     <original>総合評価</original>
+    <translation>Comprehensive Evaluation</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALNUM</key>
     <original>レンタル回数</original>
+    <translation>Rental Total</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLENUM</key>
@@ -259,6 +292,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTNUM</key>
     <original>クラフト回数</original>
+    <translation>Craft Total</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_LOOKSVALUE</key>
@@ -275,18 +309,22 @@
   <message>
     <key>ARISEN_CARD_TEXT_EDITPROFILE</key>
     <original>プロフィールの編集</original>
+    <translation>Edit Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEBG</key>
     <original>背景の変更</original>
+    <translation>Change Background</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEPOSE</key>
     <original>ポーズの変更</original>
+    <translation>Change Pose</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEMYTITLE</key>
     <original>称号の変更</original>
+    <translation>Change Title</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORY</key>
@@ -295,34 +333,42 @@
   <message>
     <key>ARISEN_CARD_TEXT_MAGIC</key>
     <original>魔力</original>
+    <translation>Magick</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKBACK</key>
     <original>吹き飛ばし力</original>
+    <translation>Blow Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOSKILL</key>
     <original>なし</original>
+    <translation>None</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TITLE</key>
     <original>称号</original>
+    <translation>Title</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOTITLE</key>
     <original>称号設定なし</original>
+    <translation>No Title Set</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_INVITEPARTY</key>
     <original>パーティー参加</original>
+    <translation>Party Setting</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORYGETACHIEVE</key>
     <original>&lt;VAL&gt; を獲得しました</original>
+    <translation>Earned achievement &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ACHIEVEMENT</key>
     <original>アチーブメント</original>
+    <translation>Achievement</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTAL</key>
@@ -339,10 +385,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_RENTALVALUE</key>
     <original>レンタルコスト</original>
+    <translation>Rental Cost</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOWRENTAL</key>
     <original>レンタル中</original>
+    <translation>Currently Renting</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SENID</key>
@@ -351,5 +399,6 @@
   <message>
     <key>ARISEN_CARD_TEXT_PLAYABLEJOB</key>
     <original>遊びたいジョブ</original>
+    <translation>Preferred Job</translation>
   </message>
 </resource>

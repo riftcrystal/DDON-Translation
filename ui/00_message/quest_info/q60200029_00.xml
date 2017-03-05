@@ -1,0 +1,36 @@
+﻿<resource>
+  <message>
+    <key>q60200029_00_221</key>
+    <original>ホワイトデーのお返し・リズとメイリーフ</original>
+    <translation>White Day Gift Return: Lise and Mayleaf</translation>
+  </message>
+  <message>
+    <key>q60200029_00_221</key>
+    <original>リズとメイリーフからのお返しをもらう</original>
+    <translation>Receive a gift in return from Lise and Mayleaf</translation>
+  </message>
+  <message>
+    <key>q60200029_00_2926</key>
+    <original>メイリーフから詳細を聞く</original>
+    <translation>Listen to details from Mayleaf</translation>
+  </message>
+  <message>
+    <key>q60200029_00_2927</key>
+    <original>リンウッドのミランダにsayで「森の妖精マカロン」と話かける</original>
+    <translation>Say "森の妖精マカロン" ("Forest Fairy Macaron") to Miranda in Lynwood</translation>
+  </message>
+  <message>
+    <key>q60200029_00_2928</key>
+    <original>ミランダと話をする</original>
+    <translation>Speak to Miranda</translation>
+  </message>
+  <message>
+    <key>q60200029_00_2929</key>
+    <original>酒場のいるリズに報告する</original>
+    <translation>Report to Lise in Tavern</translation>
+  </message>
+  <message>
+    <key>q60200029_00_2783</key>
+    <original>森(ﾉ|ノ|の)妖精(ﾏ|マ|ま)(ｶ|カ|か)(ﾛ|ロ|ろ)(ﾝ|ン|ん)</original>
+  </message>
+</resource>

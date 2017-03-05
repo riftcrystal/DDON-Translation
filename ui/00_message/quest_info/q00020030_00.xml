@@ -53,7 +53,7 @@
   <message>
     <key>q00020030_00_1663</key>
     <original>ゲルトと話をする</original>
-    <translation>Talk to Gerd</translation>
+    <translation>Speak to Gerd</translation>
   </message>
   <message>
     <key>q00020030_00_1662</key>
@@ -63,6 +63,6 @@
   <message>
     <key>q00020030_00_1661</key>
     <original>ジョゼフと話をする</original>
-    <translation>Talk to Joseph</translation>
+    <translation>Speak to Joseph</translation>
   </message>
 </resource>

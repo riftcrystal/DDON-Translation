@@ -1,0 +1,27 @@
+﻿<resource>
+  <message>
+    <key>q60200030_00_222</key>
+    <original>ホワイトデーのお返し・エリオットとガルドリン</original>
+    <translation>White Day Gift Return: Elliot and Gurdolin</translation>
+  </message>
+  <message>
+    <key>q60200030_00_222</key>
+    <original>ガルドリンとエリオットからのお返しをもらう</original>
+    <translation>Receive a gift in return from Elliot and Gurdolin</translation>
+  </message>
+  <message>
+    <key>q60200030_00_2930</key>
+    <original>ガルドリンから詳細を聞く</original>
+    <translation>Listen to details from Gurdolin</translation>
+  </message>
+  <message>
+    <key>q60200030_00_2931</key>
+    <original>ローテス付近で特別な花を見つけて記念撮影をする</original>
+    <translation>Find the special flowers near Rotes and take a commemorative photo</translation>
+  </message>
+  <message>
+    <key>q60200030_00_2932</key>
+    <original>酒場にいるエリオットに報告する</original>
+    <translation>Report to Elliot in Tavern</translation>
+  </message>
+</resource>

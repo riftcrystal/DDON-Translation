@@ -14,12 +14,12 @@ that washed up on Breya Coast</translation>
   <message>
     <key>q00020010_00_1652</key>
     <original>ジョゼフと話をする</original>
-    <translation>Talk to Joseph</translation>
+    <translation>Speak to Joseph</translation>
   </message>
   <message>
     <key>q00020010_00_1651</key>
     <original>ガルドリンと話をする</original>
-    <translation>Talk to Gurdolin</translation>
+    <translation>Speak to Gurdolin</translation>
   </message>
   <message>
     <key>q00020010_00_1650</key>
@@ -29,7 +29,7 @@ that washed up on Breya Coast</translation>
   <message>
     <key>q00020010_00_1649</key>
     <original>ガルドリンと話をする</original>
-    <translation>Talk to Gurdolin</translation>
+    <translation>Speak to Gurdolin</translation>
   </message>
   <message>
     <key>q00020010_00_1648</key>
@@ -44,6 +44,6 @@ that washed up on Breya Coast</translation>
   <message>
     <key>q00020010_00_1644</key>
     <original>ジョゼフと話をする</original>
-    <translation>Talk to Joseph</translation>
+    <translation>Speak to Joseph</translation>
   </message>
 </resource>

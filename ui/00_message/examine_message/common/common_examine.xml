@@ -334,11 +334,14 @@ Unlikely to be opened.</translation>
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;パーティメンバーが死亡状態になりました
-クリア時のボーナス報酬が少なくなります&lt;/COL&gt;</original>
+クリア時のボーナス報酬が下がります&lt;/COL&gt;</original>
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;胞子の広がりを阻止――！
 クリア時のボーナス報酬が追加されます&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <original>隠れていた魔物が姿を現した――！</original>
   </message>
   <message>
     <original>救助対象が疲れてきたようだ――</original>

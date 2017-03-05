@@ -14,4 +14,8 @@
   <message_set name="ability name">
     <match>^ui\\00_message\\skill\\ability_name$</match>
   </message_set>
+  <message_set name="arisen card">
+    <match>^ui\\00_message\\ui\\ArisenCard$</match>
+    <match>^ui\\00_message\\ui\\ArisenCard_win$</match>
+  </message_set>
 </replication>

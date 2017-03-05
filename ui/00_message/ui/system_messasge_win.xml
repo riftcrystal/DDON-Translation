@@ -120,7 +120,7 @@ button placement if necessary.</translation>
   </message>
   <message>
     <key>sys_announce_saving</key>
-	<original>設定を保存します</original>
+    <original>設定を保存します</original>
     <translation>Save settings</translation>
   </message>
   <message>
@@ -137,8 +137,8 @@ button placement if necessary.</translation>
     <key>sys_announce_firstoption_uisize</key>
     <original>UIの表示設定を選択してください
 (解像度1920×1080 以上で有効になります)</original>
-    <translation>Please select the UI display setting
-(It is in effect when the resolution is 1920 x 1080 or more)</translation>
+    <translation>Please select the UI display setting.
+(Available when resolution is 1920x1080 or greater)</translation>
   </message>
   <message>
     <key>sys_announce_choice_uilarge</key>
@@ -154,7 +154,7 @@ button placement if necessary.</translation>
     <key>sys_announce_firstoption_uisize_check</key>
     <original>UIの表示サイズはこれでよろしいですか？
 ※この項目はデバイス設定からいつでも変更できます</original>
-    <translation>Is this the display size of the UI?
+    <translation>Are you sure you want this UI display size?
 ※ This selection can be changed at any time from the settings menu.</translation>
   </message>
 </resource>

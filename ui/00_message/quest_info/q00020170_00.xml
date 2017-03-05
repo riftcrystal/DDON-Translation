@@ -25,7 +25,7 @@
   <message>
     <key>q00020170_00_2116</key>
     <original>エリアマスターのラザネイルと話す</original>
-    <translation>Speak with the Area Master Razanail</translation>
+    <translation>Speak with the Area Master, Razanail</translation>
   </message>
   <message>
     <key>q00020170_00_2451</key>
@@ -38,6 +38,7 @@
   <message>
     <key>q00020170_00_2092</key>
     <original>アデルドナハと話をする</original>
+    <translation>Speak to Adelnodaha</translation>
   </message>
   <message>
     <key>q00020170_00_2093</key>

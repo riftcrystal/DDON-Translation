@@ -1,6 +1,7 @@
 ﻿<replication>
   <message_set name="quest name" type="quest_name">
     <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
+    <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\\q\d+_\d+$</match>
     <!-- Quest names -->
     <rewrite soft="true">
       <original_match>^【高難度】(.+?)$</original_match>
@@ -128,7 +129,7 @@
     </rewrite>
     <rewrite>
       <original_match>^エリアマスターの(.+)と話す$</original_match>
-      <translation_replace>Speak with the Area Master {0}</translation_replace>
+      <translation_replace>Speak with the Area Master, {0}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
@@ -165,6 +166,53 @@
       <original_match>^(.+?)と話す$</original_match>
       <translation_replace>Speak with {0}</translation_replace>
       <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Speak to -->
+    <rewrite>
+      <original_match>^(.+?)へ渡るため(.+)の(.+?)と話をする$</original_match>
+      <translation_replace>Head to {1} and speak to {2} in order to cross to {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^騎士団本部へ向かい(.+?)と話をする$</original_match>
+      <translation_replace>Head to Knights' Headquarters and speak to {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)へ向かい(.+?)と話をする$</original_match>
+      <translation_replace>Head to {0} and speak to {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターの(.+)と話をする$</original_match>
+      <translation_replace>Speak to the Area Master, {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^テオドールの工房にいる(.+?)と話をする$</original_match>
+      <translation_replace>Speak to {0} in Theodor's workshop</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にいる(.+?)と話をする$</original_match>
+      <translation_replace>Speak to {1} in {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)と話をする$</original_match>
+      <translation_replace>Speak to {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Approach -->
+    <rewrite>
+      <original_match>^(.+)にいる(.+?)に詰め寄る$</original_match>
+      <translation_replace>Approach {1} in {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <!-- Head to -->
     <rewrite>
@@ -254,7 +302,7 @@
       <translation_arg index="1" message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)(の|で|にいる)(.+?)に報告する$</original_match>
+      <original_match>^(.+)(のいる|の|で|にいる)(.+?)に報告する$</original_match>
       <translation_replace>Report to {2} in {0}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
@@ -305,15 +353,15 @@
       <translation_replace>Escort {0} and defeat the cursed enemy</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
-    <!--<rewrite soft="true">
+    <rewrite soft="true">
       <original_match>^(.+?)《リザルト報酬》$</original_match>
       <translation_replace>{0} (Result Reward)</translation_replace>
-      <translation_arg message_set="quest name" />
+      <translation_arg message_set="quest name" required="true" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)《最終報酬》$</original_match>
       <translation_replace>{0} (Final Reward)</translation_replace>
-      <translation_arg message_set="quest name" />
-    </rewrite>-->
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
   </message_set>
 </replication>

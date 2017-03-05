@@ -1,0 +1,32 @@
+﻿<resource>
+  <message>
+    <key>q60200031_00_223</key>
+    <original>ホワイトデーのお返し・クラウス</original>
+    <translation>White Day Gift Return: Klaus</translation>
+  </message>
+  <message>
+    <key>q60200031_00_223</key>
+    <original>クラウスからのお返しをもらう</original>
+    <translation>Receive a gift in return from Klaus</translation>
+  </message>
+  <message>
+    <key>q60200031_00_2933</key>
+    <original>クラウスの指定する場所にあるモノを確認しにいく</original>
+    <translation>Check the location Klaus specified</translation>
+  </message>
+  <message>
+    <key>q60200031_00_2934</key>
+    <original>出現した魔物を殲滅する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q60200031_00_2935</key>
+    <original>酒場にいるクラウスに詰め寄る</original>
+    <translation>Approach Klaus in Tavern</translation>
+  </message>
+  <message>
+    <key>q60200031_00_2936</key>
+    <original>アンジェロと話をする</original>
+    <translation>Speak to Angelo</translation>
+  </message>
+</resource>

@@ -57,15 +57,15 @@
   <message>
     <key>areamaster_msg_button_buy</key>
     <original>情報購入</original>
-    <translation>Purchase information</translation>
+    <translation>Purchase Information</translation>
   </message>
   <message>
     <key>areamaster_msg_dialog_buy</key>
     <original>&lt;VAL GOLD&gt;を消費して&lt;NAME QUEST&gt;のクエスト情報を購入します
 よろしいですか？</original>
-    <translation>Spend &lt;VAL GOLD&gt; and purchase quest information for
-&lt;NAME QUEST&gt;
-Is this OK?</translation>	
+    <translation>Are you sure you want to spend
+&lt;VAL GOLD&gt; to purchase quest information for
+&lt;NAME QUEST&gt;?</translation>
   </message>
   <message>
     <key>areamaster_msg_title_e</key>
@@ -201,7 +201,7 @@ Is this OK?</translation>
 および、スポット情報の確認に利用しましょう</original>
     <translation>From the "Map" option,
 you can now view area and world quest information that you have available
-for the following areas :
+for the following areas:
 "Mergoda Ruins: Lower Level" "Mergoda Ruins: Royal Palace Level".
 Let's use it to confirm spot information.</translation>
   </message>
@@ -228,7 +228,7 @@ Let's use it to confirm spot information.</translation>
   <message>
     <key>areamaster_msg_close</key>
     <original>現在は封鎖されている</original>
-    <translation>Currently blocked off</translation>
+    <translation>Currently blocked</translation>
   </message>
   <message>
     <key>areamaster_msg_gold</key>
