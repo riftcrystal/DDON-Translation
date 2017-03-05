@@ -270,6 +270,7 @@ Total Price: &lt;VAL GOLD&gt;</translation>
   <message>
     <key>bazaar_msg_info_exhibit</key>
     <original>出品中相場</original>
+    <translation>Exhibit</translation>
   </message>
   <message>
     <key>bazaar_msg_info_disp_tradingday</key>
@@ -409,6 +410,7 @@ Price: &lt;VAL GOLD&gt;</translation>
   <message>
     <key>bazaar_msg_re_exhibit_set_unitprice</key>
     <original>単価の再設定</original>
+    <translation>Resetting unit price.</translation>
   </message>
   <message>
     <key>bazaar_msg_re_exhibit_confirmation</key>
@@ -519,6 +521,10 @@ or the exhibition was canceled)</translation>
 時間を置いてもう一度お試しいただくか
 アクセス頻度を下げてご利用いただきますよう
 お願いいたします</original>
+    <translation>Due to a high frequency of searches in a small timespan,
+we will restrict the use of the Bazaar search for a period of time.
+Please lower the frequency of searches in the future, and
+try again later.</translation>
   </message>
   <message>
     <key>bazaar_msg_category_l_material_area</key>

@@ -11,13 +11,16 @@
   <message>
     <key>NFB_MSG_RETURN</key>
     <original>戻る</original>
+    <translation>Return</translation>
   </message>
   <message>
     <key>NFB_MSG_ADVANCE</key>
     <original>進む</original>
+    <translation>Forward</translation>
   </message>
   <message>
     <key>NFB_MSG_RELOAD</key>
     <original>更新</original>
+    <translation>Reload</translation>
   </message>
 </resource>

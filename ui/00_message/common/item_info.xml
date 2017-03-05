@@ -1,27 +1,41 @@
 ﻿<item_data>
   <item id="34">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="35">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="36">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitation.</translation>
   </item>
   <item id="37">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitation.</translation>
   </item>
   <item id="38">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitation.</translation>
   </item>
   <item id="39">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitation.</translation>
   </item>
   <item id="40">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitation.</translation>
   </item>
   <item id="41">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="42">
     <original>使用者にステータス向上効果を付与する</original>
