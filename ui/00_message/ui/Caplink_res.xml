@@ -17,7 +17,7 @@
   <message>
     <key>caplink_search</key>
     <original>カプトモ検索/申請</original>
-	<translation>Capfriend Search/Request</translation>
+    <translation>Capfriend Search/Request</translation>
   </message>
   <message>
     <key>caplink_profile</key>
@@ -41,52 +41,52 @@
   <message>
     <key>caplink_dialog_is_captalk</key>
     <original>%sとカプトークを開始しますか？</original>
-	<translation>Would you like to start Captalk with %s?</translation>
+    <translation>Would you like to start Captalk with %s?</translation>
   </message>
   <message>
     <key>caplink_dialog_done_invite_game</key>
     <original>%sを招待しました。</original>
-	<translation>Invited %s .</translation>
+    <translation>Invited %s .</translation>
   </message>
   <message>
     <key>caplink_button_check</key>
     <original>確認</original>
-	<translation>Confirm</translation>
+    <translation>Confirm</translation>
   </message>
   <message>
     <key>caplink_dialog_done_offer_captomo</key>
     <original>%sにカプトモ申請をしました。</original>
-	<translation>Sent a Capfriend request to %s .</translation>
+    <translation>Sent a Capfriend request to %s .</translation>
   </message>
   <message>
     <key>caplink_dialog_is_offer_captomo</key>
     <original>カプトモ申請しますか？</original>
-	<translation>Do you wish to send a Capfriend Request?</translation>
+    <translation>Do you wish to send a Capfriend Request?</translation>
   </message>
   <message>
     <key>caplink_invite_this_game</key>
     <original>このゲームに招待する</original>
-	<translation>Invite to this game</translation>
+    <translation>Invite to this game</translation>
   </message>
   <message>
     <key>caplink_start_captalk</key>
     <original>カプトーク開始</original>
-	<translation>Start Captalk</translation>
+    <translation>Start Captalk</translation>
   </message>
   <message>
     <key>caplink_see_profile</key>
     <original>プロフィールを見る</original>
-	<translation>View Profile</translation>
+    <translation>View Profile</translation>
   </message>
   <message>
     <key>caplink_caplink_topmenu</key>
     <original>カプリンクトップメニュー</original>
-	<translation>Caplink Top Menu</translation>
+    <translation>Caplink Top Menu</translation>
   </message>
   <message>
     <key>caplink_offer_captomo</key>
     <original>カプトモ申請する</original>
-	<translation>Send Capfriend Request</translation>
+    <translation>Send Capfriend Request</translation>
   </message>
   <message>
     <key>caplink_button_cancel</key>
@@ -96,87 +96,87 @@
   <message>
     <key>caplink_now_search</key>
     <original>新規検索</original>
-	<translation>New Search</translation>
+    <translation>New Search</translation>
   </message>
   <message>
     <key>caplink_button_search_result</key>
     <original>検索</original>
-	<translation>Search</translation>
+    <translation>Search</translation>
   </message>
   <message>
     <key>caplink_num_searched</key>
     <original>&lt;VAL&gt; 人</original>
-	<translation>&lt;VAL&gt; People</translation>
+    <translation>&lt;VAL&gt; People</translation>
   </message>
   <message>
     <key>caplink_caprion_search_captomopass</key>
     <original>カプトモパスで検索</original>
-	<translation>Search by Capfriend Pass</translation>
+    <translation>Search by Capfriend Pass</translation>
   </message>
   <message>
     <key>caplink_search_result</key>
     <original>検索結果</original>
-	<translation>Search Results</translation>
+    <translation>Search Results</translation>
   </message>
   <message>
     <key>caplink_caption_search_capname</key>
     <original>カプネームで検索</original>
-	<translation>Search by Capname</translation>
+    <translation>Search by Capname</translation>
   </message>
   <message>
     <key>caplink_dialog_saving_ending</key>
     <original>設定を保存して終了しますか？</original>
-	<translation>Save settings and exit?</translation>
+    <translation>Save settings and exit?</translation>
   </message>
   <message>
     <key>caplink_caption_search_caputomo</key>
     <original>カプトモ検索</original>
-	<translation>Capfriend Search</translation>
+    <translation>Capfriend Search</translation>
   </message>
   <message>
     <key>caplink_caption_edit_captag</key>
     <original>%sの編集</original>
-	<translation>Edit %s</translation>
+    <translation>Edit %s</translation>
   </message>
   <message>
     <key>caplink_edit_captag</key>
     <original>タグ名の設定</original>
-	<translation>Set Tag Name</translation>
+    <translation>Set Tag Name</translation>
   </message>
   <message>
     <key>caplink_edit_comment</key>
     <original>コメントの設定</original>
-	<translation>Set Comment</translation>
+    <translation>Set Comment</translation>
   </message>
   <message>
     <key>caplink_edit_capname</key>
     <original>カプネームの設定</original>
-	<translation>Set Capname</translation>
+    <translation>Set Capname</translation>
   </message>
   <message>
     <key>caplink_unreceive</key>
     <original>受信しない</original>
-	<translation>Don't Receive</translation>
+    <translation>Don't Receive</translation>
   </message>
   <message>
     <key>caplink_edit_profile_thumbnail</key>
     <original>プロフィール画像の設定</original>
-	<translation>Set Profile Picture</translation>
+    <translation>Set Profile Picture</translation>
   </message>
   <message>
     <key>caplink_receive</key>
     <original>受信する</original>
-	<translation>Receive</translation>
+    <translation>Receive</translation>
   </message>
   <message>
     <key>caplink_ban</key>
     <original>許可しない</original>
-	<translation>Disallow</translation>
+    <translation>Disallow</translation>
   </message>
   <message>
     <key>caplink_all</key>
     <original>すべてのユーザーから</original>
-	<translation>From all users</translation>
+    <translation>From all users</translation>
   </message>
   <message>
     <key>caplink_close_all</key>
@@ -211,26 +211,32 @@
   <message>
     <key>caplink_notice_invite_games</key>
     <original>ゲームへの招待</original>
+    <translation>An invitation to a game.</translation>
   </message>
   <message>
     <key>caplink_notice_captomo</key>
     <original>カプトモ申請</original>
+    <translation>Capfriend request</translation>
   </message>
   <message>
     <key>caplink_notice_new_captalk</key>
     <original>新着カプトーク</original>
+    <translation>New Captalk</translation>
   </message>
   <message>
     <key>caplink_range_captalk</key>
     <original>カプトークの範囲</original>
+    <translation>Captalk Range</translation>
   </message>
   <message>
     <key>caplink_edit_captomo_tag</key>
     <original>タグの編集</original>
+    <translation>Edit Tag</translation>
   </message>
   <message>
     <key>caplink_caplink_config</key>
     <original>カプリンク設定</original>
+    <translation>Caplink Setting</translation>
   </message>
   <message>
     <key>caplink_allosing_searched</key>
@@ -265,6 +271,7 @@
   <message>
     <key>caplink_button_guid</key>
     <original>プロフィール/カプリンク設定終了</original>
+    <translation>Profile/Caplink Settings</translation>
   </message>
   <message>
     <key>caplink_edit_thumbnail</key>
@@ -283,18 +290,22 @@
   <message>
     <key>caplink_offline</key>
     <original>オフライン</original>
+    <translation>Offline</translation>
   </message>
   <message>
     <key>caplink_online</key>
     <original>オンライン</original>
+    <translation>Online</translation>
   </message>
   <message>
     <key>caplink_game_playing</key>
     <original>プレイ中のゲーム</original>
+    <translation>Currently Playing</translation>
   </message>
   <message>
     <key>caplink_no_comment</key>
     <original>コメント無し</original>
+    <translation>No Comment</translation>
   </message>
   <message>
     <key>caplink_comment</key>
@@ -304,6 +315,7 @@
   <message>
     <key>caplink_captomo_pass</key>
     <original>カプトモパス</original>
+    <translation>Capfriend Pass</translation>
   </message>
   <message>
     <key>caplink_capname</key>
@@ -313,18 +325,22 @@
   <message>
     <key>caplink_tab_captomo_appling</key>
     <original>カプトモ申請中</original>
+    <translation>Capfriend Pending</translation>
   </message>
   <message>
     <key>caplink_tab_captomo_recieving</key>
     <original>カプトモ依頼受信中</original>
+    <translation>Capfriend Requests Received</translation>
   </message>
   <message>
     <key>caplink_tab_ignored_user</key>
     <original>無視設定プレイヤーリスト</original>
+    <translation>Ignored Players List</translation>
   </message>
   <message>
     <key>caplink_property</key>
     <original>属性</original>
+    <translation>Property</translation>
   </message>
   <message>
     <key>caplink_edit_property</key>
