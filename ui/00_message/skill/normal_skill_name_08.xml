@@ -2,6 +2,7 @@
   <message>
     <key>NORMAL_SKILL_NAME_08_113</key>
     <original>&lt;PADM&gt;闘波の構え&lt;KEYM&gt;構えの変更（闘波の構え）</original>
+    <translation>&lt;PADM&gt;Seeker Aim&lt;KEYM&gt;Change Stance(Seeker Aim)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_114</key>
@@ -14,6 +15,7 @@
   <message>
     <key>NORMAL_SKILL_NAME_08_116</key>
     <original>闘波の集中</original>
+    <translation>Concentrated Seekers</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_117</key>
@@ -34,6 +36,7 @@
   <message>
     <key>NORMAL_SKILL_NAME_08_121</key>
     <original>前蹴り</original>
+    <translation>Front Kick</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_122</key>

@@ -432,6 +432,7 @@
   <message>
     <key>ABILITY_NAME_413</key>
     <original>臨堅</original>
+    <translation>Critical</translation>
   </message>
   <message>
     <key>ABILITY_NAME_25</key>
@@ -1191,6 +1192,7 @@
   <message>
     <key>ABILITY_NAME_407</key>
     <original>延臨</original>
+    <translation>Extension</translation>
   </message>
   <message>
     <key>ABILITY_NAME_11</key>
@@ -1300,7 +1302,7 @@
   <message>
     <key>ABILITY_NAME_421</key>
     <original>属附</original>
-    <translation>Comradery</translation>
+    <translation>Attribution</translation>
   </message>
   <message>
     <key>ABILITY_NAME_14</key>
@@ -1430,7 +1432,7 @@
   <message>
     <key>ABILITY_NAME_321</key>
     <original>破球 倒</original>
-    <translation>Blast Bit: Slayer</translation>
+    <translation>Blast Bits: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_333</key>
@@ -1595,30 +1597,37 @@
   <message>
     <key>ABILITY_NAME_324</key>
     <original>衝破 倒</original>
+    <translation>Shockwave: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_335</key>
     <original>盾序 烈</original>
+    <translation>Shield Counter: Savage</translation>
   </message>
   <message>
     <key>ABILITY_NAME_347</key>
     <original>回蹴 倒</original>
+    <translation>Roundhouse Kick: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_360</key>
     <original>魔破 砕</original>
+    <translation>Magick Cracker: Smasher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_372</key>
     <original>奮矢 据</original>
+    <translation>Invigorating Arrows: Duration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_383</key>
     <original>広斬 倒</original>
+    <translation>Devastate: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_395</key>
     <original>錬衝 倒</original>
+    <translation>Alchemical Radius: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_431</key>
@@ -1643,30 +1652,37 @@
   <message>
     <key>ABILITY_NAME_325</key>
     <original>滅吸</original>
+    <translation>Stagnation</translation>
   </message>
   <message>
     <key>ABILITY_NAME_337</key>
     <original>集視</original>
+    <translation>Attention</translation>
   </message>
   <message>
     <key>ABILITY_NAME_349</key>
     <original>深攻</original>
+    <translation>Deep Aggression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_361</key>
     <original>倒力</original>
+    <translation>Collapsing Strength</translation>
   </message>
   <message>
     <key>ABILITY_NAME_373</key>
     <original>魔遮</original>
+    <translation>Demon Shield</translation>
   </message>
   <message>
     <key>ABILITY_NAME_385</key>
     <original>攻遮</original>
+    <translation>Attack Cover</translation>
   </message>
   <message>
     <key>ABILITY_NAME_397</key>
     <original>頑強</original>
+    <translation>Robust</translation>
   </message>
   <message>
     <key>ABILITY_NAME_439</key>
@@ -1681,38 +1697,47 @@
   <message>
     <key>ABILITY_NAME_301</key>
     <original>堅盾</original>
+    <translation>Firm Shield</translation>
   </message>
   <message>
     <key>ABILITY_NAME_314</key>
     <original>弓射 砕</original>
+    <translation>Archery: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_326</key>
     <original>癒気 耐</original>
+    <translation>Heal Aura: Endurer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_338</key>
     <original>盾打 砕</original>
+    <translation>Shield Blow: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_350</key>
     <original>連斬 砕</original>
+    <translation>Scarlet Kisses: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_359</key>
     <original>魔弾 砕</original>
+    <translation>Magick Bolts: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_374</key>
     <original>闘矢 瞬</original>
+    <translation>Seeker Arrows: Blink</translation>
   </message>
   <message>
     <key>ABILITY_NAME_386</key>
     <original>破斬 砕</original>
+    <translation>Hack: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_398</key>
     <original>錬打 砕</original>
+    <translation>Alchemy: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_435</key>
@@ -1727,38 +1752,47 @@
   <message>
     <key>ABILITY_NAME_302</key>
     <original>連撃 砕</original>
+    <translation>Onslaught: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_315</key>
     <original>爆矢 砕</original>
+    <translation>Exploding Arrow: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_327</key>
     <original>破球 砕</original>
+    <translation>Blast Bits: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_339</key>
     <original>属照 砕</original>
+    <translation>Weak Light: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_351</key>
     <original>裂斬 砕</original>
+    <translation>Hundred Kisses: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_362</key>
     <original>魔罠 据</original>
+    <translation>Magick Trap: Duration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_375</key>
     <original>助矢 瞬</original>
+    <translation>Healing Arrows: Blink</translation>
   </message>
   <message>
     <key>ABILITY_NAME_387</key>
     <original>魔倒 絶</original>
+    <translation>Inverse Slash: Exterminator</translation>
   </message>
   <message>
     <key>ABILITY_NAME_399</key>
     <original>錬避 砕</original>
+    <translation>Alchemic Evade: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_436</key>
@@ -1773,38 +1807,47 @@
   <message>
     <key>ABILITY_NAME_303</key>
     <original>斬崩 絶</original>
+    <translation>Demolishing Strike: Exterminator</translation>
   </message>
   <message>
     <key>ABILITY_NAME_317</key>
     <original>矢斬 砕</original>
+    <translation>Arrowhead Strike: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_329</key>
     <original>聖気 烈</original>
+    <translation>Holy Aura: Savage</translation>
   </message>
   <message>
     <key>ABILITY_NAME_342</key>
     <original>攻爆 倒</original>
+    <translation>Force Burst: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_354</key>
     <original>乱斬 絶</original>
+    <translation>Carve: Exterminator</translation>
   </message>
   <message>
     <key>ABILITY_NAME_366</key>
     <original>魔破 詠</original>
+    <translation>Magick Cracker: Singer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_377</key>
     <original>一蹴 砕</original>
+    <translation>Front Kick: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_390</key>
     <original>魔斬 砕</original>
+    <translation>Demon Slash: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_402</key>
     <original>錬爆 砕</original>
+    <translation>Elixir: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_438</key>
@@ -1819,38 +1862,47 @@
   <message>
     <key>ABILITY_NAME_305</key>
     <original>抉突 砕</original>
+    <translation>Gouge: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_316</key>
     <original>増精</original>
+    <translation>Augmented Spirit</translation>
   </message>
   <message>
     <key>ABILITY_NAME_328</key>
     <original>魔猛</original>
+    <translation>Magickal Rush</translation>
   </message>
   <message>
     <key>ABILITY_NAME_340</key>
     <original>盾崩</original>
+    <translation>Shield Collapse</translation>
   </message>
   <message>
     <key>ABILITY_NAME_352</key>
     <original>剛攻</original>
+    <translation>Stiffness</translation>
   </message>
   <message>
     <key>ABILITY_NAME_364</key>
     <original>減属</original>
+    <translation>Reduction</translation>
   </message>
   <message>
     <key>ABILITY_NAME_376</key>
     <original>救魔</original>
+    <translation>Salvational Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_388</key>
     <original>豪握</original>
+    <translation>Great Grasp</translation>
   </message>
   <message>
     <key>ABILITY_NAME_400</key>
     <original>空滅</original>
+    <translation>Sky Annihilation</translation>
   </message>
   <message>
     <key>ABILITY_NAME_419</key>
@@ -1865,6 +1917,7 @@
   <message>
     <key>ABILITY_NAME_304</key>
     <original>硬溜</original>
+    <translation>Hardening</translation>
   </message>
   <message>
     <key>ABILITY_NAME_262</key>

@@ -2,17 +2,17 @@
   <message>
     <key>NORMAL_SKILL_NAME_06_92</key>
     <original>マジックボール</original>
-    <translation>Magic Balls</translation>
+    <translation>Magick Bolts</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_93</key>
     <original>マジックトラップ</original>
-    <translation>Magic Trap</translation>
+    <translation>Magick Trap</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_94</key>
     <original>マジックブースト</original>
-    <translation>Magic Boost</translation>
+    <translation>Magick Boost</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_95</key>
@@ -32,6 +32,6 @@
   <message>
     <key>NORMAL_SKILL_NAME_06_102</key>
     <original>マジッククラッカー</original>
-    <translation>Magic Cracker</translation>
+    <translation>Magick Cracker</translation>
   </message>
 </resource>
