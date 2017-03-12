@@ -4,6 +4,10 @@
     <original>斬り上げながら敵を打ち上げる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でボタンの追加入力により派生斬りが発動&lt;/COL&gt;</original>
+    <translation>Launch enemies upward with a slash.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.６: Invert direction of slash with an additional
+button press.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_144</key>
@@ -11,6 +15,11 @@ LV.６でボタンの追加入力により派生斬りが発動&lt;/COL&gt;</ori
 空中発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
+    <translation>Swing the lance around, and attack
+the surrounding area. Can be used in mid-air.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.６: Can be used while taking damage, and even while
+being knocked off an enemy.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_146</key>
@@ -18,6 +27,11 @@ LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
 初段がヒットすることで連続ヒットする追撃が発生
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
+    <translation>Gather energy and thrust forward,
+releasing a blast of energy. The first strike always
+chases an enemy.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.６:Increases number of hits （１→２）.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_149</key>
@@ -25,6 +39,11 @@ LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
 エリアに接触した味方へ一定時間効果を付与
 &lt;COL ffdc78&gt;LV UP毎に効果時間延長
 LV.６で展開エリアの設置時間延長&lt;/COL&gt;</original>
+    <translation>Form a pool of spiritual energy that
+recovers health and grants allies whom walk into it
+a Defense boost for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases duration of effect.
+LV.６: Increases duration of pool.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_145</key>
@@ -32,6 +51,11 @@ LV.６で展開エリアの設置時間延長&lt;/COL&gt;</original>
 攻撃回数によって最後の一撃の威力が変化する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で最大攻撃回数増加&lt;/COL&gt;</original>
+    <translation>Spin the lance all-around, continuously slashing
+forward. The last blow's power changes according to the number of 
+attacks made.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.６: Increases maximum number of attacks.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_147</key>
@@ -40,6 +64,12 @@ LV.６で最大攻撃回数増加&lt;/COL&gt;</original>
 起爆することも可能／起爆は空中発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で霊力最大の起爆ヒット数増加／溜まる霊力増加&lt;/COL&gt; </original>
+    <translation>Form a spirit orb that generates shockwaves
+when attacked. The orb gathers spiritual energy when attacked.
+It can also be detonated both on the ground and mid-air manually.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.６: Increases maximum hits of the detonation and amount of
+spirit energy gained.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_150</key>
@@ -48,6 +78,12 @@ LV.６で霊力最大の起爆ヒット数増加／溜まる霊力増加&lt;/COL
 最大範囲になることで性能が上昇する
 &lt;COL ffdc78&gt;LV UP毎に展開時間延長
 LV.６で展開エリアの最大サイズが拡張&lt;/COL&gt;</original>
+    <translation>Form spiritual spheres around yourself that
+recovers health and status abnormalities. The range grows depending
+on the charge time. The effectiveness of the skill rises upon a full
+charge.
+&lt;COL ffdc78&gt;LV UP: Increases duration of skill.
+LV.６: Increases the area of effect of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_148</key>
@@ -56,5 +92,11 @@ LV.６で展開エリアの最大サイズが拡張&lt;/COL&gt;</original>
 セットボタンを押すと霊力を使って攻撃可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／バリア展開時間延長
 LV.６でバリアの耐久値増加（１→２）&lt;/COL&gt;</original>
+    <translation>Form a barrier around yourself to prevent
+enemy attacks. When attacking enemies while the barrier is active,
+spiritual energy gathers in the barrier. You can unleash the energy
+by pressing the set button.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
+LV.６: Increase maximum barrier durability （１→２）&lt;/COL&gt;</translation>
   </message>
 </resource>

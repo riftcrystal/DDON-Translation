@@ -2,19 +2,24 @@
   <message>
     <key>NORMAL_SKILL_INFO_10_149</key>
     <original>槍による連撃を繰り出す</original>
+    <translation>Stab continuously with the lance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_150</key>
     <original>槍を振り払う広範囲攻撃を繰り出す</original>
+    <translation>Swing the lance continuously over a wide range.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_158</key>
     <original>空中から槍を地面に突き立てる
 高所から行うことで威力が上昇する</original>
+    <translation>Stab the lance into the ground from above.
+The power of the attack increases when performed from higher altitudes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_159</key>
     <original>空中で槍を振り払う</original>
+    <translation>Swing the lance in mid-air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_151</key>
@@ -23,6 +28,11 @@
 空中発動可能
 &lt;COL ffdc78&gt;LV UPで展開時間が延長される
 ＜エイド・モール＞に進化&lt;/COL&gt;</original>
+    <translation>Deploy a spiritual sphere that recovers health.
+The sphere will stick to enemies when cast nearby them.
+Can be used mid-air.
+&lt;COL ffdc78&gt;LV UP: Becomes Aid More and sphere duration is
+extended.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_152</key>
@@ -30,10 +40,15 @@
 より長時間展開する
 敵に接近して使用すると敵に吸着させることが可能
 空中でも発動可能</original>
+    <translation>Deploy a spiritual sphere that recovers health.
+The sphere will stick to enemies when cast nearby them.
+The duration of the sphere is extended.
+Can be used mid-air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_161</key>
     <original>敵に吹き飛ばされた際に転倒を回避する</original>
+    <translation>Avoid falls when knocked away by enemies.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_153</key>
@@ -41,10 +56,16 @@
 直前で回避することで霊力を溜めることも可能
 アタックブースト／ヒールブーストで
 移動距離上昇</original>
+    <translation>Duck and avoid enemy attacks.
+It is possible to increase the Spirit Gauge by
+avoiding attacks with decent timing.
+Evasive distance is increased while in
+Attack Boost / Heal Boost.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_155</key>
     <original>一時的に自身の攻撃スキルの性能を強化する</original>
+    <translation>Temporarily enhance attack skills.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_156</key>
@@ -52,18 +73,29 @@
 攻撃力強化の効果を上乗せする
 また、発動すると味方全員の体力を回復すると
 同時に全状態異常耐性を大幅に強化する</original>
+    <translation>Temporarily enhance support skills.
+Also, when activated, it will restore the health of allies
+and significantly strengthen their resistance toward all
+status abnormalities.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_162</key>
     <original>霊力を一定量消費し、ブーストを解除する</original>
+    <translation>Consume a portion of the Spirit Gauge,
+and cancel the active boost.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_160</key>
     <original>しがみついた状態から、槍を突き刺す
 ボタン連打で攻撃回数が増加する</original>
+    <translation>While climbing an enemy, pierce them with
+the lance. Pressing the button repeatedly increases the 
+number of attacks.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_10_163</key>
     <original>霊力を一定量消費し、ブーストを解除する</original>
+    <translation>Consume a portion of the Spirit Gauge,
+and cancel the active boost.</translation>
   </message>
 </resource>

@@ -3,59 +3,83 @@
     <key>NORMAL_SKILL_COMMAND_10_149</key>
     <original>&lt;KC ATTACK1&gt;を連続して押す
 アタックブーストで強化可能</original>
+    <translation>Repeatedly press &lt;KC ATTACK1&gt;
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_150</key>
     <original>&lt;KC ATTACK1&gt;後、少し遅らせて&lt;KC ATTACK1&gt;を連続して押す
 アタックブーストで強化可能</original>
+    <translation>After pressing &lt;KC ATTACK1&gt;, delay a moment
+and then consecutively press &lt;KC ATTACK1&gt;
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_158</key>
     <original>空中で&lt;KC ATTACK1&gt;を押す
 アタックブーストで強化可能</original>
+    <translation>Press &lt;KC ATTACK1&gt; while in the air
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_159</key>
     <original>&lt;PADM&gt;空中で左スティックを倒しながら&lt;KC ATTACK1&gt;を押す&lt;KEYM&gt;空中で移動キーを押しながら&lt;KC ATTACK1&gt;を押す&lt;/KEYM&gt;
 アタックブーストで強化可能</original>
+    <translation>While in the moving in the air with &lt;PADM&gt; press &lt;KC ATTACK1&gt; /
+While in the moving in the air with &lt;KEYM&gt; press &lt;KC ATTACK1&gt;&lt;/KEYM&gt;
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_151</key>
     <original>&lt;KC ATTACK2&gt;を押す
 ヒールブーストで強化可能</original>
+    <translation>Press &lt;KC ATTACK2&gt;
+Further enhanced in Heal Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_152</key>
     <original>&lt;KC ATTACK2&gt;を押す
 ヒールブーストで強化可能</original>
+    <translation>Press &lt;KC ATTACK2&gt;
+Further enhanced in Heal Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_161</key>
     <original>吹き飛ばされ中に&lt;KC JUMP&gt;を押す</original>
+    <translation>While being knocked away, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_153</key>
     <original>&lt;KC AVOID&gt;を押す</original>
+    <translation>Press &lt;KC AVOID&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_155</key>
     <original>&lt;KC ELIXIR_CHANGE&gt;を押す</original>
+    <translation>Press &lt;KC ELIXIR_CHANGE&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_156</key>
     <original>&lt;KC SKILL_NORMAL1&gt;を押す</original>
+    <translation>Press &lt;KC SKILL_NORMAL1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_162</key>
     <original>ブースト発動中に&lt;KC ELIXIR_CHANGE&gt;または&lt;KC SKILL_NORMAL1&gt;を押す</original>
+    <translation>Press &lt;KC ELIXIR_CHANGE&gt; or &lt;KC SKILL_NORMAL1&gt;
+during any Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_160</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を連続して押す
 アタックブーストで強化可能</original>
+    <translation>Repeatedly press &lt;KC ATTACK1&gt; while climbing.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_10_163</key>
     <original>ブースト発動中に&lt;KC ELIXIR_CHANGE&gt;または&lt;KC SKILL_NORMAL1&gt;を押す</original>
+    <translation>Press &lt;KC ELIXIR_CHANGE&gt; or &lt;KC SKILL_NORMAL1&gt;
+during any Boost mode.</translation>
   </message>
 </resource>

@@ -4,43 +4,66 @@
     <original>セットボタンを押す
 LV.６で再度セットボタンを押すと派生斬り
 アタックブーストで強化可能</original>
+    <translation>Press the set button.
+Pressing it again at LV.6 inverts slash direction.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_144</key>
     <original>セットボタンを押す
 アタックブーストで強化可能</original>
+    <translation>Press the set button.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_146</key>
     <original>セットボタンを押す
 アタックブーストで強化可能</original>
+    <translation>Press the set button.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_149</key>
     <original>セットボタンを押す
 ヒールブーストで強化可能</original>
+    <translation>Press the set button.
+Further enhanced in Heal Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_145</key>
     <original>セットボタンを連続して押す
 アタックブーストで強化可能</original>
+    <translation>Repeatedly press the set button.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_147</key>
     <original>セットボタンを押す
 発現後、再度セットボタンを押すと起爆
 アタックブーストで強化可能</original>
+    <translation>Press the set button.
+After conjuring the sphere, pressing the set button
+again will detonate it.
+Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_150</key>
     <original>セットボタンを押す
 展開後、その場に留まることで展開時間を延長
 ヒールブーストで強化可能</original>
+    <translation>Press the set button.
+Duration of field is extended while staying in place
+after deployment.
+Further enhanced in Heal Boost mode.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_10_148</key>
     <original>セットボタンを押す
 発現後、再度セットボタンを押すと攻撃
 アタックブーストで強化可能</original>
+    <translation>Press the set button.
+After forming the barrier, press the set button
+to release energy.
+Further enhanced in Attack Boost mode.</translation>
   </message>
 </resource>
