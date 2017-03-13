@@ -25,8 +25,9 @@ Further enhanced in Attack Boost mode.</translation>
     <key>NORMAL_SKILL_COMMAND_10_159</key>
     <original>&lt;PADM&gt;空中で左スティックを倒しながら&lt;KC ATTACK1&gt;を押す&lt;KEYM&gt;空中で移動キーを押しながら&lt;KC ATTACK1&gt;を押す&lt;/KEYM&gt;
 アタックブーストで強化可能</original>
-    <translation>While in the moving in the air with &lt;PADM&gt; press &lt;KC ATTACK1&gt; /
-While in the moving in the air with &lt;KEYM&gt; press &lt;KC ATTACK1&gt;&lt;/KEYM&gt;
+    <translation>&lt;PADM&gt;While in the moving in the air with the left stick, 
+press &lt;KC ATTACK1&gt;
+&lt;KEYM&gt; While in the moving in the air, press &lt;KC ATTACK1&gt;&lt;/KEYM&gt;
 Further enhanced in Attack Boost mode.</translation>
   </message>
   <message>
