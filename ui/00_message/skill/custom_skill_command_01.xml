@@ -52,7 +52,7 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_19</key>
     <original>敵の攻撃を引きつけてセットボタンを押す</original>
-    <translation>Press the assigned button just as enemy attacks.</translation>
+    <translation>Press the assigned button just as an enemy attacks.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_17</key>
@@ -63,10 +63,15 @@
     <key>CUSTOM_SKILL_COMMAND_01_120</key>
     <original>しがみつき中にセットボタンを押した後、
 セットボタンを連続して押す</original>
+    <translation>After pressing the assigned button while climbing an enemy,
+repeatedly press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_121</key>
     <original>敵の攻撃を引き付けてセットボタンを押す
 発動中に再度セットボタンを押すと派生斬り</original>
+    <translation>Press the assigned button just as an enemy attacks.
+Push the assigned button again after activation to invert direction
+of the attack.</translation>
   </message>
 </resource>

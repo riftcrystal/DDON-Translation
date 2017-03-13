@@ -2,45 +2,57 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_01_4</key>
     <original>&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>Repeatedly press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_5</key>
     <original>&lt;KC ATTACK1&gt;後、少し遅らせて&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>After pressing &lt;KC ATTACK1&gt;, delay a moment and press
+&lt;KC ATTACK1&gt; repeatedly.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_13</key>
     <original>&lt;KC ATTACK2&gt;長押し後、離すと発動</original>
+    <translation>After holding &lt;KC ATTACK2&gt; for a little while, release it.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_14</key>
     <original>&lt;KC ATTACK2&gt;長押し後、離すと発動</original>
+    <translation>After holding &lt;KC ATTACK2&gt; for a little while, release it.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_18</key>
     <original>空中で&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt; while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_19</key>
     <original>空中で&lt;KC ATTACK2&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK2&gt; while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_15</key>
     <original>&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_16</key>
     <original>敵の攻撃を引きつけて&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt; just as an enemy attacks.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_17</key>
     <original>&lt;KC CATAPULT&gt;を押す</original>
+    <translation>Press &lt;KC CATAPULT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_22</key>
     <original>吹き飛ばされ中に&lt;KC JUMP&gt;を押す</original>
+    <translation>While being knocked away, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_01_23</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>
