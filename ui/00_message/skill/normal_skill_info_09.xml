@@ -2,18 +2,26 @@
   <message>
     <key>NORMAL_SKILL_INFO_09_136</key>
     <original>錬成物質を生みだし前方に放つ</original>
+    <translation>Create an alchemical substance
+and fire it forward.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_137</key>
     <original>錬成物質を生みだし広範囲に放つ</original>
+    <translation>Create alchemical substances
+and release them over a wide area.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_143</key>
     <original>空中で錬成物質を生みだし下方に放つ</original>
+    <translation>Create an alchemical substance while in the air,
+and fire it downward.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_144</key>
     <original>空中で錬成物質を生みだし前方に放つ</original>
+    <translation>Create an alchemical substance while in the air,
+and launch it spinning forward.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_138</key>
@@ -22,17 +30,28 @@
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UPで攻撃回数が増加し、錬成物質を
 より成長させる＜クラスター・マギス＞に進化&lt;/COL&gt;</original>
+    <translation>Create an alchemical substance that expands outward.
+Pressing the set button with correct timing increases number of attacks.
+Can be activated even while in the air.
+&lt;COL ffdc78&gt;LV UP: Becomes Cluster Magis, increasing maximum number
+of attacks and expansion radius.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_139</key>
     <original>錬成物質を一点集中して、さらに成長させる
 タイミングよくボタンを押すと攻撃回数が増加
 空中でも発動可能</original>
+    <translation>Concentrate an alchemical substance on one point
+and expand it outwards. Pressing the set button with correct timing
+increases the number of attacks.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_142</key>
     <original>エリクシルが秘めた性質を解放する
 空中でも発動可能</original>
+    <translation>Unleash the Elixir's hidden potential.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_141</key>
@@ -40,17 +59,26 @@
 エリクシルの種類により、エリクシル
 発動時に発生する状態異常が変化する
 空中でも発動可能</original>
+    <translation>Switch the currently equipped elixir.
+Depending on the Elixir's type, the status abnormality
+inflicted upon Elixir activation changes.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_140</key>
     <original>錬成物質を生みつつ、素早く後方に身を逸らす
 錬成物質に敵の攻撃が接触すると、自動で
 攻撃が繰り出される</original>
+    <translation>Create a mass of alchemical substances that
+quickly propels you backward. When an enemy's attack comes into
+contact with the mass, it will explode outward and damage them.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_145</key>
     <original>空中に錬成式で足場を生成し
 それを蹴ることでより遠くまで跳ぶ</original>
+    <translation>Generate a temporary foothold while in the air
+and propel yourself by kicking off of it.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_147</key>
@@ -59,11 +87,21 @@
 タイミングよくボタンを押すと攻撃回数が増加
 &lt;COL ffdc78&gt;LV UPで攻撃回数が増加し、錬成物質を
 より成長させる＜コンクラスター・マギス＞に進化&lt;/COL&gt;</original>
+    <translation>While climbing an enemy,
+concentrate an alchemical substance on one point and expand it 
+outwards. Pressing the set button with correct timing increases
+the number of attacks.
+&lt;COL ffdc78&gt;LV UP: Becomes Concluster Magis, increasing maximum number
+of attacks and expansion radius.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_09_148</key>
     <original>しがみついた状態で
 錬成物質を一点集中して、さらに成長させる
 タイミングよくボタンを押すと攻撃回数が増加</original>
+    <translation>While climbing an enemy,
+concentrate an alchemical substance on one point and expand it 
+outwards. Pressing the set button with correct timing increases
+the number of attacks.</translation>
   </message>
 </resource>
