@@ -70,8 +70,8 @@ LV.６: Increases range of wind pressure generated when struck.&lt;/COL&gt;</tra
 &lt;COL ffdc78&gt;LV UP毎に杭の継続時間が延長
 LV.６で移動距離が延長／始動後に範囲攻撃追加
 杭を叩いた時の錬成値が上昇&lt;/COL&gt;</original>
-    <translation>Quickly draw aggression from enemies and drive alchemical piles
-into them. If a pile is struck, the amount of stakes on it will increase.
+    <translation>Drive alchemical piles into enemies, and quickly draw
+their aggression. If a pile is struck, the amount of stakes on it will increase.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the skill.
 LV.６: Increases chase range of skill, and amount of alchemical
 stakes gained upon striking the pile.&lt;/COL&gt;</translation>
