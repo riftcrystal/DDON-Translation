@@ -11,7 +11,7 @@ surround yourself with pillars of alchemical metal. When
 performed from high altitudes, the power of the attack rises.
 Can be activated even while in the air.
 &lt;COL ffdc78&gt;LV UP: Increases amount of stakes planted upon contact.
-LV.６: Increases the times the pillars raise （１→２）&lt;/COL&gt;</translation>
+LV.6: Increases the times the pillars raise (1→2)&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_104</key>
@@ -24,7 +24,7 @@ LV.６で錬成物質の本数増加（３→５）／
 raising it, create waves of alchemical substances that spike
 up along the ground.
 &lt;COL ffdc78&gt;LV UP: Increases amount of stakes planted upon contact. 
-LV.６: Increases number of waves （３→５） and adds the ability 
+LV.6: Increases number of waves (3→5) and adds the ability 
 to juggle enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -37,7 +37,7 @@ LV.６で聖・闇の２属性追加&lt;/COL&gt;</original>
 one of the three main attributes of fire, ice, or lightning,
 from the ground and place it in the air.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the skill.
-LV.６: Unlocks the final two elements, Holy and Darkness.&lt;/COL&gt;</translation>
+LV.6: Unlocks the final two elements, Holy and Darkness.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_109</key>
@@ -49,7 +49,7 @@ LV.６で空中にも設置可能になり、
     <translation>Place an alchemical trampoline on the ground
 that launches those who jump on it to high altitudes.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the skill.
-LV.６: Allows placement in the air. When placed mid-air,
+LV.6: Allows placement in the air. When placed mid-air,
 you can be launched horizontally.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -61,7 +61,7 @@ LV.６で叩いた時に発生する風圧範囲が拡張&lt;/COL&gt;</original>
     <translation>Create a ball of wind-wrapped alchemical substances.
 Wind pressure is generated when striking the ball after placement.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the skill.
-LV.６: Increases range of wind pressure generated when struck.&lt;/COL&gt;</translation>
+LV.6: Increases range of wind pressure generated when struck.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_106</key>
@@ -73,7 +73,7 @@ LV.６で移動距離が延長／始動後に範囲攻撃追加
     <translation>Drive alchemical piles into enemies, and quickly draw
 their aggression. If a pile is struck, the amount of stakes on it will increase.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the skill.
-LV.６: Increases chase range of skill, and amount of alchemical
+LV.6: Increases chase range of skill, and amount of alchemical
 stakes gained upon striking the pile.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -86,7 +86,7 @@ LV.６で棘の本数が増加（１→３）&lt;/COL&gt;</original>
 When enemies approach the trap, pillars spike out from it and 
 penetrate them.
 &lt;COL ffdc78&gt;LV UP: Increases number of trap activations.
-LV.６: Increases the number of pillar spikes （１→３）&lt;/COL&gt;</translation>
+LV.6: Increases the number of pillar spikes (1→3)&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_111</key>
@@ -99,7 +99,7 @@ LV.６でダウン、拘束中を除きいつでも発動可能&lt;/COL&gt;</ori
 Enemies that attack will build up the "Gilded" status abnormality.
 Can be activated even while in the air.
 &lt;COL ffdc78&gt;LV UP: Increases rate of Gilding build-up.
-LV.６: Can activate the skill at anytime except when grabbed.&lt;/COL&gt;</translation>
+LV.6: Can activate the skill at anytime except when grabbed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_112</key>
@@ -114,7 +114,7 @@ Upon doing so, it unleashes alchemical substances and causes a
 giant explosion.
 Can be activated while climbing an enemy.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
-LV.６: Increases number of hits and the surrounding
+LV.6: Increases number of hits and the surrounding
 enemies are affected by the explosion.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -127,6 +127,6 @@ LV.６で空中でも発動可能&lt;/COL&gt;</original>
 alchemical substance in the air. When deployed,
 quickly launch backwards.
 &lt;COL ffdc78&gt;LV UP: Increases number of trap activations.
-LV.６: Allows activation while mid-air.&lt;/COL&gt;</translation>
+LV.6: Allows activation while mid-air.&lt;/COL&gt;</translation>
   </message>
 </resource>

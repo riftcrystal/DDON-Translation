@@ -46,7 +46,7 @@
   <message>
     <key>caplink_dialog_done_invite_game</key>
     <original>%sを招待しました。</original>
-    <translation>Invited %s .</translation>
+    <translation>Invited %s.</translation>
   </message>
   <message>
     <key>caplink_button_check</key>
@@ -56,7 +56,7 @@
   <message>
     <key>caplink_dialog_done_offer_captomo</key>
     <original>%sにカプトモ申請をしました。</original>
-    <translation>Sent a Capfriend request to %s .</translation>
+    <translation>Sent a Capfriend request to %s.</translation>
   </message>
   <message>
     <key>caplink_dialog_is_offer_captomo</key>

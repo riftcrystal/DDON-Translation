@@ -140,7 +140,7 @@ LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
 If the first hit is successfully landed, it will become a full on
 combo attack.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
-LV.６: Increases the number of hits in the attack, and changes
+LV.6: Increases the number of hits in the attack, and changes
 the motion of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -155,7 +155,7 @@ a tremendous blow. While charging, you resist being shaken off
 the enemy. The power of the attack rises with consecutive button
 presses.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
-LV.６: Increase the number of hits in the attack, and decrease
+LV.6: Increase the number of hits in the attack, and decrease
 amount of button presses needed for a full charge.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -168,7 +168,7 @@ LV.６で跳び上がる高度上昇／
     <translation>Utilize an enemy attack to launch yourself, slashing upwards. 
 After ascending, invert the direction of the slash with an additional button press.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
-LV.６: Increase altitude of the launch, and number of hits of the inverted
+LV.6: Increase altitude of the launch, and number of hits of the inverted
 slash.&lt;/COL&gt;</translation>
   </message>
 </resource>

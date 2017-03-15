@@ -1452,7 +1452,7 @@
   <message>
     <key>ABILITY_NAME_369</key>
     <original>助矢 詠</original>
-    <translation>Healing Arrow: Chant</translation>
+    <translation>Aid Arrow: Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_381</key>
@@ -1782,7 +1782,7 @@
   <message>
     <key>ABILITY_NAME_375</key>
     <original>助矢 瞬</original>
-    <translation>Healing Arrows: Blink</translation>
+    <translation>Aid Arrows: Blink</translation>
   </message>
   <message>
     <key>ABILITY_NAME_387</key>

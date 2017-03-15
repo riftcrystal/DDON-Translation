@@ -6,7 +6,7 @@
 LV.６でボタンの追加入力により派生斬りが発動&lt;/COL&gt;</original>
     <translation>Launch enemies upward with a slash.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
-LV.６: Invert direction of slash with an additional
+LV.6: Invert direction of slash with an additional
 button press.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -18,7 +18,7 @@ LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
     <translation>Swing the lance around, and attack
 the surrounding area. Can be used in mid-air.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
-LV.６: Can be used while taking damage, and even while
+LV.6: Can be used while taking damage, and even while
 being knocked off an enemy.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -31,7 +31,7 @@ LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
 releasing a blast of energy. The first strike always
 chases an enemy.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
-LV.６:Increases number of hits （１→２）.&lt;/COL&gt;</translation>
+LV.6:Increases number of hits (1→2).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_149</key>
@@ -43,7 +43,7 @@ LV.６で展開エリアの設置時間延長&lt;/COL&gt;</original>
 recovers health and grants allies whom walk into it
 a Defense boost for a period of time.
 &lt;COL ffdc78&gt;LV UP: Increases duration of effect.
-LV.６: Increases duration of pool.&lt;/COL&gt;</translation>
+LV.6: Increases duration of pool.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_145</key>
@@ -55,7 +55,7 @@ LV.６で最大攻撃回数増加&lt;/COL&gt;</original>
 forward. The last blow's power changes according to the number of 
 attacks made.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
-LV.６: Increases maximum number of attacks.&lt;/COL&gt;</translation>
+LV.6: Increases maximum number of attacks.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_147</key>
@@ -68,7 +68,7 @@ LV.６で霊力最大の起爆ヒット数増加／溜まる霊力増加&lt;/COL
 when attacked. The orb gathers spiritual energy when attacked.
 It can also be detonated both on the ground and mid-air manually.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
-LV.６: Increases maximum hits of the detonation and amount of
+LV.6: Increases maximum hits of the detonation and amount of
 spirit energy gained.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -83,7 +83,7 @@ recovers health and status abnormalities. The range grows depending
 on the charge time. The effectiveness of the skill rises upon a full
 charge.
 &lt;COL ffdc78&gt;LV UP: Increases duration of skill.
-LV.６: Increases the area of effect of the skill.&lt;/COL&gt;</translation>
+LV.6: Increases the area of effect of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_148</key>
@@ -97,6 +97,6 @@ enemy attacks. When attacking enemies while the barrier is active,
 spiritual energy gathers in the barrier. You can unleash the energy
 by pressing the set button.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
-LV.６: Increase maximum barrier durability （１→２）&lt;/COL&gt;</translation>
+LV.6: Increase maximum barrier durability (1→2)&lt;/COL&gt;</translation>
   </message>
 </resource>

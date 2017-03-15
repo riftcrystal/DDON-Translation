@@ -2,36 +2,42 @@
   <message>
     <key>NORMAL_SKILL_NAME_08_113</key>
     <original>&lt;PADM&gt;闘波の構え&lt;KEYM&gt;構えの変更（闘波の構え）</original>
-    <translation>&lt;PADM&gt;Seeker Aim&lt;KEYM&gt;Change Stance(Seeker Aim)</translation>
+    <translation>&lt;PADM&gt;Seeker Stance&lt;KEYM&gt;Change Stance (Seeker Stance)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_114</key>
     <original>闘波の魔眼</original>
+    <translation>Magick Eye: Seeker</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_115</key>
     <original>闘波の矢</original>
+    <translation>Seeker Arrow</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_116</key>
     <original>闘波の集中</original>
-    <translation>Concentrated Seekers</translation>
+    <translation>Concentration: Seeker</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_117</key>
     <original>&lt;PADM&gt;助真の構え&lt;KEYM&gt;構えの変更（助真の構え）</original>
+    <translation>&lt;PADM&gt;True Aid Stance&lt;KEYM&gt;Change Stance （True Aid Stance）</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_118</key>
     <original>助真の魔眼</original>
+    <translation>Magick Eye: True Aid</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_119</key>
     <original>助真の矢</original>
+    <translation>True Aid Arrow</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_120</key>
     <original>助真の集中</original>
+    <translation>Concentration: True Aid</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_121</key>
@@ -41,13 +47,16 @@
   <message>
     <key>NORMAL_SKILL_NAME_08_122</key>
     <original>癒しの装</original>
+    <translation>Healing Shroud</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_123</key>
     <original>狙いの神眼</original>
+    <translation>God's Eye: Aim</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_08_135</key>
     <original>奮わせ直魔矢</original>
+    <translation>Invigorating Magick Arrow</translation>
   </message>
 </resource>

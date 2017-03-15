@@ -264,6 +264,8 @@ and returned to standby state.</translation>
     <key>syslog_reward_box_limit_notion</key>
     <original>報酬ボックスの容量が少なくなっています
 古い報酬を失う可能性があります</original>
+    <translation>The reward box capacity has few slots left.
+There is a possibility of losing old rewards.</translation>
   </message>
   <message>
     <key>syslog_quest_update</key>
