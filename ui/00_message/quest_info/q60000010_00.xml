@@ -19,14 +19,17 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000010_00_1111</key>
     <original>破斬で敵を攻撃せよ</original>
+    <translation>Attack the enemy with Hack</translation>
   </message>
   <message>
     <key>q60000010_00_1171</key>
     <original>空破斬で敵を攻撃せよ</original>
+    <translation>Attack the enemy with Aerial Hack</translation>
   </message>
   <message>
     <key>q60000010_00_1172</key>
     <original>魔人斬りで敵を攻撃せよ</original>
+    <translation>Attack the enemy with Savage Lash</translation>
   </message>
   <message>
     <key>q60000010_00_1258</key>
@@ -35,6 +38,7 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000010_00_1259</key>
     <original>リベンジゲージ最大の魔人斬りで敵を攻撃せよ</original>
+    <translation>Attack the enemy with Savage Lash with a full Revenge Gauge</translation>
   </message>
   <message>
     <key>q60000010_00_1260</key>

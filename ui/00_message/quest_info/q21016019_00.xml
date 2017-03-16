@@ -1,0 +1,38 @@
+﻿<resource>
+  <message>
+    <key>q21016019_00_625</key>
+    <original>跋扈する狂獣たち</original>
+  </message>
+  <message>
+    <key>q21016019_00_625</key>
+    <original>【討伐クエスト】
+エリアに出現した怪しい魔物を探し
+問題の原因となる敵を討伐する</original>
+  </message>
+  <message>
+    <key>q21016019_00_625</key>
+    <original>&lt;NAME AREA&gt;には今、怪しい気配のする
+魔物たちが出現しているらしい</original>
+  </message>
+  <message>
+    <key>q21016019_00_625</key>
+    <original>先日、狂侵魔というものに初めて遭遇した
+むせ返るような濃い侵食胞子に
+吐き気がしたよ――
+奴らの存在は、遠く離れていても
+感知できる自信があるね</original>
+  </message>
+  <message>
+    <key>q21016019_00_1171</key>
+    <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
+  </message>
+  <message>
+    <key>q21016019_00_1172</key>
+    <original>新たに現れた魔物を即時討伐して報酬を獲得</original>
+  </message>
+  <message>
+    <key>q21016019_00_1173</key>
+    <original>残る魔物を討伐する</original>
+  </message>
+</resource>

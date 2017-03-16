@@ -1,0 +1,81 @@
+﻿<resource>
+  <message>
+    <original>塔の外からお越しとは――
+用があるならお聞きしましょう</original>
+  </message>
+  <message>
+    <original>宿泊をご希望なら&lt;VAL PRICE_INN&gt;です
+ここは資源が限られていることもあり
+旅人に大盤振る舞いというのはできないのです
+それでも、よろしいですか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>今は寝床に余裕があります
+休みたいなら案内しましょうか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>《弱化の治療》には
+&lt;VAL PRICE_WEAK&gt;いただきますよ
+なにぶん、物資も限られていますからね
+治療をお望みですか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>弱化にはなっていませんよ
+気のせい、ということです
+よろしいですね</original>
+  </message>
+  <message>
+    <original>どうして塔に住んでいるのか、ですか？
+我らは守っているのです
+この塔に住むことで――</original>
+  </message>
+  <message>
+    <original>何を守っているのかは――
+長老のベレナスにでもお聞きください
+我らは祖先より代々、この塔にて“守る”ために
+ここにいると聞かされています</original>
+  </message>
+  <message>
+    <original>きっとダナの住人たちは
+彼らの武勇が村を守っていると
+思っているでしょうね</original>
+  </message>
+  <message>
+    <original>私に言わせれば、ダナの侵食が
+比較的ゆるやかなのは
+村の位置が関係しているだけです</original>
+  </message>
+  <message>
+    <original>この場は私が取りまとめていますが
+この《イヴァノスの塔》の成り立ちについては
+長老のベレナスに聞いてください</original>
+  </message>
+  <message>
+    <original>彼が素直に話すとは思えませんが――
+私たちですら、いつも煙に巻かれるのです</original>
+  </message>
+</resource>

@@ -5757,6 +5757,11 @@
     <translation>The Darkness of the Heart</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_2288</key>
+    <original>新しい世代</original>
+    <translation>The New Generation</translation>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_2289</key>
     <original>グランド見習い</original>
     <translation>Grand Apprentice</translation>
@@ -5786,6 +5791,42 @@
     <translation>Mr. Extreme</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_2295</key>
+    <original>剣帝</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2296</key>
+    <original>弓箭之士</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2297</key>
+    <original>癒しの仙人</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2298</key>
+    <original>守護神</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2299</key>
+    <original>軽業超人</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2300</key>
+    <original>魔導の夢人</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2301</key>
+    <original>跳弾の射手</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2302</key>
+    <original>怒りを振るう者</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2303</key>
+    <original>錬成人</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_2304</key>
     <original>槍見習い</original>
   </message>
@@ -5796,6 +5837,10 @@
   <message>
     <key>ACHIEVEMENT_NAME_2306</key>
     <original>槍人</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2307</key>
+    <original>槍士</original>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2308</key>
@@ -6020,6 +6065,50 @@
     <original>獰猛竜</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_2368</key>
+    <original>森の狼</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2369</key>
+    <original>空飛ぶ歌い手</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2370</key>
+    <original>冒された翼</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2371</key>
+    <original>悪に染まりし者</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2372</key>
+    <original>大地に佇む者</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2373</key>
+    <original>ブラックナイト</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2374</key>
+    <original>クルセイダー</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2375</key>
+    <original>リベンジャー</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2376</key>
+    <original>精霊竜のきずな</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2377</key>
+    <original>精霊竜の聖域</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2378</key>
+    <original>次元の崩壊</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_2379</key>
     <original>監督</original>
     <translation>The Overseer</translation>
@@ -6095,7 +6184,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2528</key>
     <original>キングオブきこり</original>
-    <translation>Kind of Lumberjacks</translation>
+    <translation>King of Lumberjacks</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2529</key>
@@ -6141,9 +6230,17 @@
     <translation>Elan Guide</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_2538</key>
+    <original>エラン探検家</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_2539</key>
     <original>ファーラナ案内人</original>
     <translation>Farana Guide</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2540</key>
+    <original>ファーラナ探検家</original>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2541</key>
@@ -6151,9 +6248,17 @@
     <translation>Morrow Guide</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_2542</key>
+    <original>モロー探検家</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_2543</key>
     <original>キンガル案内人</original>
     <translation>Kingal Guide</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2544</key>
+    <original>キンガル探検家</original>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2545</key>
@@ -6164,5 +6269,13 @@
     <key>ACHIEVEMENT_NAME_2546</key>
     <original>目覚めた収集家</original>
     <translation>Collector Arisen</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2547</key>
+    <original>偉大な収集家</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_2548</key>
+    <original>伝説の収集家</original>
   </message>
 </resource>

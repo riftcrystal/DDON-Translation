@@ -1381,9 +1381,17 @@
     <translation>Farana Ruins</translation>
   </message>
   <message>
+    <key>STAGE_NAME_367</key>
+    <original>聖河の遺跡</original>
+  </message>
+  <message>
     <key>STAGE_NAME_368</key>
     <original>ネビュラ小神殿</original>
     <translation>Nebula Temple</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_369</key>
+    <original>アンビュロス大遺跡 </original>
   </message>
   <message>
     <key>STAGE_NAME_371</key>
@@ -1426,9 +1434,79 @@
     <translation>Sauzanel Infected Woods</translation>
   </message>
   <message>
+    <key>STAGE_NAME_379</key>
+    <original>聖雫の間</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_380</key>
+    <original>精霊竜のねぐら</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_381</key>
+    <original>精霊竜のねぐら</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_382</key>
+    <original>始まりの洞</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_383</key>
+    <original>始まりの洞</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_384</key>
+    <original>始まりの洞　集いの間　</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_385</key>
+    <original>ヴェイガサス回廊</original>
+    <translation>Vegasa Corridor</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_386</key>
+    <original>ヴァルテブル・ホール</original>
+    <translation>Valtable Hall</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_387</key>
+    <original>追憶の枝</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_388</key>
+    <original>懐旧の枝</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_389</key>
+    <original>悔恨の枝</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_390</key>
+    <original>静慮の枝</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_397</key>
+    <original>知恵の小塔</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_400</key>
+    <original>イヴァノスの塔</original>
+  </message>
+  <message>
     <key>STAGE_NAME_401</key>
     <original>武霊の庵</original>
     <translation>Spirit Arts Hut</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_402</key>
+    <original>緑夜の庵</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_403</key>
+    <original>ノーザナス侵林</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_404</key>
+    <original>ディプニエ大侵林</original>
   </message>
   <message>
     <key>STAGE_NAME_405</key>
@@ -1454,6 +1532,11 @@
     <key>STAGE_NAME_410</key>
     <original>灼熱の封鎖道</original>
     <translation>Scorching Blocked Passage</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_411</key>
+    <original>マヌンの集落</original>
+    <translation>Manun Village</translation>
   </message>
   <message>
     <key>STAGE_NAME_413</key>
@@ -1492,6 +1575,10 @@
     <key>STAGE_NAME_420</key>
     <original>マグサス古水路</original>
     <translation>Magusas Ancient Watercourse</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_422</key>
+    <original>ハディン地下古道</original>
   </message>
   <message>
     <key>STAGE_NAME_423</key>
@@ -1566,6 +1653,15 @@
     <original>st0067 OM検証部屋ver2.0（機能なしOM）</original>
   </message>
   <message>
+    <key>STAGE_NAME_439</key>
+    <original>エラン採石洞</original>
+    <translation>Elan Quarry Cave</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_440</key>
+    <original>タラーテ集水路</original>
+  </message>
+  <message>
     <key>STAGE_NAME_442</key>
     <original>ボルド大坑道</original>
     <translation>Volden Large Tunnels</translation>
@@ -1581,14 +1677,45 @@
     <translation>Bloodbane Isle Summit</translation>
   </message>
   <message>
+    <key>STAGE_NAME_446</key>
+    <original>異人の洞窟</original>
+    <translation>The Foreigner's Cave</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_448</key>
+    <original>古代地下宮</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_449</key>
+    <original>異人の遺跡</original>
+    <translation>The Foreigner's Remains</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_450</key>
+    <original>異人の塔</original>
+    <translation>The Foreigner's Tower</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_451</key>
+    <original>旧船頭寄合所</original>
+  </message>
+  <message>
     <key>STAGE_NAME_452</key>
     <original>古の祭祀場</original>
     <translation>Ancient Place of Rituals</translation>
   </message>
   <message>
+    <key>STAGE_NAME_454</key>
+    <original>タラーテ集水路</original>
+  </message>
+  <message>
     <key>STAGE_NAME_455</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_458</key>
+    <original>歪みの樹冠</original>
   </message>
   <message>
     <key>STAGE_NAME_459</key>
@@ -1598,5 +1725,19 @@
   <message>
     <key>STAGE_NAME_460</key>
     <original>クラン拠点ボードクエスト用検証部屋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_469</key>
+    <original>異人の塔</original>
+    <translation>The Foreigner's Tower</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_471</key>
+    <original>異人の地下墓所</original>
+    <translation>The Foreigner's Underground Tomb</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_472</key>
+    <original>始まりの洞</original>
   </message>
 </resource>

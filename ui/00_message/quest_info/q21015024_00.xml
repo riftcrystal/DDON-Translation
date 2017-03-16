@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q21015024_00_621</key>
+    <original>【財宝の扉】氷河裂く爪</original>
+    <translation>Door of Treasures: 氷河裂く爪</translation>
+  </message>
+  <message>
+    <key>q21015024_00_621</key>
+    <original>【危険区域クエスト】
+ダンジョン内の危険区域へ繋がる扉の鍵を作り
+凶悪な魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q21015024_00_621</key>
+    <original>&lt;NAME AREA&gt;のダンジョン内部は、特別な
+鍵を持った者だけが入れる場所があるらしい</original>
+  </message>
+  <message>
+    <key>q21015024_00_621</key>
+    <original>洞窟や水路の奥地によく、
+不釣り合いなほど強い魔物がいるだろう？
+そいつらは、訪れる戦士や旅人と幾度となく戦い
+生き残ってきた歴戦の猛者なのさ
+――きっと、貯めこんでるものも相当なはずだぜ</original>
+  </message>
+  <message>
+    <key>q21015024_00_1170</key>
+    <original>遭遇した凶悪な魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+</resource>

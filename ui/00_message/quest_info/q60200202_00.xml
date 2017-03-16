@@ -1,37 +1,37 @@
 ﻿<resource>
   <message>
     <key>q60200202_00_196</key>
-    <original>サブシナリオ＜クラウスとジョゼフ＞</original>
+    <original>クラウスとジョゼフ</original>
   </message>
   <message>
     <key>q60200202_00_196</key>
-    <original>クラウスのお願いをきく（仮）</original>
+    <original>クラウスの頼みごとを聞く</original>
   </message>
   <message>
     <key>q60200202_00_2708</key>
-    <original>ジョゼフの所へ行く</original>
+    <original>ジョゼフの元へ行く</original>
   </message>
   <message>
     <key>q60200202_00_2709</key>
-    <original>ジョゼフと話をする</original>
-    <translation>Speak to Joseph</translation>
+    <original>ジョゼフと話す</original>
+    <translation>Speak with Joseph</translation>
   </message>
   <message>
     <key>q60200202_00_2710</key>
-    <original>クラウスと話をする</original>
-    <translation>Speak to Klaus</translation>
+    <original>クラウスと話す</original>
+    <translation>Speak with Klaus</translation>
   </message>
   <message>
     <key>q60200202_00_2711</key>
-    <original>モルフォールのガラダの所へ相談に行く</original>
+    <original>モルフォールのガラダの元へ相談に向かう</original>
   </message>
   <message>
     <key>q60200202_00_2712</key>
-    <original>各地のエリアマスターから薬草の場所を聞き入手する（残り2）</original>
+    <original>各地のエリアマスターを訪ね、うち２ヶ所で植物を採取する</original>
   </message>
   <message>
     <key>q60200202_00_2768</key>
-    <original>各地のエリアマスターから薬草の場所を聞き入手する（残り１）</original>
+    <original>あと一つ植物を探し採取する</original>
   </message>
   <message>
     <key>q60200202_00_2713</key>
@@ -40,15 +40,15 @@
   </message>
   <message>
     <key>q60200202_00_2714</key>
-    <original>最後の薬草採取のため＜ヴァルテブル・ホール＞へ行く</original>
+    <original>新たな植物採取のため＜ヴァルテブル・ホール＞へ向かう</original>
   </message>
   <message>
     <key>q60200202_00_2715</key>
-    <original>薬草を守る敵を殲滅する</original>
+    <original>植物に誘われし魔物を討伐する</original>
   </message>
   <message>
     <key>q60200202_00_2730</key>
-    <original>薬草を採取する</original>
+    <original>植物を採取する</original>
   </message>
   <message>
     <key>q60200202_00_2716</key>

@@ -152,7 +152,7 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
     <key>CUSTOM_SKILL_INFO_05_135</key>
     <original>周囲の敵を巻きこみながら大盾を振り払う
 敵の攻撃を防ぎながら発動で威力が上昇
-ボタン長押しで防御態勢を維持することが可能
+フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で盾ガード値上昇／ヒット数増加&lt;/COL&gt;</original>
   </message>

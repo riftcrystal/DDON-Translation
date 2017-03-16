@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q60217004_00_179</key>
+    <original>キンガル峡谷　試練：望まれし変革</original>
+    <translation>Kingal Canyon Trial: 望まれし変革</translation>
+  </message>
+  <message>
+    <key>q60217004_00_179</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60217004_00_2403</key>
+    <original>&lt;SPOT 879&gt;の&lt;NPC 2708&gt;から詳細確認する</original>
+    <translation>Confirm details from &lt;NPC 2708&gt; in &lt;SPOT 879&gt;</translation>
+  </message>
+  <message>
+    <key>q60217004_00_2404</key>
+    <original>問題となる場所を調査する</original>
+  </message>
+  <message>
+    <key>q60217004_00_2405</key>
+    <original>諸悪の根源となる魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60217004_00_2402</key>
+    <original>&lt;SPOT 879&gt;の&lt;NPC 2700&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2700&gt; in &lt;SPOT 879&gt;</translation>
+  </message>
+</resource>

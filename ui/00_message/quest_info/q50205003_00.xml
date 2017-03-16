@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q50205003_00_61</key>
+    <original>異人の塔</original>
+    <translation>The Foreigner's Tower</translation>
+  </message>
+  <message>
+    <key>q50205003_00_61</key>
+    <original>集いし勇敢なる冒険者たちよ
+手がかりの導く宝塔に眠る
+黄金の秘宝を探し出せ</original>
+  </message>
+  <message>
+    <key>q50205003_00_2625</key>
+    <original>遭遇した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q50205003_00_2626</key>
+    <original>次なる敵を探し出す</original>
+  </message>
+  <message>
+    <key>q50205003_00_2627</key>
+    <original>パーティー集合マーカーに集まる</original>
+  </message>
+  <message>
+    <key>q50205003_00_2628</key>
+    <original>最奥に潜む魔物を討伐する</original>
+  </message>
+</resource>

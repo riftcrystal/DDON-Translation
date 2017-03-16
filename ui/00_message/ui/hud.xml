@@ -353,4 +353,9 @@
     <key>hud_map_guide_auto_scaling_unlock</key>
     <original>拡大固定解除</original>
   </message>
+  <message>
+    <key>hud_announce_clan_dungeon_unlock</key>
+    <original>新たなクランダンジョンが解放されました</original>
+    <translation>A new Clan Dungeon has been unlocked</translation>
+  </message>
 </resource>

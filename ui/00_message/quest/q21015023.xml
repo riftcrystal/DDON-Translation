@@ -1,0 +1,97 @@
+﻿<resource>
+  <message>
+    <original>あぁ、なるほどね
+《&lt;ITEM 16001&gt;》のことかい
+――え、知らないって？</original>
+  </message>
+  <message>
+    <original>あら、あんたに伝え忘れてたとはねぇ――
+最近、真夜中頃に地鳴りがよくあるだろう？
+そのせいで《&lt;ITEM 16001&gt;》って鉱石が
+少しの間採掘しやすくなっているみたいなのさ</original>
+  </message>
+  <message>
+    <original>あんたも採りに行きたいのかい？
+だったら、悪いんだけど
+＜23時から2時＞の間に、行きたい全員を
+この拠点に集めてもう一度話しかけてくれる？</original>
+  </message>
+  <message>
+    <original>他にも採りたいって人がたくさんいてね
+バラバラに説明してると大変なのさ
+悪いね、協力してくれて助かるよ</original>
+  </message>
+  <message>
+    <original>最近、真夜中頃に地鳴りがよくあるだろう？
+そのせいで《&lt;ITEM 16001&gt;》って鉱石が
+少しの間採掘しやすくなっているみたいなのさ</original>
+  </message>
+  <message>
+    <original>あんたも採りに行きたいって言うんなら
+＜23時から2時＞の間に、行きたい全員を
+この拠点に集めてもう一度話しかけてくれるかい？</original>
+  </message>
+  <message>
+    <original>本当は村の外にばら撒きたくないんだけどね
+モルフォールあたりには、筆記石としての
+需要が高い交易品だからさ――
+ま、世話になっちまってるし仕方ないね</original>
+  </message>
+  <message>
+    <original>ちゃんと指定の時刻に集めてくれたんだね？
+ありがとう、いちいち説明する手間が省けたよ
+それじゃ――あたしも応えなくちゃね</original>
+  </message>
+  <message>
+    <original>＜23時から2時＞の間――
+タラスクの地鳴りが酷くなる真夜中に
+《&lt;ITEM 16001&gt;》がより多くの地点から
+採れるようになるらしいんだ</original>
+  </message>
+  <message>
+    <original>ただし、その時間を過ぎるとまた地面が固まって
+採れる数はいつも通りに戻ってしまうから
+時間には十分気を付けるんだよ</original>
+  </message>
+  <message>
+    <original>あ――それから、ちょっとお願いがあるんだけど
+もしたくさん採れたら＜5＞つほど
+分けてくれないかい？</original>
+  </message>
+  <message>
+    <original>筆記石として、手触りと書き心地が滑らかってんで
+モルフォールで人気の高い交易品なのさ
+よろしく頼んだよ</original>
+  </message>
+  <message>
+    <original>＜23時から2時＞の間――
+タラスクの地鳴りが酷くなる真夜中に
+《&lt;ITEM 16001&gt;》がより多くの地点から
+採れるようになるそうなんだ</original>
+  </message>
+  <message>
+    <original>それから、もしたくさん採れたら
+＜5＞つほど分けてくれないかい？
+タラスクのせいで落ち込み気味だった台所事情を
+タラスクのおかげで盛り上げ直すチャンスなのさ</original>
+  </message>
+  <message>
+    <original>あら、そんなに採れたのかい
+よかったじゃない
+あんたの役に立てるなら
+その鉱石たちも本望ってものさ</original>
+  </message>
+  <message>
+    <original>その鉱石を何に使うかは知らないけど――
+あたしたちとしては、タラスクをぶちのめすのに
+役に立つんだって信じてるからね！</original>
+  </message>
+  <message>
+    <original>&lt;AREA 15&gt;フィールドの《&lt;ITEM 16001&gt;》を採取できる採取ポイントの数が増えました
+＜23時から2時＞の間にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜23時から2時＞の時間が終了したため、&lt;AREA 15&gt;フィールドの《&lt;ITEM 16001&gt;》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう</original>
+  </message>
+</resource>

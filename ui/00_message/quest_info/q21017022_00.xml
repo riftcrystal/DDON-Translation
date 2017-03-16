@@ -1,0 +1,61 @@
+﻿<resource>
+  <message>
+    <key>q21017022_00_618</key>
+    <original>【高難度】邂逅の厄災</original>
+    <translation>High Difficulty: 邂逅の厄災</translation>
+  </message>
+  <message>
+    <key>q21017022_00_618</key>
+    <original>【連続討伐クエスト】
+エリアマスターの願いを聞き入れ
+ダンジョン付近にて起きている問題を調査する</original>
+  </message>
+  <message>
+    <key>q21017022_00_618</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターが
+ダンジョン付近の不穏な空気を警戒しているようだ</original>
+  </message>
+  <message>
+    <key>q21017022_00_618</key>
+    <original>聖域が浄化されたことで、魔物たちが騒がしいのは
+キンガルだけではないようです
+悪魔たちの災厄を乗り越えて、
+やっと立ち直れるようになったというのに――
+一刻も早く元の暮らしに戻れるよう、祈るばかりです</original>
+  </message>
+  <message>
+    <key>q21017022_00_1161</key>
+    <original>指定された場所を調べる</original>
+    <translation>Investigate the specified location</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1162</key>
+    <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1163</key>
+    <original>指定されたダンジョン内を捜索する</original>
+    <translation>Search within the specified dungeon</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1164</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り３）</original>
+    <translation>Defeat the monsters at locations in the dungeon (3 left)</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1184</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り２）</original>
+    <translation>Defeat the monsters at locations in the dungeon (2 left)</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1185</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り１）</original>
+    <translation>Defeat the monsters at locations in the dungeon (1 left)</translation>
+  </message>
+  <message>
+    <key>q21017022_00_1165</key>
+    <original>エリアマスターに経緯を報告する</original>
+    <translation>Report to the Area Master</translation>
+  </message>
+</resource>

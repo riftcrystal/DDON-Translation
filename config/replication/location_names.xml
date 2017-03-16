@@ -6,6 +6,10 @@
     <match>^ui\\00_message\\common\\spot_name$</match>
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
+    <extra>
+    	<original>マヌン</original>
+    	<translation>Manun</translation>
+    </extra>
     <rewrite>
       <original_match>^(.+?)\s+深部$</original_match>
       <translation_replace>{0} Depths</translation_replace>

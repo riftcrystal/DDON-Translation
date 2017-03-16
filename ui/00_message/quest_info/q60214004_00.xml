@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q60214004_00_181</key>
+    <original>エラン水林　試練：荒れ狂う青樹</original>
+    <translation>Elan Water Grove Trial: 荒れ狂う青樹</translation>
+  </message>
+  <message>
+    <key>q60214004_00_181</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60214004_00_2395</key>
+    <original>&lt;SPOT 876&gt;の&lt;NPC 559&gt;から詳細確認する</original>
+    <translation>Confirm details from &lt;NPC 559&gt; in &lt;SPOT 876&gt;</translation>
+  </message>
+  <message>
+    <key>q60214004_00_2396</key>
+    <original>問題となる場所を調査する</original>
+  </message>
+  <message>
+    <key>q60214004_00_2397</key>
+    <original>諸悪の根源となる魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60214004_00_2394</key>
+    <original>&lt;SPOT 876&gt;の&lt;NPC 4509&gt;に報告する</original>
+    <translation>Report to &lt;NPC 4509&gt; in &lt;SPOT 876&gt;</translation>
+  </message>
+</resource>

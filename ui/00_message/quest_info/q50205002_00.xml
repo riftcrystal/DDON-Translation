@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q50205002_00_60</key>
+    <original>異人の地下墓所</original>
+    <translation>The Foreigner's Underground Tomb</translation>
+  </message>
+  <message>
+    <key>q50205002_00_60</key>
+    <original>集いし勇敢なる冒険者たちよ
+手がかりの導く古墓に眠る
+黄金の秘宝を探し出せ</original>
+  </message>
+  <message>
+    <key>q50205002_00_2621</key>
+    <original>遭遇した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q50205002_00_2622</key>
+    <original>次なる敵を探し出す</original>
+  </message>
+  <message>
+    <key>q50205002_00_2623</key>
+    <original>パーティー集合マーカーに集まる</original>
+  </message>
+  <message>
+    <key>q50205002_00_2624</key>
+    <original>最奥に潜む魔物を討伐する</original>
+  </message>
+</resource>

@@ -61,7 +61,11 @@
   </message>
   <message>
     <key>q60000012_00_1538</key>
-    <original>謁見の間に行きレオと会う</original>
-    <translation>Report back to Leo at the Audience Chamber</translation>
+    <original>オンラインショップで指定の商品を無料購入する</original>
+  </message>
+  <message>
+    <key>q60000012_00_2794</key>
+    <original>ファビオに報告をする</original>
+    <translation>Report back to Fabio</translation>
   </message>
 </resource>

@@ -24,7 +24,7 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000006_00_1095</key>
     <original>シールドブロウで敵を攻撃せよ</original>
-    <translation>Attack the enemy with your Greatshield</translation>
+    <translation>Attack the enemy with Shield Blow</translation>
   </message>
   <message>
     <key>q60000006_00_1150</key>
@@ -49,7 +49,7 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000006_00_1154</key>
     <original>ゲージを溜め、フォースバーストで敵を攻撃せよ</original>
-    <translation>Fill in your Force Gauge and use a Force Burst</translation>
+    <translation>Fill your Force Gauge, then attack the enemy with Force Burst</translation>
   </message>
   <message>
     <key>q60000006_00_1249</key>

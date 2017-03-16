@@ -47,7 +47,7 @@
 無茶をするのではないか――</original>
   </message>
   <message>
-    <original>隊長よ、言いたいことはいろいろあるが
+    <original>ああ、言いたいことはいろいろあるが
 一番重要なことだけ伝えておこう</original>
   </message>
   <message>
@@ -97,8 +97,12 @@
 者がいるというのか</original>
   </message>
   <message>
-    <original>ではさっそく、不思議な効能のある
-稀少な植物の自生場所を教えよう</original>
+    <original>ではさっそく、不思議な効能で知られる
+植物の自生場所を伝えるよう
+各地のエリアマスターに伝達しておこう</original>
+  </message>
+  <message>
+    <original>具体的な場所は彼らから聞いてほしい</original>
   </message>
   <message>
     <original>ただしその効力のせいか、魔物を引き寄せる
@@ -113,9 +117,66 @@
 十分だろう</original>
   </message>
   <message>
-    <original>ただし、先ほど話したとおり
-その植物は効能のせいか、魔物を引き寄せる
-くれぐれも注意してくれ</original>
+    <original>具体的な場所は各地のエリアマスターたちから
+聞くといい</original>
+  </message>
+  <message>
+    <original>来訪の目的は聞いています
+お探しの植物は、そうですね</original>
+  </message>
+  <message>
+    <original>このモロー樹林の深層内を
+探すと良いでしょう</original>
+  </message>
+  <message>
+    <original>でも気を付けてください
+その植物は、森の徘徊者に守られていますから</original>
+  </message>
+  <message>
+    <original>元気だったかい！？
+フィンダムの医療に手を貸してくれるんだって！
+こんなに嬉しいことはないよ</original>
+  </message>
+  <message>
+    <original>そう、あんたの求める植物なら、マヌンの集落
+あたりを探すといいんだけれど
+ちょっと厄介でね</original>
+  </message>
+  <message>
+    <original>植物に魅入られたみたいにその場を
+離れない魔物がいるんだ
+だから、くれぐれも気をつけるんだよ</original>
+  </message>
+  <message>
+    <original>お久しぶりですね
+レスタニアの覚者さま――</original>
+  </message>
+  <message>
+    <original>お話はガラダの使者の方より聞いています
+ぜひとも協力させてください</original>
+  </message>
+  <message>
+    <original>あなたが求める植物は、エラン水林奥地――
+密林の鍾乳洞入口あたりで見つかるでしょう</original>
+  </message>
+  <message>
+    <original>ですが――
+そこには恐ろしい魔物が棲みついていると
+聞いています
+どうかご用心下さい</original>
+  </message>
+  <message>
+    <original>グリンデュアへようこそ
+ふたたび貴君の顔を見れて嬉しく思うよ</original>
+  </message>
+  <message>
+    <original>ガラダの使いの者から話は聞いている
+件の植物なら、この峡谷の奥地にある
+谷間を調べてみるといい</original>
+  </message>
+  <message>
+    <original>ただし、魔物を倒さなければ目的の品は
+手に入らないと思った方がいいな</original>
   </message>
   <message>
     <original>おお、見たところ、無事のようだな
@@ -123,31 +184,11 @@
 終えたようだ</original>
   </message>
   <message>
-    <original>薬草の場所
-マヌンの集落の上の方の崖付近だよ
-敵が守っているから倒してね！（仮）</original>
-  </message>
-  <message>
-    <original>薬草の場所
-密林の鍾乳洞前らへん
-敵が守っているから倒してね！（仮）</original>
-  </message>
-  <message>
-    <original>薬草の場所
-浸食森の深部のほうだよ
-敵が守ってるから倒してね！（仮）</original>
-  </message>
-  <message>
-    <original>薬草の場所
-雫採取場の少し手前くらいだよ
-敵が守ってるから倒してね！（仮）</original>
-  </message>
-  <message>
     <original>別の植物――ああ、あのことか</original>
   </message>
   <message>
     <original>それなら、大いなる芯なる樹の樹内――
-ヴェイガサス回廊に行けば
+ヴァルテブル・ホールに行けば
 必ず見つかるはずだ</original>
   </message>
   <message>
@@ -155,7 +196,7 @@
 やはり興味を持ったかな</original>
   </message>
   <message>
-    <original>回廊には魔物がいるから
+    <original>ホールには魔物がいるから
 くれぐれも気をつけてな</original>
   </message>
   <message>

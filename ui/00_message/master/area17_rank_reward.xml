@@ -53,4 +53,29 @@ New collectable item "Kingalite" appears</translation>
     <original>支援品の向上</original>
     <translation>Support goods rank up</translation>
   </message>
+  <message>
+    <key>AREA_RANK_REWARD_316</key>
+    <original>封鎖交通路が復旧《&lt;SPOT 950&gt;へ続く大門・崖崩れ》
+新たな強敵が出現《&lt;SPOT 950&gt;》</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_317</key>
+    <original>封鎖エリアが開放《&lt;SPOT 914&gt;》
+封鎖エリアが開放《&lt;SPOT 959&gt;》</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_318</key>
+    <original>新たな強敵が出現《&lt;SPOT 953&gt;》
+封鎖エリアが開放《&lt;SPOT 915&gt;》</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_319</key>
+    <original>封鎖エリアが開放《&lt;SPOT 916&gt;》</original>
+    <translation>Unblock area "&lt;SPOT 916&gt;"</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_320</key>
+    <original>支援品の向上</original>
+    <translation>Support goods rank up</translation>
+  </message>
 </resource>

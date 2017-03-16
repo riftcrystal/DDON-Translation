@@ -1,0 +1,71 @@
+﻿<resource>
+  <message>
+    <key>q00020220_00_54</key>
+    <original>侵された樹内</original>
+    <translation>Within the Infected Tree</translation>
+  </message>
+  <message>
+    <key>q00020220_00_54</key>
+    <original>芯なる樹の治療のため
+樹内の侵食魔を掃討する</original>
+  </message>
+  <message>
+    <key>q00020220_00_2148</key>
+    <original>始まりの洞へ向かいガラダと話す</original>
+    <translation>Head to 始まりの洞 and speak with Garada</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2150</key>
+    <original>樹内に蔓延る魔物を探しだす</original>
+  </message>
+  <message>
+    <key>q00020220_00_2151</key>
+    <original>発見した魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2152</key>
+    <original>引き続き魔物を探す</original>
+  </message>
+  <message>
+    <key>q00020220_00_2153</key>
+    <original>発見した魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2154</key>
+    <original>残りの魔物を探す</original>
+  </message>
+  <message>
+    <key>q00020220_00_2475</key>
+    <original>発見した魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2476</key>
+    <original>残りの魔物を探す</original>
+  </message>
+  <message>
+    <key>q00020220_00_2477</key>
+    <original>発見した魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2478</key>
+    <original>残りの魔物を探す</original>
+  </message>
+  <message>
+    <key>q00020220_00_2155</key>
+    <original>魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q00020220_00_2156</key>
+    <original>始まりの洞に戻りセシリーと話す</original>
+    <translation>Return to 始まりの洞 and speak with Cecily</translation>
+  </message>
+  <message>
+    <key>q00020220_00_2149</key>
+    <original>謁見の間に戻りジョゼフに報告する</original>
+    <translation>Return to Audience Chamber and report to Joseph</translation>
+  </message>
+</resource>

@@ -1,0 +1,29 @@
+﻿<resource>
+  <message>
+    <key>q00020240_00_56</key>
+    <original>理と絆</original>
+    <translation>Reason and Bonds</translation>
+  </message>
+  <message>
+    <key>q00020240_00_56</key>
+    <original>精霊竜との決戦のため、樹内上層にある
+精霊竜のねぐらを目指す</original>
+  </message>
+  <message>
+    <key>q00020240_00_2167</key>
+    <original>始まりの洞へ向かう</original>
+  </message>
+  <message>
+    <key>q00020240_00_2168</key>
+    <original>＜精霊竜のねぐら＞を目指す</original>
+  </message>
+  <message>
+    <key>q00020240_00_2169</key>
+    <original>精霊竜を倒す</original>
+  </message>
+  <message>
+    <key>q00020240_00_2166</key>
+    <original>謁見の間に戻りジョゼフに報告する</original>
+    <translation>Return to Audience Chamber and report to Joseph</translation>
+  </message>
+</resource>

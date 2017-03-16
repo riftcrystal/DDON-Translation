@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q21016024_00_630</key>
+    <original>【宝飾の扉】穢れし森の宝守り</original>
+    <translation>Door of Jewelry: 穢れし森の宝守り</translation>
+  </message>
+  <message>
+    <key>q21016024_00_630</key>
+    <original>【危険区域クエスト】
+ダンジョン内の危険区域へ繋がる扉の鍵を作り
+凶悪な魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q21016024_00_630</key>
+    <original>&lt;NAME AREA&gt;のダンジョン内部は、特別な
+鍵を持った者だけが入れる場所があるらしい</original>
+  </message>
+  <message>
+    <key>q21016024_00_630</key>
+    <original>この間、綺麗な石で作った髪留めを
+変な鳥に取られちゃったの！
+追いかけようとしたら、「侵食になるから」って
+お父さんに止められちゃった
+あの変な鳥、綺麗な物を集めてるのかな？</original>
+  </message>
+  <message>
+    <key>q21016024_00_1170</key>
+    <original>遭遇した凶悪な魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+</resource>

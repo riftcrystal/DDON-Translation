@@ -10,27 +10,27 @@
   <item id="36">
     <original>使用者のスタミナを回復する</original>
     <translation>Cures the user of the specified
-status debilitation.</translation>
+status debilitations.</translation>
   </item>
   <item id="37">
     <original>使用者の状態異常を解消する</original>
     <translation>Cures the user of the specified
-status debilitation.</translation>
+status debilitations.</translation>
   </item>
   <item id="38">
     <original>使用者の状態異常を解消する</original>
     <translation>Cures the user of the specified
-status debilitation.</translation>
+status debilitations.</translation>
   </item>
   <item id="39">
     <original>使用者の状態異常を解消する</original>
     <translation>Cures the user of the specified
-status debilitation.</translation>
+status debilitations.</translation>
   </item>
   <item id="40">
     <original>使用者の状態異常を解消する</original>
     <translation>Cures the user of the specified
-status debilitation.</translation>
+status debilitations.</translation>
   </item>
   <item id="41">
     <original>使用者の状態異常を解消する</original>
@@ -83,12 +83,15 @@ specified status effect.</translation>
   </item>
   <item id="54">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="55">
     <original>装備しているランタンに着火し、一定時間点灯させる</original>
   </item>
   <item id="56">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="57">
     <original>鉱脈から素材アイテムを採掘するために必要
@@ -104,6 +107,8 @@ specified status effect.</translation>
   </item>
   <item id="61">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="62">
     <original></original>
@@ -1128,10 +1133,19 @@ specified status effect.</translation>
   <item id="413">
     <original></original>
   </item>
+  <item id="414">
+    <original></original>
+  </item>
   <item id="415">
     <original></original>
   </item>
+  <item id="416">
+    <original></original>
+  </item>
   <item id="417">
+    <original></original>
+  </item>
+  <item id="418">
     <original></original>
   </item>
   <item id="419">
@@ -4049,10 +4063,19 @@ specified status effect.</translation>
   <item id="2025">
     <original></original>
   </item>
+  <item id="2026">
+    <original></original>
+  </item>
   <item id="2027">
     <original></original>
   </item>
+  <item id="2028">
+    <original></original>
+  </item>
   <item id="2029">
+    <original></original>
+  </item>
+  <item id="2030">
     <original></original>
   </item>
   <item id="2031">
@@ -6896,10 +6919,19 @@ specified status effect.</translation>
   <item id="3048">
     <original></original>
   </item>
+  <item id="3049">
+    <original></original>
+  </item>
   <item id="3050">
     <original></original>
   </item>
+  <item id="3051">
+    <original></original>
+  </item>
   <item id="3052">
+    <original></original>
+  </item>
+  <item id="3053">
     <original></original>
   </item>
   <item id="3054">
@@ -9743,10 +9775,19 @@ specified status effect.</translation>
   <item id="4071">
     <original></original>
   </item>
+  <item id="4072">
+    <original></original>
+  </item>
   <item id="4073">
     <original></original>
   </item>
+  <item id="4074">
+    <original></original>
+  </item>
   <item id="4075">
+    <original></original>
+  </item>
+  <item id="4076">
     <original></original>
   </item>
   <item id="4077">
@@ -12590,10 +12631,19 @@ specified status effect.</translation>
   <item id="5094">
     <original></original>
   </item>
+  <item id="5095">
+    <original></original>
+  </item>
   <item id="5096">
     <original></original>
   </item>
+  <item id="5097">
+    <original></original>
+  </item>
   <item id="5098">
+    <original></original>
+  </item>
+  <item id="5099">
     <original></original>
   </item>
   <item id="5100">
@@ -14453,15 +14503,19 @@ specified status effect.</translation>
   </item>
   <item id="7552">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="7553">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="7554">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="7555">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="7556">
     <original>ギミックチェック用テストアイテム</original>
@@ -19815,57 +19869,93 @@ when equipped to armor.</translation>
   </item>
   <item id="9361">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9362">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9363">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9364">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9365">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9366">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9367">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9368">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9369">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9370">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9371">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9372">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9373">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9374">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9375">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9376">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9377">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9378">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="9379">
     <original>使用者にステータス向上効果を付与する</original>
@@ -23272,6 +23362,21 @@ specified status effect.</translation>
   <item id="10558">
     <original></original>
   </item>
+  <item id="10559">
+    <original></original>
+  </item>
+  <item id="10560">
+    <original></original>
+  </item>
+  <item id="10561">
+    <original></original>
+  </item>
+  <item id="10562">
+    <original></original>
+  </item>
+  <item id="10563">
+    <original></original>
+  </item>
   <item id="10574">
     <original></original>
   </item>
@@ -23375,6 +23480,21 @@ specified status effect.</translation>
     <original></original>
   </item>
   <item id="10608">
+    <original></original>
+  </item>
+  <item id="10609">
+    <original></original>
+  </item>
+  <item id="10610">
+    <original></original>
+  </item>
+  <item id="10611">
+    <original></original>
+  </item>
+  <item id="10612">
+    <original></original>
+  </item>
+  <item id="10613">
     <original></original>
   </item>
   <item id="10624">
@@ -25458,6 +25578,21 @@ specified status effect.</translation>
   <item id="11346">
     <original></original>
   </item>
+  <item id="11347">
+    <original></original>
+  </item>
+  <item id="11348">
+    <original></original>
+  </item>
+  <item id="11349">
+    <original></original>
+  </item>
+  <item id="11350">
+    <original></original>
+  </item>
+  <item id="11351">
+    <original></original>
+  </item>
   <item id="11352">
     <original></original>
   </item>
@@ -25619,6 +25754,8 @@ specified status effect.</translation>
   </item>
   <item id="11407">
     <original>使用者の状態異常を解消する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="11408">
     <original>使用者にステータス向上効果を付与する</original>
@@ -25788,6 +25925,21 @@ specified status effect.</translation>
     <original></original>
   </item>
   <item id="11468">
+    <original></original>
+  </item>
+  <item id="11499">
+    <original></original>
+  </item>
+  <item id="11500">
+    <original></original>
+  </item>
+  <item id="11501">
+    <original></original>
+  </item>
+  <item id="11502">
+    <original></original>
+  </item>
+  <item id="11503">
     <original></original>
   </item>
   <item id="11504">
@@ -27220,6 +27372,21 @@ when equipped to armor.</translation>
   <item id="11965">
     <original></original>
   </item>
+  <item id="11966">
+    <original></original>
+  </item>
+  <item id="11967">
+    <original></original>
+  </item>
+  <item id="11968">
+    <original></original>
+  </item>
+  <item id="11969">
+    <original></original>
+  </item>
+  <item id="11970">
+    <original></original>
+  </item>
   <item id="11971">
     <original></original>
   </item>
@@ -27715,6 +27882,21 @@ when equipped to armor.</translation>
   <item id="12145">
     <original></original>
   </item>
+  <item id="12146">
+    <original></original>
+  </item>
+  <item id="12147">
+    <original></original>
+  </item>
+  <item id="12148">
+    <original></original>
+  </item>
+  <item id="12149">
+    <original></original>
+  </item>
+  <item id="12150">
+    <original></original>
+  </item>
   <item id="12151">
     <original></original>
   </item>
@@ -27743,6 +27925,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="12160">
+    <original></original>
+  </item>
+  <item id="12161">
+    <original></original>
+  </item>
+  <item id="12162">
+    <original></original>
+  </item>
+  <item id="12163">
+    <original></original>
+  </item>
+  <item id="12164">
+    <original></original>
+  </item>
+  <item id="12165">
     <original></original>
   </item>
   <item id="12166">
@@ -28240,6 +28437,21 @@ when equipped to armor.</translation>
   <item id="12365">
     <original></original>
   </item>
+  <item id="12366">
+    <original></original>
+  </item>
+  <item id="12367">
+    <original></original>
+  </item>
+  <item id="12368">
+    <original></original>
+  </item>
+  <item id="12369">
+    <original></original>
+  </item>
+  <item id="12370">
+    <original></original>
+  </item>
   <item id="12371">
     <original></original>
   </item>
@@ -28268,6 +28480,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="12380">
+    <original></original>
+  </item>
+  <item id="12381">
+    <original></original>
+  </item>
+  <item id="12382">
+    <original></original>
+  </item>
+  <item id="12383">
+    <original></original>
+  </item>
+  <item id="12384">
+    <original></original>
+  </item>
+  <item id="12385">
     <original></original>
   </item>
   <item id="12386">
@@ -28598,6 +28825,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="12505">
+    <original></original>
+  </item>
+  <item id="12506">
+    <original></original>
+  </item>
+  <item id="12507">
+    <original></original>
+  </item>
+  <item id="12508">
+    <original></original>
+  </item>
+  <item id="12509">
+    <original></original>
+  </item>
+  <item id="12510">
     <original></original>
   </item>
   <item id="12511">
@@ -30702,6 +30944,12 @@ when equipped to armor.</translation>
   <item id="13210">
     <original></original>
   </item>
+  <item id="13211">
+    <original></original>
+  </item>
+  <item id="13212">
+    <original></original>
+  </item>
   <item id="13213">
     <original></original>
   </item>
@@ -31492,6 +31740,26 @@ when equipped to armor.</translation>
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
   </item>
+  <item id="13487">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="13488">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="13489">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="13490">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
   <item id="13491">
     <original>《鑑定交換》で利用できる宝珠
 レウスシリーズ防具と交換できる
@@ -32145,9 +32413,12 @@ when equipped to armor.</translation>
   </item>
   <item id="13800">
     <original>使用者の体力を回復する</original>
+    <translation>Recovers a portion of the user's health.</translation>
   </item>
   <item id="13801">
     <original>使用者のスタミナを回復する</original>
+    <translation>Cures the user of the specified
+status debilitations.</translation>
   </item>
   <item id="13802">
     <original>使用者にステータス向上効果を付与する
@@ -33576,6 +33847,81 @@ when equipped to armor.</translation>
   <item id="14281">
     <original></original>
   </item>
+  <item id="14282">
+    <original></original>
+  </item>
+  <item id="14283">
+    <original></original>
+  </item>
+  <item id="14284">
+    <original></original>
+  </item>
+  <item id="14285">
+    <original></original>
+  </item>
+  <item id="14286">
+    <original></original>
+  </item>
+  <item id="14287">
+    <original></original>
+  </item>
+  <item id="14288">
+    <original></original>
+  </item>
+  <item id="14289">
+    <original></original>
+  </item>
+  <item id="14290">
+    <original></original>
+  </item>
+  <item id="14291">
+    <original></original>
+  </item>
+  <item id="14292">
+    <original></original>
+  </item>
+  <item id="14293">
+    <original></original>
+  </item>
+  <item id="14294">
+    <original></original>
+  </item>
+  <item id="14295">
+    <original></original>
+  </item>
+  <item id="14296">
+    <original></original>
+  </item>
+  <item id="14297">
+    <original></original>
+  </item>
+  <item id="14298">
+    <original></original>
+  </item>
+  <item id="14299">
+    <original></original>
+  </item>
+  <item id="14300">
+    <original></original>
+  </item>
+  <item id="14301">
+    <original></original>
+  </item>
+  <item id="14302">
+    <original></original>
+  </item>
+  <item id="14303">
+    <original></original>
+  </item>
+  <item id="14304">
+    <original></original>
+  </item>
+  <item id="14305">
+    <original></original>
+  </item>
+  <item id="14306">
+    <original></original>
+  </item>
   <item id="14307">
     <original></original>
   </item>
@@ -33634,6 +33980,141 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14326">
+    <original></original>
+  </item>
+  <item id="14327">
+    <original></original>
+  </item>
+  <item id="14328">
+    <original></original>
+  </item>
+  <item id="14329">
+    <original></original>
+  </item>
+  <item id="14330">
+    <original></original>
+  </item>
+  <item id="14331">
+    <original></original>
+  </item>
+  <item id="14332">
+    <original></original>
+  </item>
+  <item id="14333">
+    <original></original>
+  </item>
+  <item id="14334">
+    <original></original>
+  </item>
+  <item id="14335">
+    <original></original>
+  </item>
+  <item id="14336">
+    <original></original>
+  </item>
+  <item id="14337">
+    <original></original>
+  </item>
+  <item id="14338">
+    <original></original>
+  </item>
+  <item id="14339">
+    <original></original>
+  </item>
+  <item id="14340">
+    <original></original>
+  </item>
+  <item id="14341">
+    <original></original>
+  </item>
+  <item id="14342">
+    <original></original>
+  </item>
+  <item id="14343">
+    <original></original>
+  </item>
+  <item id="14344">
+    <original></original>
+  </item>
+  <item id="14345">
+    <original></original>
+  </item>
+  <item id="14346">
+    <original></original>
+  </item>
+  <item id="14347">
+    <original></original>
+  </item>
+  <item id="14348">
+    <original></original>
+  </item>
+  <item id="14349">
+    <original></original>
+  </item>
+  <item id="14350">
+    <original></original>
+  </item>
+  <item id="14351">
+    <original></original>
+  </item>
+  <item id="14352">
+    <original></original>
+  </item>
+  <item id="14353">
+    <original></original>
+  </item>
+  <item id="14354">
+    <original></original>
+  </item>
+  <item id="14355">
+    <original></original>
+  </item>
+  <item id="14356">
+    <original></original>
+  </item>
+  <item id="14357">
+    <original></original>
+  </item>
+  <item id="14358">
+    <original></original>
+  </item>
+  <item id="14359">
+    <original></original>
+  </item>
+  <item id="14360">
+    <original></original>
+  </item>
+  <item id="14361">
+    <original></original>
+  </item>
+  <item id="14362">
+    <original></original>
+  </item>
+  <item id="14363">
+    <original></original>
+  </item>
+  <item id="14364">
+    <original></original>
+  </item>
+  <item id="14365">
+    <original></original>
+  </item>
+  <item id="14366">
+    <original></original>
+  </item>
+  <item id="14367">
+    <original></original>
+  </item>
+  <item id="14368">
+    <original></original>
+  </item>
+  <item id="14369">
+    <original></original>
+  </item>
+  <item id="14370">
+    <original></original>
+  </item>
+  <item id="14371">
     <original></original>
   </item>
   <item id="14372">
@@ -33711,6 +34192,81 @@ when equipped to armor.</translation>
   <item id="14396">
     <original></original>
   </item>
+  <item id="14397">
+    <original></original>
+  </item>
+  <item id="14398">
+    <original></original>
+  </item>
+  <item id="14399">
+    <original></original>
+  </item>
+  <item id="14400">
+    <original></original>
+  </item>
+  <item id="14401">
+    <original></original>
+  </item>
+  <item id="14402">
+    <original></original>
+  </item>
+  <item id="14403">
+    <original></original>
+  </item>
+  <item id="14404">
+    <original></original>
+  </item>
+  <item id="14405">
+    <original></original>
+  </item>
+  <item id="14406">
+    <original></original>
+  </item>
+  <item id="14407">
+    <original></original>
+  </item>
+  <item id="14408">
+    <original></original>
+  </item>
+  <item id="14409">
+    <original></original>
+  </item>
+  <item id="14410">
+    <original></original>
+  </item>
+  <item id="14411">
+    <original></original>
+  </item>
+  <item id="14412">
+    <original></original>
+  </item>
+  <item id="14413">
+    <original></original>
+  </item>
+  <item id="14414">
+    <original></original>
+  </item>
+  <item id="14415">
+    <original></original>
+  </item>
+  <item id="14416">
+    <original></original>
+  </item>
+  <item id="14417">
+    <original></original>
+  </item>
+  <item id="14418">
+    <original></original>
+  </item>
+  <item id="14419">
+    <original></original>
+  </item>
+  <item id="14420">
+    <original></original>
+  </item>
+  <item id="14421">
+    <original></original>
+  </item>
   <item id="14422">
     <original></original>
   </item>
@@ -33769,6 +34325,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14441">
+    <original></original>
+  </item>
+  <item id="14442">
+    <original></original>
+  </item>
+  <item id="14443">
+    <original></original>
+  </item>
+  <item id="14444">
+    <original></original>
+  </item>
+  <item id="14445">
+    <original></original>
+  </item>
+  <item id="14446">
+    <original></original>
+  </item>
+  <item id="14447">
+    <original></original>
+  </item>
+  <item id="14448">
+    <original></original>
+  </item>
+  <item id="14449">
+    <original></original>
+  </item>
+  <item id="14450">
+    <original></original>
+  </item>
+  <item id="14451">
+    <original></original>
+  </item>
+  <item id="14452">
+    <original></original>
+  </item>
+  <item id="14453">
+    <original></original>
+  </item>
+  <item id="14454">
+    <original></original>
+  </item>
+  <item id="14455">
+    <original></original>
+  </item>
+  <item id="14456">
+    <original></original>
+  </item>
+  <item id="14457">
+    <original></original>
+  </item>
+  <item id="14458">
+    <original></original>
+  </item>
+  <item id="14459">
+    <original></original>
+  </item>
+  <item id="14460">
+    <original></original>
+  </item>
+  <item id="14461">
     <original></original>
   </item>
   <item id="14462">
@@ -33846,6 +34462,81 @@ when equipped to armor.</translation>
   <item id="14486">
     <original></original>
   </item>
+  <item id="14487">
+    <original></original>
+  </item>
+  <item id="14488">
+    <original></original>
+  </item>
+  <item id="14489">
+    <original></original>
+  </item>
+  <item id="14490">
+    <original></original>
+  </item>
+  <item id="14491">
+    <original></original>
+  </item>
+  <item id="14492">
+    <original></original>
+  </item>
+  <item id="14493">
+    <original></original>
+  </item>
+  <item id="14494">
+    <original></original>
+  </item>
+  <item id="14495">
+    <original></original>
+  </item>
+  <item id="14496">
+    <original></original>
+  </item>
+  <item id="14497">
+    <original></original>
+  </item>
+  <item id="14498">
+    <original></original>
+  </item>
+  <item id="14499">
+    <original></original>
+  </item>
+  <item id="14500">
+    <original></original>
+  </item>
+  <item id="14501">
+    <original></original>
+  </item>
+  <item id="14502">
+    <original></original>
+  </item>
+  <item id="14503">
+    <original></original>
+  </item>
+  <item id="14504">
+    <original></original>
+  </item>
+  <item id="14505">
+    <original></original>
+  </item>
+  <item id="14506">
+    <original></original>
+  </item>
+  <item id="14507">
+    <original></original>
+  </item>
+  <item id="14508">
+    <original></original>
+  </item>
+  <item id="14509">
+    <original></original>
+  </item>
+  <item id="14510">
+    <original></original>
+  </item>
+  <item id="14511">
+    <original></original>
+  </item>
   <item id="14512">
     <original></original>
   </item>
@@ -33921,6 +34612,81 @@ when equipped to armor.</translation>
   <item id="14536">
     <original></original>
   </item>
+  <item id="14537">
+    <original></original>
+  </item>
+  <item id="14538">
+    <original></original>
+  </item>
+  <item id="14539">
+    <original></original>
+  </item>
+  <item id="14540">
+    <original></original>
+  </item>
+  <item id="14541">
+    <original></original>
+  </item>
+  <item id="14542">
+    <original></original>
+  </item>
+  <item id="14543">
+    <original></original>
+  </item>
+  <item id="14544">
+    <original></original>
+  </item>
+  <item id="14545">
+    <original></original>
+  </item>
+  <item id="14546">
+    <original></original>
+  </item>
+  <item id="14547">
+    <original></original>
+  </item>
+  <item id="14548">
+    <original></original>
+  </item>
+  <item id="14549">
+    <original></original>
+  </item>
+  <item id="14550">
+    <original></original>
+  </item>
+  <item id="14551">
+    <original></original>
+  </item>
+  <item id="14552">
+    <original></original>
+  </item>
+  <item id="14553">
+    <original></original>
+  </item>
+  <item id="14554">
+    <original></original>
+  </item>
+  <item id="14555">
+    <original></original>
+  </item>
+  <item id="14556">
+    <original></original>
+  </item>
+  <item id="14557">
+    <original></original>
+  </item>
+  <item id="14558">
+    <original></original>
+  </item>
+  <item id="14559">
+    <original></original>
+  </item>
+  <item id="14560">
+    <original></original>
+  </item>
+  <item id="14561">
+    <original></original>
+  </item>
   <item id="14562">
     <original></original>
   </item>
@@ -33964,6 +34730,36 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14576">
+    <original></original>
+  </item>
+  <item id="14577">
+    <original></original>
+  </item>
+  <item id="14578">
+    <original></original>
+  </item>
+  <item id="14579">
+    <original></original>
+  </item>
+  <item id="14580">
+    <original></original>
+  </item>
+  <item id="14581">
+    <original></original>
+  </item>
+  <item id="14582">
+    <original></original>
+  </item>
+  <item id="14583">
+    <original></original>
+  </item>
+  <item id="14584">
+    <original></original>
+  </item>
+  <item id="14585">
+    <original></original>
+  </item>
+  <item id="14586">
     <original></original>
   </item>
   <item id="14587">
@@ -34041,6 +34837,81 @@ when equipped to armor.</translation>
   <item id="14611">
     <original></original>
   </item>
+  <item id="14612">
+    <original></original>
+  </item>
+  <item id="14613">
+    <original></original>
+  </item>
+  <item id="14614">
+    <original></original>
+  </item>
+  <item id="14615">
+    <original></original>
+  </item>
+  <item id="14616">
+    <original></original>
+  </item>
+  <item id="14617">
+    <original></original>
+  </item>
+  <item id="14618">
+    <original></original>
+  </item>
+  <item id="14619">
+    <original></original>
+  </item>
+  <item id="14620">
+    <original></original>
+  </item>
+  <item id="14621">
+    <original></original>
+  </item>
+  <item id="14622">
+    <original></original>
+  </item>
+  <item id="14623">
+    <original></original>
+  </item>
+  <item id="14624">
+    <original></original>
+  </item>
+  <item id="14625">
+    <original></original>
+  </item>
+  <item id="14626">
+    <original></original>
+  </item>
+  <item id="14627">
+    <original></original>
+  </item>
+  <item id="14628">
+    <original></original>
+  </item>
+  <item id="14629">
+    <original></original>
+  </item>
+  <item id="14630">
+    <original></original>
+  </item>
+  <item id="14631">
+    <original></original>
+  </item>
+  <item id="14632">
+    <original></original>
+  </item>
+  <item id="14633">
+    <original></original>
+  </item>
+  <item id="14634">
+    <original></original>
+  </item>
+  <item id="14635">
+    <original></original>
+  </item>
+  <item id="14636">
+    <original></original>
+  </item>
   <item id="14637">
     <original></original>
   </item>
@@ -34116,6 +34987,81 @@ when equipped to armor.</translation>
   <item id="14661">
     <original></original>
   </item>
+  <item id="14662">
+    <original></original>
+  </item>
+  <item id="14663">
+    <original></original>
+  </item>
+  <item id="14664">
+    <original></original>
+  </item>
+  <item id="14665">
+    <original></original>
+  </item>
+  <item id="14666">
+    <original></original>
+  </item>
+  <item id="14667">
+    <original></original>
+  </item>
+  <item id="14668">
+    <original></original>
+  </item>
+  <item id="14669">
+    <original></original>
+  </item>
+  <item id="14670">
+    <original></original>
+  </item>
+  <item id="14671">
+    <original></original>
+  </item>
+  <item id="14672">
+    <original></original>
+  </item>
+  <item id="14673">
+    <original></original>
+  </item>
+  <item id="14674">
+    <original></original>
+  </item>
+  <item id="14675">
+    <original></original>
+  </item>
+  <item id="14676">
+    <original></original>
+  </item>
+  <item id="14677">
+    <original></original>
+  </item>
+  <item id="14678">
+    <original></original>
+  </item>
+  <item id="14679">
+    <original></original>
+  </item>
+  <item id="14680">
+    <original></original>
+  </item>
+  <item id="14681">
+    <original></original>
+  </item>
+  <item id="14682">
+    <original></original>
+  </item>
+  <item id="14683">
+    <original></original>
+  </item>
+  <item id="14684">
+    <original></original>
+  </item>
+  <item id="14685">
+    <original></original>
+  </item>
+  <item id="14686">
+    <original></original>
+  </item>
   <item id="14687">
     <original></original>
   </item>
@@ -34189,6 +35135,81 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14711">
+    <original></original>
+  </item>
+  <item id="14712">
+    <original></original>
+  </item>
+  <item id="14713">
+    <original></original>
+  </item>
+  <item id="14714">
+    <original></original>
+  </item>
+  <item id="14715">
+    <original></original>
+  </item>
+  <item id="14716">
+    <original></original>
+  </item>
+  <item id="14717">
+    <original></original>
+  </item>
+  <item id="14718">
+    <original></original>
+  </item>
+  <item id="14719">
+    <original></original>
+  </item>
+  <item id="14720">
+    <original></original>
+  </item>
+  <item id="14721">
+    <original></original>
+  </item>
+  <item id="14722">
+    <original></original>
+  </item>
+  <item id="14723">
+    <original></original>
+  </item>
+  <item id="14724">
+    <original></original>
+  </item>
+  <item id="14725">
+    <original></original>
+  </item>
+  <item id="14726">
+    <original></original>
+  </item>
+  <item id="14727">
+    <original></original>
+  </item>
+  <item id="14728">
+    <original></original>
+  </item>
+  <item id="14729">
+    <original></original>
+  </item>
+  <item id="14730">
+    <original></original>
+  </item>
+  <item id="14731">
+    <original></original>
+  </item>
+  <item id="14732">
+    <original></original>
+  </item>
+  <item id="14733">
+    <original></original>
+  </item>
+  <item id="14734">
+    <original></original>
+  </item>
+  <item id="14735">
+    <original></original>
+  </item>
+  <item id="14736">
     <original></original>
   </item>
   <item id="14737">
@@ -34416,6 +35437,81 @@ when equipped to armor.</translation>
   <item id="14811">
     <original></original>
   </item>
+  <item id="14812">
+    <original></original>
+  </item>
+  <item id="14813">
+    <original></original>
+  </item>
+  <item id="14814">
+    <original></original>
+  </item>
+  <item id="14815">
+    <original></original>
+  </item>
+  <item id="14816">
+    <original></original>
+  </item>
+  <item id="14817">
+    <original></original>
+  </item>
+  <item id="14818">
+    <original></original>
+  </item>
+  <item id="14819">
+    <original></original>
+  </item>
+  <item id="14820">
+    <original></original>
+  </item>
+  <item id="14821">
+    <original></original>
+  </item>
+  <item id="14822">
+    <original></original>
+  </item>
+  <item id="14823">
+    <original></original>
+  </item>
+  <item id="14824">
+    <original></original>
+  </item>
+  <item id="14825">
+    <original></original>
+  </item>
+  <item id="14826">
+    <original></original>
+  </item>
+  <item id="14827">
+    <original></original>
+  </item>
+  <item id="14828">
+    <original></original>
+  </item>
+  <item id="14829">
+    <original></original>
+  </item>
+  <item id="14830">
+    <original></original>
+  </item>
+  <item id="14831">
+    <original></original>
+  </item>
+  <item id="14832">
+    <original></original>
+  </item>
+  <item id="14833">
+    <original></original>
+  </item>
+  <item id="14834">
+    <original></original>
+  </item>
+  <item id="14835">
+    <original></original>
+  </item>
+  <item id="14836">
+    <original></original>
+  </item>
   <item id="14837">
     <original></original>
   </item>
@@ -34459,6 +35555,96 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14851">
+    <original></original>
+  </item>
+  <item id="14852">
+    <original></original>
+  </item>
+  <item id="14853">
+    <original></original>
+  </item>
+  <item id="14854">
+    <original></original>
+  </item>
+  <item id="14855">
+    <original></original>
+  </item>
+  <item id="14856">
+    <original></original>
+  </item>
+  <item id="14857">
+    <original></original>
+  </item>
+  <item id="14858">
+    <original></original>
+  </item>
+  <item id="14859">
+    <original></original>
+  </item>
+  <item id="14860">
+    <original></original>
+  </item>
+  <item id="14861">
+    <original></original>
+  </item>
+  <item id="14862">
+    <original></original>
+  </item>
+  <item id="14863">
+    <original></original>
+  </item>
+  <item id="14864">
+    <original></original>
+  </item>
+  <item id="14865">
+    <original></original>
+  </item>
+  <item id="14866">
+    <original></original>
+  </item>
+  <item id="14867">
+    <original></original>
+  </item>
+  <item id="14868">
+    <original></original>
+  </item>
+  <item id="14869">
+    <original></original>
+  </item>
+  <item id="14870">
+    <original></original>
+  </item>
+  <item id="14871">
+    <original></original>
+  </item>
+  <item id="14872">
+    <original></original>
+  </item>
+  <item id="14873">
+    <original></original>
+  </item>
+  <item id="14874">
+    <original></original>
+  </item>
+  <item id="14875">
+    <original></original>
+  </item>
+  <item id="14876">
+    <original></original>
+  </item>
+  <item id="14877">
+    <original></original>
+  </item>
+  <item id="14878">
+    <original></original>
+  </item>
+  <item id="14879">
+    <original></original>
+  </item>
+  <item id="14880">
+    <original></original>
+  </item>
+  <item id="14881">
     <original></original>
   </item>
   <item id="14882">
@@ -34509,6 +35695,66 @@ when equipped to armor.</translation>
   <item id="14897">
     <original></original>
   </item>
+  <item id="14898">
+    <original></original>
+  </item>
+  <item id="14899">
+    <original></original>
+  </item>
+  <item id="14900">
+    <original></original>
+  </item>
+  <item id="14901">
+    <original></original>
+  </item>
+  <item id="14902">
+    <original></original>
+  </item>
+  <item id="14903">
+    <original></original>
+  </item>
+  <item id="14904">
+    <original></original>
+  </item>
+  <item id="14905">
+    <original></original>
+  </item>
+  <item id="14906">
+    <original></original>
+  </item>
+  <item id="14907">
+    <original></original>
+  </item>
+  <item id="14908">
+    <original></original>
+  </item>
+  <item id="14909">
+    <original></original>
+  </item>
+  <item id="14910">
+    <original></original>
+  </item>
+  <item id="14911">
+    <original></original>
+  </item>
+  <item id="14912">
+    <original></original>
+  </item>
+  <item id="14913">
+    <original></original>
+  </item>
+  <item id="14914">
+    <original></original>
+  </item>
+  <item id="14915">
+    <original></original>
+  </item>
+  <item id="14916">
+    <original></original>
+  </item>
+  <item id="14917">
+    <original></original>
+  </item>
   <item id="14918">
     <original></original>
   </item>
@@ -34552,6 +35798,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="14932">
+    <original></original>
+  </item>
+  <item id="14933">
+    <original></original>
+  </item>
+  <item id="14934">
+    <original></original>
+  </item>
+  <item id="14935">
+    <original></original>
+  </item>
+  <item id="14936">
+    <original></original>
+  </item>
+  <item id="14937">
+    <original></original>
+  </item>
+  <item id="14938">
+    <original></original>
+  </item>
+  <item id="14939">
+    <original></original>
+  </item>
+  <item id="14940">
+    <original></original>
+  </item>
+  <item id="14941">
+    <original></original>
+  </item>
+  <item id="14942">
+    <original></original>
+  </item>
+  <item id="14943">
+    <original></original>
+  </item>
+  <item id="14944">
+    <original></original>
+  </item>
+  <item id="14945">
+    <original></original>
+  </item>
+  <item id="14946">
+    <original></original>
+  </item>
+  <item id="14947">
+    <original></original>
+  </item>
+  <item id="14948">
+    <original></original>
+  </item>
+  <item id="14949">
+    <original></original>
+  </item>
+  <item id="14950">
+    <original></original>
+  </item>
+  <item id="14951">
+    <original></original>
+  </item>
+  <item id="14952">
     <original></original>
   </item>
   <item id="14953">
@@ -34599,7 +35905,100 @@ when equipped to armor.</translation>
   <item id="14967">
     <original></original>
   </item>
+  <item id="14968">
+    <original></original>
+  </item>
+  <item id="14969">
+    <original></original>
+  </item>
+  <item id="14970">
+    <original></original>
+  </item>
+  <item id="14971">
+    <original></original>
+  </item>
+  <item id="14972">
+    <original></original>
+  </item>
+  <item id="14973">
+    <original></original>
+  </item>
+  <item id="14974">
+    <original></original>
+  </item>
+  <item id="14975">
+    <original></original>
+  </item>
+  <item id="14976">
+    <original></original>
+  </item>
+  <item id="14977">
+    <original></original>
+  </item>
+  <item id="14978">
+    <original></original>
+  </item>
+  <item id="14979">
+    <original></original>
+  </item>
+  <item id="14980">
+    <original></original>
+  </item>
+  <item id="14981">
+    <original></original>
+  </item>
+  <item id="14982">
+    <original></original>
+  </item>
+  <item id="14983">
+    <original></original>
+  </item>
+  <item id="14984">
+    <original></original>
+  </item>
+  <item id="14985">
+    <original></original>
+  </item>
+  <item id="14986">
+    <original></original>
+  </item>
+  <item id="14987">
+    <original></original>
+  </item>
+  <item id="14988">
+    <original></original>
+  </item>
+  <item id="14989">
+    <original></original>
+  </item>
+  <item id="14990">
+    <original></original>
+  </item>
+  <item id="14991">
+    <original></original>
+  </item>
+  <item id="14992">
+    <original></original>
+  </item>
+  <item id="14993">
+    <original></original>
+  </item>
+  <item id="14994">
+    <original></original>
+  </item>
+  <item id="14995">
+    <original></original>
+  </item>
+  <item id="14996">
+    <original></original>
+  </item>
+  <item id="14997">
+    <original></original>
+  </item>
   <item id="14998">
+    <original></original>
+  </item>
+  <item id="15003">
     <original></original>
   </item>
   <item id="15008">
@@ -34645,6 +36044,126 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15022">
+    <original></original>
+  </item>
+  <item id="15023">
+    <original></original>
+  </item>
+  <item id="15024">
+    <original></original>
+  </item>
+  <item id="15025">
+    <original></original>
+  </item>
+  <item id="15026">
+    <original></original>
+  </item>
+  <item id="15027">
+    <original></original>
+  </item>
+  <item id="15028">
+    <original></original>
+  </item>
+  <item id="15029">
+    <original></original>
+  </item>
+  <item id="15030">
+    <original></original>
+  </item>
+  <item id="15031">
+    <original></original>
+  </item>
+  <item id="15032">
+    <original></original>
+  </item>
+  <item id="15033">
+    <original></original>
+  </item>
+  <item id="15034">
+    <original></original>
+  </item>
+  <item id="15035">
+    <original></original>
+  </item>
+  <item id="15036">
+    <original></original>
+  </item>
+  <item id="15037">
+    <original></original>
+  </item>
+  <item id="15038">
+    <original></original>
+  </item>
+  <item id="15039">
+    <original></original>
+  </item>
+  <item id="15040">
+    <original></original>
+  </item>
+  <item id="15041">
+    <original></original>
+  </item>
+  <item id="15042">
+    <original></original>
+  </item>
+  <item id="15043">
+    <original></original>
+  </item>
+  <item id="15044">
+    <original></original>
+  </item>
+  <item id="15045">
+    <original></original>
+  </item>
+  <item id="15046">
+    <original></original>
+  </item>
+  <item id="15047">
+    <original></original>
+  </item>
+  <item id="15048">
+    <original></original>
+  </item>
+  <item id="15049">
+    <original></original>
+  </item>
+  <item id="15050">
+    <original></original>
+  </item>
+  <item id="15051">
+    <original></original>
+  </item>
+  <item id="15052">
+    <original></original>
+  </item>
+  <item id="15053">
+    <original></original>
+  </item>
+  <item id="15054">
+    <original></original>
+  </item>
+  <item id="15055">
+    <original></original>
+  </item>
+  <item id="15056">
+    <original></original>
+  </item>
+  <item id="15057">
+    <original></original>
+  </item>
+  <item id="15058">
+    <original></original>
+  </item>
+  <item id="15059">
+    <original></original>
+  </item>
+  <item id="15060">
+    <original></original>
+  </item>
+  <item id="15061">
+    <original></original>
+  </item>
+  <item id="15062">
     <original></original>
   </item>
   <item id="15063">
@@ -34737,6 +36256,66 @@ when equipped to armor.</translation>
   <item id="15092">
     <original></original>
   </item>
+  <item id="15093">
+    <original></original>
+  </item>
+  <item id="15094">
+    <original></original>
+  </item>
+  <item id="15095">
+    <original></original>
+  </item>
+  <item id="15096">
+    <original></original>
+  </item>
+  <item id="15097">
+    <original></original>
+  </item>
+  <item id="15098">
+    <original></original>
+  </item>
+  <item id="15099">
+    <original></original>
+  </item>
+  <item id="15100">
+    <original></original>
+  </item>
+  <item id="15101">
+    <original></original>
+  </item>
+  <item id="15102">
+    <original></original>
+  </item>
+  <item id="15103">
+    <original></original>
+  </item>
+  <item id="15104">
+    <original></original>
+  </item>
+  <item id="15105">
+    <original></original>
+  </item>
+  <item id="15106">
+    <original></original>
+  </item>
+  <item id="15107">
+    <original></original>
+  </item>
+  <item id="15108">
+    <original></original>
+  </item>
+  <item id="15109">
+    <original></original>
+  </item>
+  <item id="15110">
+    <original></original>
+  </item>
+  <item id="15111">
+    <original></original>
+  </item>
+  <item id="15112">
+    <original></original>
+  </item>
   <item id="15113">
     <original></original>
   </item>
@@ -34780,6 +36359,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15127">
+    <original></original>
+  </item>
+  <item id="15128">
+    <original></original>
+  </item>
+  <item id="15129">
+    <original></original>
+  </item>
+  <item id="15130">
+    <original></original>
+  </item>
+  <item id="15131">
+    <original></original>
+  </item>
+  <item id="15132">
+    <original></original>
+  </item>
+  <item id="15133">
+    <original></original>
+  </item>
+  <item id="15134">
+    <original></original>
+  </item>
+  <item id="15135">
+    <original></original>
+  </item>
+  <item id="15136">
+    <original></original>
+  </item>
+  <item id="15137">
+    <original></original>
+  </item>
+  <item id="15138">
+    <original></original>
+  </item>
+  <item id="15139">
+    <original></original>
+  </item>
+  <item id="15140">
+    <original></original>
+  </item>
+  <item id="15141">
+    <original></original>
+  </item>
+  <item id="15142">
+    <original></original>
+  </item>
+  <item id="15143">
+    <original></original>
+  </item>
+  <item id="15144">
+    <original></original>
+  </item>
+  <item id="15145">
+    <original></original>
+  </item>
+  <item id="15146">
+    <original></original>
+  </item>
+  <item id="15147">
     <original></original>
   </item>
   <item id="15148">
@@ -34842,10 +36481,106 @@ when equipped to armor.</translation>
   <item id="15167">
     <original></original>
   </item>
+  <item id="15168">
+    <original></original>
+  </item>
+  <item id="15169">
+    <original></original>
+  </item>
+  <item id="15170">
+    <original></original>
+  </item>
+  <item id="15171">
+    <original></original>
+  </item>
+  <item id="15172">
+    <original></original>
+  </item>
+  <item id="15173">
+    <original></original>
+  </item>
+  <item id="15174">
+    <original></original>
+  </item>
+  <item id="15175">
+    <original></original>
+  </item>
+  <item id="15176">
+    <original></original>
+  </item>
+  <item id="15177">
+    <original></original>
+  </item>
+  <item id="15178">
+    <original></original>
+  </item>
+  <item id="15179">
+    <original></original>
+  </item>
+  <item id="15180">
+    <original></original>
+  </item>
+  <item id="15181">
+    <original></original>
+  </item>
+  <item id="15182">
+    <original></original>
+  </item>
+  <item id="15183">
+    <original></original>
+  </item>
+  <item id="15184">
+    <original></original>
+  </item>
+  <item id="15185">
+    <original></original>
+  </item>
+  <item id="15186">
+    <original></original>
+  </item>
+  <item id="15187">
+    <original></original>
+  </item>
   <item id="15188">
     <original></original>
   </item>
+  <item id="15193">
+    <original></original>
+  </item>
+  <item id="15198">
+    <original></original>
+  </item>
+  <item id="15199">
+    <original></original>
+  </item>
+  <item id="15200">
+    <original></original>
+  </item>
+  <item id="15201">
+    <original></original>
+  </item>
+  <item id="15202">
+    <original></original>
+  </item>
+  <item id="15203">
+    <original></original>
+  </item>
+  <item id="15204">
+    <original></original>
+  </item>
+  <item id="15205">
+    <original></original>
+  </item>
+  <item id="15206">
+    <original></original>
+  </item>
+  <item id="15207">
+    <original></original>
+  </item>
   <item id="15208">
+    <original></original>
+  </item>
+  <item id="15213">
     <original></original>
   </item>
   <item id="15218">
@@ -34893,6 +36628,66 @@ when equipped to armor.</translation>
   <item id="15232">
     <original></original>
   </item>
+  <item id="15233">
+    <original></original>
+  </item>
+  <item id="15234">
+    <original></original>
+  </item>
+  <item id="15235">
+    <original></original>
+  </item>
+  <item id="15236">
+    <original></original>
+  </item>
+  <item id="15237">
+    <original></original>
+  </item>
+  <item id="15238">
+    <original></original>
+  </item>
+  <item id="15239">
+    <original></original>
+  </item>
+  <item id="15240">
+    <original></original>
+  </item>
+  <item id="15241">
+    <original></original>
+  </item>
+  <item id="15242">
+    <original></original>
+  </item>
+  <item id="15243">
+    <original></original>
+  </item>
+  <item id="15244">
+    <original></original>
+  </item>
+  <item id="15245">
+    <original></original>
+  </item>
+  <item id="15246">
+    <original></original>
+  </item>
+  <item id="15247">
+    <original></original>
+  </item>
+  <item id="15248">
+    <original></original>
+  </item>
+  <item id="15249">
+    <original></original>
+  </item>
+  <item id="15250">
+    <original></original>
+  </item>
+  <item id="15251">
+    <original></original>
+  </item>
+  <item id="15252">
+    <original></original>
+  </item>
   <item id="15253">
     <original></original>
   </item>
@@ -34936,6 +36731,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15267">
+    <original></original>
+  </item>
+  <item id="15268">
+    <original></original>
+  </item>
+  <item id="15269">
+    <original></original>
+  </item>
+  <item id="15270">
+    <original></original>
+  </item>
+  <item id="15271">
+    <original></original>
+  </item>
+  <item id="15272">
+    <original></original>
+  </item>
+  <item id="15273">
+    <original></original>
+  </item>
+  <item id="15274">
+    <original></original>
+  </item>
+  <item id="15275">
+    <original></original>
+  </item>
+  <item id="15276">
+    <original></original>
+  </item>
+  <item id="15277">
+    <original></original>
+  </item>
+  <item id="15278">
+    <original></original>
+  </item>
+  <item id="15279">
+    <original></original>
+  </item>
+  <item id="15280">
+    <original></original>
+  </item>
+  <item id="15281">
+    <original></original>
+  </item>
+  <item id="15282">
+    <original></original>
+  </item>
+  <item id="15283">
+    <original></original>
+  </item>
+  <item id="15284">
+    <original></original>
+  </item>
+  <item id="15285">
+    <original></original>
+  </item>
+  <item id="15286">
+    <original></original>
+  </item>
+  <item id="15287">
     <original></original>
   </item>
   <item id="15288">
@@ -34983,6 +36838,66 @@ when equipped to armor.</translation>
   <item id="15302">
     <original></original>
   </item>
+  <item id="15303">
+    <original></original>
+  </item>
+  <item id="15304">
+    <original></original>
+  </item>
+  <item id="15305">
+    <original></original>
+  </item>
+  <item id="15306">
+    <original></original>
+  </item>
+  <item id="15307">
+    <original></original>
+  </item>
+  <item id="15308">
+    <original></original>
+  </item>
+  <item id="15309">
+    <original></original>
+  </item>
+  <item id="15310">
+    <original></original>
+  </item>
+  <item id="15311">
+    <original></original>
+  </item>
+  <item id="15312">
+    <original></original>
+  </item>
+  <item id="15313">
+    <original></original>
+  </item>
+  <item id="15315">
+    <original></original>
+  </item>
+  <item id="15316">
+    <original></original>
+  </item>
+  <item id="15317">
+    <original></original>
+  </item>
+  <item id="15318">
+    <original></original>
+  </item>
+  <item id="15319">
+    <original></original>
+  </item>
+  <item id="15320">
+    <original></original>
+  </item>
+  <item id="15321">
+    <original></original>
+  </item>
+  <item id="15322">
+    <original></original>
+  </item>
+  <item id="15323">
+    <original></original>
+  </item>
   <item id="15324">
     <original></original>
   </item>
@@ -35028,7 +36943,100 @@ when equipped to armor.</translation>
   <item id="15338">
     <original></original>
   </item>
+  <item id="15339">
+    <original></original>
+  </item>
+  <item id="15340">
+    <original></original>
+  </item>
+  <item id="15341">
+    <original></original>
+  </item>
+  <item id="15342">
+    <original></original>
+  </item>
+  <item id="15343">
+    <original></original>
+  </item>
+  <item id="15344">
+    <original></original>
+  </item>
+  <item id="15345">
+    <original></original>
+  </item>
+  <item id="15346">
+    <original></original>
+  </item>
+  <item id="15347">
+    <original></original>
+  </item>
+  <item id="15348">
+    <original></original>
+  </item>
+  <item id="15349">
+    <original></original>
+  </item>
+  <item id="15350">
+    <original></original>
+  </item>
+  <item id="15351">
+    <original></original>
+  </item>
+  <item id="15352">
+    <original></original>
+  </item>
+  <item id="15353">
+    <original></original>
+  </item>
+  <item id="15354">
+    <original></original>
+  </item>
+  <item id="15355">
+    <original></original>
+  </item>
+  <item id="15356">
+    <original></original>
+  </item>
+  <item id="15357">
+    <original></original>
+  </item>
+  <item id="15358">
+    <original></original>
+  </item>
+  <item id="15359">
+    <original></original>
+  </item>
+  <item id="15360">
+    <original></original>
+  </item>
+  <item id="15361">
+    <original></original>
+  </item>
+  <item id="15362">
+    <original></original>
+  </item>
+  <item id="15363">
+    <original></original>
+  </item>
+  <item id="15364">
+    <original></original>
+  </item>
+  <item id="15365">
+    <original></original>
+  </item>
+  <item id="15366">
+    <original></original>
+  </item>
+  <item id="15367">
+    <original></original>
+  </item>
+  <item id="15368">
+    <original></original>
+  </item>
   <item id="15369">
+    <original></original>
+  </item>
+  <item id="15374">
     <original></original>
   </item>
   <item id="15379">
@@ -35076,6 +37084,66 @@ when equipped to armor.</translation>
   <item id="15393">
     <original></original>
   </item>
+  <item id="15394">
+    <original></original>
+  </item>
+  <item id="15395">
+    <original></original>
+  </item>
+  <item id="15396">
+    <original></original>
+  </item>
+  <item id="15397">
+    <original></original>
+  </item>
+  <item id="15398">
+    <original></original>
+  </item>
+  <item id="15399">
+    <original></original>
+  </item>
+  <item id="15400">
+    <original></original>
+  </item>
+  <item id="15401">
+    <original></original>
+  </item>
+  <item id="15402">
+    <original></original>
+  </item>
+  <item id="15403">
+    <original></original>
+  </item>
+  <item id="15404">
+    <original></original>
+  </item>
+  <item id="15405">
+    <original></original>
+  </item>
+  <item id="15406">
+    <original></original>
+  </item>
+  <item id="15407">
+    <original></original>
+  </item>
+  <item id="15408">
+    <original></original>
+  </item>
+  <item id="15409">
+    <original></original>
+  </item>
+  <item id="15410">
+    <original></original>
+  </item>
+  <item id="15411">
+    <original></original>
+  </item>
+  <item id="15412">
+    <original></original>
+  </item>
+  <item id="15413">
+    <original></original>
+  </item>
   <item id="15414">
     <original></original>
   </item>
@@ -35119,6 +37187,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15428">
+    <original></original>
+  </item>
+  <item id="15429">
+    <original></original>
+  </item>
+  <item id="15430">
+    <original></original>
+  </item>
+  <item id="15431">
+    <original></original>
+  </item>
+  <item id="15432">
+    <original></original>
+  </item>
+  <item id="15433">
+    <original></original>
+  </item>
+  <item id="15434">
+    <original></original>
+  </item>
+  <item id="15435">
+    <original></original>
+  </item>
+  <item id="15436">
+    <original></original>
+  </item>
+  <item id="15437">
+    <original></original>
+  </item>
+  <item id="15438">
+    <original></original>
+  </item>
+  <item id="15439">
+    <original></original>
+  </item>
+  <item id="15440">
+    <original></original>
+  </item>
+  <item id="15441">
+    <original></original>
+  </item>
+  <item id="15442">
+    <original></original>
+  </item>
+  <item id="15443">
+    <original></original>
+  </item>
+  <item id="15444">
+    <original></original>
+  </item>
+  <item id="15445">
+    <original></original>
+  </item>
+  <item id="15446">
+    <original></original>
+  </item>
+  <item id="15447">
+    <original></original>
+  </item>
+  <item id="15448">
     <original></original>
   </item>
   <item id="15449">
@@ -35166,6 +37294,66 @@ when equipped to armor.</translation>
   <item id="15463">
     <original></original>
   </item>
+  <item id="15464">
+    <original></original>
+  </item>
+  <item id="15465">
+    <original></original>
+  </item>
+  <item id="15466">
+    <original></original>
+  </item>
+  <item id="15467">
+    <original></original>
+  </item>
+  <item id="15468">
+    <original></original>
+  </item>
+  <item id="15469">
+    <original></original>
+  </item>
+  <item id="15470">
+    <original></original>
+  </item>
+  <item id="15471">
+    <original></original>
+  </item>
+  <item id="15472">
+    <original></original>
+  </item>
+  <item id="15473">
+    <original></original>
+  </item>
+  <item id="15474">
+    <original></original>
+  </item>
+  <item id="15475">
+    <original></original>
+  </item>
+  <item id="15476">
+    <original></original>
+  </item>
+  <item id="15477">
+    <original></original>
+  </item>
+  <item id="15478">
+    <original></original>
+  </item>
+  <item id="15479">
+    <original></original>
+  </item>
+  <item id="15480">
+    <original></original>
+  </item>
+  <item id="15481">
+    <original></original>
+  </item>
+  <item id="15482">
+    <original></original>
+  </item>
+  <item id="15483">
+    <original></original>
+  </item>
   <item id="15484">
     <original></original>
   </item>
@@ -35209,6 +37397,66 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15498">
+    <original></original>
+  </item>
+  <item id="15499">
+    <original></original>
+  </item>
+  <item id="15500">
+    <original></original>
+  </item>
+  <item id="15501">
+    <original></original>
+  </item>
+  <item id="15502">
+    <original></original>
+  </item>
+  <item id="15503">
+    <original></original>
+  </item>
+  <item id="15504">
+    <original></original>
+  </item>
+  <item id="15505">
+    <original></original>
+  </item>
+  <item id="15506">
+    <original></original>
+  </item>
+  <item id="15507">
+    <original></original>
+  </item>
+  <item id="15508">
+    <original></original>
+  </item>
+  <item id="15509">
+    <original></original>
+  </item>
+  <item id="15510">
+    <original></original>
+  </item>
+  <item id="15511">
+    <original></original>
+  </item>
+  <item id="15512">
+    <original></original>
+  </item>
+  <item id="15513">
+    <original></original>
+  </item>
+  <item id="15514">
+    <original></original>
+  </item>
+  <item id="15515">
+    <original></original>
+  </item>
+  <item id="15516">
+    <original></original>
+  </item>
+  <item id="15517">
+    <original></original>
+  </item>
+  <item id="15518">
     <original></original>
   </item>
   <item id="15519">
@@ -35271,7 +37519,70 @@ when equipped to armor.</translation>
   <item id="15538">
     <original></original>
   </item>
+  <item id="15539">
+    <original></original>
+  </item>
+  <item id="15540">
+    <original></original>
+  </item>
+  <item id="15541">
+    <original></original>
+  </item>
+  <item id="15542">
+    <original></original>
+  </item>
+  <item id="15543">
+    <original></original>
+  </item>
+  <item id="15544">
+    <original></original>
+  </item>
+  <item id="15545">
+    <original></original>
+  </item>
+  <item id="15546">
+    <original></original>
+  </item>
+  <item id="15547">
+    <original></original>
+  </item>
+  <item id="15548">
+    <original></original>
+  </item>
+  <item id="15549">
+    <original></original>
+  </item>
+  <item id="15550">
+    <original></original>
+  </item>
+  <item id="15551">
+    <original></original>
+  </item>
+  <item id="15552">
+    <original></original>
+  </item>
+  <item id="15553">
+    <original></original>
+  </item>
+  <item id="15554">
+    <original></original>
+  </item>
+  <item id="15555">
+    <original></original>
+  </item>
+  <item id="15556">
+    <original></original>
+  </item>
+  <item id="15557">
+    <original></original>
+  </item>
+  <item id="15558">
+    <original></original>
+  </item>
   <item id="15559">
+    <original></original>
+  </item>
+  <item id="15564">
     <original></original>
   </item>
   <item id="15569">
@@ -35332,6 +37643,81 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15588">
+    <original></original>
+  </item>
+  <item id="15589">
+    <original></original>
+  </item>
+  <item id="15590">
+    <original></original>
+  </item>
+  <item id="15591">
+    <original></original>
+  </item>
+  <item id="15592">
+    <original></original>
+  </item>
+  <item id="15593">
+    <original></original>
+  </item>
+  <item id="15594">
+    <original></original>
+  </item>
+  <item id="15595">
+    <original></original>
+  </item>
+  <item id="15596">
+    <original></original>
+  </item>
+  <item id="15597">
+    <original></original>
+  </item>
+  <item id="15598">
+    <original></original>
+  </item>
+  <item id="15599">
+    <original></original>
+  </item>
+  <item id="15600">
+    <original></original>
+  </item>
+  <item id="15601">
+    <original></original>
+  </item>
+  <item id="15602">
+    <original></original>
+  </item>
+  <item id="15603">
+    <original></original>
+  </item>
+  <item id="15604">
+    <original></original>
+  </item>
+  <item id="15605">
+    <original></original>
+  </item>
+  <item id="15606">
+    <original></original>
+  </item>
+  <item id="15607">
+    <original></original>
+  </item>
+  <item id="15608">
+    <original></original>
+  </item>
+  <item id="15609">
+    <original></original>
+  </item>
+  <item id="15610">
+    <original></original>
+  </item>
+  <item id="15611">
+    <original></original>
+  </item>
+  <item id="15612">
+    <original></original>
+  </item>
+  <item id="15613">
     <original></original>
   </item>
   <item id="15614">
@@ -35433,6 +37819,66 @@ when equipped to armor.</translation>
   <item id="15646">
     <original></original>
   </item>
+  <item id="15647">
+    <original></original>
+  </item>
+  <item id="15648">
+    <original></original>
+  </item>
+  <item id="15649">
+    <original></original>
+  </item>
+  <item id="15650">
+    <original></original>
+  </item>
+  <item id="15651">
+    <original></original>
+  </item>
+  <item id="15652">
+    <original></original>
+  </item>
+  <item id="15653">
+    <original></original>
+  </item>
+  <item id="15654">
+    <original></original>
+  </item>
+  <item id="15655">
+    <original></original>
+  </item>
+  <item id="15656">
+    <original></original>
+  </item>
+  <item id="15657">
+    <original></original>
+  </item>
+  <item id="15658">
+    <original></original>
+  </item>
+  <item id="15659">
+    <original></original>
+  </item>
+  <item id="15660">
+    <original></original>
+  </item>
+  <item id="15661">
+    <original></original>
+  </item>
+  <item id="15662">
+    <original></original>
+  </item>
+  <item id="15663">
+    <original></original>
+  </item>
+  <item id="15664">
+    <original></original>
+  </item>
+  <item id="15665">
+    <original></original>
+  </item>
+  <item id="15666">
+    <original></original>
+  </item>
   <item id="15669">
     <original></original>
   </item>
@@ -35490,6 +37936,21 @@ when equipped to armor.</translation>
   <item id="15687">
     <original></original>
   </item>
+  <item id="15688">
+    <original></original>
+  </item>
+  <item id="15689">
+    <original></original>
+  </item>
+  <item id="15690">
+    <original></original>
+  </item>
+  <item id="15691">
+    <original></original>
+  </item>
+  <item id="15692">
+    <original></original>
+  </item>
   <item id="15693">
     <original></original>
   </item>
@@ -35533,6 +37994,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15707">
+    <original></original>
+  </item>
+  <item id="15708">
+    <original></original>
+  </item>
+  <item id="15709">
+    <original></original>
+  </item>
+  <item id="15710">
+    <original></original>
+  </item>
+  <item id="15711">
+    <original></original>
+  </item>
+  <item id="15712">
     <original></original>
   </item>
   <item id="15713">
@@ -35580,6 +38056,21 @@ when equipped to armor.</translation>
   <item id="15727">
     <original></original>
   </item>
+  <item id="15728">
+    <original></original>
+  </item>
+  <item id="15729">
+    <original></original>
+  </item>
+  <item id="15730">
+    <original></original>
+  </item>
+  <item id="15731">
+    <original></original>
+  </item>
+  <item id="15732">
+    <original></original>
+  </item>
   <item id="15733">
     <original></original>
   </item>
@@ -35623,6 +38114,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15747">
+    <original></original>
+  </item>
+  <item id="15748">
+    <original></original>
+  </item>
+  <item id="15749">
+    <original></original>
+  </item>
+  <item id="15750">
+    <original></original>
+  </item>
+  <item id="15751">
+    <original></original>
+  </item>
+  <item id="15752">
     <original></original>
   </item>
   <item id="15753">
@@ -35670,6 +38176,21 @@ when equipped to armor.</translation>
   <item id="15767">
     <original></original>
   </item>
+  <item id="15768">
+    <original></original>
+  </item>
+  <item id="15769">
+    <original></original>
+  </item>
+  <item id="15770">
+    <original></original>
+  </item>
+  <item id="15771">
+    <original></original>
+  </item>
+  <item id="15772">
+    <original></original>
+  </item>
   <item id="15773">
     <original></original>
   </item>
@@ -35713,6 +38234,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15787">
+    <original></original>
+  </item>
+  <item id="15788">
+    <original></original>
+  </item>
+  <item id="15789">
+    <original></original>
+  </item>
+  <item id="15790">
+    <original></original>
+  </item>
+  <item id="15791">
+    <original></original>
+  </item>
+  <item id="15792">
     <original></original>
   </item>
   <item id="15793">
@@ -35760,6 +38296,21 @@ when equipped to armor.</translation>
   <item id="15807">
     <original></original>
   </item>
+  <item id="15808">
+    <original></original>
+  </item>
+  <item id="15809">
+    <original></original>
+  </item>
+  <item id="15810">
+    <original></original>
+  </item>
+  <item id="15811">
+    <original></original>
+  </item>
+  <item id="15812">
+    <original></original>
+  </item>
   <item id="15813">
     <original></original>
   </item>
@@ -35803,6 +38354,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15827">
+    <original></original>
+  </item>
+  <item id="15828">
+    <original></original>
+  </item>
+  <item id="15829">
+    <original></original>
+  </item>
+  <item id="15830">
+    <original></original>
+  </item>
+  <item id="15831">
+    <original></original>
+  </item>
+  <item id="15832">
     <original></original>
   </item>
   <item id="15833">
@@ -35850,6 +38416,21 @@ when equipped to armor.</translation>
   <item id="15847">
     <original></original>
   </item>
+  <item id="15848">
+    <original></original>
+  </item>
+  <item id="15849">
+    <original></original>
+  </item>
+  <item id="15850">
+    <original></original>
+  </item>
+  <item id="15851">
+    <original></original>
+  </item>
+  <item id="15852">
+    <original></original>
+  </item>
   <item id="15853">
     <original></original>
   </item>
@@ -35893,6 +38474,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15867">
+    <original></original>
+  </item>
+  <item id="15868">
+    <original></original>
+  </item>
+  <item id="15869">
+    <original></original>
+  </item>
+  <item id="15870">
+    <original></original>
+  </item>
+  <item id="15871">
+    <original></original>
+  </item>
+  <item id="15872">
     <original></original>
   </item>
   <item id="15873">
@@ -35940,6 +38536,21 @@ when equipped to armor.</translation>
   <item id="15887">
     <original></original>
   </item>
+  <item id="15888">
+    <original></original>
+  </item>
+  <item id="15889">
+    <original></original>
+  </item>
+  <item id="15890">
+    <original></original>
+  </item>
+  <item id="15891">
+    <original></original>
+  </item>
+  <item id="15892">
+    <original></original>
+  </item>
   <item id="15893">
     <original></original>
   </item>
@@ -35983,6 +38594,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="15907">
+    <original></original>
+  </item>
+  <item id="15908">
+    <original></original>
+  </item>
+  <item id="15909">
+    <original></original>
+  </item>
+  <item id="15910">
+    <original></original>
+  </item>
+  <item id="15911">
+    <original></original>
+  </item>
+  <item id="15912">
     <original></original>
   </item>
   <item id="15913">
@@ -36098,6 +38724,16 @@ when equipped to armor.</translation>
   </item>
   <item id="15937">
     <original>《エラン水林》で高い功績をあげた者に
+のみ送られる名誉ある記章
+特定武具のクラフト素材に使用できる</original>
+  </item>
+  <item id="15938">
+    <original>《モロー樹林》で高い功績をあげた者に
+のみ送られる名誉ある記章
+特定武具のクラフト素材に使用できる</original>
+  </item>
+  <item id="15939">
+    <original>《キンガル峡谷》で高い功績をあげた者に
 のみ送られる名誉ある記章
 特定武具のクラフト素材に使用できる</original>
   </item>
@@ -36230,6 +38866,176 @@ when equipped to armor.</translation>
 切り取られてなお
 禍々しい存在感を放つグリゴリベアードの尾</original>
   </item>
+  <item id="15975">
+    <original>雑多なクラフト用素材
+とても分厚い貝殻の欠片</original>
+  </item>
+  <item id="15976">
+    <original>雑多なクラフト用素材
+巨大な二枚貝の化石</original>
+  </item>
+  <item id="15977">
+    <original>木材系のクラフト用素材
+侵食の作用により瘤ができた小枝</original>
+  </item>
+  <item id="15978">
+    <original>木材系のクラフト用素材
+侵食の作用により変形した
+木の枝で編まれたリース</original>
+  </item>
+  <item id="15979">
+    <original>布系のクラフト用素材
+青い塗料で何らかの図が描かれた古びた布</original>
+  </item>
+  <item id="15980">
+    <original>布系のクラフト用素材
+竜力を帯びた樹液で描かれたタペストリー</original>
+  </item>
+  <item id="15981">
+    <original>草花系のクラフト用素材
+遺跡内の特殊な環境下にて古代より
+生き延びてきたシダ類の一種</original>
+  </item>
+  <item id="15982">
+    <original>草花系のクラフト用素材
+特に古く大きな古代ソテツの葉</original>
+  </item>
+  <item id="15983">
+    <original>砂系のクラフト用素材
+無色透明な水晶が砕けてできた砂</original>
+  </item>
+  <item id="15984">
+    <original>砂系のクラフト用素材
+特に透明度が高い水晶が砕けてできた砂</original>
+  </item>
+  <item id="15985">
+    <original>雑多なクラフト用素材
+侵食の影響を受けて変形した木の実</original>
+  </item>
+  <item id="15986">
+    <original>雑多なクラフト用素材
+侵食の影響を受けた木の実から発芽した
+歪な色形の双葉</original>
+  </item>
+  <item id="15987">
+    <original>毛系のクラフト用素材
+闇夜のごとく深い黒色の獣毛</original>
+  </item>
+  <item id="15988">
+    <original>骨系のクラフト用素材
+何者かに潰されたらしき侵食魔の骨片</original>
+  </item>
+  <item id="15989">
+    <original>雑多なクラフト用素材
+ピクシー族の尊敬を集める小さな冠</original>
+  </item>
+  <item id="15990">
+    <original>液体系のクラフト用素材
+フィンダーエントの青みがかった樹液</original>
+  </item>
+  <item id="15991">
+    <original>皮革系のクラフト用素材
+怪しいまでに傷が少ない
+どこか異様さを感じる獣皮</original>
+  </item>
+  <item id="15992">
+    <original>皮革系のクラフト用素材
+一切の傷が無いままに
+皮一枚となった奇妙な獣皮</original>
+  </item>
+  <item id="15993">
+    <original>雑多なクラフト用素材
+フィンダム独特の薄青い樹液が
+結晶化した小さな粒</original>
+  </item>
+  <item id="15994">
+    <original>羽根系のクラフト用素材
+侵食の影響を受けた鳥類が落とす小さな羽根</original>
+  </item>
+  <item id="15995">
+    <original>宝石系のクラフト用素材
+侵食グリフィンの血液が凝固して
+できた真っ黒な石</original>
+  </item>
+  <item id="15996">
+    <original>爪牙系のクラフト用素材
+禍々しい気配を放つ真っ黒な爪</original>
+  </item>
+  <item id="15997">
+    <original>特定の場所でのみ入手できるクラフト用素材
+大海の潮力を含む竜力が結晶化したもの</original>
+  </item>
+  <item id="15998">
+    <original>入手機会の限られたクラフト素材
+淡い水色に輝く半透明の宝石</original>
+  </item>
+  <item id="15999">
+    <original>入手機会の限られたクラフト素材
+美しいグラデーションを魅せる青い宝石</original>
+  </item>
+  <item id="16000">
+    <original>入手機会の限られたクラフト素材
+見る角度によって七色の光を宿す青い宝石</original>
+  </item>
+  <item id="16001">
+    <original>鉱石系のクラフト用素材
+小さな花のような模様が浮かぶ灰色の岩</original>
+  </item>
+  <item id="16002">
+    <original>砂系のクラフト用素材
+粒子がきめ細かく滑らかな泥</original>
+  </item>
+  <item id="16003">
+    <original>木材系のクラフト用素材
+モルフォール地方の特産である
+軽く軟らかな木材</original>
+  </item>
+  <item id="16004">
+    <original>鉱石系のクラフト用素材
+非常に硬く、磁力を帯びた鉱石</original>
+  </item>
+  <item id="16005">
+    <original>金属系のクラフト用素材
+冷たいほどの白銀色に輝く鋼鉄の塊</original>
+  </item>
+  <item id="16006">
+    <original>布系のクラフト用素材
+自然の力を利用して編まれた
+繊細な模様のレース</original>
+  </item>
+  <item id="16007">
+    <original>魔道書系のクラフト用素材
+影の印が付与されたスクロール</original>
+  </item>
+  <item id="16008">
+    <original>骨系のクラフト用素材
+か細くも強度があるハイピクシーの骨</original>
+  </item>
+  <item id="16009">
+    <original>毛系のクラフト用素材
+淡く緑色の光を帯びた獣毛</original>
+  </item>
+  <item id="16010">
+    <original>肉系のクラフト用素材
+取り出されてなお脈打つ不気味な心臓</original>
+  </item>
+  <item id="16011">
+    <original>肉系のクラフト用素材
+魔力を帯びるセイレーンの声帯</original>
+  </item>
+  <item id="16012">
+    <original>キノコ系のクラフト用素材
+フィンダーエントの体表に付いた
+非常に長命な苔</original>
+  </item>
+  <item id="16013">
+    <original>角系のクラフト用素材
+強い瘴気を放つ魔族の角</original>
+  </item>
+  <item id="16014">
+    <original>爪牙系のクラフト用素材
+侵食の進んだグリフィンの大きな爪</original>
+  </item>
   <item id="16017">
     <original>雑多なクラフト用素材
 主人と心を通わせた戦徒から
@@ -36244,6 +39050,11 @@ when equipped to armor.</translation>
     <original>雑多なクラフト用素材
 ひどく錆びた大きな鉄の塊
 目利きによる鑑定でしか中身を見ぬくことはできない</original>
+  </item>
+  <item id="16020">
+    <original>砂系のクラフト用素材
+より高精度に削ったり磨いたりする際に使うペースト
+特定武具のクラフトに利用できる</original>
   </item>
   <item id="16029">
     <original></original>
@@ -36521,10 +39332,30 @@ when equipped to armor.</translation>
     <original>皮革系のクラフト用素材
 まるで岩のように硬質化した謎の鱗</original>
   </item>
+  <item id="16118">
+    <original>皮革系のクラフト用素材
+あまりにも深く黒い呪われた毛皮</original>
+  </item>
+  <item id="16119">
+    <original>骨系のクラフト用素材
+侵食の影響により歪な形になった背骨</original>
+  </item>
+  <item id="16120">
+    <original>木材系のクラフト用素材
+青く輝く鉱石が食い込んだ小枝</original>
+  </item>
+  <item id="16121">
+    <original>液体系のクラフト用素材
+微細な菌胞が漂う
+侵食グリフィンの体内を巡る血液</original>
+  </item>
   <item id="16122">
     <original>覚者が自室でくつろぐための部屋着</original>
   </item>
   <item id="16123">
+    <original>覚者が自室でくつろぐための部屋着</original>
+  </item>
+  <item id="16124">
     <original>覚者が自室でくつろぐための部屋着</original>
   </item>
   <item id="16125">
@@ -36532,6 +39363,10 @@ when equipped to armor.</translation>
 自室でくつろぐための部屋着</original>
   </item>
   <item id="16126">
+    <original>パートナーポーンが
+自室でくつろぐための部屋着</original>
+  </item>
+  <item id="16127">
     <original>パートナーポーンが
 自室でくつろぐための部屋着</original>
   </item>
@@ -36543,11 +39378,19 @@ when equipped to armor.</translation>
     <original>パートナーポーンが
 お風呂でくつろぐための湯浴み着</original>
   </item>
+  <item id="16130">
+    <original>パートナーポーンが
+お風呂でくつろぐための湯浴み着</original>
+  </item>
   <item id="16131">
     <original>パートナーポーンが
 ベッドでくつろぐための寝巻き</original>
   </item>
   <item id="16132">
+    <original>パートナーポーンが
+ベッドでくつろぐための寝巻き</original>
+  </item>
+  <item id="16133">
     <original>パートナーポーンが
 ベッドでくつろぐための寝巻き</original>
   </item>
@@ -36648,6 +39491,9 @@ when equipped to armor.</translation>
   <item id="16168">
     <original>明るいタイプのルームライト</original>
   </item>
+  <item id="16169">
+    <original>クールなタイプのルームライト</original>
+  </item>
   <item id="16170">
     <original>書斎に設置できる
 エレガントなカーペット</original>
@@ -36656,8 +39502,23 @@ when equipped to armor.</translation>
     <original>書斎に設置できる
 エキゾチックなカーペット</original>
   </item>
+  <item id="16172">
+    <original>書斎に設置できる
+ゴージャスなカーペット</original>
+  </item>
+  <item id="16173">
+    <original>書斎に設置できる
+クラシックなカーペット</original>
+  </item>
+  <item id="16174">
+    <original>風格のある者が座るにふさわしい
+椅子を備えた家具</original>
+  </item>
   <item id="16175">
     <original>情熱的な色のダイニングテーブル</original>
+  </item>
+  <item id="16176">
+    <original>神秘的な色のダイニングテーブル</original>
   </item>
   <item id="16177">
     <original>ダイニングを彩るフラワーポット</original>
@@ -36684,9 +39545,18 @@ when equipped to armor.</translation>
 作成できるようになったパペット
 チェストの上に置ける大きめサイズ</original>
   </item>
+  <item id="16183">
+    <original>レスタニアの職人の協力によって
+作成できるようになったパペット
+チェストの上に置ける大きめサイズ</original>
+  </item>
   <item id="16184">
     <original>フィンダム拠点に設置されている
 モノリスのレプリカ</original>
+  </item>
+  <item id="16185">
+    <original>フィンダム拠点に設置されている
+モノリスのレプリカだが強力な力が宿っている</original>
   </item>
   <item id="16186">
     <original>室内を安らぐ光で照らすルームランプ</original>
@@ -36694,10 +39564,19 @@ when equipped to armor.</translation>
   <item id="16187">
     <original>情熱的な色のテーブル</original>
   </item>
+  <item id="16188">
+    <original>神秘的な色のテーブル</original>
+  </item>
   <item id="16190">
     <original>テーブルを彩るフラワーポット</original>
   </item>
+  <item id="16201">
+    <original></original>
+  </item>
   <item id="16202">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16203">
     <original>家具のレシピ</original>
   </item>
   <item id="16204">
@@ -36710,6 +39589,12 @@ when equipped to armor.</translation>
     <original>家具のレシピ</original>
   </item>
   <item id="16207">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16208">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16209">
     <original>家具のレシピ</original>
   </item>
   <item id="16210">
@@ -36739,10 +39624,16 @@ when equipped to armor.</translation>
   <item id="16218">
     <original>家具のレシピ</original>
   </item>
+  <item id="16219">
+    <original>家具のレシピ</original>
+  </item>
   <item id="16220">
     <original>家具のレシピ</original>
   </item>
   <item id="16221">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16222">
     <original>家具のレシピ</original>
   </item>
   <item id="16223">
@@ -36751,10 +39642,16 @@ when equipped to armor.</translation>
   <item id="16224">
     <original>家具のレシピ</original>
   </item>
+  <item id="16225">
+    <original>家具のレシピ</original>
+  </item>
   <item id="16226">
     <original>家具のレシピ</original>
   </item>
   <item id="16227">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16228">
     <original>家具のレシピ</original>
   </item>
   <item id="16229">
@@ -36763,13 +39660,22 @@ when equipped to armor.</translation>
   <item id="16230">
     <original>家具のレシピ</original>
   </item>
+  <item id="16231">
+    <original>家具のレシピ</original>
+  </item>
   <item id="16232">
     <original>家具のレシピ</original>
   </item>
   <item id="16233">
     <original>家具のレシピ</original>
   </item>
+  <item id="16234">
+    <original>家具のレシピ</original>
+  </item>
   <item id="16235">
+    <original>家具のレシピ</original>
+  </item>
+  <item id="16236">
     <original>家具のレシピ</original>
   </item>
   <item id="16237">
@@ -37654,6 +40560,12 @@ when equipped to armor.</translation>
   <item id="16464">
     <original></original>
   </item>
+  <item id="16465">
+    <original></original>
+  </item>
+  <item id="16466">
+    <original></original>
+  </item>
   <item id="16470">
     <original></original>
   </item>
@@ -37744,31 +40656,61 @@ when equipped to armor.</translation>
   <item id="16502">
     <original></original>
   </item>
+  <item id="16503">
+    <original></original>
+  </item>
   <item id="16504">
+    <original></original>
+  </item>
+  <item id="16505">
     <original></original>
   </item>
   <item id="16506">
     <original></original>
   </item>
+  <item id="16507">
+    <original></original>
+  </item>
   <item id="16508">
+    <original></original>
+  </item>
+  <item id="16509">
     <original></original>
   </item>
   <item id="16510">
     <original></original>
   </item>
+  <item id="16511">
+    <original></original>
+  </item>
   <item id="16512">
+    <original></original>
+  </item>
+  <item id="16513">
     <original></original>
   </item>
   <item id="16514">
     <original></original>
   </item>
+  <item id="16515">
+    <original></original>
+  </item>
   <item id="16516">
+    <original></original>
+  </item>
+  <item id="16517">
     <original></original>
   </item>
   <item id="16518">
     <original></original>
   </item>
+  <item id="16519">
+    <original></original>
+  </item>
   <item id="16520">
+    <original></original>
+  </item>
+  <item id="16521">
     <original></original>
   </item>
   <item id="16522">
@@ -38103,6 +41045,21 @@ when equipped to armor.</translation>
     <original>特にモチーフのない奇妙な刻印
 武器から取り外す事はできない</original>
   </item>
+  <item id="16633">
+    <original></original>
+  </item>
+  <item id="16634">
+    <original></original>
+  </item>
+  <item id="16635">
+    <original></original>
+  </item>
+  <item id="16636">
+    <original></original>
+  </item>
+  <item id="16637">
+    <original></original>
+  </item>
   <item id="16638">
     <original></original>
   </item>
@@ -38116,6 +41073,36 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="16642">
+    <original></original>
+  </item>
+  <item id="16643">
+    <original></original>
+  </item>
+  <item id="16644">
+    <original></original>
+  </item>
+  <item id="16645">
+    <original></original>
+  </item>
+  <item id="16646">
+    <original></original>
+  </item>
+  <item id="16647">
+    <original></original>
+  </item>
+  <item id="16648">
+    <original></original>
+  </item>
+  <item id="16649">
+    <original></original>
+  </item>
+  <item id="16650">
+    <original></original>
+  </item>
+  <item id="16651">
+    <original></original>
+  </item>
+  <item id="16652">
     <original></original>
   </item>
   <item id="16653">
@@ -38133,6 +41120,21 @@ when equipped to armor.</translation>
   <item id="16657">
     <original></original>
   </item>
+  <item id="16658">
+    <original></original>
+  </item>
+  <item id="16659">
+    <original></original>
+  </item>
+  <item id="16660">
+    <original></original>
+  </item>
+  <item id="16661">
+    <original></original>
+  </item>
+  <item id="16662">
+    <original></original>
+  </item>
   <item id="16663">
     <original></original>
   </item>
@@ -38146,6 +41148,21 @@ when equipped to armor.</translation>
     <original></original>
   </item>
   <item id="16667">
+    <original></original>
+  </item>
+  <item id="16668">
+    <original></original>
+  </item>
+  <item id="16669">
+    <original></original>
+  </item>
+  <item id="16670">
+    <original></original>
+  </item>
+  <item id="16671">
+    <original></original>
+  </item>
+  <item id="16672">
     <original></original>
   </item>
   <item id="16673">
@@ -38163,6 +41180,21 @@ when equipped to armor.</translation>
   <item id="16677">
     <original></original>
   </item>
+  <item id="16678">
+    <original></original>
+  </item>
+  <item id="16679">
+    <original></original>
+  </item>
+  <item id="16680">
+    <original></original>
+  </item>
+  <item id="16681">
+    <original></original>
+  </item>
+  <item id="16682">
+    <original></original>
+  </item>
   <item id="16683">
     <original></original>
   </item>
@@ -38177,6 +41209,40 @@ when equipped to armor.</translation>
   </item>
   <item id="16687">
     <original></original>
+  </item>
+  <item id="16688">
+    <original></original>
+  </item>
+  <item id="16689">
+    <original></original>
+  </item>
+  <item id="16690">
+    <original></original>
+  </item>
+  <item id="16691">
+    <original></original>
+  </item>
+  <item id="16692">
+    <original></original>
+  </item>
+  <item id="16693">
+    <original></original>
+  </item>
+  <item id="16694">
+    <original></original>
+  </item>
+  <item id="16695">
+    <original></original>
+  </item>
+  <item id="16696">
+    <original></original>
+  </item>
+  <item id="16697">
+    <original></original>
+  </item>
+  <item id="16698">
+    <original>入手機会の限られたクラフト用素材
+得体の知れない漆黒の思念体</original>
   </item>
   <item id="16699">
     <original>対象のアビリティと同等の効果を得る
@@ -38506,6 +41572,14 @@ when equipped to armor.</translation>
   </item>
   <item id="16832">
     <original>経験値の結晶</original>
+  </item>
+  <item id="16833">
+    <original>美しい彫刻の施された銀の宝珠
+《鑑定交換》で利用できる</original>
+  </item>
+  <item id="16834">
+    <original>美しい彫刻の施された金の宝珠
+《鑑定交換》で利用できる</original>
   </item>
   <item id="16859">
     <original></original>
@@ -39123,5 +42197,8 @@ a commemorative trophy.</translation>
   </item>
   <item id="17108">
     <original>特製チョコレートのレシピ</original>
+  </item>
+  <item id="17154">
+    <original></original>
   </item>
 </item_data>

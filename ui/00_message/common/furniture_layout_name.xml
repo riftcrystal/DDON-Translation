@@ -127,18 +127,22 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_29</key>
     <original>覚者の部屋着</original>
+    <translation>Arisen's Loungewear</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_30</key>
     <original>従者の部屋着</original>
+    <translation>Servant's Loungewear</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_31</key>
     <original>従者の湯浴み着</original>
+    <translation>Servant's Bathing Clothes</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_32</key>
     <original>従者の寝巻き</original>
+    <translation>Servant's Sleepwear</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_34</key>
@@ -148,6 +152,7 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_35</key>
     <original>自室の照明</original>
+    <translation>Arisen's Room Lighting</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_36</key>
@@ -162,5 +167,6 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_38</key>
     <original>天気予報</original>
+    <translation>Weather Forecast</translation>
   </message>
 </resource>

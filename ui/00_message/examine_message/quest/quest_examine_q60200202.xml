@@ -1,20 +1,26 @@
 ﻿<resource>
   <message>
-    <original>不思議な香りの草を見つけた</original>
+    <original>不思議な香りの植物を見つけた</original>
   </message>
   <message>
-    <original>不思議な色の草を見つけた</original>
+    <original>不思議な色の植物を見つけた</original>
   </message>
   <message>
-    <original>不思議な形の草を見つけた</original>
+    <original>不思議な形の植物を見つけた</original>
   </message>
   <message>
-    <original>不思議な触感の草を見つけた</original>
+    <original>不思議な触感の植物を見つけた</original>
   </message>
   <message>
-    <original>魔物が出現した！</original>
+    <original>植物に集う魔物を討伐する</original>
   </message>
   <message>
-    <original>何とも言えない外見の草を見つけた</original>
+    <original>何とも言えない外見の植物を見つけた</original>
+  </message>
+  <message>
+    <original>植物を入手した</original>
+  </message>
+  <message>
+    <original>聞いた植物の場所を地図に記入した</original>
   </message>
 </resource>

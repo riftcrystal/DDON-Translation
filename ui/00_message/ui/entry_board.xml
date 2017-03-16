@@ -525,4 +525,14 @@
     <original>ソロプレイ</original>
     <translation>Solo Play</translation>
   </message>
+  <message>
+    <key>entry_board_mission_info_attention</key>
+    <original>注意事項</original>
+  </message>
+  <message>
+    <key>entry_board_mission_info_attention_clan</key>
+    <original>マルチプレイでのエントリーボード検索はできません
+エントリーボード招待やパーティー招待などの機能を
+使用して、他のプレイヤーを募集することが可能です</original>
+  </message>
 </resource>

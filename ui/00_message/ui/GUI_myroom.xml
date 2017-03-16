@@ -11,8 +11,8 @@
   </message>
   <message>
     <key>g_myr_msg_common_choice_0</key>
-    <original>設置しない</original>
-    <translation>Nothing</translation>
+    <original>設定しない</original>
+    <translation>Not set</translation>
   </message>
   <message>
     <key>g_myr_msg_common_choice_1</key>

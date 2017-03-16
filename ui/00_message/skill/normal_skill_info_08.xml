@@ -3,62 +3,93 @@
     <key>NORMAL_SKILL_INFO_08_113</key>
     <original>闘波の矢を生成し、魔道弓を前方に向けて構える
 空中でも発動可能</original>
+    <translation>Hold the Magick Bow forward, and create Seeker Arrows.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_114</key>
     <original>魔道弓を敵に向け、対象を捉える
 捉える敵が多いほど、闘波の矢の威力上昇速度が
 速くなる。空中でも発動可能</original>
+    <translation>Face the Magick Bow towards the enemy, and
+capture them within it's sights. The more enemies that are targeted,
+the higher the rate at which the Seeker Arrow charges.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_115</key>
     <original>捉えた敵に向けて闘波の矢を放ち、攻撃を与える
 空中でも発動可能</original>
+    <translation>Fire the Seeker Arrow towards the
+targeted enemy.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_116</key>
     <original>闘波の矢の威力を強化する
 空中でも発動可能</original>
+    <translation>Increases damage of the Seeker Arrow.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_117</key>
     <original>助真の矢を生成し、魔道弓を前方に向けて構える
 空中でも発動可能</original>
+    <translation>Hold the Magick Bow forward, and create True Aid Arrows.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_118</key>
     <original>魔道弓を味方に向け、対象を捉える
 捉える味方が多いほど、助真の矢の回復力
 上昇速度が速くなる。空中でも発動可能</original>
+    <translation>Face the Magick Bow towards an ally, and
+capture them within it's sights. The more allies that are targeted,
+the higher the rate at which the True Aid Arrow charges.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_119</key>
     <original>捉えた味方に向けて助真の矢を放ち、味方の傷を癒す
 空中でも発動可能</original>
+    <translation>Fire the True Aid Arrow at a targeted ally
+and heal their wounds.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_120</key>
     <original>助真の矢の威力を強化する
 空中でも発動可能</original>
+    <translation>Enhances the recovery power of the True Aid Arrow.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_121</key>
     <original>前方に蹴りを放つ
 空中でも発動可能</original>
+    <translation>Kicks forward.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_122</key>
     <original>自身の傷を癒す
 空中でも発動可能</original>
+    <translation>Heal your wounds.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_123</key>
     <original>照準をより多数の目標に合わせ、狙いを定める
 空中でも発動可能</original>
+    <translation>Increase the maximum number of targets
+that can be locked on while aiming.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_08_135</key>
     <original>しがみついた状態から、魔矢を放ち
 スタミナを癒す魔法陣を発現させる</original>
+    <translation>While climbing an enemy, release a magickal
+arrow that restores the stamina of party members near it.</translation>
   </message>
 </resource>

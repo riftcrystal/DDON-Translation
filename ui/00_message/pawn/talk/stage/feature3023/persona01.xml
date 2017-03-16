@@ -1,16 +1,22 @@
 ﻿<resource>
   <message>
-    <original>壊れずに残っている家具もありますし
-この塔はつい最近まで人が使っていたと
-考えるのが妥当でしょうね</original>
+    <original>この拠点、フィンダムの他の拠点とは
+少し雰囲気が異なるようです</original>
   </message>
   <message>
-    <original>時には暗き地の底も、冒険譚には
-必要な一幕
-さぁ行く手の魔物を倒し、進みましょう</original>
+    <original>なぜ、ここの方たちは他の拠点のように
+外に出て暮らさないのでしょうか？</original>
   </message>
   <message>
-    <original>採取できそうなものや宝箱なんかも
-探せばあるかもしれませんね</original>
+    <original>フィンダムの方は皆、角をお持ちなのですね
+よく見ると形にも個性があるようです</original>
+  </message>
+  <message>
+    <original>覚者さま、この地の方々のお手伝いをすれば
+フィンダムになじめるのではないでしょうか</original>
+  </message>
+  <message>
+    <original>侵食魔に対抗するための準備は
+もうお済みですか？</original>
   </message>
 </resource>

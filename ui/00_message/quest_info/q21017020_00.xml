@@ -1,0 +1,42 @@
+﻿<resource>
+  <message>
+    <key>q21017020_00_616</key>
+    <original>旧知の宿敵</original>
+  </message>
+  <message>
+    <key>q21017020_00_616</key>
+    <original>【迅速救助クエスト】
+依頼者が求める人物を捜索し
+迅速に救助する</original>
+  </message>
+  <message>
+    <key>q21017020_00_616</key>
+    <original>何者かからの、迅速な救援を求める声が
+&lt;NAME AREA&gt;から届いているようだ</original>
+  </message>
+  <message>
+    <key>q21017020_00_616</key>
+    <original>少し前、グリンデュアがもっと安全で
+村が鉱石の交易で潤ってた時に
+よくあちこちから客人を迎えてる怪しい男がいた
+災厄が起こってからは、しばらく見なかったけど
+さっき久しぶりに見たんだが、やつれていたよ</original>
+  </message>
+  <message>
+    <key>q21017020_00_1226</key>
+    <original>依頼者の求める人物を捜索する</original>
+  </message>
+  <message>
+    <key>q21017020_00_1227</key>
+    <original>魔物を迅速に討伐し捜索対象を救助する</original>
+  </message>
+  <message>
+    <key>q21017020_00_1228</key>
+    <original>捜索対象の安否を確認する</original>
+  </message>
+  <message>
+    <key>q21017020_00_1169</key>
+    <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
+  </message>
+</resource>

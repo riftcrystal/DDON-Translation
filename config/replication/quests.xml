@@ -30,14 +30,17 @@
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
       <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)補給$</original_match>
       <translation_replace>Area Order: {0} Resupply</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)$</original_match>
       <translation_replace>Area Order: {0}</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)　試練：(.+?)$</original_match>
@@ -47,22 +50,27 @@
     <rewrite soft="true">
       <original_match>^白翼覚者隊・納品依頼　(.+?)$</original_match>
       <translation_replace>White Wings: Delivery ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・収集依頼　(.+?)$</original_match>
       <translation_replace>White Wings: Collection ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・討伐任務　(.+?)$</original_match>
       <translation_replace>White Wings: Elimination ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・協力要請　(.+?)$</original_match>
       <translation_replace>White Wings: Cooperation ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)名産品の入手依頼$</original_match>
       <translation_replace>{0} Materials Request</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <!-- Quest objectives -->
     <rewrite>
@@ -74,6 +82,15 @@
       <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
       <translation_replace>Defeat the enemies in "{0}"</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <!-- Confirm with/Confirm details from -->
+    <rewrite>
+      <original_match>^&lt;SPOT (\d+)&gt; にいる&lt;NPC (\d+)&gt;から確認する$</original_match>
+      <translation_replace>Confirm with &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;SPOT (\d+)&gt;の&lt;NPC (\d+)&gt;から詳細確認する$</original_match>
+      <translation_replace>Confirm details from &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
     </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
@@ -100,8 +117,14 @@
     <rewrite>
       <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
       <translation_replace>Return to {0} and speak with {1}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
+      <translation_replace>Return to {0} and speak with {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)に向かいゴブリン王(.+?)と話す$</original_match>
@@ -222,6 +245,12 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)にある＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{1}" in {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)との待ち合わせ場所へ向かう</original_match>
       <translation_replace>Head to {0}'s meeting place</translation_replace>
       <translation_arg message_set="npc name" />
@@ -337,6 +366,27 @@
     <rewrite>
       <original_match>^＜雨天＞時に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
       <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Rainy" weather</translation_replace>
+    </rewrite>
+    <!-- Tutorial -->
+    <rewrite>
+      <original_match>^ゲージを溜め、(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Fill your Force Gauge, then attack the enemy with {0}</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^リベンジゲージ最大の(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0} with a full Revenge Gauge</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^射撃の最適距離から(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0} from the optimum distance</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0}</translation_replace>
+      <translation_arg message_set="normal skill name" />
     </rewrite>
     <!-- Grand Missions -->
     <rewrite>

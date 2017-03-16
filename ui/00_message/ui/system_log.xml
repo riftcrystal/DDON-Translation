@@ -307,8 +307,8 @@ There is a possibility of losing old rewards.</translation>
   <message>
     <key>syslog_quest_accept_max</key>
     <original>クエスト受注数が最大になりました</original>
-    <translation>Your quest log has reached the maximum and
-you cannot accept more.</translation>
+    <translation>Your quest log has reached the
+maximum and you cannot accept more.</translation>
   </message>
   <message>
     <key>syslog_areamaster_ap_get</key>
@@ -1299,5 +1299,17 @@ CP報酬の有効クリア回数が上限に達しました</original>
     <key>syslog_quest_assist_accept</key>
     <original>＜&lt;NAME QUEST&gt;＞の受注条件を満たしていないため、アシスト状態で受注しました</original>
     <translation>You do not meet the conditions of "&lt;NAME QUEST&gt;", so it was accepted in assist mode.</translation>
+  </message>
+  <message>
+    <key>syslog_clan_clue_discover</key>
+    <original>%s が %s を発見しました</original>
+  </message>
+  <message>
+    <key>syslog_clan_dungeon_unlock</key>
+    <original>クランダンジョン %s が解放されました</original>
+  </message>
+  <message>
+    <key>syslog_clan_common_unlock</key>
+    <original>%s が解放されました</original>
   </message>
 </resource>

@@ -1,0 +1,19 @@
+﻿<resource>
+  <message>
+    <key>q60200011_00_148</key>
+    <original>蠢きし影</original>
+  </message>
+  <message>
+    <key>q60200011_00_148</key>
+    <original>新たな任務を受けるため、再びアイザックを訪ねる</original>
+  </message>
+  <message>
+    <key>q60200011_00_2136</key>
+    <original>覚者隊の隊士から詳細を確認する</original>
+  </message>
+  <message>
+    <key>q60200011_00_2137</key>
+    <original>白竜神殿のアイザックを訪ねる</original>
+    <translation>Talk to Isaac in the White Dragon Temple</translation>
+  </message>
+</resource>

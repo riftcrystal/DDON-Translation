@@ -14,6 +14,11 @@
     <original>クラン拠点２階に行くことができる</original>
   </message>
   <message>
+    <key>CLAN_SHOP_LINEUP_ID_21</key>
+    <original>クラン拠点にある隠し部屋に入れるようになる
+</original>
+  </message>
+  <message>
     <key>CLAN_SHOP_LINEUP_ID_22</key>
     <original>ポーン遠征隊が解放されます</original>
   </message>
@@ -68,6 +73,26 @@
 ポーン遠征隊を派遣できるようになります</original>
   </message>
   <message>
+    <key>CLAN_SHOP_LINEUP_ID_33</key>
+    <original>エラン水林に
+ポーン遠征隊を派遣できるようになります</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_34</key>
+    <original>ファーラナ平原に
+ポーン遠征隊を派遣できるようになります</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_35</key>
+    <original>モロー樹林に
+ポーン遠征隊を派遣できるようになります</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_36</key>
+    <original>キンガル峡谷に
+ポーン遠征隊を派遣できるようになります</original>
+  </message>
+  <message>
     <key>CLAN_SHOP_LINEUP_ID_37</key>
     <original>各エリアのホットスポットの数が増えます</original>
   </message>
@@ -84,5 +109,13 @@
     <key>CLAN_SHOP_LINEUP_ID_40</key>
     <original>探索に向かったポーンが
 スポットの魔物を討伐しやすくなる</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_41</key>
+    <original>各エリアのホットスポットの数が増えます</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_42</key>
+    <original>各エリアのホットスポットの数が増えます</original>
   </message>
 </resource>

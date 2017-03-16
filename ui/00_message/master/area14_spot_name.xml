@@ -45,6 +45,18 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>木漏れ日の川辺</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>エラン大門前</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>訪いの広場</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>モローへの小路</original>
     <translation>Path to Morrow</translation>
   </message>
@@ -62,5 +74,14 @@
     <key>SPOT_NAME_</key>
     <original>密林の鍾乳洞</original>
     <translation>Jungle Limestone Caves</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>旧船頭寄合所</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>エラン採石洞</original>
+    <translation>Elan Quarry Cave</translation>
   </message>
 </resource>

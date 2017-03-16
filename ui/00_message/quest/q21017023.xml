@@ -1,0 +1,105 @@
+﻿<resource>
+  <message>
+    <original>白き竜の覚者よ――よくぞ来てくれた
+実は、デーモン再活性化に際して、＜曇天＞の間
+ある鉱石が突然よく採れるようになったという
+不思議な事態が起きているのだ</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 16004&gt;》という鉱石だ
+もし興味があるのなら、それについて
+詳しい情報を提供することはできるが――</original>
+  </message>
+  <message>
+    <original>ならば、＜曇天＞時に
+仲間を全員この拠点内に集め
+再度このキアランに声をかけてくれ
+詳しい状況について説明しよう</original>
+  </message>
+  <message>
+    <original>デーモン活性化に際し
+《&lt;ITEM 16004&gt;》という鉱石が
+突然よく採れるようになったという
+不思議な事態が起きているのだ</original>
+  </message>
+  <message>
+    <original>もし興味があるのなら、＜曇天＞時に仲間を全員
+この拠点内に集め、再度声をかけてくれ
+詳しい状況について説明しよう</original>
+  </message>
+  <message>
+    <original>約束通り、集まってくれたようだな
+実は――デーモンが活性化してから
+特定の場所で《&lt;ITEM 16004&gt;》という鉱石が
+多くの採掘ポイントから採れるようになったのだ</original>
+  </message>
+  <message>
+    <original>しかも、それは＜曇天＞の間のみ――
+この採掘増加がデーモンと関わっているのか
+デーモンの行動や習性が天候で変化するのか
+分からないことばかりだ</original>
+  </message>
+  <message>
+    <original>そこで、貴君に調査してきてもらいたいのだ
+多く採掘できるようになった鉱石については
+自由に採掘してもらって構わない
+その際に、何か気付いたことがあれば報告が欲しい</original>
+  </message>
+  <message>
+    <original>あぁ――自由に採掘してもらって構わないが
+たくさん採掘してきた鉱石のうち
+＜5＞つほど、分けていただけないだろうか</original>
+  </message>
+  <message>
+    <original>通常の鉱物と何か異なる点は無いか
+村の者にも見てもらいたいのでな
+よろしく頼む</original>
+  </message>
+  <message>
+    <original>＜曇天＞の間のみ――
+《&lt;ITEM 16004&gt;》という鉱石が
+特定の場所で多くの採掘ポイントから
+採れるようになったというのだ</original>
+  </message>
+  <message>
+    <original>自由に採掘してもらって構わないが、
+何か気付いたことがあれば報告が欲しい
+もしたくさん採掘できたら、＜5＞つほど
+分けてくれればありがたい――よろしく頼むぞ</original>
+  </message>
+  <message>
+    <original>行ってきてくれたか
+む――この鉱石、薄くではあるが
+通常ではあまり見ない傷がついているな</original>
+  </message>
+  <message>
+    <original>まるで、そう、硬い爪でひっかいたかのような
+――まぁいい、報告を聞くとしよう</original>
+  </message>
+  <message>
+    <original>なに、特定の鉱石しか採掘できなかったと？
+あの辺りは、何種類もの鉱石が採れるはずだが
+そうか――
+この傷と併せて考えてみると――</original>
+  </message>
+  <message>
+    <original>デーモンが特定の天候時にあちこちを掘り起し
+理由は分からないが特定の鉱石を持ち去っている
+我々が見つけたのは、その跡だった――
+という仮説が考えられるな</original>
+  </message>
+  <message>
+    <original>――まぁ、素人考えはそこまでにしよう
+ともかく、調査協力感謝する
+手元の鉱石は、冒険に活用すると良いだろう</original>
+  </message>
+  <message>
+    <original>&lt;AREA 17&gt;フィールドの《&lt;ITEM 16004&gt;》を採取できる採取ポイントの数が増えました
+＜曇天＞の間にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜曇天＞が終了したため、&lt;AREA 17&gt;フィールドの
+《&lt;ITEM 16004&gt;》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう</original>
+  </message>
+</resource>

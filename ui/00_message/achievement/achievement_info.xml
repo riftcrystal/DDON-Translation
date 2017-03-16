@@ -6107,6 +6107,11 @@ level 30 in crafting</translation>
     <translation>Clear quest "The Darkness of the Heart"</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2288</key>
+    <original>クエスト「新しい世代」クリア</original>
+    <translation>Clear quest "The New Generation"</translation>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2289</key>
     <original>グランドミッションを10回攻略</original>
     <translation>Clear 10 Grand Missions</translation>
@@ -6137,6 +6142,51 @@ level 30 in crafting</translation>
     <translation>Clear 100 Extreme Missions</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2295</key>
+    <original>ファイターのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2296</key>
+    <original>ハンターのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2297</key>
+    <original>プリーストのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2298</key>
+    <original>シールドセージのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2299</key>
+    <original>シーカーのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2300</key>
+    <original>ソーサラーのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2301</key>
+    <original>エレメントアーチャーのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2302</key>
+    <original>ウォリアーのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2303</key>
+    <original>アルケミストのジョブレベルが
+80に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2304</key>
     <original>スピリットランサーのジョブレベルが
 10に到達</original>
@@ -6153,6 +6203,11 @@ level 30 in crafting</translation>
     <original>スピリットランサーのジョブレベルが
 60に到達</original>
     <translation>Reach job level 60 as Spirit Lancer</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2307</key>
+    <original>スピリットランサーのジョブレベルが
+80に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2308</key>
@@ -6216,8 +6271,8 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2321</key>
-    <original>エリミネーターを50体討伐</original>
-    <translation>Kill 50 Eliminators</translation>
+    <original>《エリミネーター》系エネミーを50体討伐</original>
+    <translation>Kill 50 "Eliminator" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2322</key>
@@ -6415,6 +6470,50 @@ level 30 in crafting</translation>
     <translation>Kill 100 タラスクを</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2368</key>
+    <original>グリーンガーディアンを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2369</key>
+    <original>セイレーンを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2370</key>
+    <original>狂侵グリフィンを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2371</key>
+    <original>狂侵デーモンを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2372</key>
+    <original>フィンダーエントを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2373</key>
+    <original>黒騎士を1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2374</key>
+    <original>黒騎士を10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2375</key>
+    <original>黒騎士を100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2376</key>
+    <original>精霊竜ウィルミアを1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2377</key>
+    <original>精霊竜ウィルミアを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2378</key>
+    <original>精霊竜ウィルミアを100体討伐</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2379</key>
     <original>ポーン隊使用回数5回</original>
     <translation>Use Pawn Corps 5 times</translation>
@@ -6539,16 +6638,32 @@ level 30 in crafting</translation>
     <original>エラン水林で精霊の火種を15個発見</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2538</key>
+    <original>エラン水林で精霊の火種を30個発見</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2539</key>
     <original>ファーラナ平原で精霊の火種を15個発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2540</key>
+    <original>ファーラナ平原で精霊の火種を30個発見</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2541</key>
     <original>モロー樹林で精霊の火種を15個発見</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2542</key>
+    <original>モロー樹林で精霊の火種を30個発見</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2543</key>
     <original>キンガル峡谷で精霊の火種を15個発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2544</key>
+    <original>キンガル峡谷で精霊の火種を30個発見</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2545</key>
@@ -6557,5 +6672,13 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2546</key>
     <original>精霊の火種を累計60個発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2547</key>
+    <original>精霊の火種を累計90個発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2548</key>
+    <original>精霊の火種を累計120個発見</original>
   </message>
 </resource>

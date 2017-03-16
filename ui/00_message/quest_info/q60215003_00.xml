@@ -1,0 +1,29 @@
+﻿<resource>
+  <message>
+    <key>q60215003_00_182</key>
+    <original>ファーラナ平原　試練：もう一つの枝</original>
+    <translation>Farana Plains Trial: もう一つの枝</translation>
+  </message>
+  <message>
+    <key>q60215003_00_182</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60215003_00_2374</key>
+    <original>&lt;STG 810&gt;の&lt;NPC  2556&gt;から詳細を確認する</original>
+  </message>
+  <message>
+    <key>q60215003_00_2497</key>
+    <original>&lt;STG 861&gt;に向かい&lt;NPC 560&gt;を探す</original>
+  </message>
+  <message>
+    <key>q60215003_00_2377</key>
+    <original>仲間を拘束した魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60215003_00_2376</key>
+    <original>&lt;STG 810&gt;の&lt;NPC  2556&gt;に報告する</original>
+    <translation>Report to &lt;NPC  2556&gt; in &lt;STG 810&gt;</translation>
+  </message>
+</resource>

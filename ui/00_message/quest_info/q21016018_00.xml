@@ -1,0 +1,38 @@
+﻿<resource>
+  <message>
+    <key>q21016018_00_624</key>
+    <original>異形の二本足</original>
+  </message>
+  <message>
+    <key>q21016018_00_624</key>
+    <original>【討伐クエスト】
+エリアに出現した怪しい魔物を探し
+問題の原因となる敵を討伐する</original>
+  </message>
+  <message>
+    <key>q21016018_00_624</key>
+    <original>&lt;NAME AREA&gt;には今、怪しい気配のする
+魔物たちが出現しているらしい</original>
+  </message>
+  <message>
+    <key>q21016018_00_624</key>
+    <original>侵食されちまったら人は、
+意識や恐怖心が消えちまうのかね
+あんな恐ろしい魔物たちと一緒に行動して
+恐ろしくはないのかね
+俺たちのことを――もう覚えてはないのかね</original>
+  </message>
+  <message>
+    <key>q21016018_00_1171</key>
+    <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
+  </message>
+  <message>
+    <key>q21016018_00_1172</key>
+    <original>新たに現れた魔物を即時討伐して報酬を獲得</original>
+  </message>
+  <message>
+    <key>q21016018_00_1173</key>
+    <original>残る魔物を討伐する</original>
+  </message>
+</resource>

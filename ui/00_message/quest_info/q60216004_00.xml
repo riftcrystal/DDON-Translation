@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q60216004_00_185</key>
+    <original>モロー樹林　試練：悲哀の羽ばたき</original>
+    <translation>Morrow Forest Trial: 悲哀の羽ばたき</translation>
+  </message>
+  <message>
+    <key>q60216004_00_185</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60216004_00_2399</key>
+    <original>&lt;SPOT 878&gt;の&lt;NPC 2604&gt;から詳細確認する</original>
+    <translation>Confirm details from &lt;NPC 2604&gt; in &lt;SPOT 878&gt;</translation>
+  </message>
+  <message>
+    <key>q60216004_00_2400</key>
+    <original>問題となる場所を調査する</original>
+  </message>
+  <message>
+    <key>q60216004_00_2401</key>
+    <original>諸悪の根源となる魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60216004_00_2398</key>
+    <original>&lt;SPOT 878&gt;の&lt;NPC 2600&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2600&gt; in &lt;SPOT 878&gt;</translation>
+  </message>
+</resource>

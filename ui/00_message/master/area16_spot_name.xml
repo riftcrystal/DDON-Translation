@@ -36,6 +36,18 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>立ち病みの森</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>侵染の窪地</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>暗樹の大淵</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>侵鬼の洞穴</original>
   </message>
   <message>
@@ -47,5 +59,13 @@
     <key>SPOT_NAME_</key>
     <original>サウザネル侵林</original>
     <translation>Sauzanel Infected Woods</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ディプニエ大侵林</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ノーザナス侵林</original>
   </message>
 </resource>

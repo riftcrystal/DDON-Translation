@@ -1,0 +1,41 @@
+﻿<resource>
+  <message>
+    <key>q60214003_00_180</key>
+    <original>エラン水林　試練：緑の妄執</original>
+    <translation>Elan Water Grove Trial: 緑の妄執</translation>
+  </message>
+  <message>
+    <key>q60214003_00_180</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60214003_00_2379</key>
+    <original>&lt;NPC 559&gt;から詳細を確認する</original>
+  </message>
+  <message>
+    <key>q60214003_00_2498</key>
+    <original>調査に向かった付近で&lt;NPC 562&gt;を探す</original>
+  </message>
+  <message>
+    <key>q60214003_00_2378</key>
+    <original>仲間を拘束した魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60214003_00_2380</key>
+    <original>&lt;NPC 562&gt;に拘束した魔物の居場所を聞く</original>
+  </message>
+  <message>
+    <key>q60214003_00_2546</key>
+    <original>罠にはめた魔物の居場所へ向かう</original>
+  </message>
+  <message>
+    <key>q60214003_00_2381</key>
+    <original>魔物を全滅させる</original>
+  </message>
+  <message>
+    <key>q60214003_00_2545</key>
+    <original>&lt;SPOT 876&gt;の&lt;NPC 559&gt;に報告する</original>
+    <translation>Report to &lt;NPC 559&gt; in &lt;SPOT 876&gt;</translation>
+  </message>
+</resource>

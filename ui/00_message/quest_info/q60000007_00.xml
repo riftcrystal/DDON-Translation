@@ -24,17 +24,17 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000007_00_1099</key>
     <original>弓射ちで敵を攻撃せよ</original>
-    <translation>Attack the enemy with your bow and arrow</translation>
+    <translation>Attack the enemy with Loose</translation>
   </message>
   <message>
     <key>q60000007_00_1156</key>
     <original>射撃の最適距離から弓射ちで敵を攻撃せよ</original>
-    <translation>Attack the enemy at the optimum distance</translation>
+    <translation>Attack the enemy with Loose from the optimum distance</translation>
   </message>
   <message>
     <key>q60000007_00_1157</key>
     <original>爆矢射ちで敵を攻撃せよ</original>
-    <translation>Attack the enemy with an explosive arrow</translation>
+    <translation>Attack the enemy with Explosive Arrow</translation>
   </message>
   <message>
     <key>q60000007_00_1158</key>
@@ -44,7 +44,7 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000007_00_1251</key>
     <original>前蹴りで敵を攻撃せよ</original>
-    <translation>Attack the enemy by using a kick</translation>
+    <translation>Attack the enemy with Front Kick</translation>
   </message>
   <message>
     <key>q60000007_00_1252</key>

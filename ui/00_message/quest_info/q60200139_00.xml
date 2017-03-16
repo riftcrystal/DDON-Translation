@@ -1,0 +1,53 @@
+﻿<resource>
+  <message>
+    <key>q60200139_00_162</key>
+    <original>戦技の継承　スピリットランサー求道試練４</original>
+  </message>
+  <message>
+    <key>q60200139_00_162</key>
+    <original>スピリットランサーの新たな戦術を学ぶため
+マスターの試練に挑む</original>
+    <translation>To learn new Spirit Lancer tactics,
+challenge the trial of the Job Master</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2339</key>
+    <original>＜&lt;STG 805&gt;＞に向かう</original>
+    <translation>Go to "&lt;STG 805&gt;"</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2340</key>
+    <original>第一試練の場所へ向かう</original>
+    <translation>Go to location of the first test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2341</key>
+    <original>第一試練の敵を倒す</original>
+    <translation>Defeat the enemies of the first test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2342</key>
+    <original>第二試練の場所へ向かう</original>
+    <translation>Go to location of the second test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2343</key>
+    <original>第二試練の敵を倒す</original>
+    <translation>Defeat the enemies of the second test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2344</key>
+    <original>最終試練の場所へ向かう</original>
+    <translation>Go to location of the final test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2345</key>
+    <original>最終試練の敵を倒す</original>
+    <translation>Defeat the enemies of the final test</translation>
+  </message>
+  <message>
+    <key>q60200139_00_2338</key>
+    <original>マスターの拠点で教示を受ける</original>
+    <translation>Receive teachings at the home of the master</translation>
+  </message>
+</resource>

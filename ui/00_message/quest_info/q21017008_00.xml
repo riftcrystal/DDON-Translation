@@ -1,12 +1,13 @@
 ﻿<resource>
   <message>
     <key>q21017008_00_564</key>
-    <original>【2.2WQ】渓谷（キンガル峡谷）8</original>
+    <original>長考の種</original>
   </message>
   <message>
     <key>q21017008_00_564</key>
-    <original>依頼者の願いを聞き入れ
-該当場所を調査し敵を討伐する</original>
+    <original>【敵群討伐クエスト】
+依頼者から話を聞き
+敵の群れを討伐する</original>
   </message>
   <message>
     <key>q21017008_00_564</key>
@@ -15,7 +16,11 @@
   </message>
   <message>
     <key>q21017008_00_564</key>
-    <original>（仮）</original>
+    <original>あぁ、なんてこと――
+このキンガルにまで
+ついに侵食の魔の手が及ぶなんて！
+もう駄目よ、お仕舞だわ――
+ここもモローのようになってしまうんだわ</original>
   </message>
   <message>
     <key>q21017008_00_1222</key>

@@ -1,0 +1,46 @@
+﻿<resource>
+  <message>
+    <key>q21015023_00_638</key>
+    <original>【時限採取】真夜中の採岩道</original>
+    <translation>Time Restriction: 真夜中の採岩道</translation>
+  </message>
+  <message>
+    <key>q21015023_00_638</key>
+    <original>【時限採取クエスト：23時から2時（GT）】
+エリアマスターから話を聞き
+特定条件の間に採取を行い納品する</original>
+  </message>
+  <message>
+    <key>q21015023_00_638</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターは
+覚者へ相談したい事があるらしい</original>
+  </message>
+  <message>
+    <key>q21015023_00_638</key>
+    <original>全く、覚者ってのは大変ですね
+昼も夜も関係なく、つるはし持って走り回ってるし
+夜遅くに採取に行くときは
+採取に夢中になって後ろからグサッ！
+――ってやられないよう、気を付けるんですよ</original>
+  </message>
+  <message>
+    <key>q21015023_00_1276</key>
+    <original>＜23時から2時＞の間にパーティメンバーを拠点内に集める</original>
+    <translation>Gather party members in the camp from "23 to 2 GT"</translation>
+  </message>
+  <message>
+    <key>q21015023_00_1278</key>
+    <original>＜23時から2時＞の間に依頼者から詳細を聞く</original>
+    <translation>Listen to details from the requester from "23 to 2 GT"</translation>
+  </message>
+  <message>
+    <key>q21015023_00_1264</key>
+    <original>＜23時から2時＞の間に&lt;AREA 15&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA 15&gt; from "23 to 2 GT"</translation>
+  </message>
+  <message>
+    <key>q21015023_00_1233</key>
+    <original>エリアマスターに《&lt;SQDI NAME&gt;》を＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the Area Master</translation>
+  </message>
+</resource>

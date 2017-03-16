@@ -64,4 +64,8 @@ an enemy.</translation>
     <translation>Repeatedly press &lt;KC ATTACK1&gt; while climbing
 an enemy.</translation>
   </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_09_164</key>
+    <original>敵の攻撃を引きつけて自身のスキルを放つ</original>
+  </message>
 </resource>

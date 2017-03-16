@@ -75,7 +75,7 @@
 それらを拾って帰ることだ</original>
   </message>
   <message>
-    <original>キンガル渓谷は地形の複雑さもあって
+    <original>キンガル峡谷は地形の複雑さもあって
 なかなか冒険がしづらいのではないか？
 少しだが、これを足しにするといい</original>
   </message>
@@ -188,7 +188,7 @@
   <message>
     <original>村人の中にはまだ貴君のことを
 受け入れられない者も多いかもしれないが
-どうか、多めに見てやってほしい</original>
+どうか、大目に見てやってほしい</original>
   </message>
   <message>
     <original>過去を守ることで存続してきた村なのだ
@@ -215,9 +215,9 @@
 どんどん理解者を増やしているようだな</original>
   </message>
   <message>
-    <original>実は、シェドレアン大神殿前の通路の
-がれきを撤去したのだ
-だが、そこへ魔族が現れ
+    <original>先日、シェドレアン大神殿前の橋の
+修繕が終わったのは知っているか？
+実は、そこへ魔族が現れ
 いまだ通行が難しくなっている</original>
   </message>
   <message>
@@ -242,7 +242,7 @@
   <message>
     <original>しかし、実はここについても
 気軽に調査ができるわけではないのだ
-なんといっても、入口には厳重に封印されている</original>
+なんといっても、入口は厳重に封印されている</original>
   </message>
   <message>
     <original>《&lt;SPOT 912&gt;》は元々神殿として
@@ -291,7 +291,7 @@
   </message>
   <message>
     <original>うまくいけば、あと少しで
-この騒動にも結着がつくはずなのだ――</original>
+この騒動にも決着がつくはずなのだ――</original>
   </message>
   <message>
     <original>白き竜の覚者よ――
@@ -331,5 +331,149 @@
     <original>グリンデュアは貴君のために
 より質の良い支援品を集めておくことを
 約束しよう</original>
+  </message>
+  <message>
+    <original>白き竜の覚者よ――
+実は、グリンデュアはまたも
+魔族の脅威にさらされているのだ――</original>
+  </message>
+  <message>
+    <original>《シェレドアン大神殿》は一因にすぎないと
+すれば、どこかに魔族がやってくる
+元凶となる場があるはずなのだが――
+今のところ見つかっていない</original>
+  </message>
+  <message>
+    <original>過去の文献をあたることで手がかりが
+つかめるかと、文献が多数残されている小塔への
+門を開けることにした</original>
+  </message>
+  <message>
+    <original>また、このキンガル峡谷のため
+手を貸してはもらえないだろうか――</original>
+  </message>
+  <message>
+    <original>白き竜の覚者よ
+どうか聞いてほしい――</original>
+  </message>
+  <message>
+    <original>キンガル峡谷北部には
+《&lt;SPOT 914&gt;》という
+大規模な遺跡があるのだが――</original>
+  </message>
+  <message>
+    <original>実は、その遺跡を中心に強力な魔物が
+徘徊しているという情報が入ってきているのだ</original>
+  </message>
+  <message>
+    <original>我が村の者が魔物と対峙しても
+生きて戻ってくることは難しいだろう――
+覚者よ、どうかその白き竜の加護によって
+魔物を打ち払ってもらえないだろうか</original>
+  </message>
+  <message>
+    <original>――《&lt;SPOT 914&gt;》の近くには
+《&lt;SPOT 959&gt;》という
+人の住まう塔がある</original>
+  </message>
+  <message>
+    <original>かの塔に暮らす人々は独自の文化を持つため
+交流になかなかの難しさがあるのだが――</original>
+  </message>
+  <message>
+    <original>昨今の魔族出現の件にて交渉を重ね、拠点として
+門戸を開放するよう約束を取り付けた</original>
+  </message>
+  <message>
+    <original>恐らく住民には歓迎されないだろうとは思うが
+《&lt;SPOT 959&gt;》を調査の足場として
+あるいは旅の疲れを癒すため
+役立ててほしい――</original>
+  </message>
+  <message>
+    <original>魔物の討伐を引き受けてもらえるなら
+俺にその件を話しかけてくれ
+詳しく説明しよう</original>
+  </message>
+  <message>
+    <original>貴君には度々力を貸してもらっているというのに
+不甲斐ないことだが、状況は悪化の
+一路を辿るばかりだ――</original>
+  </message>
+  <message>
+    <original>とうとう、これまで儀式に使われていた場にまで
+侵食魔の姿が確認されるように
+なってしまった――</original>
+  </message>
+  <message>
+    <original>《&lt;SPOT 953&gt;》――元は大地に
+季節の感謝を表す舞踊を奉じる場だったのだ
+最近は魔物の凶暴性が高まったがゆえに
+安全を考えて中止されていたが――</original>
+  </message>
+  <message>
+    <original>侵食は大地だけではなく
+我々の文化も蝕んでゆくという一例なのだろうな
+――もっと早くに対処していれば――</original>
+  </message>
+  <message>
+    <original>今まで立ち入りを禁じていた
+《&lt;SPOT 915&gt;》も
+もはや封鎖している意味はないだろう</original>
+  </message>
+  <message>
+    <original>封鎖はすでに解いてある――
+もしも貴君の調査によって
+何らかの手がかりとなるようであれば
+ぜひ調べてみてくれ――</original>
+  </message>
+  <message>
+    <original>来てくれてよかった――
+こちらから貴君へ遣いを出そうかと
+思案していたところだ</original>
+  </message>
+  <message>
+    <original>先ほど判明したのだが、小塔に収められた
+書物に“スカージ”の名があったのだ
+――強大な悪魔の名前だ</original>
+  </message>
+  <message>
+    <original>今まで魔族が無尽蔵に襲来していたのは
+スカージが呼び寄せていたせいだろう</original>
+  </message>
+  <message>
+    <original>今、あの強大な魔物に太刀打ちできるのは
+白き竜の覚者――貴君だけだろう
+どうか、ヤツを討ってくれないだろうか</original>
+  </message>
+  <message>
+    <original>今までの敵とは違う、あまりにも
+危険すぎる相手だ――
+無理にとは言えない――</original>
+  </message>
+  <message>
+    <original>だが、もし――
+もしも、此度も力を貸してくれるのであれば
+再び俺に声をかけてほしい――</original>
+  </message>
+  <message>
+    <original>おお、白き竜の覚者よ――
+よく来てくれた</original>
+  </message>
+  <message>
+    <original>侵食という未曾有の災害に見舞われたフィンダム
+その中でも、さらに魔族の脅威に繰り返し
+さらされたグリンデュアが――今もこうして
+あるのは全て貴君の力添えあってこそ</original>
+  </message>
+  <message>
+    <original>これまでの礼として
+今後、貴君への支給品の質をより向上させる
+ことを決定した</original>
+  </message>
+  <message>
+    <original>これは俺だけではなく
+このグリンデュアの民の総意だ
+どうか受け取ってくれ</original>
   </message>
 </resource>

@@ -455,7 +455,7 @@
     <translation>Extreme Missions</translation>
   </message>
   <message>
-    <original>宿屋・よろず屋</original>
+    <original>宿・よろず屋</original>
     <translation>Inn / General Shop</translation>
   </message>
   <message>
@@ -467,8 +467,12 @@
     <translation>Clan Officer</translation>
   </message>
   <message>
-    <original>宿屋</original>
-    <translation>Inn</translation>
+    <original>クランダンジョン</original>
+    <translation>Clan Dungeon</translation>
+  </message>
+  <message>
+    <original>宿・転職・戦技補佐</original>
+    <translation>Inn / Vocation / Arts Support</translation>
   </message>
   <message>
     <original>宿・戦技補佐</original>
@@ -559,6 +563,22 @@
     <translation>General Shop</translation>
   </message>
   <message>
+    <original>宿・戦技補佐</original>
+    <translation>Inn / Arts Support</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>道具屋</original>
+    <translation>Item Shop</translation>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+    <translation>Adventure Organizer</translation>
+  </message>
+  <message>
     <original>エリアマスター・戦技補佐</original>
     <translation>Area Master / Arts Support</translation>
   </message>
@@ -575,8 +595,8 @@
     <translation>Pawn Expedition Corps</translation>
   </message>
   <message>
-    <original>グランドミッション</original>
-    <translation>Grand Mission</translation>
+    <original>グランドミッション：呼び覚まされし竜</original>
+    <translation>Grand Mission: 呼び覚まされし竜</translation>
   </message>
   <message>
     <original>グランドミッション：古代神殿の死闘</original>

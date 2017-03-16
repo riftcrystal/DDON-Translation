@@ -1,0 +1,53 @@
+﻿<resource>
+  <message>
+    <key>q60200135_00_171</key>
+    <original>戦技の継承　アルケミスト求道試練４</original>
+  </message>
+  <message>
+    <key>q60200135_00_171</key>
+    <original>アルケミストの新たな戦術を学ぶため
+マスターの試練に挑む</original>
+    <translation>To learn new Alchemist tactics,
+challenge the trial of the Job Master</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2332</key>
+    <original>＜&lt;STG 800&gt;＞に向かう</original>
+    <translation>Go to "&lt;STG 800&gt;"</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2333</key>
+    <original>第一試練の場所へ向かう</original>
+    <translation>Go to location of the first test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2334</key>
+    <original>第一試練の敵を倒す</original>
+    <translation>Defeat the enemies of the first test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2335</key>
+    <original>第二試練の場所へ向かう</original>
+    <translation>Go to location of the second test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2336</key>
+    <original>第二試練の敵を倒す</original>
+    <translation>Defeat the enemies of the second test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2337</key>
+    <original>最終試練の場所へ向かう</original>
+    <translation>Go to location of the final test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2331</key>
+    <original>最終試練の敵を倒す</original>
+    <translation>Defeat the enemies of the final test</translation>
+  </message>
+  <message>
+    <key>q60200135_00_2330</key>
+    <original>マスターの拠点で教示を受ける</original>
+    <translation>Receive teachings at the home of the master</translation>
+  </message>
+</resource>

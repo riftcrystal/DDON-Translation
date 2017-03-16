@@ -1,16 +1,16 @@
 ﻿<resource>
   <message>
     <key>q60200200_00_194</key>
-    <original>サブシナリオ＜部下4人＞</original>
+    <original>誰が一番？</original>
   </message>
   <message>
     <key>q60200200_00_194</key>
-    <original>リズ、エリオット、ガルドリンとともに盗賊調査（仮）</original>
+    <original>各地の村々を荒せし盗賊を見つけ出し
+村人の財産を取り戻す</original>
   </message>
   <message>
     <key>q60200200_00_2757</key>
-    <original>ジョゼフから詳しい話を聞く</original>
-    <translation>Hear out what Joseph has to say</translation>
+    <original>ジョゼフから詳細を聞く</original>
   </message>
   <message>
     <key>q60200200_00_2686</key>
@@ -22,12 +22,12 @@
   </message>
   <message>
     <key>q60200200_00_2687</key>
-    <original>怪しいところを調べる</original>
+    <original>海辺の地下室内を調査する</original>
   </message>
   <message>
     <key>q60200200_00_2688</key>
-    <original>リズと話をする</original>
-    <translation>Speak to Lise</translation>
+    <original>リズと話す</original>
+    <translation>Speak with Lise</translation>
   </message>
   <message>
     <key>q60200200_00_2689</key>
@@ -39,7 +39,7 @@
   </message>
   <message>
     <key>q60200200_00_2690</key>
-    <original>怪しい盗賊を探す</original>
+    <original>盗賊の隠れ家内を調査する</original>
   </message>
   <message>
     <key>q60200200_00_2691</key>
@@ -47,21 +47,24 @@
   </message>
   <message>
     <key>q60200200_00_2692</key>
-    <original>ジンゲンの＜採掘氏の隠れ家＞へ向かう</original>
+    <original>ジンゲンの＜採掘師の隠れ道＞へ向かう</original>
   </message>
   <message>
     <key>q60200200_00_2693</key>
     <original>エリオットと合流する</original>
   </message>
   <message>
+    <key>q60200200_00_2771</key>
+    <original>採掘師の隠れ道内を調査する</original>
+  </message>
+  <message>
     <key>q60200200_00_2694</key>
-    <original>遭遇した敵を殲滅する</original>
-    <translation>Defeat the enemy encountered</translation>
+    <original>遭遇した魔物を殲滅する</original>
   </message>
   <message>
     <key>q60200200_00_2695</key>
-    <original>エリオットと話をする</original>
-    <translation>Speak to Elliot</translation>
+    <original>エリオットと話す</original>
+    <translation>Speak with Elliot</translation>
   </message>
   <message>
     <key>q60200200_00_2685</key>

@@ -1,0 +1,277 @@
+﻿<resource>
+  <message>
+    <original>フィンダムの様子はどうだ？</original>
+  </message>
+  <message>
+    <original>行方の知れないロイグは見つかったのか</original>
+  </message>
+  <message>
+    <original>フィンダムの様子が気になるねえ</original>
+  </message>
+  <message>
+    <original>うーむ――</original>
+  </message>
+  <message>
+    <original>隊長――
+お待ちしていました</original>
+  </message>
+  <message>
+    <original>原始の雫を含む輝く地層――</original>
+  </message>
+  <message>
+    <original>我々が通常立ち入る範囲で
+そのような場所は、ついぞ見たことがない</original>
+  </message>
+  <message>
+    <original>あるとすれば前人未踏の地という
+ことになるだろう</original>
+  </message>
+  <message>
+    <original>となれば、やはりキンガル峡谷の奥地か――</original>
+  </message>
+  <message>
+    <original>これから行くキンガル峡谷の奥地は
+かなり広いので、手分けして
+効率よく探しましょう！</original>
+  </message>
+  <message>
+    <original>魔物はいるでしょうけど、危険は
+声をかけ合えば避けられますよね？</original>
+  </message>
+  <message>
+    <original>おまえらの手に負えない時は
+俺も行ってやらないでもないが――
+とりあえず、なんとかしろ</original>
+  </message>
+  <message>
+    <original>ごめん、ちょっと休ませてね
+ここに来て、ガクッと、連戦の疲れが出たみたい</original>
+  </message>
+  <message>
+    <original>隊長、行ってらっしゃい
+こうして見送るのは不本意ですけど
+二の矢、三の矢の準備は必要ですからね</original>
+  </message>
+  <message>
+    <original>この感じ――
+気をつけてください、何かいます――</original>
+  </message>
+  <message>
+    <original>隊長、本当にありがとうございました
+さあ、みんなのところへ帰りましょう
+ゆっくりしていると探しに来ちゃいますよね？</original>
+  </message>
+  <message>
+    <original>素晴らしい！　素晴らしいぞ！</original>
+  </message>
+  <message>
+    <original>成し遂げたあなたたち――
+新たな原始の雫――どちらも素晴らしい！</original>
+  </message>
+  <message>
+    <original>隊長、待ちきれません
+早く原始の雫で浄化を始めましょう</original>
+  </message>
+  <message>
+    <original>ふん！
+もう少しで迎えを出すところだったぜ</original>
+  </message>
+  <message>
+    <original>ガルドリンったら、憎まれ口叩いてるけど
+一番心配してたんだから</original>
+  </message>
+  <message>
+    <original>おつかれさまです、隊長</original>
+  </message>
+  <message>
+    <original>実は、変なモノを持ち帰るんじゃないかと
+不安でしたけど――</original>
+  </message>
+  <message>
+    <original>みんなの喜び方を見る限り
+それは間違いなく《原始の雫》のようです
+俺もホッとしましたよ</original>
+  </message>
+  <message>
+    <original>鬱陶しいクズ虫どもめ――</original>
+  </message>
+  <message>
+    <original>我が世に居合わせたことを嘆くがよい</original>
+  </message>
+  <message>
+    <original>強者の理（ことわり）に弱者は不要</original>
+  </message>
+  <message>
+    <original>堕ちた竜に殉じて消えろ</original>
+  </message>
+  <message>
+    <original>貴様らなど大界の塵芥（ちりあくた）よ</original>
+  </message>
+  <message>
+    <original>勝てると思ったか――</original>
+  </message>
+  <message>
+    <original>ここまで食い下がるとは――潰しがいがある</original>
+  </message>
+  <message>
+    <original>死は常におまえたちの側（がわ）にある</original>
+  </message>
+  <message>
+    <original>半端覚者め――こしゃくな！</original>
+  </message>
+  <message>
+    <original>ロイグを放しなさい！</original>
+  </message>
+  <message>
+    <original>みなさん、気をつけて！</original>
+  </message>
+  <message>
+    <original>たーーーっ！</original>
+  </message>
+  <message>
+    <original>ガルドリンさん、エリオット、リズ、隊長――</original>
+  </message>
+  <message>
+    <original>みなさん、生き延びてください――</original>
+  </message>
+  <message>
+    <original>あーーーっ！</original>
+  </message>
+  <message>
+    <original>ロイグ！　正気に戻って！</original>
+  </message>
+  <message>
+    <original>フィンダムの闇は悪の住みかではない！</original>
+  </message>
+  <message>
+    <original>他人に身を潜める卑怯者！　去れ！</original>
+  </message>
+  <message>
+    <original>てめえの正体はなんだ！</original>
+  </message>
+  <message>
+    <original>この、けむり野郎め！</original>
+  </message>
+  <message>
+    <original>騎士を名乗るんじゃねえ</original>
+  </message>
+  <message>
+    <original>おら、隊長！　なんとか言ってやれ！</original>
+  </message>
+  <message>
+    <original>てめえら全財産を俺の負けに賭けやがれ！</original>
+  </message>
+  <message>
+    <original>疲れた――１回やすませろ！</original>
+  </message>
+  <message>
+    <original>この勇姿、ジョゼフ様にお見せしたい！</original>
+  </message>
+  <message>
+    <original>負けない！　負けないったら負けない！</original>
+  </message>
+  <message>
+    <original>俺、けっこうやりますよね？</original>
+  </message>
+  <message>
+    <original>黒騎士？　ロイグ？　誰と戦ってるんだ！？</original>
+  </message>
+  <message>
+    <original>隊長、このまま戦ってていいんですか！？</original>
+  </message>
+  <message>
+    <original>ロイグ、俺が分からないのか！？</original>
+  </message>
+  <message>
+    <original>もうしつこいの嫌い！</original>
+  </message>
+  <message>
+    <original>そんな攻撃なんて怖くないんだから！</original>
+  </message>
+  <message>
+    <original>ここが踏ん張りどころ！</original>
+  </message>
+  <message>
+    <original>今、わたし、覚者人生の頂点かも！</original>
+  </message>
+  <message>
+    <original>キラッキラ輝いてる？</original>
+  </message>
+  <message>
+    <original>わたし、いける！</original>
+  </message>
+  <message>
+    <original>竜はこの大地を救おうとしたが
+毒を吸い込み、その結果、自らも
+侵食されてしまった</original>
+  </message>
+  <message>
+    <original>大地が浄化されても、ウィルミアは
+元には戻らないだろう
+なんとかしてやりたいが――</original>
+  </message>
+  <message>
+    <original>隊長――
+あと少し――</original>
+  </message>
+  <message>
+    <original>あと少しだけ、一緒にいてください</original>
+  </message>
+  <message>
+    <original>ふん！
+竜が元に戻らないと大地はどうなるよ</original>
+  </message>
+  <message>
+    <original>浄化はされても
+痩せて、枯れちまうんじゃねえのか？</original>
+  </message>
+  <message>
+    <original>浄化が始まっても竜がいなくちゃ
+世界は不完全なまま――</original>
+  </message>
+  <message>
+    <original>俺たち、これから何をすればいいんです？</original>
+  </message>
+  <message>
+    <original>ウィルミア――ああ、ウィルミアよ――</original>
+  </message>
+  <message>
+    <original>――定めと戦おうという我々の決意が
+あと幾日か早ければ――</original>
+  </message>
+  <message>
+    <original>ウィルミアは浄化されない――
+そういうことですね？</original>
+  </message>
+  <message>
+    <original>たとえ大地が浄化されても
+竜は戻らないのか――</original>
+  </message>
+  <message>
+    <original>どうするんだい？
+これ以上、君にできることは何かあるのかい？
+あとは向こうの人たちに任せた方が
+いいんじゃないのかな</original>
+  </message>
+  <message>
+    <original>その、なんというか――君たちのためにさ</original>
+  </message>
+  <message>
+    <original>喜びも半分――
+どうやら、そういうことのようだな</original>
+  </message>
+  <message>
+    <original>精霊竜は――無念なことをした</original>
+  </message>
+  <message>
+    <original>急ぎ、倒し、竜の尊厳を守ってやれ
+魔物に堕する前に――倒してくれ</original>
+  </message>
+  <message>
+    <original>案ずることはない</original>
+  </message>
+  <message>
+    <original>精霊竜は覚者を残した
+さだめを予期していたのだろう</original>
+  </message>
+</resource>

@@ -1,0 +1,39 @@
+﻿<resource>
+  <message>
+    <key>q21016021_00_627</key>
+    <original>淀みの狂翼</original>
+  </message>
+  <message>
+    <key>q21016021_00_627</key>
+    <original>【死亡チェッククエスト】
+依頼者の願いを聞き入れ
+一度も復活することなく狂暴な敵を討伐する</original>
+  </message>
+  <message>
+    <key>q21016021_00_627</key>
+    <original>&lt;NAME AREA&gt;にいる何者かが、魔物との勝負で
+腕試しをしているようだ</original>
+  </message>
+  <message>
+    <key>q21016021_00_627</key>
+    <original>普段は静かな場所だが、年に何度か
+複数の魔物が集まる場所があるそうだ
+その理由は詳しくわかってはいないが
+繁殖期に関係しているのでは、
+という見方があるらしい</original>
+  </message>
+  <message>
+    <key>q21016021_00_1174</key>
+    <original>指定された場所へ行き、狂暴な魔物を見つける</original>
+  </message>
+  <message>
+    <key>q21016021_00_1175</key>
+    <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
+  </message>
+  <message>
+    <key>q21016021_00_1176</key>
+    <original>依頼者へ経緯を報告する</original>
+    <translation>Report back to the requester</translation>
+  </message>
+</resource>

@@ -1,0 +1,46 @@
+﻿<resource>
+  <message>
+    <key>q21017023_00_619</key>
+    <original>【時限採取】曇天の採掘道</original>
+    <translation>Time Restriction: 曇天の採掘道</translation>
+  </message>
+  <message>
+    <key>q21017023_00_619</key>
+    <original>【時限採取クエスト：曇天】
+エリアマスターから話を聞き
+特定条件の間に採取を行い納品する</original>
+  </message>
+  <message>
+    <key>q21017023_00_619</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターは
+覚者へ相談したい事があるらしい</original>
+  </message>
+  <message>
+    <key>q21017023_00_619</key>
+    <original>デーモンが現れたころから、
+よく採れるようになった素材は少なくない――
+村の奴らは不吉だから近付くな、とか言ってるけど
+そんなもの高く売っ払って、村の糧にすればいい
+利用できるものは利用してやらなくちゃな</original>
+  </message>
+  <message>
+    <key>q21017023_00_1249</key>
+    <original>＜曇天＞時にパーティメンバーを拠点内に集める</original>
+    <translation>Gather party members in the camp during "Cloudy" weather</translation>
+  </message>
+  <message>
+    <key>q21017023_00_1236</key>
+    <original>＜曇天＞時に依頼者から詳細を聞く</original>
+    <translation>Listen to details from the requester during "Cloudy" weather</translation>
+  </message>
+  <message>
+    <key>q21017023_00_1262</key>
+    <original>＜曇天＞の間に&lt;AREA 17&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA 17&gt; during "Cloudy" weather</translation>
+  </message>
+  <message>
+    <key>q21017023_00_1233</key>
+    <original>エリアマスターに《&lt;SQDI NAME&gt;》を＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the Area Master</translation>
+  </message>
+</resource>

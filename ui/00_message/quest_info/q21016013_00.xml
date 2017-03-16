@@ -1,12 +1,13 @@
 ﻿<resource>
   <message>
     <key>q21016013_00_585</key>
-    <original>【2.2WQ】侵食森（モロー樹林）13</original>
+    <original>鈍腕の好学者</original>
   </message>
   <message>
     <key>q21016013_00_585</key>
-    <original>依頼者が求める人物を捜索し
-迅速に救出する</original>
+    <original>【迅速救助クエスト】
+依頼者が求める人物を捜索し
+迅速に救助する</original>
   </message>
   <message>
     <key>q21016013_00_585</key>
@@ -15,7 +16,10 @@
   </message>
   <message>
     <key>q21016013_00_585</key>
-    <original>（仮）</original>
+    <original>この地へ来る覚者はみな腕自慢かと思いきや、
+女子供や学者崩れみたいなモンもおるじゃないか！
+そんなことで本当にフィンダムを救えるのかのう？
+全く――ワシらの脚だけは引っ張ってくれるなよ</original>
   </message>
   <message>
     <key>q21016013_00_1226</key>
@@ -23,7 +27,7 @@
   </message>
   <message>
     <key>q21016013_00_1227</key>
-    <original>魔物を迅速に討伐し捜索対象を救出する</original>
+    <original>魔物を迅速に討伐し捜索対象を救助する</original>
   </message>
   <message>
     <key>q21016013_00_1228</key>

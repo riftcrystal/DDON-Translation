@@ -1,0 +1,28 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_539</key>
+    <original>覚者として日々を過ごしていると、メールを通して
+様々なイベントの通知などが送られてきます
+
+メールの内容は
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニュー&lt;COL ffdc78&gt;《コミュニケーション》の
+《メール》&lt;/COL&gt;から確認することができます
+
+また、メールにアイテムが添付されていた場合は
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニュー&lt;COL ffdc78&gt;《キャラクター》の
+《アイテムポスト》&lt;/COL&gt;から受け取ることができます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_540</key>
+    <original>イベントによっては&lt;COL ffdc78&gt;《イベントコード入力》&lt;/COL&gt;による
+アイテムの受け取り方法もあります
+
+イベントコードを入手する事があれば
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニュー&lt;COL ffdc78&gt;《オンラインショップ》の
+《イベントコード入力》&lt;/COL&gt;から入力してみましょう
+
+なお、コード入力によるアイテムの受け取りについても
+メールを介して《アイテムポスト》から
+確認することができます</original>
+  </message>
+</resource>

@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q50205001_00_59</key>
+    <original>異人の洞窟</original>
+    <translation>The Foreigner's Cave</translation>
+  </message>
+  <message>
+    <key>q50205001_00_59</key>
+    <original>集いし勇敢なる冒険者たちよ
+手がかりの導く秘洞に眠る
+黄金の秘宝を探し出せ</original>
+  </message>
+  <message>
+    <key>q50205001_00_2617</key>
+    <original>遭遇した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q50205001_00_2618</key>
+    <original>次なる敵を探し出す</original>
+  </message>
+  <message>
+    <key>q50205001_00_2619</key>
+    <original>パーティー集合マーカーに集まる</original>
+  </message>
+  <message>
+    <key>q50205001_00_2620</key>
+    <original>最奥に潜む魔物を討伐する</original>
+  </message>
+</resource>

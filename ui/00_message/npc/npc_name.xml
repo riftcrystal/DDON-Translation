@@ -2544,6 +2544,12 @@
   <message>
     <key>NPC_NAME_836</key>
     <original>精霊竜ウィルミア</original>
+    <translation>Spirit Dragon Willmia</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_837</key>
+    <original>精霊竜セシリー</original>
+    <translation>Spirit Dragon Cecily</translation>
   </message>
   <message>
     <key>NPC_NAME_838</key>
@@ -2660,6 +2666,10 @@
     <key>NPC_NAME_864</key>
     <original>メアリー</original>
     <translation>Mary</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_865</key>
+    <original>パリスハルト</original>
   </message>
   <message>
     <key>NPC_NAME_866</key>
@@ -2895,6 +2905,40 @@
     <key>NPC_NAME_920</key>
     <original>エナン</original>
     <translation>Henin</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_921</key>
+    <original>ビデリア</original>
+    <translation>Videlia</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_922</key>
+    <original>グェネイラ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_923</key>
+    <original>ギルロイ</original>
+    <translation>Gilroy</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_924</key>
+    <original>ウーナ</original>
+    <translation>Oona</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_925</key>
+    <original>ベレナス</original>
+    <translation>Berenas</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_926</key>
+    <original>ライアム</original>
+    <translation>Liam</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_927</key>
+    <original>ダレン</original>
+    <translation>Daren</translation>
   </message>
   <message>
     <key>NPC_NAME_929</key>

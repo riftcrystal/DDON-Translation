@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q21017024_00_620</key>
+    <original>【竜力の扉】招かれざる侵翼</original>
+    <translation>Door of Dragon Force: 招かれざる侵翼</translation>
+  </message>
+  <message>
+    <key>q21017024_00_620</key>
+    <original>【危険区域クエスト】
+ダンジョン内の危険区域へ繋がる扉の鍵を作り
+凶悪な魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q21017024_00_620</key>
+    <original>&lt;NAME AREA&gt;のダンジョン内部は、特別な
+鍵を持った者だけが入れる場所があるらしい</original>
+  </message>
+  <message>
+    <key>q21017024_00_620</key>
+    <original>な、なんであの魔物がキンガルに――
+くそ！　キンガルに派遣されたから
+侵食の脅威からは離れられると思ったのに！
+あいつを倒せば実力向上は必至だって――？
+そんなの、俺には関係ないね！</original>
+  </message>
+  <message>
+    <key>q21017024_00_1170</key>
+    <original>遭遇した凶悪な魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+</resource>

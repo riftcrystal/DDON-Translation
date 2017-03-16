@@ -607,4 +607,9 @@
     <key>common_enemy_transform_erosion_04</key>
     <original>・崩化</original>
   </message>
+  <message>
+    <key>common_question</key>
+    <original>?</original>
+    <translation>?</translation>
+  </message>
 </resource>

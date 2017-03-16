@@ -2,49 +2,70 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_08_113</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;を押す&lt;KEYM&gt;&lt;KC HOLD_BOW&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）</original>
+    <translation>&lt;PADM&gt;Press &lt;KC WEAPON_SUB&gt;
+&lt;KEYM&gt;Press and hold &lt;KC HOLD_BOW&gt; then use &lt;ICON MOUSE_WHL_4&gt; (by default)
+to switch between stances.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_114</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波の構え中にマウス移動</original>
+    <translation>&lt;PADM&gt;Press and hold &lt;KC WEAPON_SUB&gt; then move the right stick around.
+&lt;KEYM&gt;Move the mouse around while in Seeker Stance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_115</key>
     <original>闘波の構え中に&lt;KC SHOOT&gt;を押す</original>
+    <translation>Press &lt;KC SHOOT&gt; while in Seeker Stance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_116</key>
     <original>敵を狙って集中しジャストタイミングで矢を放つ</original>
+    <translation>Focus concentration on enemies and fire arrows with
+perfect timing. (The flash when the reticule fills.)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_117</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押す&lt;KEYM&gt;&lt;KC HOLD_BOW&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）</original>
+    <translation>&lt;PADM&gt;Press &lt;KC WEAPON_MAIN&gt;
+&lt;KEYM&gt;Press and hold &lt;KC HOLD_BOW&gt; then use &lt;ICON MOUSE_WHL_4&gt; (by default)
+to switch between stances.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_118</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押しながら右スティックを倒す&lt;KEYM&gt;助真の構え中にマウス移動</original>
+    <translation>&lt;PADM&gt;Press and hold &lt;KC WEAPON_MAIN&gt; then move the right stick around.
+&lt;KEYM&gt;Move the mouse around while in True Aid Stance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_119</key>
     <original>助真の構え中に&lt;KC SHOOT&gt;を押す</original>
+    <translation>Press &lt;KC SHOOT&gt; while in True Aid Stance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_120</key>
     <original>味方を狙って集中しジャストタイミングで矢を放つ</original>
+    <translation>Focus concentration on allies and fire arrows with
+perfect timing. (The flash when the reticule fills.)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_121</key>
     <original>&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_122</key>
     <original>&lt;KC CHANGE_ARROW&gt;を押す</original>
+    <translation>Press &lt;KC CHANGE_ARROW&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_123</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;または&lt;KC WEAPON_MAIN&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波／助真の構え中にマウス移動</original>
+    <translation>&lt;PADM&gt;Press and hold &lt;KC WEAPON_SUB&gt; or &lt;KC WEAPON_MAIN&gt; then move the right stick around.
+&lt;KEYM&gt;Move the mouse around while in Seeker/True Aid Stance.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_135</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>

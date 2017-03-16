@@ -1,0 +1,36 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_533</key>
+    <original>&lt;COL ffdc78&gt;《闇の再動》&lt;/COL&gt;は最大４人のパーティーで
+《芯なる樹》に再び姿が確認された黒騎士の剣を
+１０本破壊するエクストリームミッションです</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_534</key>
+    <original>《始まりの洞》から繋がる４つのダンジョンは
+&lt;COL ffdc78&gt;その内部も位置関係を同じくして繋がっています&lt;/COL&gt;
+一番左のダンジョンからは１つ右のダンジョンにしか
+移動できません
+
+ダンジョンに入ったらミニマップのアイコンを確認し
+&lt;COL ffdc78&gt;他のダンジョンへ通じる扉がどこにあるか&lt;/COL&gt;を
+把握しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_535</key>
+    <original>黒騎士の剣には敵対者を感知する力があり、
+しばらくすると魔物が呼び寄せられます
+
+少数での討伐が難しい場合、他のメンバーに
+助けを求めましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_536</key>
+    <original>ステージ内に出現する魔物の中でも、《時番群》の
+名を持つ魔物は、その一帯を全て討伐すると
+&lt;COL ffdc78&gt;ミッションの制限時間が延長&lt;/COL&gt;されます
+
+残りの制限時間を確認しながら
+臨機応変に対応しましょう</original>
+  </message>
+</resource>

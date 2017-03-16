@@ -1,22 +1,25 @@
 ﻿<resource>
   <message>
-    <original>バートランド北部はオークの敵陣ただ中
-いかなる時も油断せぬよう</original>
+    <original>グリッテン砦以北はオークの勢力圏
+探索はより慎重に</original>
   </message>
   <message>
-    <original>一度荒廃した地を戻すには、長い年月が必要</original>
+    <original>禊の神殿は、旧時代における白竜の座
+セラー湖の水を引き、竜力の巡りを模したとか――</original>
   </message>
   <message>
-    <original>危険物に注意を
-棘や残り火には近寄らぬが得策</original>
+    <original>バートランド高台と低地は往来が困難
+騎士団連絡路を経由するか、
+各隣接エリアへの再移動が必要</original>
   </message>
   <message>
-    <original>オークが使役する魔物はさまざま
-軍竜や巨人との遭遇時は、戦闘回避も考慮を</original>
+    <original>廃屋や井戸の検分は慎重に
+すでにオークのアジトとなっている
+可能性も否定できない</original>
   </message>
   <message>
-    <original>ガルドノックはグリッテンに匹敵する
-旧時代の大要塞
-堅牢さはそれ以上とも</original>
+    <original>本エリアの調査には、グリッテン砦を
+起点とするのが必定
+覚者隊の任務もそこで確認可能</original>
   </message>
 </resource>

@@ -1,0 +1,54 @@
+﻿<resource>
+  <message>
+    <key>q21016017_00_623</key>
+    <original>緑園のために</original>
+  </message>
+  <message>
+    <key>q21016017_00_623</key>
+    <original>【敵群討伐クエスト】
+依頼者から話を聞き
+敵の群れを討伐する</original>
+  </message>
+  <message>
+    <key>q21016017_00_623</key>
+    <original>&lt;NAME AREA&gt;からの報告によると
+魔物の勢力が一時的に増し、危険な状況にあるという</original>
+  </message>
+  <message>
+    <key>q21016017_00_623</key>
+    <original>お母さんが言うの
+最近野菜がおいしくなくなったって
+ねだんも高くなったからあまり買わないんだって
+わたしはその方がうれしいけど――
+だれか、どうしてなのか調べてくれないかなぁ</original>
+  </message>
+  <message>
+    <key>q21016017_00_1222</key>
+    <original>指定された場所で魔物の群れを探す(残り３)</original>
+  </message>
+  <message>
+    <key>q21016017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21016017_00_1223</key>
+    <original>残る魔物の群れを探す(残り２)</original>
+  </message>
+  <message>
+    <key>q21016017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21016017_00_1224</key>
+    <original>残る魔物の群れを探す(残り１)</original>
+  </message>
+  <message>
+    <key>q21016017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21016017_00_1169</key>
+    <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
+  </message>
+</resource>

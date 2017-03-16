@@ -1,0 +1,41 @@
+﻿<resource>
+  <message>
+    <key>q60216003_00_184</key>
+    <original>モロー樹林　試練：苦難のきざし</original>
+    <translation>Morrow Forest Trial: 苦難のきざし</translation>
+  </message>
+  <message>
+    <key>q60216003_00_184</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60216003_00_2383</key>
+    <original>&lt;NPC 2604&gt;から詳細を確認する</original>
+  </message>
+  <message>
+    <key>q60216003_00_2499</key>
+    <original>調査に向かった付近で&lt;NPC 561&gt;を探す</original>
+  </message>
+  <message>
+    <key>q60216003_00_2456</key>
+    <original>仲間を拘束した魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60216003_00_2384</key>
+    <original>&lt;NPC 561&gt;に拘束した魔物の居場所を聞く</original>
+  </message>
+  <message>
+    <key>q60216003_00_2385</key>
+    <original>罠にはめた魔物の居場所へ向かう</original>
+  </message>
+  <message>
+    <key>q60216003_00_2464</key>
+    <original>魔物を全滅させる</original>
+  </message>
+  <message>
+    <key>q60216003_00_2547</key>
+    <original>&lt;SPOT 878&gt;の&lt;NPC 2604&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2604&gt; in &lt;SPOT 878&gt;</translation>
+  </message>
+</resource>

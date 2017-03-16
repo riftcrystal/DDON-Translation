@@ -259,6 +259,11 @@
     <translation>Warfare Practice</translation>
   </message>
   <message>
+    <key>FUNC_SELECT_NAME_60</key>
+    <original>クランダンジョン</original>
+    <translation>Clan Dungeon</translation>
+  </message>
+  <message>
     <key>FUNC_SELECT_NAME_61</key>
     <original>プレゼント</original>
     <translation>Present</translation>

@@ -104,4 +104,12 @@ concentrate an alchemical substance on one point and expand it
 outwards. Pressing the set button with correct timing increases
 the number of attacks.</translation>
   </message>
+  <message>
+    <key>NORMAL_SKILL_INFO_09_164</key>
+    <original>敵の攻撃に対してタイミングよく自身のスキルを
+放つことで、敵の攻撃を防いで錬成物質を
+付着させる。また、自身に金を纏って一定時間
+敵の攻撃を遮断する
+一部の回避／防御スキルでは発動不可</original>
+  </message>
 </resource>

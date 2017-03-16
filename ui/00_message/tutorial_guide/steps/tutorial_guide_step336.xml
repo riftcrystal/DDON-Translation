@@ -1,0 +1,20 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_537</key>
+    <original>&lt;COL ffdc78&gt;《オンラインショップ》&lt;/COL&gt;では
+&lt;COL ffdc78&gt;《黄金石》&lt;/COL&gt;を使って
+覚者の成長や冒険を強力にサポートしてくれる
+各種サービスやアイテムを購入することができます
+
+特典や有効期限にも注意しながら
+プレイスタイルにあったサービスを
+有効に利用しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_538</key>
+    <original>購入済みの未使用コースについては
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニュー&lt;COL ffdc78&gt;《オンラインショップ》にある
+《オンラインステーション》の《未使用コース》&lt;/COL&gt;から
+確認することができます</original>
+  </message>
+</resource>

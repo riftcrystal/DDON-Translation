@@ -11,6 +11,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>イヴァノスの塔</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>キンガル西岸</original>
   </message>
   <message>
@@ -32,6 +36,14 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>廃村クラーハ</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>円形舞踊場</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>ネビュラ小神殿</original>
     <translation>Nebula Temple</translation>
   </message>
@@ -44,5 +56,17 @@
     <key>SPOT_NAME_</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>アンビュロス大遺跡</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ハディン地下古道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>古代地下宮</original>
   </message>
 </resource>

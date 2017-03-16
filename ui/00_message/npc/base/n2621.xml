@@ -16,4 +16,49 @@
     <original>精霊竜の守番として
 我々は全力を尽くす所存です――</original>
   </message>
+  <message>
+    <original>旅の方にはこの寝床を
+&lt;VAL PRICE_INN&gt;にて貸し出しています
+簡素な宿ですが――
+休んでいかれますか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>本日は旅の方のため、宿を解放しております
+どうぞ疲れを癒していってください</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>《弱化の治療》には&lt;VAL PRICE_WEAK&gt;いただいています
+時が経てば自然と治るものですが――
+今すぐの回復をご希望でしょうか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+    <translation>Yes</translation>
+  </message>
+  <message>
+    <original>いいえ</original>
+    <translation>No</translation>
+  </message>
+  <message>
+    <original>おや、困りました――
+弱化していないようですよ
+気持ちがお疲れなのかもしれません
+少しここでゆっくりしていかれては？</original>
+  </message>
 </resource>

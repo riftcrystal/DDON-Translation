@@ -1,0 +1,54 @@
+﻿<resource>
+  <message>
+    <key>q21014017_00_604</key>
+    <original>密林に輝く純白</original>
+  </message>
+  <message>
+    <key>q21014017_00_604</key>
+    <original>【敵群討伐クエスト】
+依頼者から話を聞き
+敵の群れを討伐する</original>
+  </message>
+  <message>
+    <key>q21014017_00_604</key>
+    <original>&lt;NAME AREA&gt;からの報告によると
+魔物の勢力が一時的に増し、危険な状況にあるという</original>
+  </message>
+  <message>
+    <key>q21014017_00_604</key>
+    <original>この間、森の少し深い所まで足を踏み入れたら
+密林に似つかわしくない、巨大な白い影が――
+どうりで最近小型の魔物たちが大人しいと思ったよ
+エリアマスターには報告したから
+変に結束する前に、誰かが行ってくれるといいな</original>
+  </message>
+  <message>
+    <key>q21014017_00_1222</key>
+    <original>指定された場所で魔物の群れを探す(残り３)</original>
+  </message>
+  <message>
+    <key>q21014017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21014017_00_1223</key>
+    <original>残る魔物の群れを探す(残り２)</original>
+  </message>
+  <message>
+    <key>q21014017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21014017_00_1224</key>
+    <original>残る魔物の群れを探す(残り１)</original>
+  </message>
+  <message>
+    <key>q21014017_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q21014017_00_1169</key>
+    <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
+  </message>
+</resource>

@@ -1462,13 +1462,23 @@
     <original>ポルタイルーキス</original>
     <translation>Portae Lucis</translation>
   </item>
+  <item id="414">
+    <original>ローレムクビト</original>
+    <translation>Lorem Cubito</translation>
+  </item>
   <item id="415">
     <original>ブラチウムスピリタス</original>
     <translation>Brachium Spiritus</translation>
   </item>
+  <item id="416">
+    <original>ソリテューデ</original>
+  </item>
   <item id="417">
     <original>ニグラムコルプス</original>
     <translation>Nigrum Corpus</translation>
+  </item>
+  <item id="418">
+    <original>テネブライドラジェル</original>
   </item>
   <item id="419">
     <original>イクツステラム</original>
@@ -5329,13 +5339,23 @@
     <original>ポルタイルーキス</original>
     <translation>Portae Lucis</translation>
   </item>
+  <item id="2026">
+    <original>ローレムクビト</original>
+    <translation>Lorem Cubito</translation>
+  </item>
   <item id="2027">
     <original>ブラチウムスピリタス</original>
     <translation>Brachium Spiritus</translation>
   </item>
+  <item id="2028">
+    <original>ソリテューデ</original>
+  </item>
   <item id="2029">
     <original>ニグラムコルプス</original>
     <translation>Nigrum Corpus</translation>
+  </item>
+  <item id="2030">
+    <original>テネブライドラジェル</original>
   </item>
   <item id="2031">
     <original>イクツステラム</original>
@@ -9125,13 +9145,23 @@
     <original>ポルタイルーキス</original>
     <translation>Portae Lucis</translation>
   </item>
+  <item id="3049">
+    <original>ローレムクビト</original>
+    <translation>Lorem Cubito</translation>
+  </item>
   <item id="3050">
     <original>ブラチウムスピリタス</original>
     <translation>Brachium Spiritus</translation>
   </item>
+  <item id="3051">
+    <original>ソリテューデ</original>
+  </item>
   <item id="3052">
     <original>ニグラムコルプス</original>
     <translation>Nigrum Corpus</translation>
+  </item>
+  <item id="3053">
+    <original>テネブライドラジェル</original>
   </item>
   <item id="3054">
     <original>イクツステラム</original>
@@ -12921,13 +12951,23 @@
     <original>ポルタイルーキス</original>
     <translation>Portae Lucis</translation>
   </item>
+  <item id="4072">
+    <original>ローレムクビト</original>
+    <translation>Lorem Cubito</translation>
+  </item>
   <item id="4073">
     <original>ブラチウムスピリタス</original>
     <translation>Brachium Spiritus</translation>
   </item>
+  <item id="4074">
+    <original>ソリテューデ</original>
+  </item>
   <item id="4075">
     <original>ニグラムコルプス</original>
     <translation>Nigrum Corpus</translation>
+  </item>
+  <item id="4076">
+    <original>テネブライドラジェル</original>
   </item>
   <item id="4077">
     <original>イクツステラム</original>
@@ -16717,13 +16757,23 @@
     <original>ポルタイルーキス</original>
     <translation>Portae Lucis</translation>
   </item>
+  <item id="5095">
+    <original>ローレムクビト</original>
+    <translation>Lorem Cubito</translation>
+  </item>
   <item id="5096">
     <original>ブラチウムスピリタス</original>
     <translation>Brachium Spiritus</translation>
   </item>
+  <item id="5097">
+    <original>ソリテューデ</original>
+  </item>
   <item id="5098">
     <original>ニグラムコルプス</original>
     <translation>Nigrum Corpus</translation>
+  </item>
+  <item id="5099">
+    <original>テネブライドラジェル</original>
   </item>
   <item id="5100">
     <original>イクツステラム</original>
@@ -29508,6 +29558,26 @@
     <original>白翼覚者隊の甲冑・鉄鋼</original>
     <translation>White Wings Arisen Corps Steel Armor</translation>
   </item>
+  <item id="10559">
+    <original>白翼覚者隊の甲冑・金剛</original>
+    <translation>White Wings Arisen Corps Vajra Armor</translation>
+  </item>
+  <item id="10560">
+    <original>白翼覚者隊の甲冑・金剛</original>
+    <translation>White Wings Arisen Corps Vajra Armor</translation>
+  </item>
+  <item id="10561">
+    <original>白翼覚者隊の甲冑・金剛</original>
+    <translation>White Wings Arisen Corps Vajra Armor</translation>
+  </item>
+  <item id="10562">
+    <original>白翼覚者隊の甲冑・金剛</original>
+    <translation>White Wings Arisen Corps Vajra Armor</translation>
+  </item>
+  <item id="10563">
+    <original>白翼覚者隊の甲冑・金剛</original>
+    <translation>White Wings Arisen Corps Vajra Armor</translation>
+  </item>
   <item id="10574">
     <original>貴族紳士の衣装・深緑</original>
     <translation>Dark Green Nobleman's Garment</translation>
@@ -29630,23 +29700,43 @@
   </item>
   <item id="10604">
     <original>女覚者の戦闘衣・聖闘女</original>
-    <translation>Holy Warrior Female Arisen Battle Attire</translation>
+    <translation>Holy Warrior Female Arisen's Battle Attire</translation>
   </item>
   <item id="10605">
     <original>女覚者の戦闘衣・聖闘女</original>
-    <translation>Holy Warrior Female Arisen Battle Attire</translation>
+    <translation>Holy Warrior Female Arisen's Battle Attire</translation>
   </item>
   <item id="10606">
     <original>女覚者の戦闘衣・聖闘女</original>
-    <translation>Holy Warrior Female Arisen Battle Attire</translation>
+    <translation>Holy Warrior Female Arisen's Battle Attire</translation>
   </item>
   <item id="10607">
     <original>女覚者の戦闘衣・聖闘女</original>
-    <translation>Holy Warrior Female Arisen Battle Attire</translation>
+    <translation>Holy Warrior Female Arisen's Battle Attire</translation>
   </item>
   <item id="10608">
     <original>女覚者の戦闘衣・聖闘女</original>
-    <translation>Holy Warrior Female Arisen Battle Attire</translation>
+    <translation>Holy Warrior Female Arisen's Battle Attire</translation>
+  </item>
+  <item id="10609">
+    <original>女覚者の戦闘衣・金闘女</original>
+    <translation>Gold Warrior Female Arisen's Battle Attire</translation>
+  </item>
+  <item id="10610">
+    <original>女覚者の戦闘衣・金闘女</original>
+    <translation>Gold Warrior Female Arisen's Battle Attire</translation>
+  </item>
+  <item id="10611">
+    <original>女覚者の戦闘衣・金闘女</original>
+    <translation>Gold Warrior Female Arisen's Battle Attire</translation>
+  </item>
+  <item id="10612">
+    <original>女覚者の戦闘衣・金闘女</original>
+    <translation>Gold Warrior Female Arisen's Battle Attire</translation>
+  </item>
+  <item id="10613">
+    <original>女覚者の戦闘衣・金闘女</original>
+    <translation>Gold Warrior Female Arisen's Battle Attire</translation>
   </item>
   <item id="10624">
     <original>町娘のドレス・そよ風</original>
@@ -32209,6 +32299,26 @@
     <original>ソードオブライトニング【翠】</original>
     <translation>Sword of Lightning (Green)</translation>
   </item>
+  <item id="11347">
+    <original>ソードオブライトニング【彗】</original>
+    <translation>Sword of Lightning (Comet)</translation>
+  </item>
+  <item id="11348">
+    <original>ソードオブライトニング【彗】</original>
+    <translation>Sword of Lightning (Comet)</translation>
+  </item>
+  <item id="11349">
+    <original>ソードオブライトニング【彗】</original>
+    <translation>Sword of Lightning (Comet)</translation>
+  </item>
+  <item id="11350">
+    <original>ソードオブライトニング【彗】</original>
+    <translation>Sword of Lightning (Comet)</translation>
+  </item>
+  <item id="11351">
+    <original>ソードオブライトニング【彗】</original>
+    <translation>Sword of Lightning (Comet)</translation>
+  </item>
   <item id="11352">
     <original>ソードオブライトニング【天】</original>
     <translation>Sword of Lightning (Heaven)</translation>
@@ -32615,6 +32725,26 @@
   <item id="11468">
     <original>先人のガイドワンズ</original>
     <translation>Pioneer's Guide Wand</translation>
+  </item>
+  <item id="11499">
+    <original>フィネガンズマント</original>
+    <translation>Finnegan's Mantle</translation>
+  </item>
+  <item id="11500">
+    <original>フィネガンズマント</original>
+    <translation>Finnegan's Mantle</translation>
+  </item>
+  <item id="11501">
+    <original>フィネガンズマント</original>
+    <translation>Finnegan's Mantle</translation>
+  </item>
+  <item id="11502">
+    <original>フィネガンズマント</original>
+    <translation>Finnegan's Mantle</translation>
+  </item>
+  <item id="11503">
+    <original>フィネガンズマント</original>
+    <translation>Finnegan's Mantle</translation>
   </item>
   <item id="11504">
     <original>アイスキューブの欠片</original>
@@ -33732,7 +33862,7 @@
   </item>
   <item id="11796">
     <original>フィンダミアレジン</original>
-    <translation>Findermere Resin</translation>
+    <translation>Phindymer Resin</translation>
   </item>
   <item id="11797">
     <original>玉苔</original>
@@ -34271,23 +34401,23 @@
   </item>
   <item id="11946">
     <original>フィンダミアブレイカー</original>
-    <translation>Findermere Breaker</translation>
+    <translation>Phindymer Breaker</translation>
   </item>
   <item id="11947">
     <original>フィンダミアブレイカー</original>
-    <translation>Findermere Breaker</translation>
+    <translation>Phindymer Breaker</translation>
   </item>
   <item id="11948">
     <original>フィンダミアブレイカー</original>
-    <translation>Findermere Breaker</translation>
+    <translation>Phindymer Breaker</translation>
   </item>
   <item id="11949">
     <original>フィンダミアブレイカー</original>
-    <translation>Findermere Breaker</translation>
+    <translation>Phindymer Breaker</translation>
   </item>
   <item id="11950">
     <original>フィンダミアブレイカー</original>
-    <translation>Findermere Breaker</translation>
+    <translation>Phindymer Breaker</translation>
   </item>
   <item id="11951">
     <original>オートクレール</original>
@@ -34348,6 +34478,26 @@
   <item id="11965">
     <original>ギャラントフィギュア</original>
     <translation>Gallant Figure</translation>
+  </item>
+  <item id="11966">
+    <original>オーフリングブレイカー【玄】</original>
+    <translation>Olfring Breaker (Black)</translation>
+  </item>
+  <item id="11967">
+    <original>オーフリングブレイカー【玄】</original>
+    <translation>Olfring Breaker (Black)</translation>
+  </item>
+  <item id="11968">
+    <original>オーフリングブレイカー【玄】</original>
+    <translation>Olfring Breaker (Black)</translation>
+  </item>
+  <item id="11969">
+    <original>オーフリングブレイカー【玄】</original>
+    <translation>Olfring Breaker (Black)</translation>
+  </item>
+  <item id="11970">
+    <original>オーフリングブレイカー【玄】</original>
+    <translation>Olfring Breaker (Black)</translation>
   </item>
   <item id="11971">
     <original>オーフリングブレイカー【地】</original>
@@ -35009,6 +35159,26 @@
     <original>オーフリングダガー【玄】</original>
     <translation>Olfring Daggers (Black)</translation>
   </item>
+  <item id="12146">
+    <original>オーフリングダガー【地】</original>
+    <translation>Olfring Daggers (Earth)</translation>
+  </item>
+  <item id="12147">
+    <original>オーフリングダガー【地】</original>
+    <translation>Olfring Daggers (Earth)</translation>
+  </item>
+  <item id="12148">
+    <original>オーフリングダガー【地】</original>
+    <translation>Olfring Daggers (Earth)</translation>
+  </item>
+  <item id="12149">
+    <original>オーフリングダガー【地】</original>
+    <translation>Olfring Daggers (Earth)</translation>
+  </item>
+  <item id="12150">
+    <original>オーフリングダガー【地】</original>
+    <translation>Olfring Daggers (Earth)</translation>
+  </item>
   <item id="12151">
     <original>オーフリングダガー【天】</original>
     <translation>Olfring Daggers (Heaven)</translation>
@@ -35048,6 +35218,26 @@
   <item id="12160">
     <original>オーフリングダガー【蒼】</original>
     <translation>Olfring Daggers (Blue)</translation>
+  </item>
+  <item id="12161">
+    <original>オーフリングダガー【紅】</original>
+    <translation>Olfring Daggers (Red)</translation>
+  </item>
+  <item id="12162">
+    <original>オーフリングダガー【紅】</original>
+    <translation>Olfring Daggers (Red)</translation>
+  </item>
+  <item id="12163">
+    <original>オーフリングダガー【紅】</original>
+    <translation>Olfring Daggers (Red)</translation>
+  </item>
+  <item id="12164">
+    <original>オーフリングダガー【紅】</original>
+    <translation>Olfring Daggers (Red)</translation>
+  </item>
+  <item id="12165">
+    <original>オーフリングダガー【紅】</original>
+    <translation>Olfring Daggers (Red)</translation>
   </item>
   <item id="12166">
     <original>オーフリングダガー【翠】</original>
@@ -35709,6 +35899,26 @@
     <original>レリジャスドラグーン</original>
     <translation>Religious Dragoon</translation>
   </item>
+  <item id="12366">
+    <original>オーフリングシューター【玄】</original>
+    <translation>Olfring Shooter (Black)</translation>
+  </item>
+  <item id="12367">
+    <original>オーフリングシューター【玄】</original>
+    <translation>Olfring Shooter (Black)</translation>
+  </item>
+  <item id="12368">
+    <original>オーフリングシューター【玄】</original>
+    <translation>Olfring Shooter (Black)</translation>
+  </item>
+  <item id="12369">
+    <original>オーフリングシューター【玄】</original>
+    <translation>Olfring Shooter (Black)</translation>
+  </item>
+  <item id="12370">
+    <original>オーフリングシューター【玄】</original>
+    <translation>Olfring Shooter (Black)</translation>
+  </item>
   <item id="12371">
     <original>オーフリングシューター【地】</original>
     <translation>Olfring Shooter (Earth)</translation>
@@ -35748,6 +35958,26 @@
   <item id="12380">
     <original>オーフリングシューター【天】</original>
     <translation>Olfring Shooter (Heaven)</translation>
+  </item>
+  <item id="12381">
+    <original>オーフリングシューター【蒼】</original>
+    <translation>Olfring Shooter (Blue)</translation>
+  </item>
+  <item id="12382">
+    <original>オーフリングシューター【蒼】</original>
+    <translation>Olfring Shooter (Blue)</translation>
+  </item>
+  <item id="12383">
+    <original>オーフリングシューター【蒼】</original>
+    <translation>Olfring Shooter (Blue)</translation>
+  </item>
+  <item id="12384">
+    <original>オーフリングシューター【蒼】</original>
+    <translation>Olfring Shooter (Blue)</translation>
+  </item>
+  <item id="12385">
+    <original>オーフリングシューター【蒼】</original>
+    <translation>Olfring Shooter (Blue)</translation>
   </item>
   <item id="12386">
     <original>オーフリングシューター【紅】</original>
@@ -36188,6 +36418,26 @@
   <item id="12505">
     <original>アタラクシア</original>
     <translation>Ataraxia</translation>
+  </item>
+  <item id="12506">
+    <original>オーフリングワンズ【玄】</original>
+    <translation>Olfring Wand (Black)</translation>
+  </item>
+  <item id="12507">
+    <original>オーフリングワンズ【玄】</original>
+    <translation>Olfring Wand (Black)</translation>
+  </item>
+  <item id="12508">
+    <original>オーフリングワンズ【玄】</original>
+    <translation>Olfring Wand (Black)</translation>
+  </item>
+  <item id="12509">
+    <original>オーフリングワンズ【玄】</original>
+    <translation>Olfring Wand (Black)</translation>
+  </item>
+  <item id="12510">
+    <original>オーフリングワンズ【玄】</original>
+    <translation>Olfring Wand (Black)</translation>
   </item>
   <item id="12511">
     <original>オーフリングワンズ【地】</original>
@@ -38918,70 +39168,100 @@
     <translation>Cryptid Mantle</translation>
   </item>
   <item id="13193">
-    <original>プロフィール１</original>
+    <original>ノーマルブルー</original>
+    <translation>Normal Blue</translation>
   </item>
   <item id="13194">
-    <original>プロフィール２</original>
+    <original>オールドスクロール</original>
+    <translation>Old Scroll</translation>
   </item>
   <item id="13195">
-    <original>プロフィール３</original>
+    <original>ノーマルブラウン</original>
+    <translation>Normal Brown</translation>
   </item>
   <item id="13196">
-    <original>プロフィール４</original>
+    <original>モンスターズ</original>
+    <translation>Monsters</translation>
   </item>
   <item id="13197">
-    <original>プロフィール５</original>
+    <original>ダークマーブル</original>
+    <translation>Dark Marble</translation>
   </item>
   <item id="13198">
-    <original>プロフィール６</original>
+    <original>アーガイル</original>
+    <translation>Argyle</translation>
   </item>
   <item id="13199">
-    <original>プロフィール７</original>
+    <original>マリン・ノート</original>
+    <translation>Marine Note</translation>
   </item>
   <item id="13200">
-    <original>プロフィール８</original>
+    <original>ウェーブストライプ</original>
+    <translation>Wave Stripes</translation>
   </item>
   <item id="13201">
-    <original>プロフィール９</original>
+    <original>ピンクフラワー</original>
+    <translation>Pink Flowers</translation>
   </item>
   <item id="13202">
-    <original>プロフィール１０</original>
+    <original>モノグラム</original>
+    <translation>Monogram</translation>
   </item>
   <item id="13203">
-    <original>プロフィール１１</original>
+    <original>オールドストライプ</original>
+    <translation>Old Stripes</translation>
   </item>
   <item id="13204">
-    <original>プロフィール１２</original>
+    <original>キューブ</original>
+    <translation>Cubes</translation>
   </item>
   <item id="13205">
-    <original>プロフィール１３</original>
+    <original>神殿</original>
+    <translation>Temple</translation>
   </item>
   <item id="13206">
-    <original>プロフィール１４</original>
+    <original>カラフルエッグ</original>
+    <translation>Colorful Eggs</translation>
   </item>
   <item id="13207">
-    <original>プロフィール１５</original>
+    <original>紋章</original>
+    <translation>Coat of Arms</translation>
   </item>
   <item id="13208">
-    <original>プロフィール１６</original>
+    <original>スポットライト</original>
+    <translation>Spotlight</translation>
   </item>
   <item id="13209">
-    <original>プロフィール１７</original>
+    <original>スティグマ</original>
+    <translation>Stigma</translation>
   </item>
   <item id="13210">
-    <original>プロフィール１８</original>
+    <original>石畳</original>
+    <translation>Cobblestone</translation>
+  </item>
+  <item id="13211">
+    <original>オペラカーテン</original>
+    <translation>Opera Curtain</translation>
+  </item>
+  <item id="13212">
+    <original>ゴールドダマスク</original>
+    <translation>Gold Damascus</translation>
   </item>
   <item id="13213">
-    <original>エディットパーツ１</original>
+    <original>髪のパーツEX1</original>
+    <translation>Hair Parts EX1</translation>
   </item>
   <item id="13214">
-    <original>エディットパーツ２</original>
+    <original>髪のパーツEX2</original>
+    <translation>Hair Parts EX2</translation>
   </item>
   <item id="13215">
-    <original>エディットパーツ３</original>
+    <original>髪のパーツEX3</original>
+    <translation>Hair Parts EX3</translation>
   </item>
   <item id="13216">
-    <original>エディットパーツ４</original>
+    <original>髪のパーツEX4</original>
+    <translation>Hair Parts EX4</translation>
   </item>
   <item id="13223">
     <original>胞子まみれの変色羽</original>
@@ -39772,6 +40052,22 @@
   <item id="13486">
     <original>花彫りの未鑑定装具【皇】</original>
     <translation>Unappraised Flower Trinket (Emperor)</translation>
+  </item>
+  <item id="13487">
+    <original>風彫りの未鑑定装具【兵】</original>
+    <translation>Unappraised Wind Trinket (Soldier)</translation>
+  </item>
+  <item id="13488">
+    <original>風彫りの未鑑定装具【将】</original>
+    <translation>Unappraised Wind Trinket (General)</translation>
+  </item>
+  <item id="13489">
+    <original>風彫りの未鑑定装具【王】</original>
+    <translation>Unappraised Wind Trinket (King)</translation>
+  </item>
+  <item id="13490">
+    <original>風彫りの未鑑定装具【皇】</original>
+    <translation>Unappraised Wind Trinket (Emperor)</translation>
   </item>
   <item id="13491">
     <original>宝珠認証【レウス】</original>
@@ -42147,23 +42443,23 @@
   </item>
   <item id="14272">
     <original>フィンダミアソード</original>
-    <translation>Findermere Sword</translation>
+    <translation>Phindymer Sword</translation>
   </item>
   <item id="14273">
     <original>フィンダミアソード</original>
-    <translation>Findermere Sword</translation>
+    <translation>Phindymer Sword</translation>
   </item>
   <item id="14274">
     <original>フィンダミアソード</original>
-    <translation>Findermere Sword</translation>
+    <translation>Phindymer Sword</translation>
   </item>
   <item id="14275">
     <original>フィンダミアソード</original>
-    <translation>Findermere Sword</translation>
+    <translation>Phindymer Sword</translation>
   </item>
   <item id="14276">
     <original>フィンダミアソード</original>
-    <translation>Findermere Sword</translation>
+    <translation>Phindymer Sword</translation>
   </item>
   <item id="14277">
     <original>ヴァーダントシャープネス</original>
@@ -42184,6 +42480,106 @@
   <item id="14281">
     <original>ヴァーダントシャープネス</original>
     <translation>Verdant Sharpness</translation>
+  </item>
+  <item id="14282">
+    <original>フリーティングソード</original>
+    <translation>Fleeting Sword</translation>
+  </item>
+  <item id="14283">
+    <original>フリーティングソード</original>
+    <translation>Fleeting Sword</translation>
+  </item>
+  <item id="14284">
+    <original>フリーティングソード</original>
+    <translation>Fleeting Sword</translation>
+  </item>
+  <item id="14285">
+    <original>フリーティングソード</original>
+    <translation>Fleeting Sword</translation>
+  </item>
+  <item id="14286">
+    <original>フリーティングソード</original>
+    <translation>Fleeting Sword</translation>
+  </item>
+  <item id="14287">
+    <original>キャプテンズフューリー</original>
+    <translation>Captain's Fury</translation>
+  </item>
+  <item id="14288">
+    <original>キャプテンズフューリー</original>
+    <translation>Captain's Fury</translation>
+  </item>
+  <item id="14289">
+    <original>キャプテンズフューリー</original>
+    <translation>Captain's Fury</translation>
+  </item>
+  <item id="14290">
+    <original>キャプテンズフューリー</original>
+    <translation>Captain's Fury</translation>
+  </item>
+  <item id="14291">
+    <original>キャプテンズフューリー</original>
+    <translation>Captain's Fury</translation>
+  </item>
+  <item id="14292">
+    <original>オールドウォーピック</original>
+    <translation>Old Warpick</translation>
+  </item>
+  <item id="14293">
+    <original>オールドウォーピック</original>
+    <translation>Old Warpick</translation>
+  </item>
+  <item id="14294">
+    <original>オールドウォーピック</original>
+    <translation>Old Warpick</translation>
+  </item>
+  <item id="14295">
+    <original>オールドウォーピック</original>
+    <translation>Old Warpick</translation>
+  </item>
+  <item id="14296">
+    <original>オールドウォーピック</original>
+    <translation>Old Warpick</translation>
+  </item>
+  <item id="14297">
+    <original>デーモンスレイヤー</original>
+    <translation>Demon Slayer</translation>
+  </item>
+  <item id="14298">
+    <original>デーモンスレイヤー</original>
+    <translation>Demon Slayer</translation>
+  </item>
+  <item id="14299">
+    <original>デーモンスレイヤー</original>
+    <translation>Demon Slayer</translation>
+  </item>
+  <item id="14300">
+    <original>デーモンスレイヤー</original>
+    <translation>Demon Slayer</translation>
+  </item>
+  <item id="14301">
+    <original>デーモンスレイヤー</original>
+    <translation>Demon Slayer</translation>
+  </item>
+  <item id="14302">
+    <original>ニュークリアス</original>
+    <translation>Nucleus</translation>
+  </item>
+  <item id="14303">
+    <original>ニュークリアス</original>
+    <translation>Nucleus</translation>
+  </item>
+  <item id="14304">
+    <original>ニュークリアス</original>
+    <translation>Nucleus</translation>
+  </item>
+  <item id="14305">
+    <original>ニュークリアス</original>
+    <translation>Nucleus</translation>
+  </item>
+  <item id="14306">
+    <original>ニュークリアス</original>
+    <translation>Nucleus</translation>
   </item>
   <item id="14307">
     <original>シールドオブトライブ</original>
@@ -42265,6 +42661,171 @@
     <original>ヴァーダントガード</original>
     <translation>Verdant Guard</translation>
   </item>
+  <item id="14327">
+    <original>ダマスクスシールド</original>
+    <translation>Damascus Shield</translation>
+  </item>
+  <item id="14328">
+    <original>ダマスクスシールド</original>
+    <translation>Damascus Shield</translation>
+  </item>
+  <item id="14329">
+    <original>ダマスクスシールド</original>
+    <translation>Damascus Shield</translation>
+  </item>
+  <item id="14330">
+    <original>ダマスクスシールド</original>
+    <translation>Damascus Shield</translation>
+  </item>
+  <item id="14331">
+    <original>ダマスクスシールド</original>
+    <translation>Damascus Shield</translation>
+  </item>
+  <item id="14332">
+    <original>ストレニオスガード</original>
+  </item>
+  <item id="14333">
+    <original>ストレニオスガード</original>
+  </item>
+  <item id="14334">
+    <original>ストレニオスガード</original>
+  </item>
+  <item id="14335">
+    <original>ストレニオスガード</original>
+  </item>
+  <item id="14336">
+    <original>ストレニオスガード</original>
+  </item>
+  <item id="14337">
+    <original>デーモンシールド</original>
+    <translation>Demon Shield</translation>
+  </item>
+  <item id="14338">
+    <original>デーモンシールド</original>
+    <translation>Demon Shield</translation>
+  </item>
+  <item id="14339">
+    <original>デーモンシールド</original>
+    <translation>Demon Shield</translation>
+  </item>
+  <item id="14340">
+    <original>デーモンシールド</original>
+    <translation>Demon Shield</translation>
+  </item>
+  <item id="14341">
+    <original>デーモンシールド</original>
+    <translation>Demon Shield</translation>
+  </item>
+  <item id="14342">
+    <original>コアオブシェル</original>
+    <translation>Core of Shell</translation>
+  </item>
+  <item id="14343">
+    <original>コアオブシェル</original>
+    <translation>Core of Shell</translation>
+  </item>
+  <item id="14344">
+    <original>コアオブシェル</original>
+    <translation>Core of Shell</translation>
+  </item>
+  <item id="14345">
+    <original>コアオブシェル</original>
+    <translation>Core of Shell</translation>
+  </item>
+  <item id="14346">
+    <original>コアオブシェル</original>
+    <translation>Core of Shell</translation>
+  </item>
+  <item id="14347">
+    <original>ディナスティスホーン</original>
+    <translation>Dynastes Horn</translation>
+  </item>
+  <item id="14348">
+    <original>ディナスティスホーン</original>
+    <translation>Dynastes Horn</translation>
+  </item>
+  <item id="14349">
+    <original>ディナスティスホーン</original>
+    <translation>Dynastes Horn</translation>
+  </item>
+  <item id="14350">
+    <original>ディナスティスホーン</original>
+    <translation>Dynastes Horn</translation>
+  </item>
+  <item id="14351">
+    <original>ディナスティスホーン</original>
+    <translation>Dynastes Horn</translation>
+  </item>
+  <item id="14352">
+    <original>スタウトランサー</original>
+    <translation>Stout Lancer</translation>
+  </item>
+  <item id="14353">
+    <original>スタウトランサー</original>
+    <translation>Stout Lancer</translation>
+  </item>
+  <item id="14354">
+    <original>スタウトランサー</original>
+    <translation>Stout Lancer</translation>
+  </item>
+  <item id="14355">
+    <original>スタウトランサー</original>
+    <translation>Stout Lancer</translation>
+  </item>
+  <item id="14356">
+    <original>スタウトランサー</original>
+    <translation>Stout Lancer</translation>
+  </item>
+  <item id="14357">
+    <original>巨獣のハンマー</original>
+    <translation>Hammer of the Behemoth</translation>
+  </item>
+  <item id="14358">
+    <original>巨獣のハンマー</original>
+    <translation>Hammer of the Behemoth</translation>
+  </item>
+  <item id="14359">
+    <original>巨獣のハンマー</original>
+    <translation>Hammer of the Behemoth</translation>
+  </item>
+  <item id="14360">
+    <original>巨獣のハンマー</original>
+    <translation>Hammer of the Behemoth</translation>
+  </item>
+  <item id="14361">
+    <original>巨獣のハンマー</original>
+    <translation>Hammer of the Behemoth</translation>
+  </item>
+  <item id="14362">
+    <original>ディスティンソード</original>
+  </item>
+  <item id="14363">
+    <original>ディスティンソード</original>
+  </item>
+  <item id="14364">
+    <original>ディスティンソード</original>
+  </item>
+  <item id="14365">
+    <original>ディスティンソード</original>
+  </item>
+  <item id="14366">
+    <original>ディスティンソード</original>
+  </item>
+  <item id="14367">
+    <original>カドレ</original>
+  </item>
+  <item id="14368">
+    <original>カドレ</original>
+  </item>
+  <item id="14369">
+    <original>カドレ</original>
+  </item>
+  <item id="14370">
+    <original>カドレ</original>
+  </item>
+  <item id="14371">
+    <original>カドレ</original>
+  </item>
   <item id="14372">
     <original>ウォールオブトライブ</original>
     <translation>Wall of Tribe</translation>
@@ -42327,23 +42888,23 @@
   </item>
   <item id="14387">
     <original>フィンダミアガード</original>
-    <translation>Findermere Guard</translation>
+    <translation>Phindymer Guard</translation>
   </item>
   <item id="14388">
     <original>フィンダミアガード</original>
-    <translation>Findermere Guard</translation>
+    <translation>Phindymer Guard</translation>
   </item>
   <item id="14389">
     <original>フィンダミアガード</original>
-    <translation>Findermere Guard</translation>
+    <translation>Phindymer Guard</translation>
   </item>
   <item id="14390">
     <original>フィンダミアガード</original>
-    <translation>Findermere Guard</translation>
+    <translation>Phindymer Guard</translation>
   </item>
   <item id="14391">
     <original>フィンダミアガード</original>
-    <translation>Findermere Guard</translation>
+    <translation>Phindymer Guard</translation>
   </item>
   <item id="14392">
     <original>ヴァーダントウォール</original>
@@ -42364,6 +42925,106 @@
   <item id="14396">
     <original>ヴァーダントウォール</original>
     <translation>Verdant Wall</translation>
+  </item>
+  <item id="14397">
+    <original>アイアンコフィン</original>
+    <translation>Iron Coffin</translation>
+  </item>
+  <item id="14398">
+    <original>アイアンコフィン</original>
+    <translation>Iron Coffin</translation>
+  </item>
+  <item id="14399">
+    <original>アイアンコフィン</original>
+    <translation>Iron Coffin</translation>
+  </item>
+  <item id="14400">
+    <original>アイアンコフィン</original>
+    <translation>Iron Coffin</translation>
+  </item>
+  <item id="14401">
+    <original>アイアンコフィン</original>
+    <translation>Iron Coffin</translation>
+  </item>
+  <item id="14402">
+    <original>フェアリーフォート</original>
+    <translation>Fairy Fort</translation>
+  </item>
+  <item id="14403">
+    <original>フェアリーフォート</original>
+    <translation>Fairy Fort</translation>
+  </item>
+  <item id="14404">
+    <original>フェアリーフォート</original>
+    <translation>Fairy Fort</translation>
+  </item>
+  <item id="14405">
+    <original>フェアリーフォート</original>
+    <translation>Fairy Fort</translation>
+  </item>
+  <item id="14406">
+    <original>フェアリーフォート</original>
+    <translation>Fairy Fort</translation>
+  </item>
+  <item id="14407">
+    <original>エンシュライン</original>
+    <translation>Enshrine</translation>
+  </item>
+  <item id="14408">
+    <original>エンシュライン</original>
+    <translation>Enshrine</translation>
+  </item>
+  <item id="14409">
+    <original>エンシュライン</original>
+    <translation>Enshrine</translation>
+  </item>
+  <item id="14410">
+    <original>エンシュライン</original>
+    <translation>Enshrine</translation>
+  </item>
+  <item id="14411">
+    <original>エンシュライン</original>
+    <translation>Enshrine</translation>
+  </item>
+  <item id="14412">
+    <original>ダイアボリックシールド</original>
+    <translation>Diabolic Shield</translation>
+  </item>
+  <item id="14413">
+    <original>ダイアボリックシールド</original>
+    <translation>Diabolic Shield</translation>
+  </item>
+  <item id="14414">
+    <original>ダイアボリックシールド</original>
+    <translation>Diabolic Shield</translation>
+  </item>
+  <item id="14415">
+    <original>ダイアボリックシールド</original>
+    <translation>Diabolic Shield</translation>
+  </item>
+  <item id="14416">
+    <original>ダイアボリックシールド</original>
+    <translation>Diabolic Shield</translation>
+  </item>
+  <item id="14417">
+    <original>インワードネス</original>
+    <translation>Inwardness</translation>
+  </item>
+  <item id="14418">
+    <original>インワードネス</original>
+    <translation>Inwardness</translation>
+  </item>
+  <item id="14419">
+    <original>インワードネス</original>
+    <translation>Inwardness</translation>
+  </item>
+  <item id="14420">
+    <original>インワードネス</original>
+    <translation>Inwardness</translation>
+  </item>
+  <item id="14421">
+    <original>インワードネス</original>
+    <translation>Inwardness</translation>
   </item>
   <item id="14422">
     <original>ロッドオブトライブ</original>
@@ -42445,6 +43106,86 @@
     <original>ヴァーダントスター</original>
     <translation>Verdant Star</translation>
   </item>
+  <item id="14442">
+    <original>エタンセルシュペルノヴァ</original>
+    <translation>Étincelle Supernova</translation>
+  </item>
+  <item id="14443">
+    <original>エタンセルシュペルノヴァ</original>
+    <translation>Étincelle Supernova</translation>
+  </item>
+  <item id="14444">
+    <original>エタンセルシュペルノヴァ</original>
+    <translation>Étincelle Supernova</translation>
+  </item>
+  <item id="14445">
+    <original>エタンセルシュペルノヴァ</original>
+    <translation>Étincelle Supernova</translation>
+  </item>
+  <item id="14446">
+    <original>エタンセルシュペルノヴァ</original>
+    <translation>Étincelle Supernova</translation>
+  </item>
+  <item id="14447">
+    <original>七星のロッド</original>
+    <translation>Seven Star Rod</translation>
+  </item>
+  <item id="14448">
+    <original>七星のロッド</original>
+    <translation>Seven Star Rod</translation>
+  </item>
+  <item id="14449">
+    <original>七星のロッド</original>
+    <translation>Seven Star Rod</translation>
+  </item>
+  <item id="14450">
+    <original>七星のロッド</original>
+    <translation>Seven Star Rod</translation>
+  </item>
+  <item id="14451">
+    <original>七星のロッド</original>
+    <translation>Seven Star Rod</translation>
+  </item>
+  <item id="14452">
+    <original>フィーンドロッド</original>
+    <translation>Fiend Rod</translation>
+  </item>
+  <item id="14453">
+    <original>フィーンドロッド</original>
+    <translation>Fiend Rod</translation>
+  </item>
+  <item id="14454">
+    <original>フィーンドロッド</original>
+    <translation>Fiend Rod</translation>
+  </item>
+  <item id="14455">
+    <original>フィーンドロッド</original>
+    <translation>Fiend Rod</translation>
+  </item>
+  <item id="14456">
+    <original>フィーンドロッド</original>
+    <translation>Fiend Rod</translation>
+  </item>
+  <item id="14457">
+    <original>コアオブロッド</original>
+    <translation>Core of Rod</translation>
+  </item>
+  <item id="14458">
+    <original>コアオブロッド</original>
+    <translation>Core of Rod</translation>
+  </item>
+  <item id="14459">
+    <original>コアオブロッド</original>
+    <translation>Core of Rod</translation>
+  </item>
+  <item id="14460">
+    <original>コアオブロッド</original>
+    <translation>Core of Rod</translation>
+  </item>
+  <item id="14461">
+    <original>コアオブロッド</original>
+    <translation>Core of Rod</translation>
+  </item>
   <item id="14462">
     <original>ダガーオブトライブ</original>
     <translation>Dagger of Tribe</translation>
@@ -42507,23 +43248,23 @@
   </item>
   <item id="14477">
     <original>フィンダミアダガー</original>
-    <translation>Findermere Daggers</translation>
+    <translation>Phindymer Daggers</translation>
   </item>
   <item id="14478">
     <original>フィンダミアダガー</original>
-    <translation>Findermere Daggers</translation>
+    <translation>Phindymer Daggers</translation>
   </item>
   <item id="14479">
     <original>フィンダミアダガー</original>
-    <translation>Findermere Daggers</translation>
+    <translation>Phindymer Daggers</translation>
   </item>
   <item id="14480">
     <original>フィンダミアダガー</original>
-    <translation>Findermere Daggers</translation>
+    <translation>Phindymer Daggers</translation>
   </item>
   <item id="14481">
     <original>フィンダミアダガー</original>
-    <translation>Findermere Daggers</translation>
+    <translation>Phindymer Daggers</translation>
   </item>
   <item id="14482">
     <original>ヴァーダントファング</original>
@@ -42544,6 +43285,106 @@
   <item id="14486">
     <original>ヴァーダントファング</original>
     <translation>Verdant Fang</translation>
+  </item>
+  <item id="14487">
+    <original>ディープリッパー</original>
+    <translation>Deep Ripper</translation>
+  </item>
+  <item id="14488">
+    <original>ディープリッパー</original>
+    <translation>Deep Ripper</translation>
+  </item>
+  <item id="14489">
+    <original>ディープリッパー</original>
+    <translation>Deep Ripper</translation>
+  </item>
+  <item id="14490">
+    <original>ディープリッパー</original>
+    <translation>Deep Ripper</translation>
+  </item>
+  <item id="14491">
+    <original>ディープリッパー</original>
+    <translation>Deep Ripper</translation>
+  </item>
+  <item id="14492">
+    <original>冥界のトリプルダガー</original>
+    <translation>Underworld Triple Dagger</translation>
+  </item>
+  <item id="14493">
+    <original>冥界のトリプルダガー</original>
+    <translation>Underworld Triple Dagger</translation>
+  </item>
+  <item id="14494">
+    <original>冥界のトリプルダガー</original>
+    <translation>Underworld Triple Dagger</translation>
+  </item>
+  <item id="14495">
+    <original>冥界のトリプルダガー</original>
+    <translation>Underworld Triple Dagger</translation>
+  </item>
+  <item id="14496">
+    <original>冥界のトリプルダガー</original>
+    <translation>Underworld Triple Dagger</translation>
+  </item>
+  <item id="14497">
+    <original>リザーズグレア</original>
+    <translation>Lizard's Glare</translation>
+  </item>
+  <item id="14498">
+    <original>リザーズグレア</original>
+    <translation>Lizard's Glare</translation>
+  </item>
+  <item id="14499">
+    <original>リザーズグレア</original>
+    <translation>Lizard's Glare</translation>
+  </item>
+  <item id="14500">
+    <original>リザーズグレア</original>
+    <translation>Lizard's Glare</translation>
+  </item>
+  <item id="14501">
+    <original>リザーズグレア</original>
+    <translation>Lizard's Glare</translation>
+  </item>
+  <item id="14502">
+    <original>デーモンフラメア</original>
+    <translation>Demon Flamea</translation>
+  </item>
+  <item id="14503">
+    <original>デーモンフラメア</original>
+    <translation>Demon Flamea</translation>
+  </item>
+  <item id="14504">
+    <original>デーモンフラメア</original>
+    <translation>Demon Flamea</translation>
+  </item>
+  <item id="14505">
+    <original>デーモンフラメア</original>
+    <translation>Demon Flamea</translation>
+  </item>
+  <item id="14506">
+    <original>デーモンフラメア</original>
+    <translation>Demon Flamea</translation>
+  </item>
+  <item id="14507">
+    <original>ザカーネル</original>
+    <translation>The Colonel</translation>
+  </item>
+  <item id="14508">
+    <original>ザカーネル</original>
+    <translation>The Colonel</translation>
+  </item>
+  <item id="14509">
+    <original>ザカーネル</original>
+    <translation>The Colonel</translation>
+  </item>
+  <item id="14510">
+    <original>ザカーネル</original>
+    <translation>The Colonel</translation>
+  </item>
+  <item id="14511">
+    <original>ザカーネル</original>
+    <translation>The Colonel</translation>
   </item>
   <item id="14512">
     <original>ボウオブトライブ</original>
@@ -42607,23 +43448,23 @@
   </item>
   <item id="14527">
     <original>フィンダミアボウ</original>
-    <translation>Findermere Bow</translation>
+    <translation>Phindymer Bow</translation>
   </item>
   <item id="14528">
     <original>フィンダミアボウ</original>
-    <translation>Findermere Bow</translation>
+    <translation>Phindymer Bow</translation>
   </item>
   <item id="14529">
     <original>フィンダミアボウ</original>
-    <translation>Findermere Bow</translation>
+    <translation>Phindymer Bow</translation>
   </item>
   <item id="14530">
     <original>フィンダミアボウ</original>
-    <translation>Findermere Bow</translation>
+    <translation>Phindymer Bow</translation>
   </item>
   <item id="14531">
     <original>フィンダミアボウ</original>
-    <translation>Findermere Bow</translation>
+    <translation>Phindymer Bow</translation>
   </item>
   <item id="14532">
     <original>ヴァーダントアキュラシー</original>
@@ -42644,6 +43485,96 @@
   <item id="14536">
     <original>ヴァーダントアキュラシー</original>
     <translation>Verdant Accuracy</translation>
+  </item>
+  <item id="14537">
+    <original>孤影のストレイン</original>
+  </item>
+  <item id="14538">
+    <original>孤影のストレイン</original>
+  </item>
+  <item id="14539">
+    <original>孤影のストレイン</original>
+  </item>
+  <item id="14540">
+    <original>孤影のストレイン</original>
+  </item>
+  <item id="14541">
+    <original>孤影のストレイン</original>
+  </item>
+  <item id="14542">
+    <original>オルソゲネシス</original>
+    <translation>Orthogenesis</translation>
+  </item>
+  <item id="14543">
+    <original>オルソゲネシス</original>
+    <translation>Orthogenesis</translation>
+  </item>
+  <item id="14544">
+    <original>オルソゲネシス</original>
+    <translation>Orthogenesis</translation>
+  </item>
+  <item id="14545">
+    <original>オルソゲネシス</original>
+    <translation>Orthogenesis</translation>
+  </item>
+  <item id="14546">
+    <original>オルソゲネシス</original>
+    <translation>Orthogenesis</translation>
+  </item>
+  <item id="14547">
+    <original>スィングリフィン</original>
+  </item>
+  <item id="14548">
+    <original>スィングリフィン</original>
+  </item>
+  <item id="14549">
+    <original>スィングリフィン</original>
+  </item>
+  <item id="14550">
+    <original>スィングリフィン</original>
+  </item>
+  <item id="14551">
+    <original>スィングリフィン</original>
+  </item>
+  <item id="14552">
+    <original>デーモンホーン</original>
+    <translation>Demon Horn</translation>
+  </item>
+  <item id="14553">
+    <original>デーモンホーン</original>
+    <translation>Demon Horn</translation>
+  </item>
+  <item id="14554">
+    <original>デーモンホーン</original>
+    <translation>Demon Horn</translation>
+  </item>
+  <item id="14555">
+    <original>デーモンホーン</original>
+    <translation>Demon Horn</translation>
+  </item>
+  <item id="14556">
+    <original>デーモンホーン</original>
+    <translation>Demon Horn</translation>
+  </item>
+  <item id="14557">
+    <original>サブスタンス</original>
+    <translation>Substance</translation>
+  </item>
+  <item id="14558">
+    <original>サブスタンス</original>
+    <translation>Substance</translation>
+  </item>
+  <item id="14559">
+    <original>サブスタンス</original>
+    <translation>Substance</translation>
+  </item>
+  <item id="14560">
+    <original>サブスタンス</original>
+    <translation>Substance</translation>
+  </item>
+  <item id="14561">
+    <original>サブスタンス</original>
+    <translation>Substance</translation>
   </item>
   <item id="14562">
     <original>ガントレットオブトライブ</original>
@@ -42667,23 +43598,23 @@
   </item>
   <item id="14567">
     <original>フィンダミアセイズ</original>
-    <translation>Findermere Seiðr</translation>
+    <translation>Phindymer Seiðr</translation>
   </item>
   <item id="14568">
     <original>フィンダミアセイズ</original>
-    <translation>Findermere Seiðr</translation>
+    <translation>Phindymer Seiðr</translation>
   </item>
   <item id="14569">
     <original>フィンダミアセイズ</original>
-    <translation>Findermere Seiðr</translation>
+    <translation>Phindymer Seiðr</translation>
   </item>
   <item id="14570">
     <original>フィンダミアセイズ</original>
-    <translation>Findermere Seiðr</translation>
+    <translation>Phindymer Seiðr</translation>
   </item>
   <item id="14571">
     <original>フィンダミアセイズ</original>
-    <translation>Findermere Seiðr</translation>
+    <translation>Phindymer Seiðr</translation>
   </item>
   <item id="14572">
     <original>ヴァーダントロジシャン</original>
@@ -42704,6 +43635,41 @@
   <item id="14576">
     <original>ヴァーダントロジシャン</original>
     <translation>Verdant Logician</translation>
+  </item>
+  <item id="14577">
+    <original>プラチウムディアボルス</original>
+    <translation>Platinum Diabolus</translation>
+  </item>
+  <item id="14578">
+    <original>プラチウムディアボルス</original>
+    <translation>Platinum Diabolus</translation>
+  </item>
+  <item id="14579">
+    <original>プラチウムディアボルス</original>
+    <translation>Platinum Diabolus</translation>
+  </item>
+  <item id="14580">
+    <original>プラチウムディアボルス</original>
+    <translation>Platinum Diabolus</translation>
+  </item>
+  <item id="14581">
+    <original>プラチウムディアボルス</original>
+    <translation>Platinum Diabolus</translation>
+  </item>
+  <item id="14582">
+    <original>メソカルディア</original>
+  </item>
+  <item id="14583">
+    <original>メソカルディア</original>
+  </item>
+  <item id="14584">
+    <original>メソカルディア</original>
+  </item>
+  <item id="14585">
+    <original>メソカルディア</original>
+  </item>
+  <item id="14586">
+    <original>メソカルディア</original>
   </item>
   <item id="14587">
     <original>スペルオブトライブ</original>
@@ -42767,23 +43733,23 @@
   </item>
   <item id="14602">
     <original>フィンダミアシューター</original>
-    <translation>Findermere Shooter</translation>
+    <translation>Phindymer Shooter</translation>
   </item>
   <item id="14603">
     <original>フィンダミアシューター</original>
-    <translation>Findermere Shooter</translation>
+    <translation>Phindymer Shooter</translation>
   </item>
   <item id="14604">
     <original>フィンダミアシューター</original>
-    <translation>Findermere Shooter</translation>
+    <translation>Phindymer Shooter</translation>
   </item>
   <item id="14605">
     <original>フィンダミアシューター</original>
-    <translation>Findermere Shooter</translation>
+    <translation>Phindymer Shooter</translation>
   </item>
   <item id="14606">
     <original>フィンダミアシューター</original>
-    <translation>Findermere Shooter</translation>
+    <translation>Phindymer Shooter</translation>
   </item>
   <item id="14607">
     <original>ヴァーダントインベスタ</original>
@@ -42804,6 +43770,106 @@
   <item id="14611">
     <original>ヴァーダントインベスタ</original>
     <translation>Verdant Investor</translation>
+  </item>
+  <item id="14612">
+    <original>グリンカムビ</original>
+    <translation>Gullinkambi</translation>
+  </item>
+  <item id="14613">
+    <original>グリンカムビ</original>
+    <translation>Gullinkambi</translation>
+  </item>
+  <item id="14614">
+    <original>グリンカムビ</original>
+    <translation>Gullinkambi</translation>
+  </item>
+  <item id="14615">
+    <original>グリンカムビ</original>
+    <translation>Gullinkambi</translation>
+  </item>
+  <item id="14616">
+    <original>グリンカムビ</original>
+    <translation>Gullinkambi</translation>
+  </item>
+  <item id="14617">
+    <original>イルリヒト</original>
+    <translation>Irrlicht</translation>
+  </item>
+  <item id="14618">
+    <original>イルリヒト</original>
+    <translation>Irrlicht</translation>
+  </item>
+  <item id="14619">
+    <original>イルリヒト</original>
+    <translation>Irrlicht</translation>
+  </item>
+  <item id="14620">
+    <original>イルリヒト</original>
+    <translation>Irrlicht</translation>
+  </item>
+  <item id="14621">
+    <original>イルリヒト</original>
+    <translation>Irrlicht</translation>
+  </item>
+  <item id="14622">
+    <original>ライトニングシェイプ</original>
+    <translation>Lightning Shape</translation>
+  </item>
+  <item id="14623">
+    <original>ライトニングシェイプ</original>
+    <translation>Lightning Shape</translation>
+  </item>
+  <item id="14624">
+    <original>ライトニングシェイプ</original>
+    <translation>Lightning Shape</translation>
+  </item>
+  <item id="14625">
+    <original>ライトニングシェイプ</original>
+    <translation>Lightning Shape</translation>
+  </item>
+  <item id="14626">
+    <original>ライトニングシェイプ</original>
+    <translation>Lightning Shape</translation>
+  </item>
+  <item id="14627">
+    <original>デーモンウイング</original>
+    <translation>Demon Wing</translation>
+  </item>
+  <item id="14628">
+    <original>デーモンウイング</original>
+    <translation>Demon Wing</translation>
+  </item>
+  <item id="14629">
+    <original>デーモンウイング</original>
+    <translation>Demon Wing</translation>
+  </item>
+  <item id="14630">
+    <original>デーモンウイング</original>
+    <translation>Demon Wing</translation>
+  </item>
+  <item id="14631">
+    <original>デーモンウイング</original>
+    <translation>Demon Wing</translation>
+  </item>
+  <item id="14632">
+    <original>アクシス</original>
+    <translation>Axis</translation>
+  </item>
+  <item id="14633">
+    <original>アクシス</original>
+    <translation>Axis</translation>
+  </item>
+  <item id="14634">
+    <original>アクシス</original>
+    <translation>Axis</translation>
+  </item>
+  <item id="14635">
+    <original>アクシス</original>
+    <translation>Axis</translation>
+  </item>
+  <item id="14636">
+    <original>アクシス</original>
+    <translation>Axis</translation>
   </item>
   <item id="14637">
     <original>スタッフオブトライブ</original>
@@ -42867,23 +43933,23 @@
   </item>
   <item id="14652">
     <original>フィンダミアケイン</original>
-    <translation>Findermere Cane</translation>
+    <translation>Phindymer Cane</translation>
   </item>
   <item id="14653">
     <original>フィンダミアケイン</original>
-    <translation>Findermere Cane</translation>
+    <translation>Phindymer Cane</translation>
   </item>
   <item id="14654">
     <original>フィンダミアケイン</original>
-    <translation>Findermere Cane</translation>
+    <translation>Phindymer Cane</translation>
   </item>
   <item id="14655">
     <original>フィンダミアケイン</original>
-    <translation>Findermere Cane</translation>
+    <translation>Phindymer Cane</translation>
   </item>
   <item id="14656">
     <original>フィンダミアケイン</original>
-    <translation>Findermere Cane</translation>
+    <translation>Phindymer Cane</translation>
   </item>
   <item id="14657">
     <original>ヴァーダントリリーフ</original>
@@ -42904,6 +43970,106 @@
   <item id="14661">
     <original>ヴァーダントリリーフ</original>
     <translation>Verdant Relief</translation>
+  </item>
+  <item id="14662">
+    <original>ペトリファイドスタッフ</original>
+    <translation>Petrified Staff</translation>
+  </item>
+  <item id="14663">
+    <original>ペトリファイドスタッフ</original>
+    <translation>Petrified Staff</translation>
+  </item>
+  <item id="14664">
+    <original>ペトリファイドスタッフ</original>
+    <translation>Petrified Staff</translation>
+  </item>
+  <item id="14665">
+    <original>ペトリファイドスタッフ</original>
+    <translation>Petrified Staff</translation>
+  </item>
+  <item id="14666">
+    <original>ペトリファイドスタッフ</original>
+    <translation>Petrified Staff</translation>
+  </item>
+  <item id="14667">
+    <original>翠光のネイルフリード</original>
+    <translation>Greenlight Nail Freed</translation>
+  </item>
+  <item id="14668">
+    <original>翠光のネイルフリード</original>
+    <translation>Greenlight Nail Freed</translation>
+  </item>
+  <item id="14669">
+    <original>翠光のネイルフリード</original>
+    <translation>Greenlight Nail Freed</translation>
+  </item>
+  <item id="14670">
+    <original>翠光のネイルフリード</original>
+    <translation>Greenlight Nail Freed</translation>
+  </item>
+  <item id="14671">
+    <original>翠光のネイルフリード</original>
+    <translation>Greenlight Nail Freed</translation>
+  </item>
+  <item id="14672">
+    <original>シンバイオシス</original>
+    <translation>Symbiosis</translation>
+  </item>
+  <item id="14673">
+    <original>シンバイオシス</original>
+    <translation>Symbiosis</translation>
+  </item>
+  <item id="14674">
+    <original>シンバイオシス</original>
+    <translation>Symbiosis</translation>
+  </item>
+  <item id="14675">
+    <original>シンバイオシス</original>
+    <translation>Symbiosis</translation>
+  </item>
+  <item id="14676">
+    <original>シンバイオシス</original>
+    <translation>Symbiosis</translation>
+  </item>
+  <item id="14677">
+    <original>ドミネーティングクロー</original>
+    <translation>Dominating Claw</translation>
+  </item>
+  <item id="14678">
+    <original>ドミネーティングクロー</original>
+    <translation>Dominating Claw</translation>
+  </item>
+  <item id="14679">
+    <original>ドミネーティングクロー</original>
+    <translation>Dominating Claw</translation>
+  </item>
+  <item id="14680">
+    <original>ドミネーティングクロー</original>
+    <translation>Dominating Claw</translation>
+  </item>
+  <item id="14681">
+    <original>ドミネーティングクロー</original>
+    <translation>Dominating Claw</translation>
+  </item>
+  <item id="14682">
+    <original>クインテスネス</original>
+    <translation>Quintessence</translation>
+  </item>
+  <item id="14683">
+    <original>クインテスネス</original>
+    <translation>Quintessence</translation>
+  </item>
+  <item id="14684">
+    <original>クインテスネス</original>
+    <translation>Quintessence</translation>
+  </item>
+  <item id="14685">
+    <original>クインテスネス</original>
+    <translation>Quintessence</translation>
+  </item>
+  <item id="14686">
+    <original>クインテスネス</original>
+    <translation>Quintessence</translation>
   </item>
   <item id="14687">
     <original>ワンズオブトライブ</original>
@@ -42967,23 +44133,23 @@
   </item>
   <item id="14702">
     <original>フィンダミアワンズ</original>
-    <translation>Findermere Wand</translation>
+    <translation>Phindymer Wand</translation>
   </item>
   <item id="14703">
     <original>フィンダミアワンズ</original>
-    <translation>Findermere Wand</translation>
+    <translation>Phindymer Wand</translation>
   </item>
   <item id="14704">
     <original>フィンダミアワンズ</original>
-    <translation>Findermere Wand</translation>
+    <translation>Phindymer Wand</translation>
   </item>
   <item id="14705">
     <original>フィンダミアワンズ</original>
-    <translation>Findermere Wand</translation>
+    <translation>Phindymer Wand</translation>
   </item>
   <item id="14706">
     <original>フィンダミアワンズ</original>
-    <translation>Findermere Wand</translation>
+    <translation>Phindymer Wand</translation>
   </item>
   <item id="14707">
     <original>ヴァーダントルイン</original>
@@ -43004,6 +44170,106 @@
   <item id="14711">
     <original>ヴァーダントルイン</original>
     <translation>Verdant Ruin</translation>
+  </item>
+  <item id="14712">
+    <original>ワーピングソウル</original>
+    <translation>Warping Soul</translation>
+  </item>
+  <item id="14713">
+    <original>ワーピングソウル</original>
+    <translation>Warping Soul</translation>
+  </item>
+  <item id="14714">
+    <original>ワーピングソウル</original>
+    <translation>Warping Soul</translation>
+  </item>
+  <item id="14715">
+    <original>ワーピングソウル</original>
+    <translation>Warping Soul</translation>
+  </item>
+  <item id="14716">
+    <original>ワーピングソウル</original>
+    <translation>Warping Soul</translation>
+  </item>
+  <item id="14717">
+    <original>フィックスドハート</original>
+    <translation>Fixed Heart</translation>
+  </item>
+  <item id="14718">
+    <original>フィックスドハート</original>
+    <translation>Fixed Heart</translation>
+  </item>
+  <item id="14719">
+    <original>フィックスドハート</original>
+    <translation>Fixed Heart</translation>
+  </item>
+  <item id="14720">
+    <original>フィックスドハート</original>
+    <translation>Fixed Heart</translation>
+  </item>
+  <item id="14721">
+    <original>フィックスドハート</original>
+    <translation>Fixed Heart</translation>
+  </item>
+  <item id="14722">
+    <original>アソリティオブコロナ</original>
+    <translation>Authority of Corona</translation>
+  </item>
+  <item id="14723">
+    <original>アソリティオブコロナ</original>
+    <translation>Authority of Corona</translation>
+  </item>
+  <item id="14724">
+    <original>アソリティオブコロナ</original>
+    <translation>Authority of Corona</translation>
+  </item>
+  <item id="14725">
+    <original>アソリティオブコロナ</original>
+    <translation>Authority of Corona</translation>
+  </item>
+  <item id="14726">
+    <original>アソリティオブコロナ</original>
+    <translation>Authority of Corona</translation>
+  </item>
+  <item id="14727">
+    <original>ブラックスコージ</original>
+    <translation>Black Scourge</translation>
+  </item>
+  <item id="14728">
+    <original>ブラックスコージ</original>
+    <translation>Black Scourge</translation>
+  </item>
+  <item id="14729">
+    <original>ブラックスコージ</original>
+    <translation>Black Scourge</translation>
+  </item>
+  <item id="14730">
+    <original>ブラックスコージ</original>
+    <translation>Black Scourge</translation>
+  </item>
+  <item id="14731">
+    <original>ブラックスコージ</original>
+    <translation>Black Scourge</translation>
+  </item>
+  <item id="14732">
+    <original>セントゥラム</original>
+    <translation>Centrum</translation>
+  </item>
+  <item id="14733">
+    <original>セントゥラム</original>
+    <translation>Centrum</translation>
+  </item>
+  <item id="14734">
+    <original>セントゥラム</original>
+    <translation>Centrum</translation>
+  </item>
+  <item id="14735">
+    <original>セントゥラム</original>
+    <translation>Centrum</translation>
+  </item>
+  <item id="14736">
+    <original>セントゥラム</original>
+    <translation>Centrum</translation>
   </item>
   <item id="14737">
     <original>ノービススピア</original>
@@ -43305,6 +44571,101 @@
     <original>ヴァーダントソウル</original>
     <translation>Verdant Soul</translation>
   </item>
+  <item id="14812">
+    <original>スピリッツフューリー</original>
+    <translation>Spirit's Fury</translation>
+  </item>
+  <item id="14813">
+    <original>スピリッツフューリー</original>
+    <translation>Spirit's Fury</translation>
+  </item>
+  <item id="14814">
+    <original>スピリッツフューリー</original>
+    <translation>Spirit's Fury</translation>
+  </item>
+  <item id="14815">
+    <original>スピリッツフューリー</original>
+    <translation>Spirit's Fury</translation>
+  </item>
+  <item id="14816">
+    <original>スピリッツフューリー</original>
+    <translation>Spirit's Fury</translation>
+  </item>
+  <item id="14817">
+    <original>蒼海のパルチザン</original>
+    <translation>Partisan of the Blue Sea</translation>
+  </item>
+  <item id="14818">
+    <original>蒼海のパルチザン</original>
+    <translation>Partisan of the Blue Sea</translation>
+  </item>
+  <item id="14819">
+    <original>蒼海のパルチザン</original>
+    <translation>Partisan of the Blue Sea</translation>
+  </item>
+  <item id="14820">
+    <original>蒼海のパルチザン</original>
+    <translation>Partisan of the Blue Sea</translation>
+  </item>
+  <item id="14821">
+    <original>蒼海のパルチザン</original>
+    <translation>Partisan of the Blue Sea</translation>
+  </item>
+  <item id="14822">
+    <original>フリーフォーラ</original>
+  </item>
+  <item id="14823">
+    <original>フリーフォーラ</original>
+  </item>
+  <item id="14824">
+    <original>フリーフォーラ</original>
+  </item>
+  <item id="14825">
+    <original>フリーフォーラ</original>
+  </item>
+  <item id="14826">
+    <original>フリーフォーラ</original>
+  </item>
+  <item id="14827">
+    <original>デーモンペネトレイター</original>
+    <translation>Demon Penetrator</translation>
+  </item>
+  <item id="14828">
+    <original>デーモンペネトレイター</original>
+    <translation>Demon Penetrator</translation>
+  </item>
+  <item id="14829">
+    <original>デーモンペネトレイター</original>
+    <translation>Demon Penetrator</translation>
+  </item>
+  <item id="14830">
+    <original>デーモンペネトレイター</original>
+    <translation>Demon Penetrator</translation>
+  </item>
+  <item id="14831">
+    <original>デーモンペネトレイター</original>
+    <translation>Demon Penetrator</translation>
+  </item>
+  <item id="14832">
+    <original>エンファシス</original>
+    <translation>Emphasis</translation>
+  </item>
+  <item id="14833">
+    <original>エンファシス</original>
+    <translation>Emphasis</translation>
+  </item>
+  <item id="14834">
+    <original>エンファシス</original>
+    <translation>Emphasis</translation>
+  </item>
+  <item id="14835">
+    <original>エンファシス</original>
+    <translation>Emphasis</translation>
+  </item>
+  <item id="14836">
+    <original>エンファシス</original>
+    <translation>Emphasis</translation>
+  </item>
   <item id="14837">
     <original>処刑人のマスク</original>
     <translation>Executioner's Mask</translation>
@@ -43364,6 +44725,126 @@
   <item id="14851">
     <original>ヴィシャスカル</original>
     <translation>Vicious Skull</translation>
+  </item>
+  <item id="14852">
+    <original>衛士のサーリット</original>
+    <translation>Guardian's Sallet</translation>
+  </item>
+  <item id="14853">
+    <original>衛士のサーリット</original>
+    <translation>Guardian's Sallet</translation>
+  </item>
+  <item id="14854">
+    <original>衛士のサーリット</original>
+    <translation>Guardian's Sallet</translation>
+  </item>
+  <item id="14855">
+    <original>衛士のサーリット</original>
+    <translation>Guardian's Sallet</translation>
+  </item>
+  <item id="14856">
+    <original>衛士のサーリット</original>
+    <translation>Guardian's Sallet</translation>
+  </item>
+  <item id="14857">
+    <original>ノーザンホーン</original>
+    <translation>Northern Horn</translation>
+  </item>
+  <item id="14858">
+    <original>ノーザンホーン</original>
+    <translation>Northern Horn</translation>
+  </item>
+  <item id="14859">
+    <original>ノーザンホーン</original>
+    <translation>Northern Horn</translation>
+  </item>
+  <item id="14860">
+    <original>ノーザンホーン</original>
+    <translation>Northern Horn</translation>
+  </item>
+  <item id="14861">
+    <original>ノーザンホーン</original>
+    <translation>Northern Horn</translation>
+  </item>
+  <item id="14862">
+    <original>暁のナイトヘルム</original>
+    <translation>Knight Helm of Dawn</translation>
+  </item>
+  <item id="14863">
+    <original>暁のナイトヘルム</original>
+    <translation>Knight Helm of Dawn</translation>
+  </item>
+  <item id="14864">
+    <original>暁のナイトヘルム</original>
+    <translation>Knight Helm of Dawn</translation>
+  </item>
+  <item id="14865">
+    <original>暁のナイトヘルム</original>
+    <translation>Knight Helm of Dawn</translation>
+  </item>
+  <item id="14866">
+    <original>暁のナイトヘルム</original>
+    <translation>Knight Helm of Dawn</translation>
+  </item>
+  <item id="14867">
+    <original>アズールヘルム</original>
+    <translation>Azure Helm</translation>
+  </item>
+  <item id="14868">
+    <original>アズールヘルム</original>
+    <translation>Azure Helm</translation>
+  </item>
+  <item id="14869">
+    <original>アズールヘルム</original>
+    <translation>Azure Helm</translation>
+  </item>
+  <item id="14870">
+    <original>アズールヘルム</original>
+    <translation>Azure Helm</translation>
+  </item>
+  <item id="14871">
+    <original>アズールヘルム</original>
+    <translation>Azure Helm</translation>
+  </item>
+  <item id="14872">
+    <original>フィネガンズマスク</original>
+    <translation>Finnegan's Mask</translation>
+  </item>
+  <item id="14873">
+    <original>フィネガンズマスク</original>
+    <translation>Finnegan's Mask</translation>
+  </item>
+  <item id="14874">
+    <original>フィネガンズマスク</original>
+    <translation>Finnegan's Mask</translation>
+  </item>
+  <item id="14875">
+    <original>フィネガンズマスク</original>
+    <translation>Finnegan's Mask</translation>
+  </item>
+  <item id="14876">
+    <original>フィネガンズマスク</original>
+    <translation>Finnegan's Mask</translation>
+  </item>
+  <item id="14877">
+    <original>グリーディマスク</original>
+    <translation>Greedy Mask</translation>
+  </item>
+  <item id="14878">
+    <original>グリーディマスク</original>
+    <translation>Greedy Mask</translation>
+  </item>
+  <item id="14879">
+    <original>グリーディマスク</original>
+    <translation>Greedy Mask</translation>
+  </item>
+  <item id="14880">
+    <original>グリーディマスク</original>
+    <translation>Greedy Mask</translation>
+  </item>
+  <item id="14881">
+    <original>グリーディマスク</original>
+    <translation>Greedy Mask</translation>
   </item>
   <item id="14882">
     <original>マスクオブベオウルフ</original>
@@ -43428,6 +44909,81 @@
     <original>ヤドリギのサークレット</original>
     <translation>Mistletoe Circlet</translation>
   </item>
+  <item id="14898">
+    <original>メディウムヘッド</original>
+    <translation>Medium Head</translation>
+  </item>
+  <item id="14899">
+    <original>メディウムヘッド</original>
+    <translation>Medium Head</translation>
+  </item>
+  <item id="14900">
+    <original>メディウムヘッド</original>
+    <translation>Medium Head</translation>
+  </item>
+  <item id="14901">
+    <original>メディウムヘッド</original>
+    <translation>Medium Head</translation>
+  </item>
+  <item id="14902">
+    <original>メディウムヘッド</original>
+    <translation>Medium Head</translation>
+  </item>
+  <item id="14903">
+    <original>防人のヘルム</original>
+  </item>
+  <item id="14904">
+    <original>防人のヘルム</original>
+  </item>
+  <item id="14905">
+    <original>防人のヘルム</original>
+  </item>
+  <item id="14906">
+    <original>防人のヘルム</original>
+  </item>
+  <item id="14907">
+    <original>防人のヘルム</original>
+  </item>
+  <item id="14908">
+    <original>銀杏染めの魔道帽</original>
+    <translation>Ginkgo-dyed Mage Hat</translation>
+  </item>
+  <item id="14909">
+    <original>銀杏染めの魔道帽</original>
+    <translation>Ginkgo-dyed Mage Hat</translation>
+  </item>
+  <item id="14910">
+    <original>銀杏染めの魔道帽</original>
+    <translation>Ginkgo-dyed Mage Hat</translation>
+  </item>
+  <item id="14911">
+    <original>銀杏染めの魔道帽</original>
+    <translation>Ginkgo-dyed Mage Hat</translation>
+  </item>
+  <item id="14912">
+    <original>銀杏染めの魔道帽</original>
+    <translation>Ginkgo-dyed Mage Hat</translation>
+  </item>
+  <item id="14913">
+    <original>アズールクラウン</original>
+    <translation>Azure Crown</translation>
+  </item>
+  <item id="14914">
+    <original>アズールクラウン</original>
+    <translation>Azure Crown</translation>
+  </item>
+  <item id="14915">
+    <original>アズールクラウン</original>
+    <translation>Azure Crown</translation>
+  </item>
+  <item id="14916">
+    <original>アズールクラウン</original>
+    <translation>Azure Crown</translation>
+  </item>
+  <item id="14917">
+    <original>アズールクラウン</original>
+    <translation>Azure Crown</translation>
+  </item>
   <item id="14918">
     <original>コンチネントヘルム</original>
     <translation>Continent Helm</translation>
@@ -43487,6 +45043,86 @@
   <item id="14932">
     <original>フォートレスアイ</original>
     <translation>Fortress Eye</translation>
+  </item>
+  <item id="14933">
+    <original>仁徳のサークレット</original>
+    <translation>Circlet of Benevolence</translation>
+  </item>
+  <item id="14934">
+    <original>仁徳のサークレット</original>
+    <translation>Circlet of Benevolence</translation>
+  </item>
+  <item id="14935">
+    <original>仁徳のサークレット</original>
+    <translation>Circlet of Benevolence</translation>
+  </item>
+  <item id="14936">
+    <original>仁徳のサークレット</original>
+    <translation>Circlet of Benevolence</translation>
+  </item>
+  <item id="14937">
+    <original>仁徳のサークレット</original>
+    <translation>Circlet of Benevolence</translation>
+  </item>
+  <item id="14938">
+    <original>モノクロームマスク</original>
+    <translation>Monochrome Mask</translation>
+  </item>
+  <item id="14939">
+    <original>モノクロームマスク</original>
+    <translation>Monochrome Mask</translation>
+  </item>
+  <item id="14940">
+    <original>モノクロームマスク</original>
+    <translation>Monochrome Mask</translation>
+  </item>
+  <item id="14941">
+    <original>モノクロームマスク</original>
+    <translation>Monochrome Mask</translation>
+  </item>
+  <item id="14942">
+    <original>モノクロームマスク</original>
+    <translation>Monochrome Mask</translation>
+  </item>
+  <item id="14943">
+    <original>黒緋のヘルム</original>
+    <translation>Black Scarlet Helm</translation>
+  </item>
+  <item id="14944">
+    <original>黒緋のヘルム</original>
+    <translation>Black Scarlet Helm</translation>
+  </item>
+  <item id="14945">
+    <original>黒緋のヘルム</original>
+    <translation>Black Scarlet Helm</translation>
+  </item>
+  <item id="14946">
+    <original>黒緋のヘルム</original>
+    <translation>Black Scarlet Helm</translation>
+  </item>
+  <item id="14947">
+    <original>黒緋のヘルム</original>
+    <translation>Black Scarlet Helm</translation>
+  </item>
+  <item id="14948">
+    <original>アズールヘッド</original>
+    <translation>Azure Head</translation>
+  </item>
+  <item id="14949">
+    <original>アズールヘッド</original>
+    <translation>Azure Head</translation>
+  </item>
+  <item id="14950">
+    <original>アズールヘッド</original>
+    <translation>Azure Head</translation>
+  </item>
+  <item id="14951">
+    <original>アズールヘッド</original>
+    <translation>Azure Head</translation>
+  </item>
+  <item id="14952">
+    <original>アズールヘッド</original>
+    <translation>Azure Head</translation>
   </item>
   <item id="14953">
     <original>黄羽根のキャップ</original>
@@ -43548,9 +45184,133 @@
     <original>フォレストホーン</original>
     <translation>Forest Horn</translation>
   </item>
+  <item id="14968">
+    <original>黒豹のマスク</original>
+    <translation>Black Panther Mask</translation>
+  </item>
+  <item id="14969">
+    <original>黒豹のマスク</original>
+    <translation>Black Panther Mask</translation>
+  </item>
+  <item id="14970">
+    <original>黒豹のマスク</original>
+    <translation>Black Panther Mask</translation>
+  </item>
+  <item id="14971">
+    <original>黒豹のマスク</original>
+    <translation>Black Panther Mask</translation>
+  </item>
+  <item id="14972">
+    <original>黒豹のマスク</original>
+    <translation>Black Panther Mask</translation>
+  </item>
+  <item id="14973">
+    <original>パトリシアンベレー</original>
+    <translation>Patrician Beret</translation>
+  </item>
+  <item id="14974">
+    <original>パトリシアンベレー</original>
+    <translation>Patrician Beret</translation>
+  </item>
+  <item id="14975">
+    <original>パトリシアンベレー</original>
+    <translation>Patrician Beret</translation>
+  </item>
+  <item id="14976">
+    <original>パトリシアンベレー</original>
+    <translation>Patrician Beret</translation>
+  </item>
+  <item id="14977">
+    <original>パトリシアンベレー</original>
+    <translation>Patrician Beret</translation>
+  </item>
+  <item id="14978">
+    <original>夕霧の頭巾</original>
+    <translation>Hood of the Evening Mist</translation>
+  </item>
+  <item id="14979">
+    <original>夕霧の頭巾</original>
+    <translation>Hood of the Evening Mist</translation>
+  </item>
+  <item id="14980">
+    <original>夕霧の頭巾</original>
+    <translation>Hood of the Evening Mist</translation>
+  </item>
+  <item id="14981">
+    <original>夕霧の頭巾</original>
+    <translation>Hood of the Evening Mist</translation>
+  </item>
+  <item id="14982">
+    <original>夕霧の頭巾</original>
+    <translation>Hood of the Evening Mist</translation>
+  </item>
+  <item id="14983">
+    <original>アズールマスク</original>
+    <translation>Azure Mask</translation>
+  </item>
+  <item id="14984">
+    <original>アズールマスク</original>
+    <translation>Azure Mask</translation>
+  </item>
+  <item id="14985">
+    <original>アズールマスク</original>
+    <translation>Azure Mask</translation>
+  </item>
+  <item id="14986">
+    <original>アズールマスク</original>
+    <translation>Azure Mask</translation>
+  </item>
+  <item id="14987">
+    <original>アズールマスク</original>
+    <translation>Azure Mask</translation>
+  </item>
+  <item id="14988">
+    <original>フィネガンズブレスト</original>
+    <translation>Finnegan's Breastplate</translation>
+  </item>
+  <item id="14989">
+    <original>フィネガンズブレスト</original>
+    <translation>Finnegan's Breastplate</translation>
+  </item>
+  <item id="14990">
+    <original>フィネガンズブレスト</original>
+    <translation>Finnegan's Breastplate</translation>
+  </item>
+  <item id="14991">
+    <original>フィネガンズブレスト</original>
+    <translation>Finnegan's Breastplate</translation>
+  </item>
+  <item id="14992">
+    <original>フィネガンズブレスト</original>
+    <translation>Finnegan's Breastplate</translation>
+  </item>
+  <item id="14993">
+    <original>グリーディブレスト</original>
+    <translation>Greedy Breastplate</translation>
+  </item>
+  <item id="14994">
+    <original>グリーディブレスト</original>
+    <translation>Greedy Breastplate</translation>
+  </item>
+  <item id="14995">
+    <original>グリーディブレスト</original>
+    <translation>Greedy Breastplate</translation>
+  </item>
+  <item id="14996">
+    <original>グリーディブレスト</original>
+    <translation>Greedy Breastplate</translation>
+  </item>
+  <item id="14997">
+    <original>グリーディブレスト</original>
+    <translation>Greedy Breastplate</translation>
+  </item>
   <item id="14998">
     <original>デュークアーマー【闇夜】</original>
     <translation>Duke Armor (Dark Night)</translation>
+  </item>
+  <item id="15003">
+    <original>デュークアーマー【月花】</original>
+    <translation>Duke Armor (Moonflower)</translation>
   </item>
   <item id="15008">
     <original>処刑人のベルト</original>
@@ -43611,6 +45371,161 @@
   <item id="15022">
     <original>メイルオブジェノサイド</original>
     <translation>Mail of Genocide</translation>
+  </item>
+  <item id="15023">
+    <original>衛士のサーコート</original>
+    <translation>Guardian's Surcoat</translation>
+  </item>
+  <item id="15024">
+    <original>衛士のサーコート</original>
+    <translation>Guardian's Surcoat</translation>
+  </item>
+  <item id="15025">
+    <original>衛士のサーコート</original>
+    <translation>Guardian's Surcoat</translation>
+  </item>
+  <item id="15026">
+    <original>衛士のサーコート</original>
+    <translation>Guardian's Surcoat</translation>
+  </item>
+  <item id="15027">
+    <original>衛士のサーコート</original>
+    <translation>Guardian's Surcoat</translation>
+  </item>
+  <item id="15028">
+    <original>ノーザンレスト</original>
+    <translation>Northern Rest</translation>
+  </item>
+  <item id="15029">
+    <original>ノーザンレスト</original>
+    <translation>Northern Rest</translation>
+  </item>
+  <item id="15030">
+    <original>ノーザンレスト</original>
+    <translation>Northern Rest</translation>
+  </item>
+  <item id="15031">
+    <original>ノーザンレスト</original>
+    <translation>Northern Rest</translation>
+  </item>
+  <item id="15032">
+    <original>ノーザンレスト</original>
+    <translation>Northern Rest</translation>
+  </item>
+  <item id="15033">
+    <original>暁のナイトアーマー</original>
+    <translation>Knight Armor of Dawn</translation>
+  </item>
+  <item id="15034">
+    <original>暁のナイトアーマー</original>
+    <translation>Knight Armor of Dawn</translation>
+  </item>
+  <item id="15035">
+    <original>暁のナイトアーマー</original>
+    <translation>Knight Armor of Dawn</translation>
+  </item>
+  <item id="15036">
+    <original>暁のナイトアーマー</original>
+    <translation>Knight Armor of Dawn</translation>
+  </item>
+  <item id="15037">
+    <original>暁のナイトアーマー</original>
+    <translation>Knight Armor of Dawn</translation>
+  </item>
+  <item id="15038">
+    <original>アズールメイル</original>
+    <translation>Azure Mail</translation>
+  </item>
+  <item id="15039">
+    <original>アズールメイル</original>
+    <translation>Azure Mail</translation>
+  </item>
+  <item id="15040">
+    <original>アズールメイル</original>
+    <translation>Azure Mail</translation>
+  </item>
+  <item id="15041">
+    <original>アズールメイル</original>
+    <translation>Azure Mail</translation>
+  </item>
+  <item id="15042">
+    <original>アズールメイル</original>
+    <translation>Azure Mail</translation>
+  </item>
+  <item id="15043">
+    <original>メディウムローブ</original>
+    <translation>Medium Robe</translation>
+  </item>
+  <item id="15044">
+    <original>メディウムローブ</original>
+    <translation>Medium Robe</translation>
+  </item>
+  <item id="15045">
+    <original>メディウムローブ</original>
+    <translation>Medium Robe</translation>
+  </item>
+  <item id="15046">
+    <original>メディウムローブ</original>
+    <translation>Medium Robe</translation>
+  </item>
+  <item id="15047">
+    <original>メディウムローブ</original>
+    <translation>Medium Robe</translation>
+  </item>
+  <item id="15048">
+    <original>防人のコート</original>
+  </item>
+  <item id="15049">
+    <original>防人のコート</original>
+  </item>
+  <item id="15050">
+    <original>防人のコート</original>
+  </item>
+  <item id="15051">
+    <original>防人のコート</original>
+  </item>
+  <item id="15052">
+    <original>防人のコート</original>
+  </item>
+  <item id="15053">
+    <original>銀杏染めのローブ</original>
+    <translation>Ginkgo-dyed Robe</translation>
+  </item>
+  <item id="15054">
+    <original>銀杏染めのローブ</original>
+    <translation>Ginkgo-dyed Robe</translation>
+  </item>
+  <item id="15055">
+    <original>銀杏染めのローブ</original>
+    <translation>Ginkgo-dyed Robe</translation>
+  </item>
+  <item id="15056">
+    <original>銀杏染めのローブ</original>
+    <translation>Ginkgo-dyed Robe</translation>
+  </item>
+  <item id="15057">
+    <original>銀杏染めのローブ</original>
+    <translation>Ginkgo-dyed Robe</translation>
+  </item>
+  <item id="15058">
+    <original>アズールローブ</original>
+    <translation>Azure Robe</translation>
+  </item>
+  <item id="15059">
+    <original>アズールローブ</original>
+    <translation>Azure Robe</translation>
+  </item>
+  <item id="15060">
+    <original>アズールローブ</original>
+    <translation>Azure Robe</translation>
+  </item>
+  <item id="15061">
+    <original>アズールローブ</original>
+    <translation>Azure Robe</translation>
+  </item>
+  <item id="15062">
+    <original>アズールローブ</original>
+    <translation>Azure Robe</translation>
   </item>
   <item id="15063">
     <original>イノセントヴェスメント</original>
@@ -43732,6 +45647,86 @@
     <original>フォートレスプレート</original>
     <translation>Fortress Plate</translation>
   </item>
+  <item id="15093">
+    <original>仁徳のジャケット</original>
+    <translation>Jacket of Benevolence</translation>
+  </item>
+  <item id="15094">
+    <original>仁徳のジャケット</original>
+    <translation>Jacket of Benevolence</translation>
+  </item>
+  <item id="15095">
+    <original>仁徳のジャケット</original>
+    <translation>Jacket of Benevolence</translation>
+  </item>
+  <item id="15096">
+    <original>仁徳のジャケット</original>
+    <translation>Jacket of Benevolence</translation>
+  </item>
+  <item id="15097">
+    <original>仁徳のジャケット</original>
+    <translation>Jacket of Benevolence</translation>
+  </item>
+  <item id="15098">
+    <original>モノクロームローブ</original>
+    <translation>Monochrome Robe</translation>
+  </item>
+  <item id="15099">
+    <original>モノクロームローブ</original>
+    <translation>Monochrome Robe</translation>
+  </item>
+  <item id="15100">
+    <original>モノクロームローブ</original>
+    <translation>Monochrome Robe</translation>
+  </item>
+  <item id="15101">
+    <original>モノクロームローブ</original>
+    <translation>Monochrome Robe</translation>
+  </item>
+  <item id="15102">
+    <original>モノクロームローブ</original>
+    <translation>Monochrome Robe</translation>
+  </item>
+  <item id="15103">
+    <original>黒緋のエプロンアーマー</original>
+    <translation>Black Scarlet Apron Armor</translation>
+  </item>
+  <item id="15104">
+    <original>黒緋のエプロンアーマー</original>
+    <translation>Black Scarlet Apron Armor</translation>
+  </item>
+  <item id="15105">
+    <original>黒緋のエプロンアーマー</original>
+    <translation>Black Scarlet Apron Armor</translation>
+  </item>
+  <item id="15106">
+    <original>黒緋のエプロンアーマー</original>
+    <translation>Black Scarlet Apron Armor</translation>
+  </item>
+  <item id="15107">
+    <original>黒緋のエプロンアーマー</original>
+    <translation>Black Scarlet Apron Armor</translation>
+  </item>
+  <item id="15108">
+    <original>アズールプリベンター</original>
+    <translation>Azure Preventer</translation>
+  </item>
+  <item id="15109">
+    <original>アズールプリベンター</original>
+    <translation>Azure Preventer</translation>
+  </item>
+  <item id="15110">
+    <original>アズールプリベンター</original>
+    <translation>Azure Preventer</translation>
+  </item>
+  <item id="15111">
+    <original>アズールプリベンター</original>
+    <translation>Azure Preventer</translation>
+  </item>
+  <item id="15112">
+    <original>アズールプリベンター</original>
+    <translation>Azure Preventer</translation>
+  </item>
   <item id="15113">
     <original>マウンテニアチェスト</original>
     <translation>Mountaineer Chestplate</translation>
@@ -43791,6 +45786,86 @@
   <item id="15127">
     <original>フォレストクロス</original>
     <translation>Forest Clothes</translation>
+  </item>
+  <item id="15128">
+    <original>黒豹のバデッド</original>
+    <translation>Black Panther Padding</translation>
+  </item>
+  <item id="15129">
+    <original>黒豹のバデッド</original>
+    <translation>Black Panther Padding</translation>
+  </item>
+  <item id="15130">
+    <original>黒豹のバデッド</original>
+    <translation>Black Panther Padding</translation>
+  </item>
+  <item id="15131">
+    <original>黒豹のバデッド</original>
+    <translation>Black Panther Padding</translation>
+  </item>
+  <item id="15132">
+    <original>黒豹のバデッド</original>
+    <translation>Black Panther Padding</translation>
+  </item>
+  <item id="15133">
+    <original>パトリシアンジャケット</original>
+    <translation>Patrician Jacket</translation>
+  </item>
+  <item id="15134">
+    <original>パトリシアンジャケット</original>
+    <translation>Patrician Jacket</translation>
+  </item>
+  <item id="15135">
+    <original>パトリシアンジャケット</original>
+    <translation>Patrician Jacket</translation>
+  </item>
+  <item id="15136">
+    <original>パトリシアンジャケット</original>
+    <translation>Patrician Jacket</translation>
+  </item>
+  <item id="15137">
+    <original>パトリシアンジャケット</original>
+    <translation>Patrician Jacket</translation>
+  </item>
+  <item id="15138">
+    <original>夕霧の装束</original>
+    <translation>Clothes of the Evening Mist</translation>
+  </item>
+  <item id="15139">
+    <original>夕霧の装束</original>
+    <translation>Clothes of the Evening Mist</translation>
+  </item>
+  <item id="15140">
+    <original>夕霧の装束</original>
+    <translation>Clothes of the Evening Mist</translation>
+  </item>
+  <item id="15141">
+    <original>夕霧の装束</original>
+    <translation>Clothes of the Evening Mist</translation>
+  </item>
+  <item id="15142">
+    <original>夕霧の装束</original>
+    <translation>Clothes of the Evening Mist</translation>
+  </item>
+  <item id="15143">
+    <original>アズールジャケット</original>
+    <translation>Azure Jacket</translation>
+  </item>
+  <item id="15144">
+    <original>アズールジャケット</original>
+    <translation>Azure Jacket</translation>
+  </item>
+  <item id="15145">
+    <original>アズールジャケット</original>
+    <translation>Azure Jacket</translation>
+  </item>
+  <item id="15146">
+    <original>アズールジャケット</original>
+    <translation>Azure Jacket</translation>
+  </item>
+  <item id="15147">
+    <original>アズールジャケット</original>
+    <translation>Azure Jacket</translation>
   </item>
   <item id="15148">
     <original>探求のチュニック</original>
@@ -43854,31 +45929,154 @@
   </item>
   <item id="15163">
     <original>フィンダミアブレスト</original>
-    <translation>Findermere Breastplate</translation>
+    <translation>Phindymer Breastplate</translation>
   </item>
   <item id="15164">
     <original>フィンダミアブレスト</original>
-    <translation>Findermere Breastplate</translation>
+    <translation>Phindymer Breastplate</translation>
   </item>
   <item id="15165">
     <original>フィンダミアブレスト</original>
-    <translation>Findermere Breastplate</translation>
+    <translation>Phindymer Breastplate</translation>
   </item>
   <item id="15166">
     <original>フィンダミアブレスト</original>
-    <translation>Findermere Breastplate</translation>
+    <translation>Phindymer Breastplate</translation>
   </item>
   <item id="15167">
     <original>フィンダミアブレスト</original>
-    <translation>Findermere Breastplate</translation>
+    <translation>Phindymer Breastplate</translation>
+  </item>
+  <item id="15168">
+    <original>パリィドウェア</original>
+  </item>
+  <item id="15169">
+    <original>パリィドウェア</original>
+  </item>
+  <item id="15170">
+    <original>パリィドウェア</original>
+  </item>
+  <item id="15171">
+    <original>パリィドウェア</original>
+  </item>
+  <item id="15172">
+    <original>パリィドウェア</original>
+  </item>
+  <item id="15173">
+    <original>鈍色のブリガンダイン</original>
+    <translation>Dull Brigandine</translation>
+  </item>
+  <item id="15174">
+    <original>鈍色のブリガンダイン</original>
+    <translation>Dull Brigandine</translation>
+  </item>
+  <item id="15175">
+    <original>鈍色のブリガンダイン</original>
+    <translation>Dull Brigandine</translation>
+  </item>
+  <item id="15176">
+    <original>鈍色のブリガンダイン</original>
+    <translation>Dull Brigandine</translation>
+  </item>
+  <item id="15177">
+    <original>鈍色のブリガンダイン</original>
+    <translation>Dull Brigandine</translation>
+  </item>
+  <item id="15178">
+    <original>ホーリーブレスト</original>
+    <translation>Holy Breastplate</translation>
+  </item>
+  <item id="15179">
+    <original>ホーリーブレスト</original>
+    <translation>Holy Breastplate</translation>
+  </item>
+  <item id="15180">
+    <original>ホーリーブレスト</original>
+    <translation>Holy Breastplate</translation>
+  </item>
+  <item id="15181">
+    <original>ホーリーブレスト</original>
+    <translation>Holy Breastplate</translation>
+  </item>
+  <item id="15182">
+    <original>ホーリーブレスト</original>
+    <translation>Holy Breastplate</translation>
+  </item>
+  <item id="15183">
+    <original>アズールギャンベソン</original>
+    <translation>Azure Gambeson</translation>
+  </item>
+  <item id="15184">
+    <original>アズールギャンベソン</original>
+    <translation>Azure Gambeson</translation>
+  </item>
+  <item id="15185">
+    <original>アズールギャンベソン</original>
+    <translation>Azure Gambeson</translation>
+  </item>
+  <item id="15186">
+    <original>アズールギャンベソン</original>
+    <translation>Azure Gambeson</translation>
+  </item>
+  <item id="15187">
+    <original>アズールギャンベソン</original>
+    <translation>Azure Gambeson</translation>
   </item>
   <item id="15188">
     <original>デュークウェア【闇夜】</original>
     <translation>Duke Wear (Dark Night)</translation>
   </item>
+  <item id="15193">
+    <original>デュークウェア【月花】</original>
+    <translation>Duke Wear (Moonflower)</translation>
+  </item>
+  <item id="15198">
+    <original>フィネガンズハンズ</original>
+    <translation>Finnegan's Hands</translation>
+  </item>
+  <item id="15199">
+    <original>フィネガンズハンズ</original>
+    <translation>Finnegan's Hands</translation>
+  </item>
+  <item id="15200">
+    <original>フィネガンズハンズ</original>
+    <translation>Finnegan's Hands</translation>
+  </item>
+  <item id="15201">
+    <original>フィネガンズハンズ</original>
+    <translation>Finnegan's Hands</translation>
+  </item>
+  <item id="15202">
+    <original>フィネガンズハンズ</original>
+    <translation>Finnegan's Hands</translation>
+  </item>
+  <item id="15203">
+    <original>グリーディハンズ</original>
+    <translation>Greedy Hands</translation>
+  </item>
+  <item id="15204">
+    <original>グリーディハンズ</original>
+    <translation>Greedy Hands</translation>
+  </item>
+  <item id="15205">
+    <original>グリーディハンズ</original>
+    <translation>Greedy Hands</translation>
+  </item>
+  <item id="15206">
+    <original>グリーディハンズ</original>
+    <translation>Greedy Hands</translation>
+  </item>
+  <item id="15207">
+    <original>グリーディハンズ</original>
+    <translation>Greedy Hands</translation>
+  </item>
   <item id="15208">
     <original>デュークグローブ【闇夜】</original>
     <translation>Duke Gloves (Dark Night)</translation>
+  </item>
+  <item id="15213">
+    <original>デュークグローブ【月花】</original>
+    <translation>Duke Gloves (Moonflower)</translation>
   </item>
   <item id="15218">
     <original>処刑人のアームカバー</original>
@@ -43940,6 +46138,86 @@
     <original>アームズオブジェノサイド</original>
     <translation>Arms of Genocide</translation>
   </item>
+  <item id="15233">
+    <original>衛士のガントレット</original>
+    <translation>Guardian's Gauntlets</translation>
+  </item>
+  <item id="15234">
+    <original>衛士のガントレット</original>
+    <translation>Guardian's Gauntlets</translation>
+  </item>
+  <item id="15235">
+    <original>衛士のガントレット</original>
+    <translation>Guardian's Gauntlets</translation>
+  </item>
+  <item id="15236">
+    <original>衛士のガントレット</original>
+    <translation>Guardian's Gauntlets</translation>
+  </item>
+  <item id="15237">
+    <original>衛士のガントレット</original>
+    <translation>Guardian's Gauntlets</translation>
+  </item>
+  <item id="15238">
+    <original>ノーザンブレイサー</original>
+    <translation>Northern Bracers</translation>
+  </item>
+  <item id="15239">
+    <original>ノーザンブレイサー</original>
+    <translation>Northern Bracers</translation>
+  </item>
+  <item id="15240">
+    <original>ノーザンブレイサー</original>
+    <translation>Northern Bracers</translation>
+  </item>
+  <item id="15241">
+    <original>ノーザンブレイサー</original>
+    <translation>Northern Bracers</translation>
+  </item>
+  <item id="15242">
+    <original>ノーザンブレイサー</original>
+    <translation>Northern Bracers</translation>
+  </item>
+  <item id="15243">
+    <original>暁のナイトガントレット</original>
+    <translation>Knight Gauntlets of Dawn</translation>
+  </item>
+  <item id="15244">
+    <original>暁のナイトガントレット</original>
+    <translation>Knight Gauntlets of Dawn</translation>
+  </item>
+  <item id="15245">
+    <original>暁のナイトガントレット</original>
+    <translation>Knight Gauntlets of Dawn</translation>
+  </item>
+  <item id="15246">
+    <original>暁のナイトガントレット</original>
+    <translation>Knight Gauntlets of Dawn</translation>
+  </item>
+  <item id="15247">
+    <original>暁のナイトガントレット</original>
+    <translation>Knight Gauntlets of Dawn</translation>
+  </item>
+  <item id="15248">
+    <original>アズールガントレット</original>
+    <translation>Azure Gauntlets</translation>
+  </item>
+  <item id="15249">
+    <original>アズールガントレット</original>
+    <translation>Azure Gauntlets</translation>
+  </item>
+  <item id="15250">
+    <original>アズールガントレット</original>
+    <translation>Azure Gauntlets</translation>
+  </item>
+  <item id="15251">
+    <original>アズールガントレット</original>
+    <translation>Azure Gauntlets</translation>
+  </item>
+  <item id="15252">
+    <original>アズールガントレット</original>
+    <translation>Azure Gauntlets</translation>
+  </item>
   <item id="15253">
     <original>イノセントカバー</original>
     <translation>Innocent Covers</translation>
@@ -43999,6 +46277,81 @@
   <item id="15267">
     <original>エンハンスドブレイサー</original>
     <translation>Enhanced Bracers</translation>
+  </item>
+  <item id="15268">
+    <original>メディウムアーム</original>
+    <translation>Medium Arms</translation>
+  </item>
+  <item id="15269">
+    <original>メディウムアーム</original>
+    <translation>Medium Arms</translation>
+  </item>
+  <item id="15270">
+    <original>メディウムアーム</original>
+    <translation>Medium Arms</translation>
+  </item>
+  <item id="15271">
+    <original>メディウムアーム</original>
+    <translation>Medium Arms</translation>
+  </item>
+  <item id="15272">
+    <original>メディウムアーム</original>
+    <translation>Medium Arms</translation>
+  </item>
+  <item id="15273">
+    <original>防人のブレイス</original>
+  </item>
+  <item id="15274">
+    <original>防人のブレイス</original>
+  </item>
+  <item id="15275">
+    <original>防人のブレイス</original>
+  </item>
+  <item id="15276">
+    <original>防人のブレイス</original>
+  </item>
+  <item id="15277">
+    <original>防人のブレイス</original>
+  </item>
+  <item id="15278">
+    <original>銀杏染めの手甲</original>
+    <translation>Ginkgo-dyed Gloves</translation>
+  </item>
+  <item id="15279">
+    <original>銀杏染めの手甲</original>
+    <translation>Ginkgo-dyed Gloves</translation>
+  </item>
+  <item id="15280">
+    <original>銀杏染めの手甲</original>
+    <translation>Ginkgo-dyed Gloves</translation>
+  </item>
+  <item id="15281">
+    <original>銀杏染めの手甲</original>
+    <translation>Ginkgo-dyed Gloves</translation>
+  </item>
+  <item id="15282">
+    <original>銀杏染めの手甲</original>
+    <translation>Ginkgo-dyed Gloves</translation>
+  </item>
+  <item id="15283">
+    <original>アズールアーム</original>
+    <translation>Azure Arms</translation>
+  </item>
+  <item id="15284">
+    <original>アズールアーム</original>
+    <translation>Azure Arms</translation>
+  </item>
+  <item id="15285">
+    <original>アズールアーム</original>
+    <translation>Azure Arms</translation>
+  </item>
+  <item id="15286">
+    <original>アズールアーム</original>
+    <translation>Azure Arms</translation>
+  </item>
+  <item id="15287">
+    <original>アズールアーム</original>
+    <translation>Azure Arms</translation>
   </item>
   <item id="15288">
     <original>コンチネントアーム</original>
@@ -44060,6 +46413,86 @@
     <original>フォートレスアーム</original>
     <translation>Fortress Arms</translation>
   </item>
+  <item id="15303">
+    <original>仁徳のグラブ</original>
+    <translation>Gloves of Benevolence</translation>
+  </item>
+  <item id="15304">
+    <original>仁徳のグラブ</original>
+    <translation>Gloves of Benevolence</translation>
+  </item>
+  <item id="15305">
+    <original>仁徳のグラブ</original>
+    <translation>Gloves of Benevolence</translation>
+  </item>
+  <item id="15306">
+    <original>仁徳のグラブ</original>
+    <translation>Gloves of Benevolence</translation>
+  </item>
+  <item id="15307">
+    <original>仁徳のグラブ</original>
+    <translation>Gloves of Benevolence</translation>
+  </item>
+  <item id="15308">
+    <original>モノクロームグラブ</original>
+    <translation>Monochrome Gloves</translation>
+  </item>
+  <item id="15309">
+    <original>モノクロームグラブ</original>
+    <translation>Monochrome Gloves</translation>
+  </item>
+  <item id="15310">
+    <original>モノクロームグラブ</original>
+    <translation>Monochrome Gloves</translation>
+  </item>
+  <item id="15311">
+    <original>モノクロームグラブ</original>
+    <translation>Monochrome Gloves</translation>
+  </item>
+  <item id="15312">
+    <original>モノクロームグラブ</original>
+    <translation>Monochrome Gloves</translation>
+  </item>
+  <item id="15313">
+    <original>黒緋のグラブ</original>
+    <translation>Black Scarlet Gloves</translation>
+  </item>
+  <item id="15315">
+    <original>黒緋のグラブ</original>
+    <translation>Black Scarlet Gloves</translation>
+  </item>
+  <item id="15316">
+    <original>黒緋のグラブ</original>
+    <translation>Black Scarlet Gloves</translation>
+  </item>
+  <item id="15317">
+    <original>黒緋のグラブ</original>
+    <translation>Black Scarlet Gloves</translation>
+  </item>
+  <item id="15318">
+    <original>黒緋のグラブ</original>
+    <translation>Black Scarlet Gloves</translation>
+  </item>
+  <item id="15319">
+    <original>アズールグラブ</original>
+    <translation>Azure Bracers</translation>
+  </item>
+  <item id="15320">
+    <original>アズールグラブ</original>
+    <translation>Azure Bracers</translation>
+  </item>
+  <item id="15321">
+    <original>アズールグラブ</original>
+    <translation>Azure Bracers</translation>
+  </item>
+  <item id="15322">
+    <original>アズールグラブ</original>
+    <translation>Azure Bracers</translation>
+  </item>
+  <item id="15323">
+    <original>アズールグラブ</original>
+    <translation>Azure Bracers</translation>
+  </item>
   <item id="15324">
     <original>マウンテニアブレイス</original>
     <translation>Mountaineer Bracers</translation>
@@ -44120,9 +46553,128 @@
     <original>フォレストブレイス</original>
     <translation>Forest Bracers</translation>
   </item>
+  <item id="15339">
+    <original>黒豹のスリーブ</original>
+    <translation>Black Panther Sleeves</translation>
+  </item>
+  <item id="15340">
+    <original>黒豹のスリーブ</original>
+    <translation>Black Panther Sleeves</translation>
+  </item>
+  <item id="15341">
+    <original>黒豹のスリーブ</original>
+    <translation>Black Panther Sleeves</translation>
+  </item>
+  <item id="15342">
+    <original>黒豹のスリーブ</original>
+    <translation>Black Panther Sleeves</translation>
+  </item>
+  <item id="15343">
+    <original>黒豹のスリーブ</original>
+    <translation>Black Panther Sleeves</translation>
+  </item>
+  <item id="15344">
+    <original>パトリシアンスリーブ</original>
+    <translation>Patrician Sleeves</translation>
+  </item>
+  <item id="15345">
+    <original>パトリシアンスリーブ</original>
+    <translation>Patrician Sleeves</translation>
+  </item>
+  <item id="15346">
+    <original>パトリシアンスリーブ</original>
+    <translation>Patrician Sleeves</translation>
+  </item>
+  <item id="15347">
+    <original>パトリシアンスリーブ</original>
+    <translation>Patrician Sleeves</translation>
+  </item>
+  <item id="15348">
+    <original>パトリシアンスリーブ</original>
+    <translation>Patrician Sleeves</translation>
+  </item>
+  <item id="15349">
+    <original>夕霧の手甲</original>
+    <translation>Gloves of the Evening Mist</translation>
+  </item>
+  <item id="15350">
+    <original>夕霧の手甲</original>
+    <translation>Gloves of the Evening Mist</translation>
+  </item>
+  <item id="15351">
+    <original>夕霧の手甲</original>
+    <translation>Gloves of the Evening Mist</translation>
+  </item>
+  <item id="15352">
+    <original>夕霧の手甲</original>
+    <translation>Gloves of the Evening Mist</translation>
+  </item>
+  <item id="15353">
+    <original>夕霧の手甲</original>
+    <translation>Gloves of the Evening Mist</translation>
+  </item>
+  <item id="15354">
+    <original>アズールグローブ</original>
+    <translation>Azure Gloves</translation>
+  </item>
+  <item id="15355">
+    <original>アズールグローブ</original>
+    <translation>Azure Gloves</translation>
+  </item>
+  <item id="15356">
+    <original>アズールグローブ</original>
+    <translation>Azure Gloves</translation>
+  </item>
+  <item id="15357">
+    <original>アズールグローブ</original>
+    <translation>Azure Gloves</translation>
+  </item>
+  <item id="15358">
+    <original>アズールグローブ</original>
+    <translation>Azure Gloves</translation>
+  </item>
+  <item id="15359">
+    <original>フィネガンズブーツ</original>
+    <translation>Finnegan's Boots</translation>
+  </item>
+  <item id="15360">
+    <original>フィネガンズブーツ</original>
+    <translation>Finnegan's Boots</translation>
+  </item>
+  <item id="15361">
+    <original>フィネガンズブーツ</original>
+    <translation>Finnegan's Boots</translation>
+  </item>
+  <item id="15362">
+    <original>フィネガンズブーツ</original>
+    <translation>Finnegan's Boots</translation>
+  </item>
+  <item id="15363">
+    <original>フィネガンズブーツ</original>
+    <translation>Finnegan's Boots</translation>
+  </item>
+  <item id="15364">
+    <original>グリーディブーツ</original>
+  </item>
+  <item id="15365">
+    <original>グリーディブーツ</original>
+  </item>
+  <item id="15366">
+    <original>グリーディブーツ</original>
+  </item>
+  <item id="15367">
+    <original>グリーディブーツ</original>
+  </item>
+  <item id="15368">
+    <original>グリーディブーツ</original>
+  </item>
   <item id="15369">
     <original>デュークキュイス【闇夜】</original>
     <translation>Duke Cuisses (Dark Night)</translation>
+  </item>
+  <item id="15374">
+    <original>デュークキュイス【月花】</original>
+    <translation>Duke Cuisses (Moonflower)</translation>
   </item>
   <item id="15379">
     <original>処刑人のグリーブ</original>
@@ -44184,6 +46736,86 @@
     <original>グリップオブジェノサイド</original>
     <translation>Grip of Genocide</translation>
   </item>
+  <item id="15394">
+    <original>衛士のサバトン</original>
+    <translation>Guardian's Sabatons</translation>
+  </item>
+  <item id="15395">
+    <original>衛士のサバトン</original>
+    <translation>Guardian's Sabatons</translation>
+  </item>
+  <item id="15396">
+    <original>衛士のサバトン</original>
+    <translation>Guardian's Sabatons</translation>
+  </item>
+  <item id="15397">
+    <original>衛士のサバトン</original>
+    <translation>Guardian's Sabatons</translation>
+  </item>
+  <item id="15398">
+    <original>衛士のサバトン</original>
+    <translation>Guardian's Sabatons</translation>
+  </item>
+  <item id="15399">
+    <original>ノーザンサバトン</original>
+    <translation>Northern Sabatons</translation>
+  </item>
+  <item id="15400">
+    <original>ノーザンサバトン</original>
+    <translation>Northern Sabatons</translation>
+  </item>
+  <item id="15401">
+    <original>ノーザンサバトン</original>
+    <translation>Northern Sabatons</translation>
+  </item>
+  <item id="15402">
+    <original>ノーザンサバトン</original>
+    <translation>Northern Sabatons</translation>
+  </item>
+  <item id="15403">
+    <original>ノーザンサバトン</original>
+    <translation>Northern Sabatons</translation>
+  </item>
+  <item id="15404">
+    <original>暁のナイトグリーブ</original>
+    <translation>Knight Greaves of Dawn</translation>
+  </item>
+  <item id="15405">
+    <original>暁のナイトグリーブ</original>
+    <translation>Knight Greaves of Dawn</translation>
+  </item>
+  <item id="15406">
+    <original>暁のナイトグリーブ</original>
+    <translation>Knight Greaves of Dawn</translation>
+  </item>
+  <item id="15407">
+    <original>暁のナイトグリーブ</original>
+    <translation>Knight Greaves of Dawn</translation>
+  </item>
+  <item id="15408">
+    <original>暁のナイトグリーブ</original>
+    <translation>Knight Greaves of Dawn</translation>
+  </item>
+  <item id="15409">
+    <original>アズールキュイス</original>
+    <translation>Azure Cuisses</translation>
+  </item>
+  <item id="15410">
+    <original>アズールキュイス</original>
+    <translation>Azure Cuisses</translation>
+  </item>
+  <item id="15411">
+    <original>アズールキュイス</original>
+    <translation>Azure Cuisses</translation>
+  </item>
+  <item id="15412">
+    <original>アズールキュイス</original>
+    <translation>Azure Cuisses</translation>
+  </item>
+  <item id="15413">
+    <original>アズールキュイス</original>
+    <translation>Azure Cuisses</translation>
+  </item>
   <item id="15414">
     <original>イノセントシューズ</original>
     <translation>Innocent Shoes</translation>
@@ -44243,6 +46875,81 @@
   <item id="15428">
     <original>エンハンスドブーツ</original>
     <translation>Enhanced Boots</translation>
+  </item>
+  <item id="15429">
+    <original>メディウムブーツ</original>
+    <translation>Medium Boots</translation>
+  </item>
+  <item id="15430">
+    <original>メディウムブーツ</original>
+    <translation>Medium Boots</translation>
+  </item>
+  <item id="15431">
+    <original>メディウムブーツ</original>
+    <translation>Medium Boots</translation>
+  </item>
+  <item id="15432">
+    <original>メディウムブーツ</original>
+    <translation>Medium Boots</translation>
+  </item>
+  <item id="15433">
+    <original>メディウムブーツ</original>
+    <translation>Medium Boots</translation>
+  </item>
+  <item id="15434">
+    <original>防人のシューズ</original>
+  </item>
+  <item id="15435">
+    <original>防人のシューズ</original>
+  </item>
+  <item id="15436">
+    <original>防人のシューズ</original>
+  </item>
+  <item id="15437">
+    <original>防人のシューズ</original>
+  </item>
+  <item id="15438">
+    <original>防人のシューズ</original>
+  </item>
+  <item id="15439">
+    <original>銀杏染めの靴</original>
+    <translation>Ginkgo-dyed Shoes</translation>
+  </item>
+  <item id="15440">
+    <original>銀杏染めの靴</original>
+    <translation>Ginkgo-dyed Shoes</translation>
+  </item>
+  <item id="15441">
+    <original>銀杏染めの靴</original>
+    <translation>Ginkgo-dyed Shoes</translation>
+  </item>
+  <item id="15442">
+    <original>銀杏染めの靴</original>
+    <translation>Ginkgo-dyed Shoes</translation>
+  </item>
+  <item id="15443">
+    <original>銀杏染めの靴</original>
+    <translation>Ginkgo-dyed Shoes</translation>
+  </item>
+  <item id="15444">
+    <original>アズールボトム</original>
+    <translation>Azure Bottoms</translation>
+  </item>
+  <item id="15445">
+    <original>アズールボトム</original>
+    <translation>Azure Bottoms</translation>
+  </item>
+  <item id="15446">
+    <original>アズールボトム</original>
+    <translation>Azure Bottoms</translation>
+  </item>
+  <item id="15447">
+    <original>アズールボトム</original>
+    <translation>Azure Bottoms</translation>
+  </item>
+  <item id="15448">
+    <original>アズールボトム</original>
+    <translation>Azure Bottoms</translation>
   </item>
   <item id="15449">
     <original>コンチネントレッグ</original>
@@ -44304,6 +47011,86 @@
     <original>フォートレスベース</original>
     <translation>Fortress Base</translation>
   </item>
+  <item id="15464">
+    <original>仁徳のブーツ</original>
+    <translation>Boots of Benevolence</translation>
+  </item>
+  <item id="15465">
+    <original>仁徳のブーツ</original>
+    <translation>Boots of Benevolence</translation>
+  </item>
+  <item id="15466">
+    <original>仁徳のブーツ</original>
+    <translation>Boots of Benevolence</translation>
+  </item>
+  <item id="15467">
+    <original>仁徳のブーツ</original>
+    <translation>Boots of Benevolence</translation>
+  </item>
+  <item id="15468">
+    <original>仁徳のブーツ</original>
+    <translation>Boots of Benevolence</translation>
+  </item>
+  <item id="15469">
+    <original>モノクロームグリーブ</original>
+    <translation>Monochrome Greaves</translation>
+  </item>
+  <item id="15470">
+    <original>モノクロームグリーブ</original>
+    <translation>Monochrome Greaves</translation>
+  </item>
+  <item id="15471">
+    <original>モノクロームグリーブ</original>
+    <translation>Monochrome Greaves</translation>
+  </item>
+  <item id="15472">
+    <original>モノクロームグリーブ</original>
+    <translation>Monochrome Greaves</translation>
+  </item>
+  <item id="15473">
+    <original>モノクロームグリーブ</original>
+    <translation>Monochrome Greaves</translation>
+  </item>
+  <item id="15474">
+    <original>黒緋のグリーブ</original>
+    <translation>Black Scarlet Greaves</translation>
+  </item>
+  <item id="15475">
+    <original>黒緋のグリーブ</original>
+    <translation>Black Scarlet Greaves</translation>
+  </item>
+  <item id="15476">
+    <original>黒緋のグリーブ</original>
+    <translation>Black Scarlet Greaves</translation>
+  </item>
+  <item id="15477">
+    <original>黒緋のグリーブ</original>
+    <translation>Black Scarlet Greaves</translation>
+  </item>
+  <item id="15478">
+    <original>黒緋のグリーブ</original>
+    <translation>Black Scarlet Greaves</translation>
+  </item>
+  <item id="15479">
+    <original>アズールグリーブ</original>
+    <translation>Azure Greaves</translation>
+  </item>
+  <item id="15480">
+    <original>アズールグリーブ</original>
+    <translation>Azure Greaves</translation>
+  </item>
+  <item id="15481">
+    <original>アズールグリーブ</original>
+    <translation>Azure Greaves</translation>
+  </item>
+  <item id="15482">
+    <original>アズールグリーブ</original>
+    <translation>Azure Greaves</translation>
+  </item>
+  <item id="15483">
+    <original>アズールグリーブ</original>
+    <translation>Azure Greaves</translation>
+  </item>
   <item id="15484">
     <original>マウンテニアシューズ</original>
     <translation>Mountaineer Shoes</translation>
@@ -44363,6 +47150,86 @@
   <item id="15498">
     <original>フォレストキュイス</original>
     <translation>Forest Cuisses</translation>
+  </item>
+  <item id="15499">
+    <original>黒豹のレッグガード</original>
+    <translation>Black Panther Leg Guards</translation>
+  </item>
+  <item id="15500">
+    <original>黒豹のレッグガード</original>
+    <translation>Black Panther Leg Guards</translation>
+  </item>
+  <item id="15501">
+    <original>黒豹のレッグガード</original>
+    <translation>Black Panther Leg Guards</translation>
+  </item>
+  <item id="15502">
+    <original>黒豹のレッグガード</original>
+    <translation>Black Panther Leg Guards</translation>
+  </item>
+  <item id="15503">
+    <original>黒豹のレッグガード</original>
+    <translation>Black Panther Leg Guards</translation>
+  </item>
+  <item id="15504">
+    <original>パトリシアンレッグス</original>
+    <translation>Patrician Legs</translation>
+  </item>
+  <item id="15505">
+    <original>パトリシアンレッグス</original>
+    <translation>Patrician Legs</translation>
+  </item>
+  <item id="15506">
+    <original>パトリシアンレッグス</original>
+    <translation>Patrician Legs</translation>
+  </item>
+  <item id="15507">
+    <original>パトリシアンレッグス</original>
+    <translation>Patrician Legs</translation>
+  </item>
+  <item id="15508">
+    <original>パトリシアンレッグス</original>
+    <translation>Patrician Legs</translation>
+  </item>
+  <item id="15509">
+    <original>夕霧の具足</original>
+    <translation>Mail of the Evening Mist</translation>
+  </item>
+  <item id="15510">
+    <original>夕霧の具足</original>
+    <translation>Mail of the Evening Mist</translation>
+  </item>
+  <item id="15511">
+    <original>夕霧の具足</original>
+    <translation>Mail of the Evening Mist</translation>
+  </item>
+  <item id="15512">
+    <original>夕霧の具足</original>
+    <translation>Mail of the Evening Mist</translation>
+  </item>
+  <item id="15513">
+    <original>夕霧の具足</original>
+    <translation>Mail of the Evening Mist</translation>
+  </item>
+  <item id="15514">
+    <original>アズールブーツ</original>
+    <translation>Azure Boots</translation>
+  </item>
+  <item id="15515">
+    <original>アズールブーツ</original>
+    <translation>Azure Boots</translation>
+  </item>
+  <item id="15516">
+    <original>アズールブーツ</original>
+    <translation>Azure Boots</translation>
+  </item>
+  <item id="15517">
+    <original>アズールブーツ</original>
+    <translation>Azure Boots</translation>
+  </item>
+  <item id="15518">
+    <original>アズールブーツ</original>
+    <translation>Azure Boots</translation>
   </item>
   <item id="15519">
     <original>探求のバンデッド</original>
@@ -44426,27 +47293,106 @@
   </item>
   <item id="15534">
     <original>フィンダミアアンディーズ</original>
-    <translation>Findermere Underwear</translation>
+    <translation>Phindymer Underwear</translation>
   </item>
   <item id="15535">
     <original>フィンダミアアンディーズ</original>
-    <translation>Findermere Underwear</translation>
+    <translation>Phindymer Underwear</translation>
   </item>
   <item id="15536">
     <original>フィンダミアアンディーズ</original>
-    <translation>Findermere Underwear</translation>
+    <translation>Phindymer Underwear</translation>
   </item>
   <item id="15537">
     <original>フィンダミアアンディーズ</original>
-    <translation>Findermere Underwear</translation>
+    <translation>Phindymer Underwear</translation>
   </item>
   <item id="15538">
     <original>フィンダミアアンディーズ</original>
-    <translation>Findermere Underwear</translation>
+    <translation>Phindymer Underwear</translation>
+  </item>
+  <item id="15539">
+    <original>パリィドタイツ</original>
+  </item>
+  <item id="15540">
+    <original>パリィドタイツ</original>
+  </item>
+  <item id="15541">
+    <original>パリィドタイツ</original>
+  </item>
+  <item id="15542">
+    <original>パリィドタイツ</original>
+  </item>
+  <item id="15543">
+    <original>パリィドタイツ</original>
+  </item>
+  <item id="15544">
+    <original>鈍色のボトムス</original>
+    <translation>Dull Bottoms</translation>
+  </item>
+  <item id="15545">
+    <original>鈍色のボトムス</original>
+    <translation>Dull Bottoms</translation>
+  </item>
+  <item id="15546">
+    <original>鈍色のボトムス</original>
+    <translation>Dull Bottoms</translation>
+  </item>
+  <item id="15547">
+    <original>鈍色のボトムス</original>
+    <translation>Dull Bottoms</translation>
+  </item>
+  <item id="15548">
+    <original>鈍色のボトムス</original>
+    <translation>Dull Bottoms</translation>
+  </item>
+  <item id="15549">
+    <original>ホーリーレッグス</original>
+    <translation>Holy Legs</translation>
+  </item>
+  <item id="15550">
+    <original>ホーリーレッグス</original>
+    <translation>Holy Legs</translation>
+  </item>
+  <item id="15551">
+    <original>ホーリーレッグス</original>
+    <translation>Holy Legs</translation>
+  </item>
+  <item id="15552">
+    <original>ホーリーレッグス</original>
+    <translation>Holy Legs</translation>
+  </item>
+  <item id="15553">
+    <original>ホーリーレッグス</original>
+    <translation>Holy Legs</translation>
+  </item>
+  <item id="15554">
+    <original>アズールホーズ</original>
+    <translation>Azure Hose</translation>
+  </item>
+  <item id="15555">
+    <original>アズールホーズ</original>
+    <translation>Azure Hose</translation>
+  </item>
+  <item id="15556">
+    <original>アズールホーズ</original>
+    <translation>Azure Hose</translation>
+  </item>
+  <item id="15557">
+    <original>アズールホーズ</original>
+    <translation>Azure Hose</translation>
+  </item>
+  <item id="15558">
+    <original>アズールホーズ</original>
+    <translation>Azure Hose</translation>
   </item>
   <item id="15559">
     <original>デュークレッグス【闇夜】</original>
     <translation>Duke Legs (Dark Night)</translation>
+  </item>
+  <item id="15564">
+    <original>デュークレッグス【月花】</original>
+    <translation>Duke Legs (Moonflower)</translation>
   </item>
   <item id="15569">
     <original>真紅のクローク</original>
@@ -44527,6 +47473,106 @@
   <item id="15588">
     <original>ニグレドマント</original>
     <translation>Nigredo Mantle</translation>
+  </item>
+  <item id="15589">
+    <original>グリーディマント</original>
+    <translation>Greedy Mantle</translation>
+  </item>
+  <item id="15590">
+    <original>グリーディマント</original>
+    <translation>Greedy Mantle</translation>
+  </item>
+  <item id="15591">
+    <original>グリーディマント</original>
+    <translation>Greedy Mantle</translation>
+  </item>
+  <item id="15592">
+    <original>グリーディマント</original>
+    <translation>Greedy Mantle</translation>
+  </item>
+  <item id="15593">
+    <original>グリーディマント</original>
+    <translation>Greedy Mantle</translation>
+  </item>
+  <item id="15594">
+    <original>ホワイトレザークローク</original>
+    <translation>White Leather Cloak</translation>
+  </item>
+  <item id="15595">
+    <original>ホワイトレザークローク</original>
+    <translation>White Leather Cloak</translation>
+  </item>
+  <item id="15596">
+    <original>ホワイトレザークローク</original>
+    <translation>White Leather Cloak</translation>
+  </item>
+  <item id="15597">
+    <original>ホワイトレザークローク</original>
+    <translation>White Leather Cloak</translation>
+  </item>
+  <item id="15598">
+    <original>ホワイトレザークローク</original>
+    <translation>White Leather Cloak</translation>
+  </item>
+  <item id="15599">
+    <original>紫紺のマフラー</original>
+    <translation>Bluish Purple Muffler</translation>
+  </item>
+  <item id="15600">
+    <original>紫紺のマフラー</original>
+    <translation>Bluish Purple Muffler</translation>
+  </item>
+  <item id="15601">
+    <original>紫紺のマフラー</original>
+    <translation>Bluish Purple Muffler</translation>
+  </item>
+  <item id="15602">
+    <original>紫紺のマフラー</original>
+    <translation>Bluish Purple Muffler</translation>
+  </item>
+  <item id="15603">
+    <original>紫紺のマフラー</original>
+    <translation>Bluish Purple Muffler</translation>
+  </item>
+  <item id="15604">
+    <original>スピリットマント</original>
+    <translation>Spirit Mantle</translation>
+  </item>
+  <item id="15605">
+    <original>スピリットマント</original>
+    <translation>Spirit Mantle</translation>
+  </item>
+  <item id="15606">
+    <original>スピリットマント</original>
+    <translation>Spirit Mantle</translation>
+  </item>
+  <item id="15607">
+    <original>スピリットマント</original>
+    <translation>Spirit Mantle</translation>
+  </item>
+  <item id="15608">
+    <original>スピリットマント</original>
+    <translation>Spirit Mantle</translation>
+  </item>
+  <item id="15609">
+    <original>アズールマント</original>
+    <translation>Azure Mantle</translation>
+  </item>
+  <item id="15610">
+    <original>アズールマント</original>
+    <translation>Azure Mantle</translation>
+  </item>
+  <item id="15611">
+    <original>アズールマント</original>
+    <translation>Azure Mantle</translation>
+  </item>
+  <item id="15612">
+    <original>アズールマント</original>
+    <translation>Azure Mantle</translation>
+  </item>
+  <item id="15613">
+    <original>アズールマント</original>
+    <translation>Azure Mantle</translation>
   </item>
   <item id="15614">
     <original>クラン報酬マント</original>
@@ -44660,6 +47706,66 @@
     <original>夜闇のタオル【優美】</original>
     <translation>Night Black Towel (Elegant)</translation>
   </item>
+  <item id="15647">
+    <original>古種族戦士の鎧</original>
+  </item>
+  <item id="15648">
+    <original>古種族戦士の鎧</original>
+  </item>
+  <item id="15649">
+    <original>古種族戦士の鎧</original>
+  </item>
+  <item id="15650">
+    <original>古種族戦士の鎧</original>
+  </item>
+  <item id="15651">
+    <original>古種族戦士の鎧</original>
+  </item>
+  <item id="15652">
+    <original>古種族戦士の鎧【麗】</original>
+  </item>
+  <item id="15653">
+    <original>古種族戦士の鎧【麗】</original>
+  </item>
+  <item id="15654">
+    <original>古種族戦士の鎧【麗】</original>
+  </item>
+  <item id="15655">
+    <original>古種族戦士の鎧【麗】</original>
+  </item>
+  <item id="15656">
+    <original>古種族戦士の鎧【麗】</original>
+  </item>
+  <item id="15657">
+    <original>古種族少女の服</original>
+  </item>
+  <item id="15658">
+    <original>古種族少女の服</original>
+  </item>
+  <item id="15659">
+    <original>古種族少女の服</original>
+  </item>
+  <item id="15660">
+    <original>古種族少女の服</original>
+  </item>
+  <item id="15661">
+    <original>古種族少女の服</original>
+  </item>
+  <item id="15662">
+    <original>古種族少女の服【麗】</original>
+  </item>
+  <item id="15663">
+    <original>古種族少女の服【麗】</original>
+  </item>
+  <item id="15664">
+    <original>古種族少女の服【麗】</original>
+  </item>
+  <item id="15665">
+    <original>古種族少女の服【麗】</original>
+  </item>
+  <item id="15666">
+    <original>古種族少女の服【麗】</original>
+  </item>
   <item id="15669">
     <original>Sランサー_治癒アップ</original>
   </item>
@@ -44732,6 +47838,26 @@
     <original>アリズンズディフィーター</original>
     <translation>Arisen's Defeater</translation>
   </item>
+  <item id="15688">
+    <original>ソードオブラディアンス</original>
+    <translation>Sword of Radiance</translation>
+  </item>
+  <item id="15689">
+    <original>ソードオブラディアンス</original>
+    <translation>Sword of Radiance</translation>
+  </item>
+  <item id="15690">
+    <original>ソードオブラディアンス</original>
+    <translation>Sword of Radiance</translation>
+  </item>
+  <item id="15691">
+    <original>ソードオブラディアンス</original>
+    <translation>Sword of Radiance</translation>
+  </item>
+  <item id="15692">
+    <original>ソードオブラディアンス</original>
+    <translation>Sword of Radiance</translation>
+  </item>
   <item id="15693">
     <original>錆びた盾</original>
     <translation>Rusted Shield</translation>
@@ -44786,6 +47912,26 @@
   <item id="15707">
     <original>アリズンズリペーラー</original>
     <translation>Arisen's Repeller</translation>
+  </item>
+  <item id="15708">
+    <original>シールドオブラディアンス</original>
+    <translation>Shield of Radiance</translation>
+  </item>
+  <item id="15709">
+    <original>シールドオブラディアンス</original>
+    <translation>Shield of Radiance</translation>
+  </item>
+  <item id="15710">
+    <original>シールドオブラディアンス</original>
+    <translation>Shield of Radiance</translation>
+  </item>
+  <item id="15711">
+    <original>シールドオブラディアンス</original>
+    <translation>Shield of Radiance</translation>
+  </item>
+  <item id="15712">
+    <original>シールドオブラディアンス</original>
+    <translation>Shield of Radiance</translation>
   </item>
   <item id="15713">
     <original>錆びた大剣</original>
@@ -44847,6 +47993,26 @@
     <original>アリズンズセイバー</original>
     <translation>Arisen's Savior</translation>
   </item>
+  <item id="15728">
+    <original>ブレードオブラディアンス</original>
+    <translation>Blade of Radiance</translation>
+  </item>
+  <item id="15729">
+    <original>ブレードオブラディアンス</original>
+    <translation>Blade of Radiance</translation>
+  </item>
+  <item id="15730">
+    <original>ブレードオブラディアンス</original>
+    <translation>Blade of Radiance</translation>
+  </item>
+  <item id="15731">
+    <original>ブレードオブラディアンス</original>
+    <translation>Blade of Radiance</translation>
+  </item>
+  <item id="15732">
+    <original>ブレードオブラディアンス</original>
+    <translation>Blade of Radiance</translation>
+  </item>
   <item id="15733">
     <original>錆びた大盾</original>
     <translation>Rusted Greatshield</translation>
@@ -44906,6 +48072,26 @@
   <item id="15747">
     <original>アリズンズアブソーバー</original>
     <translation>Arisen's Absorber</translation>
+  </item>
+  <item id="15748">
+    <original>ウォールオブラディアンス</original>
+    <translation>Wall of Radiance</translation>
+  </item>
+  <item id="15749">
+    <original>ウォールオブラディアンス</original>
+    <translation>Wall of Radiance</translation>
+  </item>
+  <item id="15750">
+    <original>ウォールオブラディアンス</original>
+    <translation>Wall of Radiance</translation>
+  </item>
+  <item id="15751">
+    <original>ウォールオブラディアンス</original>
+    <translation>Wall of Radiance</translation>
+  </item>
+  <item id="15752">
+    <original>ウォールオブラディアンス</original>
+    <translation>Wall of Radiance</translation>
   </item>
   <item id="15753">
     <original>錆びたロッド</original>
@@ -44967,6 +48153,26 @@
     <original>アリズンズインダクター</original>
     <translation>Arisen's Inductor</translation>
   </item>
+  <item id="15768">
+    <original>ロッドオブラディアンス</original>
+    <translation>Rod of Radiance</translation>
+  </item>
+  <item id="15769">
+    <original>ロッドオブラディアンス</original>
+    <translation>Rod of Radiance</translation>
+  </item>
+  <item id="15770">
+    <original>ロッドオブラディアンス</original>
+    <translation>Rod of Radiance</translation>
+  </item>
+  <item id="15771">
+    <original>ロッドオブラディアンス</original>
+    <translation>Rod of Radiance</translation>
+  </item>
+  <item id="15772">
+    <original>ロッドオブラディアンス</original>
+    <translation>Rod of Radiance</translation>
+  </item>
   <item id="15773">
     <original>錆びたダガー</original>
     <translation>Rusted Daggers</translation>
@@ -45026,6 +48232,26 @@
   <item id="15787">
     <original>アリズンズクリーヴァー</original>
     <translation>Arisen's Cleavers</translation>
+  </item>
+  <item id="15788">
+    <original>ダガーオブラディアンス</original>
+    <translation>Daggers of Radiance</translation>
+  </item>
+  <item id="15789">
+    <original>ダガーオブラディアンス</original>
+    <translation>Daggers of Radiance</translation>
+  </item>
+  <item id="15790">
+    <original>ダガーオブラディアンス</original>
+    <translation>Daggers of Radiance</translation>
+  </item>
+  <item id="15791">
+    <original>ダガーオブラディアンス</original>
+    <translation>Daggers of Radiance</translation>
+  </item>
+  <item id="15792">
+    <original>ダガーオブラディアンス</original>
+    <translation>Daggers of Radiance</translation>
   </item>
   <item id="15793">
     <original>錆びた弓</original>
@@ -45087,6 +48313,26 @@
     <original>アリズンズピアサー</original>
     <translation>Arisen's Piercer</translation>
   </item>
+  <item id="15808">
+    <original>ボウオブラディアンス</original>
+    <translation>Bow of Radiance</translation>
+  </item>
+  <item id="15809">
+    <original>ボウオブラディアンス</original>
+    <translation>Bow of Radiance</translation>
+  </item>
+  <item id="15810">
+    <original>ボウオブラディアンス</original>
+    <translation>Bow of Radiance</translation>
+  </item>
+  <item id="15811">
+    <original>ボウオブラディアンス</original>
+    <translation>Bow of Radiance</translation>
+  </item>
+  <item id="15812">
+    <original>ボウオブラディアンス</original>
+    <translation>Bow of Radiance</translation>
+  </item>
   <item id="15813">
     <original>錆びた魔道篭手</original>
     <translation>Rusted Magick Gauntlet</translation>
@@ -45146,6 +48392,26 @@
   <item id="15827">
     <original>アリズンズシーザー</original>
     <translation>Arisen's Seizer</translation>
+  </item>
+  <item id="15828">
+    <original>ハンズオブラディアンス</original>
+    <translation>Hands of Radiance</translation>
+  </item>
+  <item id="15829">
+    <original>ハンズオブラディアンス</original>
+    <translation>Hands of Radiance</translation>
+  </item>
+  <item id="15830">
+    <original>ハンズオブラディアンス</original>
+    <translation>Hands of Radiance</translation>
+  </item>
+  <item id="15831">
+    <original>ハンズオブラディアンス</original>
+    <translation>Hands of Radiance</translation>
+  </item>
+  <item id="15832">
+    <original>ハンズオブラディアンス</original>
+    <translation>Hands of Radiance</translation>
   </item>
   <item id="15833">
     <original>錆びた魔道弓</original>
@@ -45207,6 +48473,26 @@
     <original>アリズンズディスターバー</original>
     <translation>Arisen's Disturber</translation>
   </item>
+  <item id="15848">
+    <original>スペルオブラディアンス</original>
+    <translation>Spell of Radiance</translation>
+  </item>
+  <item id="15849">
+    <original>スペルオブラディアンス</original>
+    <translation>Spell of Radiance</translation>
+  </item>
+  <item id="15850">
+    <original>スペルオブラディアンス</original>
+    <translation>Spell of Radiance</translation>
+  </item>
+  <item id="15851">
+    <original>スペルオブラディアンス</original>
+    <translation>Spell of Radiance</translation>
+  </item>
+  <item id="15852">
+    <original>スペルオブラディアンス</original>
+    <translation>Spell of Radiance</translation>
+  </item>
   <item id="15853">
     <original>錆びた杖</original>
     <translation>Rusted Staff</translation>
@@ -45266,6 +48552,26 @@
   <item id="15867">
     <original>アリズンズディスペラー</original>
     <translation>Arisen's Dispeller</translation>
+  </item>
+  <item id="15868">
+    <original>スタッフオブラディアンス</original>
+    <translation>Staff of Radiance</translation>
+  </item>
+  <item id="15869">
+    <original>スタッフオブラディアンス</original>
+    <translation>Staff of Radiance</translation>
+  </item>
+  <item id="15870">
+    <original>スタッフオブラディアンス</original>
+    <translation>Staff of Radiance</translation>
+  </item>
+  <item id="15871">
+    <original>スタッフオブラディアンス</original>
+    <translation>Staff of Radiance</translation>
+  </item>
+  <item id="15872">
+    <original>スタッフオブラディアンス</original>
+    <translation>Staff of Radiance</translation>
   </item>
   <item id="15873">
     <original>錆びた大杖</original>
@@ -45327,6 +48633,26 @@
     <original>アリズンズアニヒレイター</original>
     <translation>Arisen's Annihilator</translation>
   </item>
+  <item id="15888">
+    <original>ワンズオブラディアンス</original>
+    <translation>Wand of Radiance</translation>
+  </item>
+  <item id="15889">
+    <original>ワンズオブラディアンス</original>
+    <translation>Wand of Radiance</translation>
+  </item>
+  <item id="15890">
+    <original>ワンズオブラディアンス</original>
+    <translation>Wand of Radiance</translation>
+  </item>
+  <item id="15891">
+    <original>ワンズオブラディアンス</original>
+    <translation>Wand of Radiance</translation>
+  </item>
+  <item id="15892">
+    <original>ワンズオブラディアンス</original>
+    <translation>Wand of Radiance</translation>
+  </item>
   <item id="15893">
     <original>錆びた精霊槍</original>
     <translation>Rusted Spirit Lance</translation>
@@ -45386,6 +48712,26 @@
   <item id="15907">
     <original>アリズンズペネトレイター</original>
     <translation>Arisen's Penetrator</translation>
+  </item>
+  <item id="15908">
+    <original>スピアオブラディアンス</original>
+    <translation>Spear of Radiance</translation>
+  </item>
+  <item id="15909">
+    <original>スピアオブラディアンス</original>
+    <translation>Spear of Radiance</translation>
+  </item>
+  <item id="15910">
+    <original>スピアオブラディアンス</original>
+    <translation>Spear of Radiance</translation>
+  </item>
+  <item id="15911">
+    <original>スピアオブラディアンス</original>
+    <translation>Spear of Radiance</translation>
+  </item>
+  <item id="15912">
+    <original>スピアオブラディアンス</original>
+    <translation>Spear of Radiance</translation>
   </item>
   <item id="15913">
     <original>刻みつけられた陶片</original>
@@ -45465,7 +48811,7 @@
   </item>
   <item id="15932">
     <original>フィンダム古文書</original>
-    <translation>Finderme Manuscript</translation>
+    <translation>Phindym Manuscript</translation>
   </item>
   <item id="15933">
     <original>巨大な鱗</original>
@@ -45486,6 +48832,14 @@
   <item id="15937">
     <original>エラン印記章</original>
     <translation>Elan Medal</translation>
+  </item>
+  <item id="15938">
+    <original>モロー印記章</original>
+    <translation>Morrow Medal</translation>
+  </item>
+  <item id="15939">
+    <original>キンガル印記章</original>
+    <translation>Kingal Medal</translation>
   </item>
   <item id="15940">
     <original>緑樹の希晶</original>
@@ -45607,6 +48961,128 @@
     <original>使者の忌み尾</original>
     <translation>Envoy's Loathsome Tail</translation>
   </item>
+  <item id="15975">
+    <original>厚い貝殻</original>
+  </item>
+  <item id="15976">
+    <original>巨大な貝化石</original>
+  </item>
+  <item id="15977">
+    <original>瘤だらけの枝</original>
+  </item>
+  <item id="15978">
+    <original>病み枝のリース</original>
+  </item>
+  <item id="15979">
+    <original>図入りの古布</original>
+  </item>
+  <item id="15980">
+    <original>スピリッツタペストリー</original>
+  </item>
+  <item id="15981">
+    <original>古代ソテツ</original>
+  </item>
+  <item id="15982">
+    <original>最古の緑葉</original>
+  </item>
+  <item id="15983">
+    <original>透明な粗砂</original>
+  </item>
+  <item id="15984">
+    <original>透き通る水砂</original>
+  </item>
+  <item id="15985">
+    <original>いびつな木の実</original>
+  </item>
+  <item id="15986">
+    <original>奇妙な新芽</original>
+  </item>
+  <item id="15987">
+    <original>漆黒の獣毛</original>
+  </item>
+  <item id="15988">
+    <original>侵食魔の骨片</original>
+  </item>
+  <item id="15989">
+    <original>小妖精の宝冠</original>
+  </item>
+  <item id="15990">
+    <original>サンクトサップ</original>
+  </item>
+  <item id="15991">
+    <original>怪しげな獣皮</original>
+  </item>
+  <item id="15992">
+    <original>肉が抜けた獣皮</original>
+  </item>
+  <item id="15993">
+    <original>結晶化した樹液</original>
+  </item>
+  <item id="15994">
+    <original>穢れの小羽根</original>
+  </item>
+  <item id="15995">
+    <original>グリフィンスピネル</original>
+    <translation>Griffin Spinel</translation>
+  </item>
+  <item id="15996">
+    <original>災厄を招く黒爪</original>
+  </item>
+  <item id="15997">
+    <original>大海の希晶</original>
+  </item>
+  <item id="15998">
+    <original>ブルーオパール</original>
+    <translation>Blue Opal</translation>
+  </item>
+  <item id="15999">
+    <original>蒼空のブルーオパール</original>
+  </item>
+  <item id="16000">
+    <original>竜空のブルーオパール</original>
+  </item>
+  <item id="16001">
+    <original>灰花岩</original>
+  </item>
+  <item id="16002">
+    <original>滑らかな白泥</original>
+  </item>
+  <item id="16003">
+    <original>モローラワン材</original>
+  </item>
+  <item id="16004">
+    <original>アダマス鉱</original>
+  </item>
+  <item id="16005">
+    <original>銀雪鋼のインゴット</original>
+  </item>
+  <item id="16006">
+    <original>エレメンタルレース</original>
+  </item>
+  <item id="16007">
+    <original>実影のスクロール</original>
+  </item>
+  <item id="16008">
+    <original>か細い大腿骨</original>
+  </item>
+  <item id="16009">
+    <original>護獣の緑毛</original>
+  </item>
+  <item id="16010">
+    <original>脈打つ心臓</original>
+  </item>
+  <item id="16011">
+    <original>海妖鳥の鳴管</original>
+  </item>
+  <item id="16012">
+    <original>千年苔</original>
+  </item>
+  <item id="16013">
+    <original>災厄の歪み角</original>
+  </item>
+  <item id="16014">
+    <original>滅びの鷲爪</original>
+  </item>
   <item id="16017">
     <original>戦徒の忠心</original>
     <translation>Soldier's Loyalty</translation>
@@ -45618,6 +49094,10 @@
   <item id="16019">
     <original>錆びた鉄塊</original>
     <translation>Rusty Iron Lump</translation>
+  </item>
+  <item id="16020">
+    <original>上級研磨剤</original>
+    <translation>Superior Abrasive</translation>
   </item>
   <item id="16029">
     <original>NPC用_wp306037</original>
@@ -45962,6 +49442,18 @@
     <original>装甲状の鱗</original>
     <translation>Armored Scale</translation>
   </item>
+  <item id="16118">
+    <original>漆黒の毛皮</original>
+  </item>
+  <item id="16119">
+    <original>蝕まれた背骨</original>
+  </item>
+  <item id="16120">
+    <original>結晶入りの小枝</original>
+  </item>
+  <item id="16121">
+    <original>穢れのグリフィンブラッド</original>
+  </item>
   <item id="16122">
     <original>覚者の部屋着・タイプ１</original>
     <translation>Arisen's Loungewear (Type 1)</translation>
@@ -45969,6 +49461,10 @@
   <item id="16123">
     <original>覚者の部屋着・タイプ２</original>
     <translation>Arisen's Loungewear (Type 2)</translation>
+  </item>
+  <item id="16124">
+    <original>覚者の部屋着・タイプ３</original>
+    <translation>Arisen's Loungewear (Type 3)</translation>
   </item>
   <item id="16125">
     <original>従者の部屋着・タイプ１</original>
@@ -45978,6 +49474,10 @@
     <original>従者の部屋着・タイプ２</original>
     <translation>Servant's Loungewear (Type 2)</translation>
   </item>
+  <item id="16127">
+    <original>従者の部屋着・タイプ３</original>
+    <translation>Servant's Loungewear (Type 3)</translation>
+  </item>
   <item id="16128">
     <original>従者の湯浴み着・タイプ１</original>
     <translation>Servant's Bathing Clothes (Type 1)</translation>
@@ -45986,6 +49486,10 @@
     <original>従者の湯浴み着・タイプ２</original>
     <translation>Servant's Bathing Clothes (Type 2)</translation>
   </item>
+  <item id="16130">
+    <original>従者の湯浴み着・タイプ３</original>
+    <translation>Servant's Bathing Clothes (Type 3)</translation>
+  </item>
   <item id="16131">
     <original>従者の寝巻き・タイプ１</original>
     <translation>Servant's Sleepwear (Type 1)</translation>
@@ -45993,6 +49497,10 @@
   <item id="16132">
     <original>従者の寝巻き・タイプ２</original>
     <translation>Servant's Sleepwear (Type 2)</translation>
+  </item>
+  <item id="16133">
+    <original>従者の寝巻き・タイプ３</original>
+    <translation>Servant's Sleepwear (Type 3)</translation>
   </item>
   <item id="16134">
     <original>ジュークボックス</original>
@@ -46122,6 +49630,10 @@
     <original>ルームライト・サンライズ</original>
     <translation>Room Light - Sunrise</translation>
   </item>
+  <item id="16169">
+    <original>ルームライト・オーシャン</original>
+    <translation>Room Light - Ocean</translation>
+  </item>
   <item id="16170">
     <original>エレガントなカーペット</original>
     <translation>Elegant Carpet</translation>
@@ -46130,9 +49642,24 @@
     <original>エキゾチックなカーペット</original>
     <translation>Exotic Carpet</translation>
   </item>
+  <item id="16172">
+    <original>ゴージャスなカーペット</original>
+    <translation>Gorgeous Carpet</translation>
+  </item>
+  <item id="16173">
+    <original>クラシックなカーペット</original>
+    <translation>Classic Carpet</translation>
+  </item>
+  <item id="16174">
+    <original>風格のある机</original>
+  </item>
   <item id="16175">
     <original>ダイニングテーブル・ローズ</original>
     <translation>Dining Table - Rose</translation>
+  </item>
+  <item id="16176">
+    <original>ダイニングテーブル・オーシャン</original>
+    <translation>Dining Table - Ocean</translation>
   </item>
   <item id="16177">
     <original>ダイニング・フラワーポット</original>
@@ -46158,9 +49685,15 @@
     <original>パペット・マンドラゴラ大</original>
     <translation>Puppet - Giant Mandragora</translation>
   </item>
+  <item id="16183">
+    <original>パペット・埋もれマンドラゴラ大</original>
+  </item>
   <item id="16184">
     <original>封印された樹晶</original>
     <translation>Sealed Crystal Tree</translation>
+  </item>
+  <item id="16185">
+    <original>解放された樹晶</original>
   </item>
   <item id="16186">
     <original>ムーディーランプ・ミント</original>
@@ -46170,13 +49703,25 @@
     <original>テーブル・ローズ</original>
     <translation>Table - Rose</translation>
   </item>
+  <item id="16188">
+    <original>テーブル・オーシャン</original>
+    <translation>Table - Ocean</translation>
+  </item>
   <item id="16190">
     <original>テーブル・フラワーポット</original>
     <translation>Table - Flower Pot</translation>
   </item>
+  <item id="16201">
+    <original>フィンダムブレスレット</original>
+    <translation>Phindym Bracelet</translation>
+  </item>
   <item id="16202">
     <original>ルームライト・サンライズ</original>
     <translation>Room Light - Sunrise</translation>
+  </item>
+  <item id="16203">
+    <original>ルームライト・オーシャン</original>
+    <translation>Room Light - Ocean</translation>
   </item>
   <item id="16204">
     <original>風格のある机</original>
@@ -46192,6 +49737,14 @@
   <item id="16207">
     <original>エキゾチックなカーペット</original>
     <translation>Exotic Carpet</translation>
+  </item>
+  <item id="16208">
+    <original>ゴージャスなカーペット</original>
+    <translation>Gorgeous Carpet</translation>
+  </item>
+  <item id="16209">
+    <original>クラシックなカーペット</original>
+    <translation>Classic Carpet</translation>
   </item>
   <item id="16210">
     <original>ダイニングテーブル・ローズ</original>
@@ -46229,6 +49782,10 @@
     <original>テーブル・ローズ</original>
     <translation>Table - Rose</translation>
   </item>
+  <item id="16219">
+    <original>テーブル・オーシャン</original>
+    <translation>Table - Ocean</translation>
+  </item>
   <item id="16220">
     <original>テーブル・フラワーポット</original>
     <translation>Table - Flower Pot</translation>
@@ -46236,6 +49793,9 @@
   <item id="16221">
     <original>封印された樹晶</original>
     <translation>Sealed Crystal Tree</translation>
+  </item>
+  <item id="16222">
+    <original>解放された樹晶</original>
   </item>
   <item id="16223">
     <original>覚者の部屋着・タイプ１</original>
@@ -46245,6 +49805,10 @@
     <original>覚者の部屋着・タイプ２</original>
     <translation>Arisen's Loungewear (Type 2)</translation>
   </item>
+  <item id="16225">
+    <original>覚者の部屋着・タイプ３</original>
+    <translation>Arisen's Loungewear (Type 3)</translation>
+  </item>
   <item id="16226">
     <original>従者の部屋着・タイプ１</original>
     <translation>Servant's Loungewear (Type 1)</translation>
@@ -46252,6 +49816,10 @@
   <item id="16227">
     <original>従者の部屋着・タイプ２</original>
     <translation>Servant's Loungewear (Type 2)</translation>
+  </item>
+  <item id="16228">
+    <original>従者の部屋着・タイプ３</original>
+    <translation>Servant's Loungewear (Type 3)</translation>
   </item>
   <item id="16229">
     <original>従者の湯浴み着・タイプ１</original>
@@ -46261,6 +49829,10 @@
     <original>従者の湯浴み着・タイプ２</original>
     <translation>Servant's Bathing Clothes (Type 2)</translation>
   </item>
+  <item id="16231">
+    <original>従者の湯浴み着・タイプ３</original>
+    <translation>Servant's Bathing Clothes (Type 3)</translation>
+  </item>
   <item id="16232">
     <original>従者の寝巻き・タイプ１</original>
     <translation>Servant's Sleepwear (Type 1)</translation>
@@ -46269,9 +49841,16 @@
     <original>従者の寝巻き・タイプ２</original>
     <translation>Servant's Sleepwear (Type 2)</translation>
   </item>
+  <item id="16234">
+    <original>従者の寝巻き・タイプ３</original>
+    <translation>Servant's Sleepwear (Type 3)</translation>
+  </item>
   <item id="16235">
     <original>パペット・マンドラゴラ大</original>
     <translation>Puppet - Giant Mandragora</translation>
+  </item>
+  <item id="16236">
+    <original>パペット・埋もれマンドラゴラ大</original>
   </item>
   <item id="16237">
     <original>会話5</original>
@@ -47173,6 +50752,12 @@
   <item id="16464">
     <original>AB習得_強附</original>
   </item>
+  <item id="16465">
+    <original>AB習得_槍舞 破</original>
+  </item>
+  <item id="16466">
+    <original>AB習得_霊蓄</original>
+  </item>
   <item id="16470">
     <original>スキル習得_範囲支援</original>
   </item>
@@ -47291,41 +50876,71 @@
     <original>猛炎のスケイルソード</original>
     <translation>Roaring Blaze Scale Sword</translation>
   </item>
+  <item id="16503">
+    <original>破光のタイラントソード</original>
+  </item>
   <item id="16504">
     <original>猛炎のスケイルブレード</original>
     <translation>Roaring Blaze Scale Blade</translation>
+  </item>
+  <item id="16505">
+    <original>破光のタイラントブレード</original>
   </item>
   <item id="16506">
     <original>猛炎のスケイルガード</original>
     <translation>Roaring Blaze Scale Guard</translation>
   </item>
+  <item id="16507">
+    <original>破光のタイラントガード</original>
+  </item>
   <item id="16508">
     <original>猛炎のスケイルダガー</original>
     <translation>Roaring Blaze Scale Daggers</translation>
+  </item>
+  <item id="16509">
+    <original>破光のタイラントダガー</original>
   </item>
   <item id="16510">
     <original>猛炎のスケイルボウ</original>
     <translation>Roaring Blaze Scale Bow</translation>
   </item>
+  <item id="16511">
+    <original>破光のタイラントボウ</original>
+  </item>
   <item id="16512">
     <original>猛炎のスケイルハンズ</original>
     <translation>Roaring Blaze Scale Hands</translation>
+  </item>
+  <item id="16513">
+    <original>破光のタイラントハンズ</original>
   </item>
   <item id="16514">
     <original>猛炎のスケイルシューター</original>
     <translation>Roaring Blaze Scale Shooter</translation>
   </item>
+  <item id="16515">
+    <original>破光のタイラントスペル</original>
+  </item>
   <item id="16516">
     <original>猛炎のスケイルスタッフ</original>
     <translation>Roaring Blaze Scale Staff</translation>
+  </item>
+  <item id="16517">
+    <original>破光のタイラントスタッフ</original>
   </item>
   <item id="16518">
     <original>猛炎のスケイルワンズ</original>
     <translation>Roaring Blaze Scale Wand</translation>
   </item>
+  <item id="16519">
+    <original>破光のタイラントワンズ</original>
+  </item>
   <item id="16520">
     <original>猛炎のスケイルスピア</original>
     <translation>Roaring Blaze Scale Spear</translation>
+  </item>
+  <item id="16521">
+    <original>破光のタイラントスピア</original>
   </item>
   <item id="16522">
     <original>精霊の火種</original>
@@ -47759,6 +51374,21 @@
     <original>無の刻印</original>
     <translation>No Engraving</translation>
   </item>
+  <item id="16633">
+    <original>オーフリングソード【碧】</original>
+  </item>
+  <item id="16634">
+    <original>オーフリングソード【碧】</original>
+  </item>
+  <item id="16635">
+    <original>オーフリングソード【碧】</original>
+  </item>
+  <item id="16636">
+    <original>オーフリングソード【碧】</original>
+  </item>
+  <item id="16637">
+    <original>オーフリングソード【碧】</original>
+  </item>
   <item id="16638">
     <original>オーフリングソード改【天】</original>
     <translation>Olfring Sword+ (Heaven)</translation>
@@ -47778,6 +51408,41 @@
   <item id="16642">
     <original>オーフリングソード改【天】</original>
     <translation>Olfring Sword+ (Heaven)</translation>
+  </item>
+  <item id="16643">
+    <original>セレモニアルソード改【天】</original>
+    <translation>Ceremonial Daggers+ (Heaven)</translation>
+  </item>
+  <item id="16644">
+    <original>セレモニアルソード改【天】</original>
+    <translation>Ceremonial Daggers+ (Heaven)</translation>
+  </item>
+  <item id="16645">
+    <original>セレモニアルソード改【天】</original>
+    <translation>Ceremonial Daggers+ (Heaven)</translation>
+  </item>
+  <item id="16646">
+    <original>セレモニアルソード改【天】</original>
+    <translation>Ceremonial Daggers+ (Heaven)</translation>
+  </item>
+  <item id="16647">
+    <original>セレモニアルソード改【天】</original>
+    <translation>Ceremonial Daggers+ (Heaven)</translation>
+  </item>
+  <item id="16648">
+    <original>オーフリングシェル【碧】</original>
+  </item>
+  <item id="16649">
+    <original>オーフリングシェル【碧】</original>
+  </item>
+  <item id="16650">
+    <original>オーフリングシェル【碧】</original>
+  </item>
+  <item id="16651">
+    <original>オーフリングシェル【碧】</original>
+  </item>
+  <item id="16652">
+    <original>オーフリングシェル【碧】</original>
   </item>
   <item id="16653">
     <original>オーフリングシェル改【天】</original>
@@ -47799,6 +51464,26 @@
     <original>オーフリングシェル改【天】</original>
     <translation>Olfring Shell+ (Heaven)</translation>
   </item>
+  <item id="16658">
+    <original>セレモニアルシェル改【天】</original>
+    <translation>Ceremonial Shell+ (Heaven)</translation>
+  </item>
+  <item id="16659">
+    <original>セレモニアルシェル改【天】</original>
+    <translation>Ceremonial Shell+ (Heaven)</translation>
+  </item>
+  <item id="16660">
+    <original>セレモニアルシェル改【天】</original>
+    <translation>Ceremonial Shell+ (Heaven)</translation>
+  </item>
+  <item id="16661">
+    <original>セレモニアルシェル改【天】</original>
+    <translation>Ceremonial Shell+ (Heaven)</translation>
+  </item>
+  <item id="16662">
+    <original>セレモニアルシェル改【天】</original>
+    <translation>Ceremonial Shell+ (Heaven)</translation>
+  </item>
   <item id="16663">
     <original>オーフリングガード改【紅】</original>
     <translation>Olfring Guard+ (Red)</translation>
@@ -47818,6 +51503,26 @@
   <item id="16667">
     <original>オーフリングガード改【紅】</original>
     <translation>Olfring Guard+ (Red)</translation>
+  </item>
+  <item id="16668">
+    <original>セレモニアルガード改【紅】</original>
+    <translation>Ceremonial Guard+ (Red)</translation>
+  </item>
+  <item id="16669">
+    <original>セレモニアルガード改【紅】</original>
+    <translation>Ceremonial Guard+ (Red)</translation>
+  </item>
+  <item id="16670">
+    <original>セレモニアルガード改【紅】</original>
+    <translation>Ceremonial Guard+ (Red)</translation>
+  </item>
+  <item id="16671">
+    <original>セレモニアルガード改【紅】</original>
+    <translation>Ceremonial Guard+ (Red)</translation>
+  </item>
+  <item id="16672">
+    <original>セレモニアルガード改【紅】</original>
+    <translation>Ceremonial Guard+ (Red)</translation>
   </item>
   <item id="16673">
     <original>オーフリングロッド改【紅】</original>
@@ -47839,6 +51544,26 @@
     <original>オーフリングロッド改【紅】</original>
     <translation>Olfring Rod+ (Red)</translation>
   </item>
+  <item id="16678">
+    <original>セレモニアルロッド改【紅】</original>
+    <translation>Ceremonial Rod+ (Red)</translation>
+  </item>
+  <item id="16679">
+    <original>セレモニアルロッド改【紅】</original>
+    <translation>Ceremonial Rod+ (Red)</translation>
+  </item>
+  <item id="16680">
+    <original>セレモニアルロッド改【紅】</original>
+    <translation>Ceremonial Rod+ (Red)</translation>
+  </item>
+  <item id="16681">
+    <original>セレモニアルロッド改【紅】</original>
+    <translation>Ceremonial Rod+ (Red)</translation>
+  </item>
+  <item id="16682">
+    <original>セレモニアルロッド改【紅】</original>
+    <translation>Ceremonial Rod+ (Red)</translation>
+  </item>
   <item id="16683">
     <original>オーフリングボウ改【地】</original>
     <translation>Olfring Bow+ (Earth)</translation>
@@ -47859,21 +51584,59 @@
     <original>オーフリングボウ改【地】</original>
     <translation>Olfring Bow+ (Earth)</translation>
   </item>
+  <item id="16688">
+    <original>セレモニアルボウ改【地】</original>
+    <translation>Ceremonial Bow+ (Earth)</translation>
+  </item>
+  <item id="16689">
+    <original>セレモニアルボウ改【地】</original>
+    <translation>Ceremonial Bow+ (Earth)</translation>
+  </item>
+  <item id="16690">
+    <original>セレモニアルボウ改【地】</original>
+    <translation>Ceremonial Bow+ (Earth)</translation>
+  </item>
+  <item id="16691">
+    <original>セレモニアルボウ改【地】</original>
+    <translation>Ceremonial Bow+ (Earth)</translation>
+  </item>
+  <item id="16692">
+    <original>セレモニアルボウ改【地】</original>
+    <translation>Ceremonial Bow+ (Earth)</translation>
+  </item>
+  <item id="16693">
+    <original>オーフリングケイン【碧】</original>
+  </item>
+  <item id="16694">
+    <original>オーフリングケイン【碧】</original>
+  </item>
+  <item id="16695">
+    <original>オーフリングケイン【碧】</original>
+  </item>
+  <item id="16696">
+    <original>オーフリングケイン【碧】</original>
+  </item>
+  <item id="16697">
+    <original>オーフリングケイン【碧】</original>
+  </item>
+  <item id="16698">
+    <original>黒騎士の思念</original>
+  </item>
   <item id="16699">
     <original>延臨 LV.3</original>
-    <translation>延臨 LV.3</translation>
+    <translation>Extension LV.3</translation>
   </item>
   <item id="16700">
     <original>延臨 LV.4</original>
-    <translation>延臨 LV.4</translation>
+    <translation>Extension LV.4</translation>
   </item>
   <item id="16701">
     <original>延臨 LV.5</original>
-    <translation>延臨 LV.5</translation>
+    <translation>Extension LV.5</translation>
   </item>
   <item id="16702">
     <original>延臨 LV.6</original>
-    <translation>延臨 LV.6</translation>
+    <translation>Extension LV.6</translation>
   </item>
   <item id="16703">
     <original>避活 LV.3</original>
@@ -47909,19 +51672,19 @@
   </item>
   <item id="16711">
     <original>臨堅 LV.3</original>
-    <translation>臨堅 LV.3</translation>
+    <translation>Critical LV.3</translation>
   </item>
   <item id="16712">
     <original>臨堅 LV.4</original>
-    <translation>臨堅 LV.4</translation>
+    <translation>Critical LV.4</translation>
   </item>
   <item id="16713">
     <original>臨堅 LV.5</original>
-    <translation>臨堅 LV.5</translation>
+    <translation>Critical LV.5</translation>
   </item>
   <item id="16714">
     <original>臨堅 LV.6</original>
-    <translation>臨堅 LV.6</translation>
+    <translation>Critical LV.6</translation>
   </item>
   <item id="16715">
     <original>避霊 LV.3</original>
@@ -48242,6 +52005,12 @@
   </item>
   <item id="16832">
     <original>経験値(結晶)</original>
+  </item>
+  <item id="16833">
+    <original>銀の宝珠認証</original>
+  </item>
+  <item id="16834">
+    <original>金の宝珠認証</original>
   </item>
   <item id="16859">
     <original>異彩を放つ錆びた片手剣</original>
@@ -49058,5 +52827,8 @@
   <item id="17108">
     <original>特製チョコレート</original>
     <translation>Special Chocolate</translation>
+  </item>
+  <item id="17154">
+    <original>老甲晶のリング</original>
   </item>
 </item_data>

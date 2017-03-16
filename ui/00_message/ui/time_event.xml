@@ -12,6 +12,7 @@
   <message>
     <key>time_event_msg_01</key>
     <original>項目はありません</original>
+    <translation>There are no items</translation>
   </message>
   <message>
     <key>time_event_msg_02</key>

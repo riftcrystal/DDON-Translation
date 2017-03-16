@@ -265,8 +265,8 @@
   </message>
   <message>
     <key>QUEST_MSG_ACCIDENTAL</key>
-    <original>エリアボーナス発生中！</original>
-    <translation>Area bonus currently active!</translation>
+    <original>ボードボーナス発生中！</original>
+    <translation>Board bonus is active!</translation>
   </message>
   <message>
     <key>QUEST_MSG_PROGRESS_CONDITION</key>
@@ -466,8 +466,8 @@
   </message>
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>
-    <original>＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</original>
-    <translation>"&lt;VAL&gt;" Board Quest reward increased by x&lt;VAL&gt;!</translation>
+    <original>ボードボーナスでクリア時の報酬が最大&lt;VAL&gt;倍！</original>
+    <translation>Clear reward increased by x&lt;VAL&gt; with board bonus!</translation>
   </message>
   <message>
     <key>QUEST_MSG_LEADER_PROGRESS</key>

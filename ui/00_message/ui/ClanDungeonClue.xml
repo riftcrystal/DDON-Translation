@@ -1,0 +1,17 @@
+﻿<resource>
+  <message>
+    <key>clue_list</key>
+    <original>手がかり一覧</original>
+  </message>
+  <message>
+    <key>about_clue_detail</key>
+    <original>発見した探検家の軌跡は
+書棚にしまっておくように致します
+この棚に古い書物が戻る度
+宝殿への道が拓かれることでしょう　</original>
+  </message>
+  <message>
+    <key>about_clue</key>
+    <original>探検の書棚について</original>
+  </message>
+</resource>

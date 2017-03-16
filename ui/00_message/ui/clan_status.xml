@@ -114,7 +114,7 @@
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_CHECK_CLANAP</key>
     <original>累計ポイントの確認</original>
-    <translation>Confirm total points</translation>
+    <translation>Check Total Points</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN</key>

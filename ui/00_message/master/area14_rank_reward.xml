@@ -54,4 +54,29 @@ New collectable item "Elana Water" appears</translation>
     <original>支援品の向上</original>
     <translation>Support goods rank up</translation>
   </message>
+  <message>
+    <key>AREA_RANK_REWARD_271</key>
+    <original>新たな強敵が出現《&lt;SPOT 933&gt;》
+封鎖エリアが開放《&lt;SPOT 890&gt;》</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_272</key>
+    <original>新たな強敵が出現《&lt;SPOT 934&gt;》
+封鎖交通路が復旧《エラン大門》</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_273</key>
+    <original>封鎖エリアの開放《&lt;SPOT 891&gt;》</original>
+    <translation>Unblock area "&lt;SPOT 891&gt;"</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_274</key>
+    <original>新たな強敵が出現《&lt;SPOT 935&gt;》</original>
+    <translation>New powerful enemy at "&lt;SPOT 935&gt;"</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_275</key>
+    <original>支援品の向上</original>
+    <translation>Support goods rank up</translation>
+  </message>
 </resource>

@@ -6,6 +6,11 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>聖域</original>
+    <translation>Sanctuary</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>ダナ</original>
     <translation>Dana</translation>
   </message>
@@ -13,6 +18,19 @@
     <key>SPOT_NAME_</key>
     <original>武霊の庵</original>
     <translation>Spirit Arts Hut</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>マヌンの集落</original>
+    <translation>Manun Village</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>始まりの洞　集いの間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>始まりの洞</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -40,6 +58,14 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>大翼の谷</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ファーラナ中央洲</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>ダナウィンの挑堂</original>
   </message>
   <message>
@@ -56,5 +82,31 @@
     <key>SPOT_NAME_</key>
     <original>マグサス古水路</original>
     <translation>Magusas Ancient Watercourse</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ヴェイガサス回廊</original>
+    <translation>Vegasa Corridor</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>ヴァルテブル・ホール</original>
+    <translation>Valtable Hall</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>タラーテ集水路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>精霊竜のねぐら</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>聖河の遺跡</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>知恵の小塔</original>
   </message>
 </resource>

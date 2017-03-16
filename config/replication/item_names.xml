@@ -195,6 +195,11 @@
       <translation_replace>True {0}</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+)$</original_match>
+      <translation_replace>{0}</translation_replace>
+      <translation_arg message_set="arisen card background name" required="true" />
+    </rewrite>
     <!-- Crest defaults -->
     <rewrite soft="true">
       <original_match>^(.+?)のクレスト【(.+?)】\s*$</original_match>

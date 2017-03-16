@@ -1,0 +1,60 @@
+﻿<resource>
+  <message>
+    <key>q21016022_00_628</key>
+    <original>【高難度】再来の緑魔</original>
+    <translation>High Difficulty: 再来の緑魔</translation>
+  </message>
+  <message>
+    <key>q21016022_00_628</key>
+    <original>【連続討伐クエスト】
+エリアマスターの願いを聞き入れ
+ダンジョン付近にて起きている問題を調査する</original>
+  </message>
+  <message>
+    <key>q21016022_00_628</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターが
+ダンジョン付近の不穏な空気を警戒しているようだ</original>
+  </message>
+  <message>
+    <key>q21016022_00_628</key>
+    <original>せっかく汚染源を退治しても
+聖域をまた汚染されれば意味の無いこと
+残っている侵食魔たちがあの地へ侵入しないよう
+護るのが、今この村にとって重要なことです</original>
+  </message>
+  <message>
+    <key>q21016022_00_1161</key>
+    <original>指定された場所を調べる</original>
+    <translation>Investigate the specified location</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1162</key>
+    <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1163</key>
+    <original>指定されたダンジョン内を捜索する</original>
+    <translation>Search within the specified dungeon</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1164</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り３）</original>
+    <translation>Defeat the monsters at locations in the dungeon (3 left)</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1184</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り２）</original>
+    <translation>Defeat the monsters at locations in the dungeon (2 left)</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1185</key>
+    <original>ダンジョン内の各所の魔物を討伐する（残り１）</original>
+    <translation>Defeat the monsters at locations in the dungeon (1 left)</translation>
+  </message>
+  <message>
+    <key>q21016022_00_1165</key>
+    <original>エリアマスターに経緯を報告する</original>
+    <translation>Report to the Area Master</translation>
+  </message>
+</resource>

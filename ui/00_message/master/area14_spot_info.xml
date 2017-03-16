@@ -68,6 +68,27 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
+    <original>《旧船頭寄合所》の周辺、木々に囲まれた川辺
+美しい木漏れ日が差す中、エランの美しい川や
+流れ落ちる滝を眺めることができる</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original>エラン水林とファーラナ平原を繋ぐ
+経路上にある大きな門。以前は簡単な
+検問所を備え、エラン水林へ立ち入る
+旅人の数を管理していた</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original>《エラン大門》の門前広場
+大門が閉ざされるまでは、この場は
+商人や旅人で賑わっていた
+簡単な造りの店舗もいくつかあったが
+いまや骨組を残すばかりである</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
     <original>モロー樹林地域とエラン水林地域を跨ぐ洞窟
 距離としてはそう長い洞窟ではないが
 野狼が潜んでいることが多いため
@@ -95,5 +116,21 @@
 鍾乳洞。入り組んだ構造から奥へ進む者は
 おらず、どのような魔物が巣食っているのかは
 謎に包まれたままとなっている </original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original>&lt;COL ffdc78&gt;【昌石】の扉あり&lt;/COL&gt;
+元は船頭たちが休憩所として使っていた洞窟
+居心地が良く、動物も訪れる癒しの場であったが
+それゆえに獲物を求めた魔物に狙われることとなり
+現在は魔物に乗っ取られた状態にある</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original>中規模の採石場として使われていた洞窟
+魔物が侵入し、作業中の人員が襲われるという
+悲劇が起きた。命からがら逃げだした者はすぐに
+洞窟を封鎖したが、その時まだ中からは助けを
+求める声が響いていたという</original>
   </message>
 </resource>

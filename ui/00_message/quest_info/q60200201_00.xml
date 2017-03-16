@@ -1,45 +1,45 @@
 ﻿<resource>
   <message>
     <key>q60200201_00_195</key>
-    <original>サブシナリオ＜メイリーフ＞</original>
+    <original>メイリーフと小鳥の報せ</original>
   </message>
   <message>
     <key>q60200201_00_195</key>
-    <original>メイリーフのお願いをきく（仮）</original>
+    <original>メイリーフと会い相談ごとを聞く</original>
   </message>
   <message>
     <key>q60200201_00_2696</key>
-    <original>メイリーフの所へ行く</original>
+    <original>メイリーフと会い話を聞く</original>
   </message>
   <message>
     <key>q60200201_00_2697</key>
-    <original>ディナン深層林の＜聖樹のテラス＞へ向かう</original>
+    <original>南方のディナン深層林＜聖樹のテラス＞へ向かう</original>
   </message>
   <message>
     <key>q60200201_00_2698</key>
-    <original>森の様子を内を調査する</original>
+    <original>聖域のテラス内を調査する</original>
   </message>
   <message>
     <key>q60200201_00_2699</key>
-    <original>遭遇した敵を殲滅する</original>
+    <original>遭遇した魔物を倒す</original>
     <translation>Defeat the enemy encountered</translation>
   </message>
   <message>
     <key>q60200201_00_2700</key>
-    <original>＜秘弓術士の家＞でリズと合流する</original>
+    <original>＜秘弓士の住居＞でリズと合流する</original>
   </message>
   <message>
     <key>q60200201_00_2701</key>
-    <original>ロンドジールと話をする</original>
-    <translation>Speak to Rondejeel</translation>
+    <original>ロンドジールと話す</original>
+    <translation>Speak with Rondejeel</translation>
   </message>
   <message>
     <key>q60200201_00_2702</key>
-    <original>＜エルテ・ディナン＞へ行く</original>
+    <original>＜エルテ・ディナン＞へ向かう</original>
   </message>
   <message>
     <key>q60200201_00_2703</key>
-    <original>ダンジョン内を調査する</original>
+    <original>エルテ・ディナン内を調査する</original>
   </message>
   <message>
     <key>q60200201_00_2704</key>
@@ -61,11 +61,11 @@
   </message>
   <message>
     <key>q60200201_00_2706</key>
-    <original>モゴックと部下たちを倒す</original>
+    <original>モゴックとその部下たちを倒す</original>
   </message>
   <message>
     <key>q60200201_00_2707</key>
-    <original>謁見の間のジョゼフに報告する</original>
-    <translation>Report to Joseph in Audience Chamber</translation>
+    <original>謁見の間に戻りジョゼフに報告する</original>
+    <translation>Return to Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

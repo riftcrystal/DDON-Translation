@@ -257,7 +257,7 @@
   </message>
   <message>
     <original>ああ、よく来たね！
-あんたがタラスクと退治してくれたおかげで
+あんたがタラスクを退治してくれたおかげで
 地鳴りも聞こえなくなったよ！</original>
   </message>
   <message>
@@ -270,6 +270,140 @@
 このダナのならわしだよ！
 支援品を格上げしておいたから
 またいつでもダナに顔見せにきとくれ！</original>
+  </message>
+  <message>
+    <original>また困ったことが起きたよ――
+こんなに問題が起きるなんて
+一体フィンダムはどうしちまったのかね</original>
+  </message>
+  <message>
+    <original>実は、また地鳴りがするようになったんだ
+あんたにタラスクを退治してもらったはずなのに
+おかしいだろ？</original>
+  </message>
+  <message>
+    <original>あの地鳴り――タラスクのものじゃなかったのかねぇ
+もうあたしらには見当もつかないよ</original>
+  </message>
+  <message>
+    <original>――このファーラナ平原のはずれ
+《&lt;SPOT 904&gt;》に、異文化を持った村があるんだ
+そこの住人なら何かを知っているかも――</original>
+  </message>
+  <message>
+    <original>でも、あそこの住人、どうもダナの人間が
+嫌いみたいで交流が難しいんだよねぇ――</original>
+  </message>
+  <message>
+    <original>ねぇ、もしよかったらあんたが探りを
+入れてきてくれないかい？
+通りかかったらでいいからさ</original>
+  </message>
+  <message>
+    <original>ああ――そういえば、あんた
+《マヌンの集落》に顔出してくれたんだろ？</original>
+  </message>
+  <message>
+    <original>あそこの長老のエナン――とか
+いう人から手紙が届いたんだ</original>
+  </message>
+  <message>
+    <original>なんでも
+「信頼に値する相手だと証明してくれ」
+「そのために《&lt;SPOT 861&gt;》
+　の魔物を倒してくれ」ってことらしいよ</original>
+  </message>
+  <message>
+    <original>要するに、武勇を見せろってことさ――
+マヌンの住人たちって、もしかしたら
+あたしらと似た文化を持ってるのかもね</original>
+  </message>
+  <message>
+    <original>まぁ、とにかくそういうことなんだ
+彼らに“信頼に値する相手”だって証明するため
+魔物退治に行ってくれる気になったら
+また声かけておくれよ</original>
+  </message>
+  <message>
+    <original>そうそう、あんたが
+《マヌンの集落》のエナン爺さんに
+聞いてきてくれた《知恵の小塔》なんだけどさ</original>
+  </message>
+  <message>
+    <original>なんでも、あそこに収められた昔の本に
+今度こそ手がかりがあるかもっていうから
+封鎖を解くことにしたんだ</original>
+  </message>
+  <message>
+    <original>今、手の空いてる子たちに
+本を漁らせてるところさ</original>
+  </message>
+  <message>
+    <original>古臭い本以外にも色々ありそうだから
+あんたも入りたかったら入っていいよ
+何か見つけたら、好きに持って帰りな</original>
+  </message>
+  <message>
+    <original>まぁ、わかってるとは思うけど
+本の持ち出しは禁止させてもらうけどね</original>
+  </message>
+  <message>
+    <original>ああ！
+何だってあんたはいつも
+村が危ないって時に来てくれるんだろうね？</original>
+  </message>
+  <message>
+    <original>実は今、大変なのさ
+タラスクみたいな巨大な動くものを
+見たって報告があってね――</original>
+  </message>
+  <message>
+    <original>最悪、すぐにでも村ごと別の場所へ
+移動しなけりゃ踏み潰されちまうかもしれない
+そうなったら、あんたにも
+手を貸してもらうかも――</original>
+  </message>
+  <message>
+    <original>とにかく今は情報を集めることで
+手一杯なんだ
+何か用があるなら、改めて話しかけてもらえるかい</original>
+  </message>
+  <message>
+    <original>あんたのお陰で地鳴りも止んで
+平和な生活が戻ってきたよ
+ずいぶん世話になったね！</original>
+  </message>
+  <message>
+    <original>まだまだ侵食魔はウロウロしちゃいるけど
+ダナは戦士の村だ
+そこら辺にいる侵食魔くらい、痛くもかゆくもないさ</original>
+  </message>
+  <message>
+    <original>侵食と地鳴り――
+二つの厄介ごとを抱えてたこの村に
+手を貸してくれてありがとう</original>
+  </message>
+  <message>
+    <original>これほど力を貸してもらったんだ
+エリアマスターとして
+それからダナの族長ピサルの女房として
+あんたには十分なお礼をしなきゃならない</original>
+  </message>
+  <message>
+    <original>とりあえず、あんたへの支給品に
+より一層良いものを揃えるってことは
+決まってるんだけど――</original>
+  </message>
+  <message>
+    <original>それ以外に、どんなお礼をしようか
+迷ってるところなんだよ
+何せ、この恩を返せるようなお礼なんて
+中々思い浮かばないもんだからさ！</original>
+  </message>
+  <message>
+    <original>まぁ、これからもダナには寄るんだろ？
+勇敢な戦士として、いつでも迎えるからさ
+お礼についても追々考えていくことにしようか――</original>
   </message>
   <message>
     <original>あんた、覚者ってなら竜のために戦うんだろ？

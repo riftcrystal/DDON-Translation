@@ -1762,4 +1762,16 @@ Are you sure you want to exit configuration?</translation>
     <original>変更前に戻す</original>
     <translation>Revert</translation>
   </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPECHANGE</key>
+    <original>自動拡大の操作で、&lt;KCTP DASH&gt;の優先行動</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE1</key>
+    <original>ダッシュ</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2</key>
+    <original>オートラン</original>
+  </message>
 </resource>

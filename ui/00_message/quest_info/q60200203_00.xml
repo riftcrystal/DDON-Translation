@@ -1,11 +1,11 @@
 ﻿<resource>
   <message>
     <key>q60200203_00_197</key>
-    <original>サブシナリオ＜ヴァネッサとレオとファビオ＞</original>
+    <original>レオの遺せし物</original>
   </message>
   <message>
     <key>q60200203_00_197</key>
-    <original>ファビオのお願いをきく（仮）</original>
+    <original>ファビオと会い相談ごとを聞く</original>
   </message>
   <message>
     <key>q60200203_00_2718</key>
@@ -13,11 +13,11 @@
   </message>
   <message>
     <key>q60200203_00_2719</key>
-    <original>ヴァネッサの所に行く</original>
+    <original>ヴァネッサの元へ向かう</original>
   </message>
   <message>
     <key>q60200203_00_2720</key>
-    <original>ダウ渓谷の＜レオのアジト＞で調査をする</original>
+    <original>ダウ渓谷の＜レオのアジト＞を調査する</original>
   </message>
   <message>
     <key>q60200203_00_2721</key>
@@ -29,7 +29,7 @@
   </message>
   <message>
     <key>q60200203_00_2723</key>
-    <original>地図に記された場所向かう</original>
+    <original>地図に記された場所へ向かう</original>
   </message>
   <message>
     <key>q60200203_00_2724</key>
@@ -37,7 +37,7 @@
   </message>
   <message>
     <key>q60200203_00_2725</key>
-    <original>ダンジョンの内部を調べる</original>
+    <original>風鳴り洞窟内を調査する</original>
   </message>
   <message>
     <key>q60200203_00_2726</key>
@@ -45,7 +45,7 @@
   </message>
   <message>
     <key>q60200203_00_2727</key>
-    <original>レオの残した手がかりを探す</original>
+    <original>レオの残した手掛かりを探す</original>
   </message>
   <message>
     <key>q60200203_00_2717</key>

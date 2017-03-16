@@ -68,4 +68,8 @@
     <original>Dragon's Dogma Online で撮影したスクリーンショットです</original>
     <translation>Screenshot taken by Dragon's Dogma Online</translation>
   </message>
+  <message>
+    <key>photo_guide_lookcamera</key>
+    <original>注目</original>
+  </message>
 </resource>

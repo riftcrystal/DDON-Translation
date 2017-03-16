@@ -1,0 +1,88 @@
+﻿<resource>
+  <message>
+    <original>異国の――いえ、覚者様
+美しく澄んだ水が流れる川も
+このエランの特色の一つということは
+もうご存じかと思います</original>
+  </message>
+  <message>
+    <original>この美しい川の底で磨かれた
+《&lt;ITEM 16002&gt;》はエランの特産品です
+おそらく、覚者様の従者ならばお役に立つ形に
+造り変えることもできるかと――</original>
+  </message>
+  <message>
+    <original>もしご興味がありましたら
+明け方の＜4時から7時＞の間に、お仲間をこの
+庵内に集めて、再度お声掛けください
+詳細なご説明をいたしましょう</original>
+  </message>
+  <message>
+    <original>エランの美しい川の底で磨かれた
+《&lt;ITEM 16002&gt;》はエランの特産品です
+おそらく、覚者様の従者ならばお役に立つ形に
+造り変えることもできるかと――</original>
+  </message>
+  <message>
+    <original>もしご興味がおありなら、
+特にそれが多く見られる＜4時から7時＞の間に
+お仲間をこの庵内に集めて再度お声掛けください
+詳細なご説明を致しましょう</original>
+  </message>
+  <message>
+    <original>全員お揃いのようですね
+それでは、お話いたしましょう</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 16002&gt;》は主に川底で
+発生するものなのですが、川に入る獣や魔物に
+付着して運ばれたりといった経緯で
+エラン全域で発見されるのです</original>
+  </message>
+  <message>
+    <original>そして、どうやら夜間に川に入る
+獣たちが体から水や泥を落としながら
+巣に戻るのがちょうど明け方の様子――</original>
+  </message>
+  <message>
+    <original>つまり、明け方の＜4時から7時＞の間が
+最も多くの地点から採取できるようですの
+その時を過ぎれば乾き、採取数は減ってしまうはず
+時間にはどうぞ、お気を付け下さい</original>
+  </message>
+  <message>
+    <original>もし大量に採取することができたら、
+成分の研究に使用する分として
+＜5＞つほど分けていただければ幸いですわ
+それでは、いってらっしゃいませ</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 16002&gt;》は明け方の
+＜4時から7時＞の間に最も多くの地点から
+採取することができます</original>
+  </message>
+  <message>
+    <original>もし大量に採取することができましたら
+成分の研究に使用したいので――
+＜5＞つほど分けていただければ幸いですわ
+それでは、いってらっしゃいませ</original>
+  </message>
+  <message>
+    <original>まぁ――随分とたくさん採取されたのですね
+粒子がきめ細かな質の良い泥ですから
+きっと従者様が使いやすく加工して
+くださるはずですわ</original>
+  </message>
+  <message>
+    <original>エランで採れたものが覚者様のお役に立てば
+わたしもとっても嬉しく思います――</original>
+  </message>
+  <message>
+    <original>&lt;AREA 14&gt;フィールドの《&lt;ITEM 16002&gt;》を採取できる採取ポイントの数が増えました
+＜4時から7時＞の間にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜4時から7時＞の時間が終了したため、&lt;AREA 14&gt;フィールドの《&lt;ITEM 16002&gt;》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう</original>
+  </message>
+</resource>

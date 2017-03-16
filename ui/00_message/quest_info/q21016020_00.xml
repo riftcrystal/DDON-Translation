@@ -1,0 +1,42 @@
+﻿<resource>
+  <message>
+    <key>q21016020_00_626</key>
+    <original>彷徨う傀儡</original>
+  </message>
+  <message>
+    <key>q21016020_00_626</key>
+    <original>【迅速救助クエスト】
+依頼者が求める人物を捜索し
+迅速に救助する</original>
+  </message>
+  <message>
+    <key>q21016020_00_626</key>
+    <original>何者かからの、迅速な救援を求める声が
+&lt;NAME AREA&gt;から届いているようだ</original>
+  </message>
+  <message>
+    <key>q21016020_00_626</key>
+    <original>レスタニアの覚者さまは軽装で森に行くけど
+恐ろしくないんですか？
+え？　フィンダムの戦士の方が薄着だって？
+何を言っているんですか！
+彼らはみんな、分厚い筋肉を纏っているんです</original>
+  </message>
+  <message>
+    <key>q21016020_00_1226</key>
+    <original>依頼者の求める人物を捜索する</original>
+  </message>
+  <message>
+    <key>q21016020_00_1227</key>
+    <original>魔物を迅速に討伐し捜索対象を救助する</original>
+  </message>
+  <message>
+    <key>q21016020_00_1228</key>
+    <original>捜索対象の安否を確認する</original>
+  </message>
+  <message>
+    <key>q21016020_00_1169</key>
+    <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
+  </message>
+</resource>

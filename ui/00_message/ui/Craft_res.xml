@@ -1072,8 +1072,8 @@ experience.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
-    <original>黄金石を使用して作成</original>
-    <translation>Create using Golden Gemstones</translation>
+    <original>黄金石を使用して作成（即時完成）</original>
+    <translation>Create using Golden Gemstones (immediate completion)</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE</key>
@@ -1206,5 +1206,28 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>ANNOUNCE_CHECK_NG_CHEST</key>
     <original>格納チェストの参照は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+  </message>
+  <message>
+    <key>TAB_SPECIAL</key>
+    <original>一時レンタル</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_GP_CREATE</key>
+    <original>以下の機能を利用しているため、このアイテムを
+作成するには、&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
+よろしいですか？
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_GP_REINFORCE</key>
+    <original>以下の機能を利用しているため、このアイテムを
+強化するには、&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
+よろしいですか？
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_GP_LACK_ERROR</key>
+    <original>黄金石が不足しています
+(所持数：&lt;VAL&gt;)</original>
   </message>
 </resource>

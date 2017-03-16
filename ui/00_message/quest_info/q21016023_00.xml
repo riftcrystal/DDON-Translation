@@ -1,0 +1,45 @@
+﻿<resource>
+  <message>
+    <key>q21016023_00_629</key>
+    <original>【時限採取】雨天の採木道</original>
+    <translation>Time Restriction: 雨天の採木道</translation>
+  </message>
+  <message>
+    <key>q21016023_00_629</key>
+    <original>【時限採取クエスト：雨天】
+エリアマスターから話を聞き
+特定条件の間に採取を行い納品する</original>
+  </message>
+  <message>
+    <key>q21016023_00_629</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターは
+覚者へ相談したい事があるらしい</original>
+  </message>
+  <message>
+    <key>q21016023_00_629</key>
+    <original>村の奉りごとの時期であっても
+このような状況ですので
+必要な材料を揃えて無事行えるか心配です
+モルフォールのしきたりに従って、採取を行う
+お手伝いをしてくれる方はいないものでしょうか</original>
+  </message>
+  <message>
+    <key>q21016023_00_1230</key>
+    <original>＜雨天＞時にパーティメンバーを拠点内に集める</original>
+    <translation>Gather party members in the camp during "Rainy" weather</translation>
+  </message>
+  <message>
+    <key>q21016023_00_1231</key>
+    <original>＜雨天＞時に依頼者から詳細を聞く</original>
+    <translation>Listen to details from the requester during "Rainy" weather</translation>
+  </message>
+  <message>
+    <key>q21016023_00_1263</key>
+    <original>＜雨天＞の間に&lt;AREA 16&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する</original>
+  </message>
+  <message>
+    <key>q21016023_00_1233</key>
+    <original>エリアマスターに《&lt;SQDI NAME&gt;》を＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the Area Master</translation>
+  </message>
+</resource>

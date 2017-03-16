@@ -1,12 +1,13 @@
 ﻿<resource>
   <message>
     <key>q21016009_00_581</key>
-    <original>【2.2WQ】侵食森（モロー樹林）9</original>
+    <original>蒼き死路</original>
   </message>
   <message>
     <key>q21016009_00_581</key>
-    <original>依頼者の願いを聞き入れ
-該当場所を調査し敵を討伐する</original>
+    <original>【敵群討伐クエスト】
+依頼者から話を聞き
+敵の群れを討伐する</original>
   </message>
   <message>
     <key>q21016009_00_581</key>
@@ -15,7 +16,11 @@
   </message>
   <message>
     <key>q21016009_00_581</key>
-    <original>（仮）</original>
+    <original>襲撃事件があって以来
+様々な異変や不思議な現象が森に
+発生するようになったようだ
+森の住人が各所で襲撃された情報を
+元に調査してほしいのだが――</original>
   </message>
   <message>
     <key>q21016009_00_1222</key>

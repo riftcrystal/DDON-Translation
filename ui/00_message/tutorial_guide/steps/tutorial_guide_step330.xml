@@ -2,13 +2,28 @@
   <message>
     <key>TUTORIAL_STEP_507</key>
     <original>&lt;COL ffdc78&gt;《クランダンジョン》&lt;/COL&gt;は
-敵を討伐する時間によって、
-進行する道が変化していくダンジョンです
+敵を討伐する時間によって
+報酬が変わってゆくダンジョンです
 
-制限時間はありませんが、
-&lt;COL ffdc78&gt;素早く敵を討伐する事により
+制限時間はありませんが
+&lt;COL ffdc78&gt;素早く敵を討伐することで
 より価値の高い報酬が手に入ります&lt;/COL&gt;
 
-仲間と協力して最高の報酬を手に入れましょう</original>
+また、&lt;COL ffdc78&gt;残り時間を多く残して最奥に潜む
+敵を討伐すると、報酬となる宝箱の数が多くなります&lt;/COL&gt;
+最高の報酬を手にするには仲間との協力が不可欠です</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_541</key>
+    <original>ある探検家が記した《手がかり》が
+世界中に散らばっており、
+&lt;COL ffdc78&gt;探索できるクランダンジョンは
+見つけた手がかりに対応して増えていきます&lt;/COL&gt;
+
+
+※クランダンジョンの探索では
+マルチプレイでのエントリーボード検索は
+できませんので、&lt;COL ffdc78&gt;招待機能を使って
+他のプレイヤーを募集してください&lt;/COL&gt;</original>
   </message>
 </resource>

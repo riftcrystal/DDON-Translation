@@ -281,7 +281,7 @@ perfect block counters.
   </message>
   <message>
     <key>ABILITY_INFO_26</key>
-    <original>弓を放った後の反動を抑える
+    <original>矢を放った後の反動を抑える
 &lt;COL ffdc78&gt;LV UP毎に反動がさらに軽減&lt;/COL&gt;</original>
     <translation>Decreases recoil after firing your bow.
 &lt;COL ffdc78&gt;LV UP: Decreases recoil further.&lt;/COL&gt;</translation>
@@ -2609,9 +2609,14 @@ leaving the White Dragon Temple.
   </message>
   <message>
     <key>ABILITY_INFO_382</key>
-    <original>溜め攻撃をジャスト発動した際、スタミナが回復する
+    <original>溜め満了の瞬間に発動することで性能が増すスキルを
+ジャスト発動した際、スタミナが回復する
 カスタムスキルの場合はスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--溜め攻撃をジャスト発動した際、スタミナが回復する
+カスタムスキルの場合はスタミナ消費量が軽減される
+<COL ffdc78>LV UP毎に回復量がより増加</COL>-->
     <translation>Recovers stamina when just timing a charge
 attack. Reduces stamina consumption for just
 timed custom skills.
@@ -3216,6 +3221,60 @@ the weapon is enchanted.
 &lt;COL ffdc78&gt;LV UP: Further decreases damage received.&lt;/COL&gt;</translation>
   </message>
   <message>
+    <key>ABILITY_INFO_318</key>
+    <original>しじま射ちのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_330</key>
+    <original>フィールドシフト解除時の衝撃波のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_341</key>
+    <original>シールドシーケンスのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_353</key>
+    <original>回し蹴りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_365</key>
+    <original>マジックトラップのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_378</key>
+    <original>奮わせ直魔矢の回復量が増加する
+&lt;COL ffdc78&gt;LV UP毎に回復量がより増加
+LV5～6で効果範囲が拡大&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_389</key>
+    <original>広角斬のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_401</key>
+    <original>アルケム・ラディウスのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_437</key>
+    <original>スラスト・モールのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_262</key>
     <original>闇防低下の状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
@@ -3223,11 +3282,72 @@ the weapon is enchanted.
 &lt;COL ffdc78&gt;LV UP: Further increases resistance.&lt;/COL&gt;</translation>
   </message>
   <message>
+    <key>ABILITY_INFO_306</key>
+    <original>強連撃のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_319</key>
+    <original>達人装填成功時に増加する弓射ちの矢の威力が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_331</key>
+    <original>ヒールオーラまたはセイントオーラ展開中
+自身の物理防御力と魔法防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_343</key>
+    <original>アトラクト/モアアトラクトの
+スタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_355</key>
+    <original>転身のスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_367</key>
+    <original>バックムーブのスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_379</key>
+    <original>助真の魔眼、弱体魔弓による
+シークレットコア出現時間が大幅に延長される
+&lt;COL ffdc78&gt;LV UP毎に出現時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_391</key>
+    <original>魔人斬り、真・魔人斬りによる
+リベンジゲージ消費時に少しゲージが残る
+&lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_403</key>
+    <original>錬成値が最大の状態でエリクシルを発動すると、
+一定時間、物理防御力と魔法防御力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_440</key>
+    <original>攻撃時のスピリットゲージの蓄積量が増加
+&lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_263</key>
     <original>毒の状態異常からの回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</original>
     <translation>Increases recovery speed from Poison.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>ABILITY_INFO_307</key>
+    <original>えぐり突きのスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎に軽減量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_264</key>

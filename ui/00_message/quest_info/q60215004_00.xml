@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>q60215004_00_183</key>
+    <original>ファーラナ平原　試練：轟鳴せし滅亡</original>
+    <translation>Farana Plains Trial: 轟鳴せし滅亡</translation>
+  </message>
+  <message>
+    <key>q60215004_00_183</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60215004_00_2391</key>
+    <original>&lt;SPOT 877&gt;の&lt;NPC 2509&gt;から詳細確認する</original>
+    <translation>Confirm details from &lt;NPC 2509&gt; in &lt;SPOT 877&gt;</translation>
+  </message>
+  <message>
+    <key>q60215004_00_2392</key>
+    <original>問題となる場所を調査する</original>
+  </message>
+  <message>
+    <key>q60215004_00_2393</key>
+    <original>諸悪の根源となる魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q60215004_00_2390</key>
+    <original>&lt;SPOT 877&gt;の&lt;NPC 2501&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2501&gt; in &lt;SPOT 877&gt;</translation>
+  </message>
+</resource>

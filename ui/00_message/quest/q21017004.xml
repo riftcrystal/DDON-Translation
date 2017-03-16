@@ -1,8 +1,46 @@
 ﻿<resource>
   <message>
+    <original>よう覚者さん！
+あんたのこと、マヴェイル兄貴からよーく聞いてるぜ
+あの《&lt;STG 439&gt;》に入ったんだろ？</original>
+  </message>
+  <message>
+    <original>ずいぶん凶暴な魔物も多かったって聞いたけど――
+そこんとこ、どうなんだ？
+探索する分には、一般人でも入れるくらいか？</original>
+  </message>
+  <message>
+    <original>いやぁ、実はさ――兄貴と話してたんだけど
+あんたらのおかげでこの村も、今までの閉鎖的な
+体質から変わろうとしてるだろ</original>
+  </message>
+  <message>
+    <original>だから、これからは遺跡と共存していくべき
+なんじゃないかと思ってな
+つまり――遺跡はこの村の名物になるってことさ！
+な、これって良い考えじゃないか？</original>
+  </message>
+  <message>
+    <original>で、足掛かりとして、店でも遺跡の品を扱いたいんだ
+それで悪いんだけど、《&lt;ITEM 15979&gt;》を
+いくらか仕入れてきてくれないか？
+ちゃんと礼はするから、頼むよ！</original>
+  </message>
+  <message>
+    <original>これからは遺跡と共存していくべきなんだ！
+だから店でも遺跡の品を扱いたくてさ
+覚者さんに仕入れを頼みたいんだよ</original>
+  </message>
+  <message>
+    <original>ひとまず、《&lt;ITEM 15979&gt;》を
+いくつか頼むよ
+グリンデュアを訪れた旅人に大売れするはずさ
+土産物と言えばやっぱり、かさばらない物だもんな！</original>
+  </message>
+  <message>
     <original>おお、これが！
 ――うーん、なんか小汚いな
-河でよく洗えば――と、まあいいや</original>
+川の水でよく洗えば――と、まあいいや</original>
   </message>
   <message>
     <original>協力してくれてありがとうな！
@@ -13,7 +51,7 @@
   <message>
     <original>となると、やっぱり安全じゃないとな！
 ――もう言いたいことは分かるよな？
-覚者さん、あんたの得意分野だ</original>
+覚者さん、あんたの得意分野だぜ！</original>
   </message>
   <message>
     <original>《&lt;STG 863&gt;》の危険な魔物を
@@ -45,7 +83,7 @@
   </message>
   <message>
     <original>さっき、話を聞いていたナーヴと
-ボーデシアのやつに、こっ酷く説教されたが――
+ボーデシアに、こっ酷く説教されたが――
 俺は諦めない！
 いつか、絶対に実現させてみせるぜ！</original>
   </message>

@@ -1,0 +1,102 @@
+﻿<resource>
+  <message>
+    <original>そういえば、覚者様――
+我が村ではこの時期、豊穣を願い
+ある樹木で灯をともす風習があるのです</original>
+  </message>
+  <message>
+    <original>貴重な素材のため
+普段は松明に使用しないものなのですが
+この時期だけは特別なのです
+しかし、採集がひと苦労でして――</original>
+  </message>
+  <message>
+    <original>もし覚者様も《&lt;ITEM 16003&gt;》に
+ご興味がおありなのでしたら、
+採集にご協力いただけないでしょうか？</original>
+  </message>
+  <message>
+    <original>＜雨天＞の天候時に、お仲間全員を
+この拠点内に集めていただけるようでしたら
+多く採取できるポイントをご案内しましょう</original>
+  </message>
+  <message>
+    <original>覚者様も《&lt;ITEM 16003&gt;》に
+ご興味がおありでしたら、＜雨天＞時に
+お仲間全員をこの拠点内に集めていただけますか？
+多く採取できるポイントをお教えしましょう</original>
+  </message>
+  <message>
+    <original>非常に乾燥に弱い木材のため
+湿った状態で採取できる天候時でなければ
+ご案内できないのです
+申し訳ございませんが、ご協力お願いします</original>
+  </message>
+  <message>
+    <original>お集まりいただきありがとうございます
+それでは、《&lt;ITEM 16003&gt;》について
+詳細をご説明いたします</original>
+  </message>
+  <message>
+    <original>この木材は非常に乾燥に弱いため、＜雨天＞時に
+のみ多くのポイントで採取できるようになります
+そのため、＜雨天＞が終了した時点で
+通常の採取量に戻りますので、ご注意ください</original>
+  </message>
+  <message>
+    <original>また、採取いただいた木材は
+こちらで回収しているのですが、
+覚者様は特別に、＜5＞つ納品していただければ
+残りはお持ちいただいて構いません</original>
+  </message>
+  <message>
+    <original>儀式は採取時から始まっております
+採る際には、大地への感謝の祈りを
+お忘れ無きよう――</original>
+  </message>
+  <message>
+    <original>説明は以上となります
+それでは、いってらっしゃいませ――</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 16003&gt;》は＜雨天＞時のみ
+多くのポイントで採取できるようになります
+そのため、＜雨天＞が終了した時点で
+通常の採取量に戻りますので、ご注意ください</original>
+  </message>
+  <message>
+    <original>また、＜5＞つ納品していただければ
+残りはお持ちいただいて構いません
+どうぞ、残りは冒険にお役立てください</original>
+  </message>
+  <message>
+    <original>我々の祖先が炎を得るきっかけとなった
+と言われる木材です
+採る際には、豊穣への感謝の祈りを
+お忘れ無きよう――</original>
+  </message>
+  <message>
+    <original>お納めいただきありがとうございます
+採集には危険も多く、村の者たちでは
+わずかな量を集めるのにも四苦八苦なのです</original>
+  </message>
+  <message>
+    <original>これだけあれば村の者全員に行き渡るでしょう
+覚者様、ご協力いただき感謝致します</original>
+  </message>
+  <message>
+    <original>よその方々に風習を押し付ける気はありませんが
+覚者様も、よろしければモルフォールの火種で
+ランタンに灯を点してみてくださいませ
+精霊竜のご加護がありますように――</original>
+  </message>
+  <message>
+    <original>&lt;AREA 16&gt;フィールドの《&lt;ITEM 16003&gt;》を採取できる採取ポイントの数が増えました
+＜雨天＞の間にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜雨天＞が終了したため、&lt;AREA 16&gt;フィールドの
+《&lt;ITEM 16003&gt;》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう</original>
+  </message>
+</resource>

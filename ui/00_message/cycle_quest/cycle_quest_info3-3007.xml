@@ -1,0 +1,50 @@
+﻿<resource>
+  <message>
+    <key>CYCLE_QUEST_INFO_48</key>
+    <original>呼び覚まされし竜</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_48ex1</key>
+    <original>フィンダムの未来を賭けた精霊竜との戦いは
+芯なる樹の樹内で起きた出来事のひとつとして
+この聖なる不思議な場所に記憶された
+その記憶を求める一部の覚者にとって
+それは過去を越える壮絶な試練となって
+相対することになるだろう</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_48ex2</key>
+    <original>ダナ・セントラムのリアガンより
+芯なる樹が記憶する戦いについて確認せよ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_49</key>
+    <original>本作戦進行中</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_49ex1</key>
+    <original>ダナ・セントラムのリアガンより
+芯なる樹が記憶する戦いについて
+詳細を調べよ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_49ex2</key>
+    <original>フィンダムの未来を賭けた精霊竜との戦いは
+芯なる樹の樹内で起きた出来事のひとつとして
+この聖なる不思議な場所に記憶されている
+再びその戦いの中に身を投じ、覚者として
+壮絶な試練を乗り越えよ</original>
+  </message>
+  <message>
+    <original>戦果分析中</original>
+  </message>
+  <message>
+    <original>一部の覚者に向けた芯なる樹が記憶する
+戦いへの挑戦は、一先ず終わったようだ
+その試練を経た覚者へ、モードレットより
+後程報酬が送られる</original>
+  </message>
+  <message>
+    <original></original>
+  </message>
+</resource>

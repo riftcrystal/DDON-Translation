@@ -747,6 +747,10 @@
     <translation>Ancient Temple's Death Struggle</translation>
   </message>
   <message>
+    <key>TUTORIAL_315</key>
+    <original>呼び覚まされし竜</original>
+  </message>
+  <message>
     <key>TUTORIAL_316</key>
     <original>プレイポイント</original>
     <translation>Play Points</translation>
@@ -754,6 +758,10 @@
   <message>
     <key>TUTORIAL_317</key>
     <original>クランレベルとクラン拠点</original>
+  </message>
+  <message>
+    <key>TUTORIAL_320</key>
+    <original>ある探検家の軌跡</original>
   </message>
   <message>
     <key>TUTORIAL_321</key>
@@ -764,8 +772,16 @@
     <original>大地の怒り</original>
   </message>
   <message>
+    <key>TUTORIAL_323</key>
+    <original>降臨せし闇</original>
+  </message>
+  <message>
     <key>TUTORIAL_326</key>
     <original>侵食の大災 第三節　到達</original>
+  </message>
+  <message>
+    <key>TUTORIAL_327</key>
+    <original>侵食の大災 第四節　到達</original>
   </message>
   <message>
     <key>TUTORIAL_328</key>
@@ -774,6 +790,10 @@
   <message>
     <key>TUTORIAL_329</key>
     <original>鍛練の小部屋</original>
+  </message>
+  <message>
+    <key>TUTORIAL_330</key>
+    <original>クランダンジョン</original>
   </message>
   <message>
     <key>TUTORIAL_332</key>
@@ -787,5 +807,17 @@
   <message>
     <key>TUTORIAL_334</key>
     <original>アルケミストの戦法：追記２</original>
+  </message>
+  <message>
+    <key>TUTORIAL_335</key>
+    <original>闇の再動</original>
+  </message>
+  <message>
+    <key>TUTORIAL_336</key>
+    <original>オンラインショップ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_337</key>
+    <original>メールの確認</original>
   </message>
 </resource>

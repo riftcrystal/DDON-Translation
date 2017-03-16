@@ -1920,14 +1920,94 @@
     <translation>Hardening</translation>
   </message>
   <message>
+    <key>ABILITY_NAME_318</key>
+    <original>静射 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_330</key>
+    <original>衝破 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_341</key>
+    <original>盾序 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_353</key>
+    <original>回蹴 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_365</key>
+    <original>魔罠 詠</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_378</key>
+    <original>奮矢 拡 </original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_389</key>
+    <original>広斬 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_401</key>
+    <original>錬衝 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_437</key>
+    <original>槍円 破</original>
+  </message>
+  <message>
     <key>ABILITY_NAME_262</key>
     <original>親闇</original>
     <translation>Close to Dark</translation>
   </message>
   <message>
+    <key>ABILITY_NAME_306</key>
+    <original>強連 砕</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_319</key>
+    <original>至弓</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_331</key>
+    <original>硬気</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_343</key>
+    <original>快視</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_355</key>
+    <original>快転</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_367</key>
+    <original>快漂</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_379</key>
+    <original>通眼</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_391</key>
+    <original>残恨</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_403</key>
+    <original>守錬</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_440</key>
+    <original>霊蓄</original>
+  </message>
+  <message>
     <key>ABILITY_NAME_263</key>
     <original>制毒</original>
     <translation>Control Poison</translation>
+  </message>
+  <message>
+    <key>ABILITY_NAME_307</key>
+    <original>快突</original>
   </message>
   <message>
     <key>ABILITY_NAME_264</key>

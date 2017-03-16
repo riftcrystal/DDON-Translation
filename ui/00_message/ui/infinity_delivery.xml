@@ -1,8 +1,8 @@
 ﻿<resource>
   <message>
     <key>update_time</key>
-    <original>（%s%d:%02d時点集計）</original>
-    <translation>(%s%d:%02d Time Point Total)</translation>
+    <original>（毎日%s%d:%02d頃更新予定）</original>
+    <translation>(Updated daily around %s%d:%02d)</translation>
   </message>
   <message>
     <key>event_total</key>
@@ -21,8 +21,8 @@
   </message>
   <message>
     <key>now_delivery_num</key>
-    <original>現在の自分のあげたチョコの数</original>
-    <translation>Number of chocolate given</translation>
+    <original>現在の自分の納品数</original>
+    <translation>Number of delivered items</translation>
   </message>
   <message>
     <key>category_total</key>
