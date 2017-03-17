@@ -1457,7 +1457,7 @@
   <message>
     <key>ABILITY_NAME_381</key>
     <original>魔倒 砕</original>
-    <translation>Demon Slayer: Crush</translation>
+    <translation>Inverse Slash: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_393</key>
@@ -1512,7 +1512,7 @@
   <message>
     <key>ABILITY_NAME_384</key>
     <original>魔斬 絶</original>
-    <translation>Demon Slash: Eradicate</translation>
+    <translation>Savage Lash: Eradicate</translation>
   </message>
   <message>
     <key>ABILITY_NAME_396</key>
@@ -1842,7 +1842,7 @@
   <message>
     <key>ABILITY_NAME_390</key>
     <original>魔斬 砕</original>
-    <translation>Demon Slash: Crusher</translation>
+    <translation>Savage Lash: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_402</key>
@@ -1922,38 +1922,47 @@
   <message>
     <key>ABILITY_NAME_318</key>
     <original>静射 砕</original>
+    <translation>Keensight: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_330</key>
     <original>衝破 砕</original>
+    <translation>Field Shift: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_341</key>
     <original>盾序 砕</original>
+    <translation>Shield Sequence: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_353</key>
     <original>回蹴 砕</original>
+    <translation>Roundhouse Kick: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_365</key>
     <original>魔罠 詠</original>
+    <translation>Magick Trap: Singer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_378</key>
     <original>奮矢 拡 </original>
+    <translation>Invigoration Arrow: Expand</translation>
   </message>
   <message>
     <key>ABILITY_NAME_389</key>
     <original>広斬 砕</original>
+    <translation>Devastate: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_401</key>
     <original>錬衝 砕</original>
+    <translation>Alchemical Radius: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_437</key>
     <original>槍円 破</original>
+    <translation>Sweeping Spear: Destroyer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_262</key>
@@ -1963,42 +1972,52 @@
   <message>
     <key>ABILITY_NAME_306</key>
     <original>強連 砕</original>
+    <translation>Dire Onslaught: Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_319</key>
     <original>至弓</original>
+    <translation>Climax Bow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_331</key>
     <original>硬気</original>
+    <translation>Hard Spirit</translation>
   </message>
   <message>
     <key>ABILITY_NAME_343</key>
     <original>快視</original>
+    <translation>Pleasant Sight</translation>
   </message>
   <message>
     <key>ABILITY_NAME_355</key>
     <original>快転</original>
+    <translation>Pleasant Roll</translation>
   </message>
   <message>
     <key>ABILITY_NAME_367</key>
     <original>快漂</original>
+    <translation>Pleasant Drift</translation>
   </message>
   <message>
     <key>ABILITY_NAME_379</key>
     <original>通眼</original>
+    <translation>Counter Eye</translation>
   </message>
   <message>
     <key>ABILITY_NAME_391</key>
     <original>残恨</original>
+    <translation>Excess Grudge</translation>
   </message>
   <message>
     <key>ABILITY_NAME_403</key>
     <original>守錬</original>
+    <translation>Defense Alchemy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_440</key>
     <original>霊蓄</original>
+    <translation>Spirit Hoard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_263</key>
@@ -2008,6 +2027,7 @@
   <message>
     <key>ABILITY_NAME_307</key>
     <original>快突</original>
+    <translation>Pleasant Thrust</translation>
   </message>
   <message>
     <key>ABILITY_NAME_264</key>
