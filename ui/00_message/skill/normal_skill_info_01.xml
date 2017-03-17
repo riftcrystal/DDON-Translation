@@ -30,7 +30,7 @@ break without max power.&lt;/COL&gt;</translation>
 転倒させる。さらに気絶させやすくなる
 ボタンの長押しで威力が増す</original>
     <translation>Perform a stronger overhead swing capable of breaking
-and enemies guard, holding down longer for increased power. 
+an enemies guard, holding down longer for increased power. 
 A longer hold has a better chance to topple.</translation>
   </message>
   <message>
@@ -64,8 +64,8 @@ Can also be activated while in the air.</translation>
     <key>NORMAL_SKILL_INFO_01_17</key>
     <original>腰を落とした姿勢で構え、
 近接してきた仲間を上方に放りあげる</original>
-    <translation>Posed in a crouched position, toss a close companion
-into the air.</translation>
+    <translation>Hold yourself in a crouched position, and toss
+nearby allies into the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_22</key>
@@ -77,6 +77,6 @@ into the air.</translation>
     <original>しがみついた状態から、剣を突き刺し連続してえぐる
 ボタンの連打で攻撃回数が増加する</original>
     <translation>While clinging onto an enemy, thrust your sword into
-them. Continuous press increases attack count.</translation>
+them. Continuous presses increase attack count.</translation>
   </message>
 </resource>

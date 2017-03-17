@@ -142,6 +142,11 @@ LV.6: Increases duration of the effect.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加／受付時間延長／
 攻撃アクション中であればいつでも発動可能&lt;/COL&gt;</original>
+    <translation>If used to correctly parry an enemy's attack, 
+instantly climb behind them, and deliver a lethal blow in response.
+&lt;COL ffdc78&gt;LV UP: Increases number of hits in the counter.
+LV.6: Extends counter window duration and can be activated anytime
+during attacks.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_129</key>
@@ -150,6 +155,11 @@ LV.６で攻撃ヒット数増加／受付時間延長／
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>Sprinkle gunpowder all around and strike the daggers together,
+causing an explosion.
+Can be activated even while in the air.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases the number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_130</key>
@@ -158,5 +168,12 @@ LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
 ボタン追加入力で追撃を繰り出す。空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>Throw the Seeker Rope to snag an enemy, using
+the recoil to propel yourself towards them, and deliver deadly
+slashes all along the way towards them.
+Additional button presses will chain the chase.
+Can be activated even while in the air.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases the number of hits.&lt;/COL&gt;</translation>
   </message>
 </resource>

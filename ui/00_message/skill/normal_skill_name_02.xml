@@ -12,12 +12,12 @@
   <message>
     <key>NORMAL_SKILL_NAME_02_26</key>
     <original>百裂斬り</original>
-    <translation>Hundred Kisses</translation>
+    <translation>Scarlet Kisses</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_27</key>
     <original>阿修羅斬り</original>
-    <translation>Scarlet Kisses</translation>
+    <translation>Hundred Kisses</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_32</key>
@@ -62,9 +62,11 @@
   <message>
     <key>NORMAL_SKILL_NAME_02_38</key>
     <original>乱斬り</original>
+    <translation>Scarlet Kisses</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_39</key>
     <original>大乱斬り</original>
+    <translation>Hundred Kisses</translation>
   </message>
 </resource>

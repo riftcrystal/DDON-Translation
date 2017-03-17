@@ -2,11 +2,12 @@
   <message>
     <key>NORMAL_SKILL_INFO_02_24</key>
     <original>ダガーによる連撃を繰り出す</original>
-    <translation>Perform consecutive Dagger attacks.</translation>
+    <translation>Perform consecutive dagger attacks.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_25</key>
     <original>攻撃範囲の広い回し蹴りを連続して繰り出す</original>
+    <translation>Perform a wide range of consecutive kicks.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_26</key>
@@ -14,43 +15,62 @@
 ボタンの連打で攻撃回数が増加する
 &lt;COL ffdc78&gt;LV UPでより攻撃回数が増加する
 ＜阿修羅斬り＞に進化&lt;/COL&gt;</original>
+    <translation>Perform a series of quick dagger slashes.
+The number of attacks rises with consecutive button presses.
+&lt;COL ffdc78&gt;LV UP: Further increases the number of attacks.
+Evolves into (Hundred Kisses).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_27</key>
     <original>ダガーによるさらに高速の連続斬りを繰り出す
 ボタンの連打で攻撃回数が増加する</original>
+    <translation>Perform a faster series of quick dagger slashes.
+The number of attacks rises with consecutive button presses.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_32</key>
     <original>空中でダガーによる連撃を繰り出す</original>
+    <translation>Perform consecutive dagger slashes while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_33</key>
     <original>空中でダガーによる回転攻撃を繰り出す
 高所から行うことで威力が上昇し気絶させやすくなる</original>
+    <translation>Perform a continuous somersault in the air with daggers
+extended. When performed from a high place, the damage increases and it is
+easier to stagger enemies.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_28</key>
     <original>シーカーロープを構えて狙いをつける
 空中でも発動可能</original>
+    <translation>Hold the Seeker Rope and take aim.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_29</key>
     <original>構えたシーカーロープを狙った対象に放つ
 空中でも発動可能</original>
+    <translate>Throw the seeker rope towards the target aimed at.
+Can be activated even while in the air.</translate>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_30</key>
     <original>身を跳び退かせ、敵の攻撃を避ける</original>
+    <translation>Duck and roll to avoid an enemy attack.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_31</key>
     <original>腰を落とした姿勢で構え、
 近接してきた仲間を上方に放りあげる</original>
+    <translation>Hold yourself in a crouched position, and toss 
+nearby allies into the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_36</key>
     <original>空中で壁蹴りを行い、より遠方にジャンプする</original>
+    <translation>Kick off the wall while airbone, propelling yourself
+to further distances.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_37</key>
@@ -63,11 +83,17 @@
 ボタンの連打で攻撃回数が増加する
 &lt;COL ffdc78&gt;LV UPでより攻撃回数が増加する
 ＜大乱斬り＞に進化&lt;/COL&gt;</original>
+    <translation>While climbing an enemy, perform a series of quick dagger slashes.
+The number of attacks rises with consecutive button presses.
+&lt;COL ffdc78&gt;LV UP: Further increases the number of attacks.
+Evolves into (Hundred Kisses).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_39</key>
     <original>しがみついた状態から、
 より素早い連続斬りを繰り出す
 ボタンの連打で攻撃回数が増加する</original>
+    <translation>While climbing an enemy, perform a series of quick dagger slashes.
+The number of attacks rises with consecutive button presses.</translation>
   </message>
 </resource>
