@@ -2,41 +2,52 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_07_103</key>
     <original>&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>Repeatedly press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_104</key>
     <original>&lt;KC ATTACK1&gt;後、少し遅らせて&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;, delay a moment and repeatedly press &lt;KC ATTACK1&gt;.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_105</key>
     <original>&lt;KC ATTACK2&gt;長押し後、離すと発動</original>
+    <translation>Hold &lt;KC ATTACK2&gt; for a moment and then release.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_106</key>
     <original>&lt;KC ATTACK2&gt;長押し後、離すと発動</original>
+    <translation>Hold &lt;KC ATTACK2&gt; for a moment and then release.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_107</key>
     <original>&lt;KC AVOID&gt;を押す</original>
+    <translation>Press &lt;KC AVOID&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_108</key>
     <original>&lt;KC CATAPULT&gt;を押す</original>
+    <translation>Press &lt;KC CATAPULT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_109</key>
     <original>空中で&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While in the air, press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_110</key>
     <original>空中で&lt;KC ATTACK2&gt;を押す</original>
+    <translation>While in the air, press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_111</key>
     <original>吹き飛ばされ中に&lt;KC JUMP&gt;を押す</original>
+    <translation>While being knocked away by an enemy, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_07_112</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;長押し後、離すと発動</original>
+    <translation>While climbing an enemy, hold &lt;KC ATTACK1&gt; for a moment
+and then release.</translation>
   </message>
 </resource>

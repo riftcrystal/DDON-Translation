@@ -140,6 +140,11 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
     <original>力を十分に溜めた後、渾身の一撃を繰り出す
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>After channeling enough energy, release
+a devastating slash with your body's entire might.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.6: Adds wind pressure to the blade and increases number of
+hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_139</key>
@@ -148,6 +153,11 @@ LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
 ボタンの連打で揺さぶり回数が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で最大揺さぶり回数増加&lt;/COL&gt;</original>
+    <translation>While climbing an enemy, thrust the blade deep into them
+and vigorously shake it around.
+The number of shakes increases with repeated button presses.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.6: Increases maximum number of shakes.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_140</key>
@@ -156,5 +166,12 @@ LV.６で最大揺さぶり回数増加&lt;/COL&gt;</original>
 により威力が上昇。倒れた状態の敵に対し真価を発揮
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階上昇（１→２）&lt;/COL&gt;</original>
+    <translation>Slam the blade into the ground with the entire body's might
+and shake the earth.
+Performing the skill from high altitudes while in the air, or holding the assigned
+button on the ground increases the damage of the skill. 
+Especially effective against downed enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>
   </message>
 </resource>

@@ -3,11 +3,15 @@
     <key>NORMAL_SKILL_INFO_07_103</key>
     <original>大剣で斬りつける
 攻撃を当てることで連続斬りが可能</original>
+    <translation>Deliver slashes with a large sword.
+Landing the first hit will allow further consecutive slashes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_104</key>
     <original>大剣で広範囲に対して斬撃を放つ
 攻撃を当てることで連続斬りが可能</original>
+    <translation>Deliver slashes over a wide area with a large sword.
+Landing the first hit will allow further consecutive slashes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_105</key>
@@ -16,35 +20,54 @@
 リベンジゲージ蓄積量に応じて、さらに威力が増加
 &lt;COL ffdc78&gt;LV UPでさらに攻撃威力が上昇する
 ＜真・魔人斬り＞に進化&lt;/COL&gt;</original>
+    <translation>Channel energy into the blade, and slam it down.
+When the button is released the moment the charge finishes, the damage
+increases significantly.
+Increases in damage as the Revenge Gauge rises.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+Becomes (Indomitable Lash).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_106</key>
     <original>振り上げた大剣に力を溜め、渾身の力で振り下ろす
 溜め満了の瞬間にボタンを離すと威力大幅上昇
 リベンジゲージ蓄積量に応じて、さらに威力が増加</original>
+    <translation>Channel energy into the blade, and slam it down with
+the force of the entire body. When the button is released the moment the charge
+finishes, the damage increases significantly.
+Increases in damage as the Revenge Gauge rises.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_107</key>
     <original>身を固め、敵の攻撃に耐える
 攻撃を受けとめるとリベンジゲージが増加する</original>
+    <translation>Steel yourself, and endure an enemy's attack.
+Increases the Revenge Gauge a bit when hit by an attack.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_108</key>
     <original>腰を落とした姿勢で構え、
 近接してきた仲間を上方に放りあげる</original>
+    <translation>Hold yourself in a crouched position, and toss
+nearby allies into the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_109</key>
     <original>空中で大剣の一撃を振るう</original>
+    <translation>Deliver slashes with the blade while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_110</key>
     <original>空中から多段ヒット性能を持つ振り下ろし攻撃を放つ
 高所から行うことで威力が上昇する</original>
+    <translation>Slam the blade downward while in the air,
+delivering multiple hits.
+Damage rises when performed from high altitudes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_111</key>
     <original>転倒を回避し体勢を立て直す</original>
+    <translation>Recover from being knocked away while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_07_112</key>
