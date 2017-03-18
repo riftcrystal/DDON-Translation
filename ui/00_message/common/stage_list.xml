@@ -1337,10 +1337,12 @@
   <message>
     <key>STAGE_NAME_357</key>
     <original>st0086 60/30細長段差</original>
+	<translation>st0086 60/30 Elongated step</translation>
   </message>
   <message>
     <key>STAGE_NAME_358</key>
     <original>st0087 10～12谷間</original>
+	<translation>st008710 - valley </translation>
   </message>
   <message>
     <key>STAGE_NAME_359</key>
@@ -1478,6 +1480,7 @@
   <message>
     <key>STAGE_NAME_417</key>
     <original>侵鬼の洞穴</original>
+	<translation>A cave of Exorcism</translation>
   </message>
   <message>
     <key>STAGE_NAME_418</key>
@@ -1560,6 +1563,7 @@
   <message>
     <key>STAGE_NAME_437</key>
     <original>st0066 OM検証部屋ver2.0（機能ありOM）</original>
+	<translation>st0066OM inspection room ver2.0 (I have it of a function, OM)</translation>
   </message>
   <message>
     <key>STAGE_NAME_438</key>
@@ -1598,5 +1602,7 @@
   <message>
     <key>STAGE_NAME_460</key>
     <original>クラン拠点ボードクエスト用検証部屋</original>
+    <translation>Inspection room for Klan foothold board quests</translation>
+	
   </message>
 </resource>

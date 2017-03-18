@@ -1016,14 +1016,21 @@
   <message>
     <key>SPOT_NAME_657</key>
     <original>錬金研究棟</original>
+	<translation>A tempered gold study ridge</translation>
+	
+	
   </message>
   <message>
     <key>SPOT_NAME_658</key>
     <original>軍事演習棟</original>
+	<translation>A thing ridge to practice</translation>
+	
   </message>
   <message>
     <key>SPOT_NAME_659</key>
     <original>王の間</original>
+	<translation>Between King</translation>
+	
   </message>
   <message>
     <key>SPOT_NAME_660</key>
@@ -1053,6 +1060,8 @@
   <message>
     <key>SPOT_NAME_665</key>
     <original>囚われし戦徒の間</original>
+	<translation>   </translation>
+	
   </message>
   <message>
     <key>SPOT_NAME_666</key>
