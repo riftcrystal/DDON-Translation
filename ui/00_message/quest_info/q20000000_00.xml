@@ -8,11 +8,15 @@
     <key>q20000000_00_25</key>
     <original>白衛騎士団員ゴートンの話をもとに
 廃教会に潜む怪異の原因を探る</original>
+<translation>Based on the story of Gordon of the White Knights
+Explore the cause of the grotesque lurking in the Cathedral</translation>
   </message>
   <message>
     <key>q20000000_00_25</key>
     <original>協力者を求める者がいるとの報告が
 &lt;NAME AREA&gt;から届いている</original>
+<translation>It has been reported that a collaborator
+& Lt; has arrived from; NAME AREA & gt</translation>
   </message>
   <message>
     <key>q20000000_00_25</key>
@@ -36,6 +40,6 @@
   <message>
     <key>q20000000_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report to the requester</translation>
+    <translation>Report back to the Knight</translation>
   </message>
 </resource>
