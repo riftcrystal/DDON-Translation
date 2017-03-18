@@ -2,51 +2,73 @@
   <message>
     <original>ああ、覚者さま――
 どうか今一度私を――</original>
+<translation> Oh, the Master -
+Please once again me - </translation>
   </message>
   <message>
     <original>我らはいつも、覚者さまとともに</original>
-  </message>
+	    <translation> Always with us, </translation>
+</message>
   <message>
     <original>覚者さま、お力添えの機会
 お待ちしています</original>
+    <translation> The Master, Opportunities for Assistance
+I am waiting for you </translation>
   </message>
   <message>
     <original>覚者さま、どうぞ私にも同伴の許可を
 リムストーンからのお声掛けを
 お待ちしています</original>
+    <translation> Master, please give me permission to accompany
+Calling from the rim stone
+I am waiting for you </translation>
   </message>
   <message>
     <original>冒険の手助けなら、いつでもいたします</original>
+	<translation> Anytime I can help adventure, I will do it anytime </translation>
   </message>
   <message>
     <original>まだ、作業を承っておりません</original>
+	 <translation> We are not yet accepting work </translation>
   </message>
   <message>
     <original>ご指示をお待ちしています</original>
+	    <translation> We are waiting for directions </translation>
   </message>
   <message>
     <original>旅かクラフトのご用命あらば
 いつでも動きます</original>
+	<translation> If you are inquiring about a trip or craft
+It will always move </translation>
   </message>
   <message>
-    <original>只今作業中ですので、お待ちください</original>
+    <original>只今作業中ですので、お待ちください</original>	
+	<translation> Since it is working now, please wait </translation>	
   </message>
   <message>
-    <original>完成まで、いましばらくかかります</original>
+    <original>完成まで、いましばらくかかります</original>	
+	 <translation> It will take a while until completion </translation>
   </message>
   <message>
     <original>集中力を要しますので、会話はまた後ほど</original>
+	<translation> Since we need concentration, the conversation will also be </translation>
   </message>
   <message>
     <original>救っていただき、ありがとうございます
 次こそは必ずお役に――！</original>
+<translation> Thank you for rescuing
+Be sure to use it next time -! </translation>
   </message>
   <message>
     <original>申し訳ありません、覚者さま
 精進いたします</original>
+<translation> I am sorry, Master
+I will devise </translation>
   </message>
   <message>
     <original>次こそご期待を――
 この経験を生かします</original>
+<translation> Next expectation -
+Leverage this experience </translation>
   </message>
 </resource>
