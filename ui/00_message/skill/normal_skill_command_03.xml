@@ -2,49 +2,66 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_03_40</key>
     <original>&lt;KC HOLD_BOW&gt;を押す</original>
+    <translation>Press &lt;KC HOLD_BOW&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_41</key>
     <original>弓構え中に&lt;KC SHOOT&gt;を押す</original>
+    <translation>While aiming the bow, press &lt;KC SHOOT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_42</key>
     <original>&lt;KC HOLD_BOW&gt;を押す</original>
+    <translation>Press &lt;KC HOLD_BOW&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_46</key>
     <original>弓構え中に&lt;KC CHANGE_MODE&gt;を押す</original>
+    <translation>While aiming the bow, press &lt;KC CHANGE_MODE&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_43</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押す&lt;KEYM&gt;構え中に&lt;ICON MOUSE_WHL_4&gt;前後で選択（初期設定の場合）</original>
+    <translation>&lt;PADM&gt;Press &lt;KC WEAPON_MAIN&gt;
+&lt;KEYM&gt;While aiming, switch between stances with &lt;ICON MOUSE_WHL_4&gt;(Default setting)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_44</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押しながら&lt;KC SHOOT&gt;を押す&lt;KEYM&gt;爆矢構え中に&lt;KC SHOOT&gt;を押す</original>
+    <translation>&lt;PADM&gt;Hold &lt;KC WEAPON_MAIN&gt; and press &lt;KC SHOOT&gt;
+&lt;KEYM&gt;While in Explosive Stance, press &lt;KC SHOOT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_45</key>
     <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押す&lt;KEYM&gt;構え中に&lt;ICON MOUSE_WHL_4&gt;前後で選択（初期設定の場合）</original>
+    <translation>&lt;PADM&gt;Press &lt;KC WEAPON_MAIN&gt;
+&lt;KEYM&gt;While aiming, switch between stances with &lt;ICON MOUSE_WHL_4&gt;(Default setting)</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_47</key>
     <original>&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_48</key>
     <original>&lt;KC RELOAD&gt;を押す</original>
+    <translation>Press &lt;KC RELOAD&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_49</key>
     <original>&lt;PADM&gt;矢の装填中、特定のタイミングで&lt;KC TOUCH&gt;を押す&lt;KEYM&gt;矢の装填中、特定のタイミングで&lt;KC RELOAD&gt;を押す</original>
+    <translation>&lt;PADM&gt;While reloading the quiver, press &lt;KC TOUCH&gt; with perfect
+timing.
+&lt;KEYM&gt;While reloading the quiver, press &lt;KC RELOAD&gt; with perfect timing.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_50</key>
     <original>&lt;KC CHANGE_ARROW&gt;を押す</original>
+    <translation>Press &lt;KC CHANGE_ARROW&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_03_60</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>

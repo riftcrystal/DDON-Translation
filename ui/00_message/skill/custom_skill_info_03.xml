@@ -132,6 +132,12 @@ LV.6: Increases attack speed.&lt;/COL&gt;</translation>
 残り体力が低い敵ほど効果が高い
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め時間短縮&lt;/COL&gt;</original>
+    <translation>Draw the bow back with all your might and loose an arrow
+of extraordinary power. When fired right as the charge completes, the damage
+increases significantly.
+Effective against enemies with low stamina.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Decreases charge time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_131</key>
@@ -140,6 +146,11 @@ LV.６で溜め時間短縮&lt;/COL&gt;</original>
 射撃時にボタン長押しで起爆高度が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で爆発回数増加&lt;/COL&gt;</original>
+    <translation>Loose an arrow wrapped with explosive powder into
+the sky. Detonation altitude rises the longer the button is held
+while firing.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases the number of explosions.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_132</key>
@@ -148,5 +159,11 @@ LV.６で爆発回数増加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階上昇（２→３）
 ボタン入力回数減少&lt;/COL&gt;</original>
+    <translation>Tigthly bind together all the arrows in the quiver,
+and unleash them with your entire body's might.
+Can be activated while climbing an enemy.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases maximum charge (2→3) and reduces number of button presses
+needed to advance to the next level of charge.&lt;/COL&gt;</translation>
   </message>
 </resource>

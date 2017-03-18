@@ -3,26 +3,38 @@
     <key>NORMAL_SKILL_INFO_03_40</key>
     <original>前方に向け弓を構える
 空中でも発動可能</original>
+    <translation>Hold the bow forward.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_41</key>
     <original>弓構えの状態から矢を放つ
 空中でも発動可能</original>
+    <translation>Loose arrows while in a bow stance.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_42</key>
     <original>矢を放った後、次の矢をつがえる速度が速くなる
 空中でも発動可能</original>
+    <translation>After landing a hit with an arrow, the speed
+of the next arrow is increased.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_46</key>
     <original>狙撃照準に切り替わり、正確に敵を狙い射てる</original>
+    <translation>Hone your sight, and precisely aim at the enemy.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_43</key>
     <original>&lt;PADM&gt;爆薬矢をつがえ弓を上方に構える&lt;KEYM&gt;通常の弓構えか、上方に向ける
 爆矢構えかを選択する&lt;/KEYM&gt;
 空中でも発動可能</original>
+    <translation>&lt;PADM&gt;Hold an explosive arrow, and keep the bow pointed upwards.
+&lt;KEYM&gt;Point the bow upwards while in a normal bow stance,
+and decide the destination of the explosive arrows.&lt;/KEYM&gt;
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_44</key>
@@ -30,34 +42,50 @@
 爆薬矢は一定時間で自動起爆するが
 攻撃により起爆させるとダメージが上昇する
 空中でも発動可能</original>
+    <translation>Loose an explosive arrow upwards.
+The explosive arrow will detonate automatically after a period of time,
+but the damage increases by detonating when struck by an attack.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_45</key>
     <original>爆薬矢の準備動作が高速化される
 空中でも発動可能</original>
+    <translation>Speed up the time it takes to prepare an
+explosive arrow.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_47</key>
     <original>前方に蹴りを放つ
 空中でも発動可能</original>
+    <translation>Kick forward.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_48</key>
     <original>矢筒に矢を補充する</original>
+    <translation>Replenish the quiver with arrows.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_49</key>
     <original>矢筒に矢を高速補充する</original>
+    <translation>Quickly replenish the quiver with arrows.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_50</key>
     <original>矢の種類を切り替える
 空中でも発動可能</original>
+    <translation>Switch the type of arrow.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_60</key>
     <original>しがみついた状態から
 装備中の矢の先端で突き刺す
 ボタン連打で攻撃回数が増加する</original>
+    <translation>While climbing an enemy, stab into them with
+the tip of the arrow that is equipped.
+The number of attacks rises with repeated button presses.</translation>
   </message>
 </resource>
