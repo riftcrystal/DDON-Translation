@@ -3403,7 +3403,7 @@ power is increased for a period of time.
     <key>ABILITY_INFO_307</key>
     <original>えぐり突きのスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に軽減量がより増加&lt;/COL&gt;</original>
-    <translation>Reduces stamina cost of Dire Gouge.
+    <translation>Reduces stamina cost of Gouge.
 &lt;COL ffdc78&gt;LV UP: Further increases reduction amount.&lt;/COL&gt;</translation>
   </message>
   <message>
