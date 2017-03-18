@@ -8,6 +8,8 @@
     <key>q60000012_00_15</key>
     <original>覚者ファビオの教示に応えるため
 宿場区にいるアーチボルトに挨拶に行く</original>
+    <translation>Go speak to Archibald in the Relay District to further
+Fabio's training.</translation>
   </message>
   <message>
     <key>q60000012_00_1531</key>
@@ -62,6 +64,7 @@
   <message>
     <key>q60000012_00_1538</key>
     <original>オンラインショップで指定の商品を無料購入する</original>
+    <translation>Purchase the designated item from the Online Shop for free.</translation>
   </message>
   <message>
     <key>q60000012_00_2794</key>
