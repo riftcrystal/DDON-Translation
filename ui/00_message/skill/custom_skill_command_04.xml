@@ -68,13 +68,19 @@ charge to finish.</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_04_51</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+    <translation>Begin casting by pressing the assigned button,
+and release when the chant completes.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_04_133</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動、再度押すと解除</original>
+    <translation>Begin casting by pressing the assigned button,
+release it when the chant completes, and press the assigned button again to cancel.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_04_134</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動、再度押すと解除</original>
+    <translation>Begin casting by pressing the assigned button,
+release it when the chant completes, and press the assigned button again to cancel.</translation>
   </message>
 </resource>

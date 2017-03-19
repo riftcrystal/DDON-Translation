@@ -2,37 +2,46 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_04_61</key>
     <original>&lt;KC ATTACK2&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_62</key>
     <original>&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
+    <translation>Press &lt;KC ATTACK1&gt;, and press it again to cancel.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_63</key>
     <original>&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
+    <translation>Press &lt;KC ATTACK1&gt;, and press it again to cancel.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_64</key>
     <original>&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
+    <translation>Press &lt;KC SKILL_NORMAL1&gt;, and press it again to cancel.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_65</key>
     <original>&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
+    <translation>Press &lt;KC SKILL_NORMAL1&gt;, and press it again to cancel.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_66</key>
     <original>&lt;KC SKILL_NORMAL2&gt;を押す</original>
+    <translation>Press &lt;KC SKILL_NORMAL2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_68</key>
     <original>空中で&lt;KC JUMP&gt;を押す</original>
+    <translation>While in the air, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_69</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;, and press it again to cancel.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_146</key>
     <original>しがみつき中に&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
+    <translation>While climbing an enemy, press &lt;KC SKILL_NORMAL1&gt;, and press it again to cancel.</translation>
   </message>
 </resource>
