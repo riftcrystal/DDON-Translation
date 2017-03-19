@@ -25210,15 +25210,15 @@
   </item>
   <item id="9317">
     <original>防凍結のクレスト</original>
-    <translation>Crest of Friese Warding</translation>
+    <translation>Crest of Freeze Warding</translation>
   </item>
   <item id="9318">
     <original>強防凍結のクレスト</original>
-    <translation>Crest of Friese Prevention</translation>
+    <translation>Crest of Freeze Prevention</translation>
   </item>
   <item id="9319">
     <original>超防凍結のクレスト</original>
-    <translation>Crest of Friese Immunity</translation>
+    <translation>Crest of Freeze Immunity</translation>
   </item>
   <item id="9320">
     <original>防感電のクレスト</original>
@@ -40510,7 +40510,7 @@
   </item>
   <item id="13685">
     <original>防凍結のクレスト・改</original>
-    <translation>Crest of Friese Warding+</translation>
+    <translation>Crest of Freeze Warding+</translation>
   </item>
   <item id="13686">
     <original>防感電のクレスト・改</original>
