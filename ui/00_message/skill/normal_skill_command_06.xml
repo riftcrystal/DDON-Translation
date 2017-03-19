@@ -2,31 +2,43 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_06_92</key>
     <original>&lt;KC ATTACK1&gt;を押して詠唱、詠唱完了で発動</original>
+    <translation>Begin casting by pressing &lt;KC ATTACK1&gt;,
+and release when the chant completes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_93</key>
     <original>&lt;KC ATTACK2&gt;を押して詠唱、詠唱完了で発動</original>
+    <translation>Begin casting by pressing &lt;KC ATTACK2&gt;,
+and release when the chant completes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_94</key>
     <original>マジックボール、マジックトラップ使用時に
 自動的に発動</original>
+    <translation>Automatically activated when you use either
+Magick Bolt or Magick Trap.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_95</key>
     <original>詠唱中、&lt;KC CHANGE_MODE&gt;でスペリング入力モードに切り替え
 &lt;PADM&gt;右スティックで規定コマンド入力&lt;KEYM&gt;マウス移動で規定コマンド入力&lt;/KEYM&gt;</original>
+    <translation>While casting a spell, switch to glyph input mode by pressing &lt;KC CHANGE_MODE&gt;
+&lt;PADM&gt;Input the shown glyph by moving the Right stick.
+&lt;KEYM&gt;Input the shown glyph by moving the mouse.&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_96</key>
     <original>&lt;KC AVOID&gt;を押す</original>
+    <translation>Press &lt;KC AVOID&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_101</key>
     <original>空中で&lt;KC JUMP&gt;を押す</original>
+    <translation>While in the air, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_102</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>

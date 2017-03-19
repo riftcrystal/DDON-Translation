@@ -133,6 +133,12 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 爆発範囲は調節可能で、狭いほど高威力
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で爆発範囲の限界幅が拡張&lt;/COL&gt;</original>
+    <translation>After charging magick, conjure a non-elemental
+magick orb. The magickal power stored within the orb is released over
+a wide area, dealing a great deal of damage to foes within it's range.
+Especially effective in narrow areas.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Expands the range of the explosion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_137</key>
@@ -140,6 +146,11 @@ LV.６で爆発範囲の限界幅が拡張&lt;/COL&gt;</original>
 任意のタイミングで矢を高速射出する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の数が増加／溜め攻撃が可能&lt;/COL&gt;</original>
+    <translation>After charging magick, conjure a giant snowflake
+that calls forth and fires arrows of ice at high velocities.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases number of arrows formed and allows the skill
+to be charged.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_138</key>
@@ -147,5 +158,9 @@ LV.６で矢の数が増加／溜め攻撃が可能&lt;/COL&gt;</original>
 自身の杖との間に稲妻を発生させる
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費量の減少
 LV.６で攻撃威力上昇／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>Conjure a magickal stake that gathers magickal power from your staff,
+and calls down lightning when charged.    
+&lt;COL ffdc78&gt;LV UP: Decreases stamina cost of skill.
+LV.6: Increases damage of the skill and number of hits.&lt;/COL&gt;</translation>
   </message>
 </resource>
