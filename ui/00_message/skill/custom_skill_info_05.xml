@@ -139,6 +139,13 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
 ヒット中、&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向へ移動可能
 &lt;COL ffdc78&gt;LV UP毎にヒット中のスタミナ消費減少
 LV.６で射程距離延長&lt;/COL&gt;</original>
+    <translation>Fire a magickal anchor towards a foe, and gradually
+fill the force gauge and aggression meter if it hits.
+While the anchor is active, you can move in any direction with 
+&lt;PADM&gt;the left stick.&lt;KEYM&gt;the movement keys.&lt;/KEYM&gt;
+&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption for each additional hit while
+the anchor is active.
+LV.6: Increases range of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_136</key>
@@ -147,6 +154,12 @@ LV.６で射程距離延長&lt;/COL&gt;</original>
 フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に石化の異常値上昇
 LV.６で照射範囲拡大&lt;/COL&gt;</original>
+    <translation>Keep the rod focused on an enemy, and radiate
+a light that builds up the Petrified status abnormality on them.
+When the Force Gauge has one or more charges, they will be automatically
+consumed to increase the performance of the skill.
+&lt;COL ffdc78&gt;LV UP: Increases Petrified status accumulation.
+LV.6: Increases the range of the light.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_135</key>
@@ -155,5 +168,11 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
 フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で盾ガード値上昇／ヒット数増加&lt;/COL&gt;</original>
+    <translation>Shake the Greatshield about while running around enemies, preventing their attacks
+and increasing aggression.
+When the Force Gauge has one or more charges, they will be automatically
+consumed to increase the performance of the skill.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases Guard Power and number of hits.&lt;/COL&gt;</translation>
   </message>
 </resource>

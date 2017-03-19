@@ -2,55 +2,76 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_05_70</key>
     <original>&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_83</key>
     <original>空中で&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While in the air, press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_72</key>
     <original>&lt;PADM&gt;&lt;KC ATTACK2&gt;を押し、左スティックを倒して３属性を選択&lt;KEYM&gt;&lt;KC ATTACK2&gt;を押し、マウス移動で３属性を選択&lt;/KEYM&gt;
 &lt;PADM&gt;&lt;KC ATTACK2&gt;を押して属性決定&lt;KEYM&gt;&lt;KC ATTACK1&gt;または&lt;KC ATTACK2&gt;を押して属性決定</original>
+    <translation>&lt;PADM&gt;Press &lt;KC ATTACK2&gt;, then move the left stick and select from three elemental attributes.
+&lt;KEYM&gt;Press &lt;KC ATTACK2&gt;, then move the mouse and select from three elemental attributes.&lt;/KEYM&gt;
+&lt;PADM&gt;Press &lt;KC ATTACK2&gt; to confirm Element selection.&lt;
+&lt;KEYM&gt;Press &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt; to confirm Element selection.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_73</key>
     <original>&lt;PADM&gt;&lt;KC ATTACK2&gt;を押し、左スティックを倒して５属性を選択&lt;KEYM&gt;&lt;KC ATTACK2&gt;を押し、マウス移動で５属性を選択&lt;/KEYM&gt;
 &lt;PADM&gt;&lt;KC ATTACK2&gt;を押して属性決定&lt;KEYM&gt;&lt;KC ATTACK1&gt;または&lt;KC ATTACK2&gt;を押して属性決定</original>
+    <translation>&lt;PADM&gt;Press &lt;KC ATTACK2&gt;, then move the left stick and select from five elemental attributes.
+&lt;KEYM&gt;Press &lt;KC ATTACK2&gt;, then move the mouse and select from five elemental attributes.&lt;/KEYM&gt;
+&lt;PADM&gt;Press &lt;KC ATTACK2&gt; to confirm Element selection.&lt;
+&lt;KEYM&gt;Press &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt; to confirm Element selection.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_74</key>
     <original>敵の攻撃を受ける（スキル発動中を除く）</original>
+    <translation>Block an enemy's attack (except when using skills).</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_75</key>
     <original>&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_76</key>
     <original>敵の攻撃を引きつけて&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt; as an enemy strikes.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_77</key>
     <original>&lt;KC SKILL_NORMAL2&gt;を押す</original>
+    <translation>Press &lt;KC SKILL_NORMAL2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_78</key>
     <original>&lt;KC WEAPON_MAIN&gt;を押し続ける</original>
+    <translation>Hold &lt;KC WEAPON_MAIN&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_79</key>
     <original>&lt;KC WEAPON_MAIN&gt;を押し続ける</original>
+    <translation>Hold &lt;KC WEAPON_MAIN&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_80</key>
     <original>&lt;KC SKILL_NORMAL1&gt;を押す</original>
+    <translation>Press &lt;KC SKILL_NORMAL1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_81</key>
     <original>敵の攻撃を防いだ直後、&lt;PADM&gt;左スティックを素早く後方から前方で反撃、前方から後方で後退&lt;KEYM&gt;&lt;KC MOVE_FORWARD&gt;を素早く２回押すと反撃、&lt;KC MOVE_BACKWARD&gt;を素早く２回押すと後退&lt;/KEYM&gt;</original>
+    <translation>Immediately after guarding against an enemy attack, 
+&lt;PADM&gt;Quickly tap the left stick backwards to retreat.
+&lt;KEYM&gt;Quickly tap &lt;KC MOVE_FORWARD&gt; twice to strike、 and quickly tap &lt;KC MOVE_BACKWARD&gt; twice to retreat.&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_91</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>

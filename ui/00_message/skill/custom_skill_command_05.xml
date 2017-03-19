@@ -87,12 +87,17 @@ charge to finish.</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_67</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+    <translation>Press the assigned button to begin charging, and
+release it after charging completes.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_136</key>
     <original>セットボタンを押す
 &lt;KC JUMP&gt;で終了
 &lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;で照射角度を調整</original>
+    <translation>Press the assigned button.
+Cancel it with &lt;KC JUMP&gt;.
+Change the direction of the light by moving the &lt;PADM&gt;right stick.&lt;KEYM&gt;mouse.&lt;/KEYM&gt;</translation>
     <!-- NEEDS REVIEW -->
     <!--セットボタンを押して詠唱、詠唱完了で発動
 <PADM><ICON STG_JUMP>で終了<KEYM><ICON KB_SPACE>で終了</KEYM>
@@ -104,5 +109,6 @@ charge to finish.
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_135</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
 </resource>
