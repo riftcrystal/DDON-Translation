@@ -67,5 +67,6 @@ an enemy.</translation>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_164</key>
     <original>敵の攻撃を引きつけて自身のスキルを放つ</original>
+    <translation>Activate a skill with perfect timing as an enemy attacks.</translation>
   </message>
 </resource>
