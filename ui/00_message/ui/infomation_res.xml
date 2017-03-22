@@ -277,6 +277,7 @@ Please set the party leader in an inn, at the White Dragon Temple, or at a Rifts
   <message>
     <key>info_entry_invitation</key>
     <original>&lt;NAME TARGET&gt;からエントリーボードに招待されました</original>
+    <translation>Invited to the entry board by &lt;NAME TARGET&gt;</translation>
   </message>
   <message>
     <key>info_entry_invitation_list</key>
