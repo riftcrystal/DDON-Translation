@@ -85,7 +85,7 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
     <translation>Draws the bow with all the user's might,
 then looses a shot straight ahead.
-Power increases if released immediately.
+Power greatly increases if released as charge reaches max.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</translation>
   </message>
@@ -132,6 +132,12 @@ LV.6: Increases attack speed.&lt;/COL&gt;</translation>
 残り体力が低い敵ほど効果が高い
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め時間短縮&lt;/COL&gt;</original>
+    <translation>Puts the user's whole heart into drawing the bow
+and fires an arrow of tremendous power.
+Power greatly increases if released as charge reaches max.
+Especially effective against low health enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Shortens charge time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_131</key>
@@ -140,6 +146,11 @@ LV.６で溜め時間短縮&lt;/COL&gt;</original>
 射撃時にボタン長押しで起爆高度が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で爆発回数増加&lt;/COL&gt;</original>
+    <translation>Fires an arrow wreathed in gunpowder into the air,
+detonating a chain of explosions. Holding the
+button while firing adjusts explosion height.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases number of explosions.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_132</key>
@@ -148,5 +159,9 @@ LV.６で爆発回数増加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階上昇（２→３）
 ボタン入力回数減少&lt;/COL&gt;</original>
+    <translation>From close range, nocks the remaining arrows in your quiver and fire them with all your strength.  Can be used while climbing an enemy.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases total charge stages（2→3）
+Decreases number of button presses.&lt;/COL&gt;</translation>
   </message>
 </resource>
