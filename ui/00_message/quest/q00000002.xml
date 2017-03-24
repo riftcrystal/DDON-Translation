@@ -26,7 +26,7 @@ for the "Audience Chamber" indicated by the red marker.</translation>
   </message>
   <message>
     <original>【ヒント：ミニマップのサイズ変更】</original>
-    <translation>【Tip: Resizing the Minimap】</translation>
+    <translation>[Tip: Resizing the Minimap]</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;&lt;KCT UI_MINIMAP&gt;を押しながら&lt;KCT UI_MINIMAP_SCALING&gt;&lt;/COL&gt;でサイズ変更</original>
