@@ -1,28 +1,42 @@
 ﻿<resource>
   <message>
     <original>"誰かの日記の１ページが落ちている"</original>
+    <translation>"A page of someone's diary has fallen"</translation>
   </message>
   <message>
     <original>俺も腕には自信があるつもりだが、
 正直言って今回はヒヤリとさせられた――
 侵食されたグリフィンとは、これほど凶暴なものか</original>
+    <translation>I am confident in my weapons, but if I am honest,
+this time I may have made a mistake...
+Is this Infected Griffin as ferocious as they say?</translation>
   </message>
   <message>
     <original>さすがに今回ばかりは、落命すら覚悟した
 まだ命がある事、感謝せねば――</original>
+    <translation>As one would expect, even though I was prepared to die,
+I still live, and I must not take that for granted...</translation>
   </message>
   <message>
     <original>ともあれ、そろそろ収集物も増えてきた――
 持ち歩くにも動きづらいため
 ひとまとまりにして保管しておくことにしよう</original>
+    <translation>Anyway, my collection has recently grown in size...
+I've decided to keep it all in one place, as it is getting hard
+to carry it around everywhere with me.</translation>
   </message>
   <message>
     <original>魔物の巣になるばかりの
 うち捨てられた建物があった
 村に置き去るよりは、そこの方が安心だろう</original>
+    <translation>There was an abandoned building nearby.
+It would be much more secure to put it there, than to leave it
+in the village, only for it to become some monster's nest.</translation>
   </message>
   <message>
     <original>印象的なその姿――
 我がアジトを『塔』と名付けよう</original>
+    <translation>What an impressive figure...
+My own secret hideout, I'll call it the "Tower".</translation>
   </message>
 </resource>

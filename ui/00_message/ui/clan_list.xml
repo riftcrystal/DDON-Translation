@@ -57,10 +57,12 @@
   <message>
     <key>GMD_CLAN_LIST_NO_APPLY</key>
     <original>加入申請していません</original>
+    <translation>Not currently applying for membership.</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITED</key>
     <original>招待されていません</original>
+    <translation>Not currently invited to join.</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED_DIRECT</key>

@@ -3,119 +3,162 @@
     <key>CLAN_SHOP_LINEUP_ID_18</key>
     <original>クランエンブレムの入ったフラッグを
 掲げられるようになる</original>
+    <translation>You will be able to hoist a flag
+with the clan's emblem on it.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_19</key>
     <original>クラン拠点１階の大広間に入れるようになる
 クランクエストの高難易度ボードが設置される</original>
+    <translation>You can access the first floor of the Clan Hall.
+Sets up a "High Difficulty Clan Quests" board.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_20</key>
     <original>クラン拠点２階に行くことができる</original>
+    <translation>You can access the second floor of the Clan Hall.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_21</key>
     <original>クラン拠点にある隠し部屋に入れるようになる
 </original>
+    <translation>Reveal a hidden room at the Clan Hall.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_22</key>
     <original>ポーン遠征隊が解放されます</original>
+    <translation>Unlocks the Pawn Expedition.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_23</key>
     <original>ボルド鉱山に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Volden Mines.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_24</key>
     <original>ダウ渓谷に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to Dowe Valley.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_25</key>
     <original>ミスリウ森林深部に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+deep into the Mysree Forest.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_26</key>
     <original>ディナン深層林に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+deep into Deenan Woods.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_27</key>
     <original>バートランド平原に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Betland Plains.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_28</key>
     <original>バートランド平原北部に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Northern Betland Plains.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_29</key>
     <original>ザンドラ東部に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to Eastern Zandora.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_30</key>
     <original>ザンドラ禁域に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Zandora Wastelands.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_31</key>
     <original>亡都メルゴダに
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Mergoda Ruins.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_32</key>
     <original>魔赤島に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to Bloodbane Isle.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_33</key>
     <original>エラン水林に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to Elan Water Grove.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_34</key>
     <original>ファーラナ平原に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Farana Plains.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_35</key>
     <original>モロー樹林に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to the Morrow Forest.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_36</key>
     <original>キンガル峡谷に
 ポーン遠征隊を派遣できるようになります</original>
+    <translation>You will be able to dispatch the Pawn Expedition
+to Kingal Canyon.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_37</key>
     <original>各エリアのホットスポットの数が増えます</original>
+    <translation>Increases the number of hotspots in each area.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_38</key>
     <original>各エリアのホットスポットの数が増えます</original>
+    <translation>Increases the number of hotspots in each area.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_39</key>
     <original>探索したスポットの報酬を
 たくさん持ち帰りやすくなる</original>
+    <translation>Makes it easier for the Pawn Expedition to
+find a lot more loot.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_40</key>
     <original>探索に向かったポーンが
 スポットの魔物を討伐しやすくなる</original>
+    <translation>Makes it easier for the Pawn Expedition to
+slay demons located around a hotspot.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_41</key>
     <original>各エリアのホットスポットの数が増えます</original>
+    <translation>Increases the number of hotspots in each area.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_42</key>
     <original>各エリアのホットスポットの数が増えます</original>
+    <translation>Increases the number of hotspots in each area.</translation>
   </message>
 </resource>

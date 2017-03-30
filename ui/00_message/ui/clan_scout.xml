@@ -17,10 +17,12 @@
   <message>
     <key>CLAN_SCOUT_MSG_ATIME</key>
     <original>活動時間帯</original>
+    <translation>Active Time Zone</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_STYLE</key>
     <original>特徴</original>
+    <translation>Style</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_NAME</key>
@@ -49,6 +51,7 @@
   <message>
     <key>CLAN_SCOUT_MSG_INFO</key>
     <original>スカウト申請のメッセージを入力してください</original>
+    <translation>Please enter the applicant scout message.</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_OK</key>
@@ -63,6 +66,7 @@
   <message>
     <key>CLAN_SCOUT_MSG_DECIDE</key>
     <original>決定</original>
+    <translation>Confirm</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_VAL</key>
@@ -75,10 +79,12 @@
   <message>
     <key>CLAN_SCOUT_MSG_ORLESS</key>
     <original>&lt;VAL&gt;以下</original>
+    <translation>Below &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_ORLESS_P</key>
     <original>%d名以下</original>
+    <translation>Below %d people.</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_RANK_LIMIT</key>
@@ -91,6 +97,7 @@
   <message>
     <key>CLAN_SCOUT_MEMBER_NUM</key>
     <original>&lt;VAL&gt;名</original>
+    <translation>&lt;VAL&gt; People</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_INDEX_EN</key>
@@ -105,6 +112,7 @@
   <message>
     <key>CLAN_SCOUT_COMMENT_EN</key>
     <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_COMMENT_JP</key>
@@ -123,13 +131,16 @@
   <message>
     <key>CLAN_SCOUT_ANNOUNCE</key>
     <original>スカウト申請のメッセージを入力してください</original>
+    <translation>Please enter the applicant scout message.</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_NOENTRY</key>
     <original>スカウトエントリーがありません</original>
+    <translation>There is no scout entries.</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_NO_SPECIFIED</key>
     <original>指定なし</original>
+    <translation>Unspecified</translation>
   </message>
 </resource>

@@ -119,6 +119,7 @@
   <message>
     <key>CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN</key>
     <original>クランに加入していません</original>
+    <translation>Not currently in the clan.</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_MONEY_CP</key>

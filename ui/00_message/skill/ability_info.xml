@@ -2384,8 +2384,7 @@ LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
     <original>百裂斬り/阿修羅斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Scarlet Kisses/Biting
-Wind.
+    <translation>Increases the damage of Scarlet Kisses/Hundred Kisses.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -2486,8 +2485,7 @@ LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translatio
     <original>乱斬り/大乱斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Chaotic Strike/Great
-Chaotic Strike.
+    <translation>Increases the damage of Scarlet Slashes/Hundred Slashes.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
   </message>
@@ -2874,7 +2872,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>連斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the amount of damage dealt by Scarlet Kisses.
+    <translation>Increases the amount of damage dealt by Carve.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -2971,7 +2969,7 @@ LV5~6: Increase chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>百裂斬り/阿修羅斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases damage of Hundred Kisses and Helm Splitter.
+    <translation>Increases damage of Scarlet Kisses/Hundred Kisses.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increase chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -3071,7 +3069,7 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>乱斬り/大乱斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Carve/Triple Cut.
+    <translation>Increases the damage of Scarlet Slashes/Hundred Slashes.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases stun power.&lt;/COL&gt;</translation>
   </message>

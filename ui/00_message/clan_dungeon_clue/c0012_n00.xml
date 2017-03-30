@@ -1,29 +1,41 @@
 ﻿<resource>
   <message>
     <original>"誰かの日記の１ページが落ちている"</original>
+    <translation>"A page of someone's diary has fallen"</translation>
   </message>
   <message>
     <original>あの話は本当だったのか――
 氷魔がごく稀に落とすという
 強力な希少素材――</original>
+    <translation>Was the story true?
+The one about the ice demon that drops a powerful rare material?</translation>
   </message>
   <message>
     <original>村の情報屋が言うことには
 今までその姿かたちを見た者はいないらしい</original>
+    <translation>The information broker in the village said that
+there has been nobody that has seen the figure until just now.</translation>
   </message>
   <message>
     <original>ならばなぜ、情報屋がその存在を知っているのか？
 そんな怪しい話、どうせ戯言に違いないと
 たかをくくっていたが――</original>
+    <translation>So pray tell, how does the information broker know of its existence?
+Such a suspicious story, it must be a load of crap...</translation>
   </message>
   <message>
     <original>まさか本当に存在していたとはな！
 ああ、触れているだけで
 手のひらがピリピリと痛むほどの冷気を感じる
 どれほどの魔力を秘めているのか――</original>
+    <translation>It certainly did exist, and must've existed for a while now!
+Oh, just touching it has made a painful tingling chill linger in my palm.
+Just how much magical power is hidden within it...?</translation>
   </message>
   <message>
     <original>他にもこういった物が無いか
 調べてみる価値はあるな――</original>
+    <translation>Are there others like this?
+It may be worth investigating further...</translation>
   </message>
 </resource>

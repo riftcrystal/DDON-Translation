@@ -1,21 +1,31 @@
 ﻿<resource>
   <message>
     <original>"古い日記のページが落ちている"</original>
+    <translation>"A page from an old diary has fallen down."</translation>
   </message>
   <message>
     <original>ベヘモットを倒し、宝を入手できたのは良かったが
 それを塔まで持ち帰るのに苦労した――</original>
+    <translation>It was satisfying to beat that behemoth and get treasure from it,
+but I had a hard time bringing it back to the tower...</translation>
   </message>
   <message>
     <original>戦いの最中だけでなく、
 帰り道にすらアイツに苦労させられるとは――
 苦労した分、この素材が何に
 使えるのかという期待は高まる一方だ</original>
+    <translation>Not only during the battles,
+but even on the way back to that guy I have suffered hardships...
+Due to these struggles, the expectations I have for what this
+material can be used for are rising.</translation>
   </message>
   <message>
     <original>ここしばらくの収穫は
 我ながら好調すぎるほどだ
 日頃の感謝もあり、例の情報屋に話してみたが――</original>
+    <translation>The harvest here has been great for a while and
+I've felt the need to show gratitude because of it.
+For example, I spoke to the information broker...</translation>
   </message>
   <message>
     <original>青い顔になって、そんなものを集めるのは
@@ -23,8 +33,14 @@
 なんでも、“良くない運命”を引き寄せるとか――
 嘘をついている表情ではないが――
 にわかに信じがたい</original>
+    <translation>They became pale in the face, and said that collecting
+such things must be stopped at once. 
+Doing anything else, would be inviting "bad fate"...
+By the look on their face, they weren't lying...
+It's still hard to believe though.</translation>
   </message>
   <message>
     <original>向かう所敵無し、これほどの絶好調だと言うのに――</original>
+    <translation>I'm unbeatable though, and would say this is going to go perfectly well...</translation>
   </message>
 </resource>

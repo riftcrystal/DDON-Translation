@@ -1,27 +1,40 @@
 ﻿<resource>
   <message>
     <original>“筆跡が新しい日記のページが落ちている”</original>
+    <translation>"The handwriting is from a page that has fallen out of a new diary."</translation>
   </message>
   <message>
     <original>数多の魔物を打ち倒し、
 実力をつけていく手応えは確かに感じていた――
 だからこそ、慢心があったのかもしれない</original>
+    <translation>I certainly felt the way to put my skills to the test,
+was to defeat a multitude of monsters...
+Perhaps I was too overconfident in my ability.</translation>
   </message>
   <message>
     <original>先の戦いで手負いだとしても、油断があったとしても
 こうも簡単に囲まれるとは情けない――</original>
+    <translation>Even if you purposely throw the previous battle, and even if you
+were unprepared, it is pitiful to be surrounded as easily as this...</translation>
   </message>
   <message>
     <original>暗闇の先から、盗賊たちの息遣いが聞こえる
 この緊張を破るきっかけがあれば、
 飢えた狼のように一斉に飛びかかる気なのだろう</original>
+    <translation>From the darkness, you can hear the thieves breathing as 
+they wait for a chance to break the tension in the air.
+Perhaps they're going to jump out and strike in unison like starving wolves.</translation>
   </message>
   <message>
     <original>全てを塔に置いてきたことだけが、唯一の救いだ
 あの妖しき宝は、盗賊ごときに渡すのは惜しいからな</original>
+    <translation>Putting everything into the tower, may prove to be my salvation.
+That bewitching treasure, it would be regrettable to hand it over to someone such as a thief.</translation>
   </message>
   <message>
     <original>“良くない運命”
 ――あぁ、音も無く忍び寄られていたのか</original>
+    <translation>"Bad fate"
+...Aah, have you been creeping up on me without a sound?</translation>
   </message>
 </resource>
