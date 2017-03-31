@@ -56,7 +56,7 @@ It'll be visible next time you visit the Clan Hall.</translation>
     <original>以下を購入します。よろしいですか？
 　拡張項目：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
-    <translation>Purchasing the following. Is this Ok?
+    <translation>Are you sure you want to purchase the following?
 Extension Item: &lt;VAL&gt;
 Cost: &lt;VAL CP&gt;</translation>
   </message>
@@ -80,7 +80,7 @@ Cost: &lt;VAL CP&gt;</translation>
     <original>以下を購入します。よろしいですか？
 　支援効果：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
-    <translation>Purchasing the following. Is this Ok?
+    <translation>Are you sure you want to purchase the following?
 Support Effect: &lt;VAL&gt;
 Cost: &lt;VAL CP&gt;</translation>
   </message>
@@ -176,9 +176,9 @@ It will be visible in the dispatch of today's Pawn Expedition Corps.</translatio
     <original>クラン執務官を変更します。よろしいですか？
 　スタッフ：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
-    <translation>Changing the Clan Officer. Is this Ok?
-Staff： &lt;VAL&gt;
-Cost： &lt;VAL CP&gt;</translation>
+    <translation>Are you sure you want to change the Clan Officer?
+Staff: &lt;VAL&gt;
+Cost: &lt;VAL CP&gt;</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE</key>

@@ -91,7 +91,7 @@
 ・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</original>
     <translation>Notes:
 ・You can input up to 2 to 12 characters.
-・Half-size alphanumeric characters and some symbols '.,:;!?&amp;-_ can be used.</translation>
+・Alphanumeric characters and some symbols '.,:;!?&amp;-_ can be used.</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_S_INPUT_TITLE</key>
@@ -105,7 +105,7 @@
 ・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</original>
     <translation>Notes:
 ・You can input up to 2 to 3 characters.
-・Half-size alphanumeric characters and some symbols '.,:;!?&amp;-_ can be used.</translation>
+・Alphanumeric characters and some symbols '.,:;!?&amp;-_ can be used.</translation>
   </message>
   <message>
     <key>CLAN_EDIT_BBS</key>
