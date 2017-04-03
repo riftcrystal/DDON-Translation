@@ -51,8 +51,8 @@ Can be activated even while in the air.</translation>
     <key>NORMAL_SKILL_INFO_02_29</key>
     <original>構えたシーカーロープを狙った対象に放つ
 空中でも発動可能</original>
-    <translate>Throw the seeker rope towards the target aimed at.
-Can be activated even while in the air.</translate>
+    <translation>Throw the seeker rope towards the target aimed at.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_02_30</key>
