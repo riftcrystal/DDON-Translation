@@ -58,6 +58,9 @@ Restore path "Morfall North Gate"</translation>
     <original>封鎖エリアの開放《&lt;SPOT 909&gt;》
 新たな強敵が出現《&lt;SPOT 937&gt;》
 封鎖交通路が復旧《深層へ続く崖崩れ》</original>
+    <translation>Unblock area "&lt;SPOT 909&gt;"
+New powerful enemy at "&lt;SPOT 937&gt;"
+Restore path "deepest level blocked by cliff collapse"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_302</key>
@@ -68,6 +71,8 @@ Restore path "Morfall North Gate"</translation>
     <key>AREA_RANK_REWARD_303</key>
     <original>封鎖エリアが開放《&lt;SPOT 910&gt;》
 封鎖交通路が復旧《&lt;SPOT 944&gt;へ続く崖崩れ》</original>
+    <translation>Unblock area "&lt;SPOT 910&gt;"
+Restore path "&lt;SPOT 944&gt; blocked by cliff collapse"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_304</key>

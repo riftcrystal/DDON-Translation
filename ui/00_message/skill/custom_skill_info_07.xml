@@ -21,7 +21,8 @@ LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
 knocking down any caught in its path.
 Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;/KEYM&gt; to control the direction.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases movement distance. Increases number of hits.&lt;/COL&gt;</translation>
+LV.6: Increases movement distance. Increases
+number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_81</key>

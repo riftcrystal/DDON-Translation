@@ -58,11 +58,15 @@ New collectable item "Elana Water" appears</translation>
     <key>AREA_RANK_REWARD_271</key>
     <original>新たな強敵が出現《&lt;SPOT 933&gt;》
 封鎖エリアが開放《&lt;SPOT 890&gt;》</original>
+    <translation>New powerful enemy at "&lt;SPOT 933&gt;"
+Unblock area "&lt;SPOT 890&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_272</key>
     <original>新たな強敵が出現《&lt;SPOT 934&gt;》
 封鎖交通路が復旧《エラン大門》</original>
+    <translation>New powerful enemy at "&lt;SPOT 934&gt;"
+Restore path "Elan Front Gate"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_273</key>
