@@ -57,7 +57,7 @@ health recovery speed when affected by healing spells.
 繰り出す初動攻撃の吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
     <translation>When your Revenge Gauge is consumed,
-your Demon Slayer and True Demon Slayer's intial
+your Savage Lash and Indomitable Lash's intial
 quake has increased Blow Power.
 &lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
@@ -2411,7 +2411,7 @@ LV5~6: Increases cast speed.&lt;/COL&gt;</translation>
     <original>魔倒斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Demon Slayer.
+    <translation>Increases the damage of Inverse Slash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases chance attack and exhaust
 attack power.&lt;/COL&gt;</translation>

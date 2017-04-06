@@ -1649,14 +1649,17 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_KEY_SETTING</key>
     <original>キー設定</original>
+    <translation>Key Setting</translation>
   </message>
   <message>
     <key>OPTION_MSG_KEY_SETTING_DEFAULT</key>
     <original>デフォルト</original>
+    <translation>Default</translation>
   </message>
   <message>
     <key>OPTION_MSG_KEY_SETTING_CUSTOMIZE</key>
     <original>カスタマイズ&lt;VAL&gt;</original>
+    <translation>Customize &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>OPTION_MSG_KEY_CONFIG</key>
@@ -1686,6 +1689,7 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_LINK_JOB_KEY_NOT_AUTO_CHANGE</key>
     <original>自動変更しない</original>
+    <translation>Do Not Automatically Change.</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAMERARANGE_MAGIC</key>
@@ -1765,13 +1769,16 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPECHANGE</key>
     <original>自動拡大の操作で、&lt;KCTP DASH&gt;の優先行動</original>
+    <translation>While the minimap is enlarged, a &lt;KCTP DASH&gt; will</translation>
   </message>
   <message>
     <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE1</key>
     <original>ダッシュ</original>
+    <translation>Dash</translation>
   </message>
   <message>
     <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2</key>
     <original>オートラン</original>
+    <translation>Auto-run</translation>
   </message>
 </resource>

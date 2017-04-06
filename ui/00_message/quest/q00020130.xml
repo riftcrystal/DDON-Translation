@@ -1,148 +1,211 @@
 ﻿<resource>
   <message>
     <original>レオの使いを名乗る者が来た</original>
+    <translation>A person who claims to be a messenger for Leo has come.</translation>
   </message>
   <message>
     <original>準備を整えたレオが待っているから
 来てくれとのことだ</original>
+    <translation>They said Leo is ready, and waiting for you to arrive.</translation>
   </message>
   <message>
     <original>場所は禊の神殿だ
 勝手知ったる場所だろうが用心は怠るな？</original>
+    <translation>That place is the Temple of Purification, as you are
+well aware, but yet you are not even a bit discouraged?</translation>
   </message>
   <message>
     <original>黒騎士の魔手からセシリーを
 守る力が得られるのであれば
 レオに関してはもう何も言うまい</original>
+    <translation>If you are able, gain the power to protect Cecily
+from the Black Knight's evil influence.
+As for Leo, I have nothing to say about that matter.</translation>
   </message>
   <message>
     <original>大急ぎで調べたんだけど、竜の泪のことは
 手掛かりすら掴めない――</original>
+    <translation>I quickly examined it, but I have no clue what these
+"Tears of the Dragon" are...</translation>
   </message>
   <message>
     <original>ああ！　完全にお手上げだ！
 いやいや待て待て――</original>
+    <translation>Ah! I give up!
+No no no wait...</translation>
   </message>
   <message>
     <original>今、どんな状況？
 レオからの連絡はあったの？</original>
+    <translation>Now, what is the situation?
+Have you got in contact with Leo?</translation>
   </message>
   <message>
     <original>レオは必ずやってくれると信じてますよ、俺</original>
+    <translation>I believe Leo will surely do it.</translation>
   </message>
   <message>
     <original>あなたがセシリーを助けてくれるって
 言う人が大勢いるの</original>
+    <translation>There are a lot of people saying you will help
+Cecily.</translation>
   </message>
   <message>
     <original>実はわたしもそのひとり
 期待が重たいかもしれないけど――
 頑張ってね</original>
+    <translation>Actually, I am one of them.
+Although my expectations may be a high order,
+I wish you good luck.</translation>
   </message>
   <message>
     <original>いつもお願いばかりでごめんなさい
 でも、やっぱり、お願いするしかないの</original>
+    <translation>I'm sorry to always ask things of you.
+Nevertheless, as expected, all I can do is ask.</translation>
   </message>
   <message>
     <original>セシリーを助けてあげて！</original>
+    <translation>Please help Cecily!</translation>
   </message>
   <message>
     <original>これでダメならもう他に方法が――
 いや、良い結果だけを考えることにするよ</original>
+    <translation>Although, if there is no way to...
+No, I will only hope for the best.</translation>
   </message>
   <message>
     <original>レオの言うとおり、力が手に入るのかもしれんが
 わけのわからん力で身を滅ぼすなよ？</original>
+    <translation>As Leo said, it may be an ordeal to acquire that force.
+What if such a force could destroy you?</translation>
   </message>
   <message>
     <original>（呼吸がひときわ深くなったようだ）</original>
+    <translation>(Their breathing seems to have become noticeably deeper.)</translation>
   </message>
   <message>
     <original>気が急くか？　ああ、俺もだ</original>
+    <translation>Do you feel a need to hurry? Ah, I do as well.</translation>
   </message>
   <message>
     <original>俺達の望む力はこの先だ</original>
+    <translation>The force we seek is just ahead of us.</translation>
   </message>
   <message>
     <original>ああ――この時を俺は待ちわびていた
 さあ、共に戦い手に入れよう</original>
+    <translation>Ah...I was waiting for this time to come.
+Now, let us fight as one.</translation>
   </message>
   <message>
     <original>欲にまみれた愚か者め――
 身の程を知るがよい――</original>
+    <translation>Fool who is covered in desire...
+Know your place...</translation>
   </message>
   <message>
     <original>怯むな――これは白竜ではない！</original>
+    <translation>Do not hesitate...This is not the White Dragon!</translation>
   </message>
   <message>
     <original>ふん、ずいぶん腕を上げたな</original>
+    <translation>Hmm, I raised my arms a fair bit there.</translation>
   </message>
   <message>
     <original>おい、少しは遠慮しろ</original>
+    <translation>Hey, hold on a moment.</translation>
   </message>
   <message>
     <original>ほう――見違えたな</original>
+    <translation>Hoho...I hardly recognize you.</translation>
   </message>
   <message>
     <original>まだまだ負けないさ</original>
+    <translation>I won't lose just yet.</translation>
   </message>
   <message>
     <original>おまえの初陣、思い出したぞ</original>
+    <translation>Your first battle, I remember it.</translation>
   </message>
   <message>
     <original>さあ、竜力を切り取ってやろうではないか！</original>
+    <translation>Come now, let us cut out the dragon's force!</translation>
   </message>
   <message>
     <original>竜力の継承は覚者の正当なる権利だ！</original>
+    <translation>The inheritance of the dragon force is the rightful
+privilege of the Arisen!</translation>
   </message>
   <message>
     <original>竜から得た力で、竜の敵を倒すのだ！</original>
+    <translation>Vanquish the enemies of the dragon with the power
+the dragon has granted you!</translation>
   </message>
   <message>
     <original>くっ――オレは思い上がっていたのか？</original>
+    <translation>Ugh...was I so conceited?</translation>
   </message>
   <message>
     <original>強い――とてつもなく強いぞ――</original>
+    <translation>Strong...So unbelievably strong...</translation>
   </message>
   <message>
     <original>引くな――勝敗を決めるのは意志の力だ</original>
+    <translation>Pull through...Sheer willpower will decide the outcome.</translation>
   </message>
   <message>
     <original>おまえが手に入れた力は竜力で
 それは癒やしの力――</original>
+    <translation>The power you have acquired is a dragon's force,
+and it has a latent healing power...</translation>
   </message>
   <message>
     <original>俺ならセシリーの目を覚ましてやることに使うね
 勝てるかどうかわからねえ黒騎士にぶつけて
 おまえがやられたら目も当てられねえ</original>
+    <translation>I'll try to use it to awaken Cecily.
+I don't know if I can </translation>
   </message>
   <message>
     <original>どうなっているの？
 何か進展はあったの？</original>
+    <translation>What's happened?
+Have you made any progress?</translation>
   </message>
   <message>
     <original>セシリーの息が遠くなったよ？
 大丈夫だよね？</original>
+    <translation>Cecily's breathing is getting worse?
+Is it not okay?</translation>
   </message>
   <message>
     <original>セシリーの呼吸の間がひときわ長くなってきている
 もうあまり時間がない――</original>
+    <translation>Cecily's breaths are getting longer and longer.
+We do not have much time left...</translation>
   </message>
   <message>
     <original>おかえり、隊長！</original>
+    <translation>Welcome back, Captain!</translation>
   </message>
   <message>
     <original>隊長――みんな待ちわびてます</original>
+    <translation>Captain...everyone is waiting.</translation>
   </message>
   <message>
     <original>へぇ――
 俺の意見が通るとはね</original>
+    <translation>Really...
+Pass my opinion on.</translation>
   </message>
   <message>
     <original>良かった――ああ、本当に良かった</original>
+    <translation>It was great...Oh, it was really great.</translation>
   </message>
   <message>
     <original>隊長、やったね！</original>
+    <translation>Captain, you did it!</translation>
   </message>
   <message>
     <original>セシリー、記憶も戻ったって言ってましたよね！？

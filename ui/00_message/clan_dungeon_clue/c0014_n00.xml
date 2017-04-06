@@ -1,7 +1,7 @@
 ﻿<resource>
   <message>
     <original>“手記と思われる紙の切れ端が落ちている”</original>
-    <translation>"The piece of paper seems to be a note that has fallen down."</translation>
+    <translation>"Scraps of a paper note seem to have fallen down."</translation>
   </message>
   <message>
     <original>“塔”とは一体、どこにあるのだろう？</original>
@@ -35,6 +35,6 @@ we will arrive at the tower in due time.</translation>
 その遺志を継ぎ、形にして納めることで
 彼と私、お互いにとって良い弔いになるはずだ</original>
     <translation>The treasure that he had chased after until the time of his death...
-By carrying on his will, and shaping it, both he and I will have lavish funerals.</translation>
+By carrying on his will, and shaping it, both he and I, will have lavish funerals.</translation>
   </message>
 </resource>

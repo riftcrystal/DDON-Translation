@@ -62,7 +62,8 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_07_139</key>
     <original>しがみつき中にセットボタンを押す</original>
-    <translation>While climbing an enemy, press the assigned button.</translation>
+    <translation>While climbing an enemy, press the assigned 
+button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_07_140</key>

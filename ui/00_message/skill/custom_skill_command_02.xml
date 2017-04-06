@@ -70,7 +70,8 @@
 発動中にセットボタン再入力で追い打ち
 &lt;KC JUMP&gt;で急停止</original>
     <translation>Press the assigned button.
-Chase by pressing the assigned button again during skill activation.
+Chase by pressing the assigned button again
+during skill activation.
 Cancel the skill with &lt;KC JUMP&gt;</translation>
   </message>
 </resource>
