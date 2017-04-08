@@ -2,17 +2,21 @@
   <message>
     <key>ex_hint_001</key>
     <original>&lt;KC TOUCH&gt;長押しで耐えろ！</original>
+    <translation>&lt;KC TOUCH&gt;Hold to resist!</translation>
   </message>
   <message>
     <key>ex_hint_002</key>
     <original>耐えるのに失敗した！</original>
+    <translation>I failed to resist!</translation>
   </message>
   <message>
     <key>ex_hint_003</key>
     <original>&lt;KC JUMP&gt;で敵から離れろ！</original>
+    <translation>&lt;KC JUMP&gt;Get away from the enemy!</translation>
   </message>
   <message>
     <key>ex_hint_004</key>
     <original>&lt;KC CLIMB_JOLT&gt;連打で揺さぶれ！</original>
+    <translation>&lt;KC CLIMB_JOLT&gt;Shake repeatedly!</translation>
   </message>
 </resource>

@@ -75,8 +75,8 @@ Now, to the fort!</translation>
   <message>
     <original>バタバタしてるが、動きは悪くない
 自信を持って戦え！</original>
-    <translation>A bit gaudy, but your movements are
-good. Fight with confidence!</translation>
+    <translation>A bit gaudy, but your movements
+are good. Fight with confidence!</translation>
   </message>
   <message>
     <original>さあ、砦へ突入だ！</original>
@@ -294,7 +294,8 @@ to perform custom skills!</translation>
     <original>技は画面右下のガイドで確認してくれ！</original>
     <!-- NEEDS REVIEW -->
     <!--技は画面右下のガイドで確認！-->
-    <translation>Your skills are shown at the bottom right of your screen!</translation>
+    <translation>Your skills are shown at the bottom
+right of your screen!</translation>
   </message>
   <message>
     <original>オークや大型の敵には近づき、&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でしがみついて攻撃だ！</original>
