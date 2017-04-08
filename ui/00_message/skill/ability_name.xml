@@ -637,7 +637,7 @@
   <message>
     <key>ABILITY_NAME_193</key>
     <original>精堪</original>
-    <translation>Willpower</translation>
+    <translation>Resolute</translation>
   </message>
   <message>
     <key>ABILITY_NAME_216</key>
@@ -822,7 +822,7 @@
   <message>
     <key>ABILITY_NAME_17</key>
     <original>意地</original>
-    <translation>Willpower</translation>
+    <translation>Obstinacy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_45</key>
@@ -992,7 +992,7 @@
   <message>
     <key>ABILITY_NAME_43</key>
     <original>強壮</original>
-    <translation>Robust</translation>
+    <translation>Hardy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_56</key>
@@ -1682,7 +1682,7 @@
   <message>
     <key>ABILITY_NAME_397</key>
     <original>頑強</original>
-    <translation>Robust</translation>
+    <translation>Stubborn</translation>
   </message>
   <message>
     <key>ABILITY_NAME_439</key>

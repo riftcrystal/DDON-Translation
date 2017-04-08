@@ -2,18 +2,22 @@
   <message>
     <key>gacha_msg_holding_goldenstone</key>
     <original>所持黄金石</original>
+    <translation>Possessing Golden Gemstones</translation>
   </message>
   <message>
     <key>gacha_msg_holding_ticket</key>
     <original>所持シルバーチケット</original>
+    <translation>Possessing Silver Tickets</translation>
   </message>
   <message>
     <key>gacha_msg_num_goldenstone</key>
     <original>&lt;VAL&gt;個</original>
+    <translation>&lt;VAL&gt; Gem(s)</translation>
   </message>
   <message>
     <key>gacha_msg_num_ticket</key>
     <original>&lt;VAL&gt;枚</original>
+    <translation>&lt;VAL&gt; Ticket(s)</translation>
   </message>
   <message>
     <key>gacha_msg_draw</key>
@@ -23,22 +27,31 @@
   <message>
     <key>gacha_msg_multi_draw</key>
     <original>まわす(&lt;VAL&gt;連続)</original>
+    <translation>Draw (&lt;VAL&gt; Times)</translation>
   </message>
   <message>
     <key>gacha_msg_no_stone_todaraw</key>
     <original>黄金石が不足しています。ロットを1回まわすには、黄金石&lt;VAL&gt;個が必要です</original>
+    <translation>There is not enough Golden Gemstones. To draw from the lot once,
+&lt;VAL&gt; Golden Gemstones are required.</translation>
   </message>
   <message>
     <key>gacha_msg_no_stone_tomultidraw</key>
     <original>黄金石が不足しています。ロットを&lt;VAL&gt;連続でまわすには、黄金石&lt;VAL&gt;個が必要です</original>
+    <translation>There is not enough Golden Gemstones. To draw from the lot &lt;VAL&gt; times,
+&lt;VAL&gt; Golden Gemstones are required.</translation>
   </message>
   <message>
     <key>gacha_msg_no_ticket_todaraw</key>
     <original>チケットが不足しています。ロットを1回まわすには、チケット&lt;VAL&gt;枚が必要です</original>
+    <translation>There is not enough Silver Tickets. To draw from the lot once,
+&lt;VAL&gt; Silver Tickets are required.</translation>
   </message>
   <message>
     <key>gacha_msg_no_ticket_tomultidraw</key>
     <original>チケットが不足しています。ロットを&lt;VAL&gt;連続でまわすには、チケット&lt;VAL&gt;枚が必要です</original>
+    <translation>There is not enough Silver Tickets. To draw from the lot &lt;VAL&gt; times,
+&lt;VAL&gt; Silver Tickets are required.</translation>
   </message>
   <message>
     <key>gacha_msg_buy_goldenstone</key>
@@ -119,21 +132,29 @@
     <key>gacha_msg_isdraw_by_a_stone</key>
     <original>黄金石&lt;VAL&gt;個を消費して、
 ロットを1回まわします。よろしいですか？</original>
+    <translation>Are you sure you want to consume &lt;VAL&gt; Golden Gemstone(s),
+and draw from the lot once?</translation>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_stones</key>
     <original>黄金石&lt;VAL&gt;個を消費して、
 ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</original>
+    <translation>Are you sure you want to consume &lt;VAL&gt; Golden Gemstone(s),
+and draw from the lot &lt;VAL&gt; times?</translation>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_a_ticket</key>
     <original>チケット&lt;VAL&gt;枚を消費して、
 ロットを1回まわします。よろしいですか？</original>
+    <translation>Are you sure you want to consume &lt;VAL&gt; Silver Ticket(s),
+and draw from the lot once?</translation>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_tickets</key>
     <original>チケット&lt;VAL&gt;枚を消費して、
 ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</original>
+    <translation>Are you sure you want to consume &lt;VAL&gt; Silver Ticket(s),
+and draw from the lot &lt;VAL&gt; times?</translation>
   </message>
   <message>
     <key>gacha_msg_one_more_draw</key>
@@ -188,6 +209,7 @@
   <message>
     <key>gacha_msg_load_fail</key>
     <original>画像の読み込みに失敗しました</original>
+    <translation>Failed to load the image.</translation>
   </message>
   <message>
     <key>gacha_msg_use_stone</key>
@@ -218,10 +240,13 @@
     <key>gacha_msg_ana_send_box</key>
     <original>いいものは出たかしら？
 獲得したアイテムはアイテムポストに送っておくね</original>
+    <translation>Got something good?
+I'll send the item to your Item Post.</translation>
   </message>
   <message>
     <key>gacha_msg_ana_ng_box_full</key>
     <original>アイテムポストの空きが不足しているため、トレジャーズロットをまわすことができません</original>
+    <translation>Cannot draw from the Treasure Lot because the Item Post is full.</translation>
   </message>
   <message>
     <key>gacha_msg_ana_ng_gs_lack</key>
@@ -257,6 +282,8 @@
     <key>gacha_msg_annotation</key>
     <original>※提供確率は小数点第3位を四捨五入して表示しています
 　このため、合計が100%にならない場合もございます</original>
+    <translation>* Reward probability is rounded off to the third decimal place.
+For this reason, the total probability may not be 100%.</translation>
   </message>
   <message>
     <key>gacha_msg_title_box_e</key>
@@ -296,6 +323,7 @@
   <message>
     <key>gacha_msg_pray_trial</key>
     <original>お試しプレイ</original>
+    <translation>Trial Play</translation>
   </message>
   <message>
     <key>gacha_msg_pray_select</key>
@@ -315,6 +343,7 @@
   <message>
     <key>gacha_msg_pray_limit</key>
     <original>※プレイ回数制限</original>
+    <translation>* Play Limit</translation>
   </message>
   <message>
     <key>gacha_msg_box_state</key>
@@ -325,6 +354,8 @@
     <key>gacha_msg_annotation2</key>
     <original>提供割合は小数点第3位を四捨五入して表示しています
 このため、合計が100%にならない場合もございます</original>
+    <translation>Possible percentage is rounded off to the third decimal place.
+For this reason, the total percentage possible may not be 100%.</translation>
   </message>
   <message>
     <key>gacha_msg_supplemental</key>
@@ -345,6 +376,8 @@
     <key>gacha_msg_result_ng</key>
     <original>まだ一度もロットをまわしていない、もしくは
 別のロットをまわしたため、獲得情報がありません</original>
+    <translation>Either you have not drawn from this lot yet,
+or there is no reward history because another lot was drawn from instead.</translation>
   </message>
   <message>
     <key>gacha_msg_getitem</key>
@@ -402,6 +435,7 @@ Payment Method: &lt;VAL&gt;</translation>
   <message>
     <key>gacha_msg_dialog_error_01</key>
     <original>プレイ回数制限があります。これ以上はまわせません</original>
+    <translation>There is a play count limit. You cannot play again for now.</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_error_02</key>
