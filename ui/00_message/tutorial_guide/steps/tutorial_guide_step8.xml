@@ -4,8 +4,8 @@
     <original>&lt;COL ffdc78&gt;《メインクエスト》&lt;/COL&gt;は
 覚者としてあなたが紡ぐ、この地レスタニアと
 そこで生きる人々の物語を体験するクエストです</original>
-	<translation>The &lt;COL ffdc78&gt;《Main Quest》&lt;/COL&gt;
-is a quest where you, as the Arisen,
+	<translation>The &lt;COL ffdc78&gt;"Main Quest"&lt;/COL&gt;
+is an adventure where you, the Arisen,
 will experience the story of this
 land Lestania and the people living
 here.</translation>
@@ -18,15 +18,15 @@ here.</translation>
 
 概要、現在の目的、成功報酬などを
 知りたい場合はここで確認しましょう</original>
-	<translation>The 【&lt;KC UI_GAME_MENU&gt;】Game Menu
+	<translation>The [&lt;KC UI_GAME_MENU&gt;]Game Menu
 will show you details about
 quests in progress under
-《Quest》's &lt;COL ffdc78&gt;《Quest Log》&lt;/COL&gt;.
+"Quest" in the &lt;COL ffdc78&gt;"Quest Log"&lt;/COL&gt;.
 
-If you want to check the
+If you want to see the quest
 summary, current objective,
 completion reward, etc, you
-can see it here.</translation>
+can view it here.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_195</key>
@@ -46,7 +46,7 @@ on the minimap with a red circle.&lt;/COL&gt;
 
 Also, a history of previous
 quests is available from Priest
-Joseph in the 《Audience Room》.
+Joseph in the "Audience Room".
 
 If you wish to look back on
 previous exploits, give him
