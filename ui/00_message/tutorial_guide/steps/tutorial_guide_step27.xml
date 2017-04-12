@@ -30,9 +30,9 @@
     <translation>First, Basic Operation
 
 
-&lt;COL ffdc78&gt;Movement: &lt;/COL&gt;&lt;PADM&gt;[Left Stick]&lt;KEYM&gt;【&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_LEFT&gt;&lt;KC MOVE_BACKWARD&gt;&lt;KC MOVE_RIGHT&gt;】&lt;/KEYM&gt;
+&lt;COL ffdc78&gt;Movement: &lt;/COL&gt;&lt;PADM&gt;[Left Stick]&lt;KEYM&gt;[&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_LEFT&gt;&lt;KC MOVE_BACKWARD&gt;&lt;KC MOVE_RIGHT&gt;]&lt;/KEYM&gt;
 
-&lt;COL ffdc78&gt;Sprint: &lt;/COL&gt;&lt;PADM&gt;Press in [&lt;KC DASH&gt;] while moving&lt;KEYM&gt;Double tap movement key
+&lt;COL ffdc78&gt;Sprint: &lt;/COL&gt;&lt;PADM&gt;Press [&lt;KC DASH&gt;] while moving&lt;KEYM&gt;Double tap movement key
 (By default)&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;Jump: &lt;/COL&gt;[&lt;KC JUMP&gt;]</translation>
