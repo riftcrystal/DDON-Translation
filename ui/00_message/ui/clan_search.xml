@@ -12,6 +12,7 @@
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER</key>
     <original>メンバー数</original>
+    <translation>Members</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MOTTO</key>
@@ -56,10 +57,12 @@
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS</key>
     <original>&lt;VAL&gt;以下</original>
+    <translation>Below &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS_P</key>
     <original>&lt;VAL&gt;名以下</original>
+    <translation>Below &lt;VAL&gt; people</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_RANK_LIMIT</key>

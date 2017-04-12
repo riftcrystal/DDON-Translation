@@ -2,18 +2,22 @@
   <message>
     <key>CLAN_EME_TEXT_MARK</key>
     <original>マーク</original>
+    <translation>Mark</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_BASE</key>
     <original>ベース</original>
+    <translation>Base</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_COL_M</key>
     <original>ベースカラー(白地)</original>
+    <translation>Base Color (White Background)</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_COL_S</key>
     <original>ベースカラー(灰地)</original>
+    <translation>Base Color (Gray Background)</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_PREV</key>
@@ -22,6 +26,7 @@
   <message>
     <key>CLAN_EME_TEXT_DECIDE</key>
     <original>決定</original>
+    <translation>Confirm</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_CANCEL</key>
@@ -35,5 +40,6 @@
   <message>
     <key>CLAN_EME_TEXT_TITLE_JP</key>
     <original>エンブレム編集</original>
+    <translation>Emblem Edit</translation>
   </message>
 </resource>

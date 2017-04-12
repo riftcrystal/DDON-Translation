@@ -1,29 +1,43 @@
 ﻿<resource>
   <message>
     <original>"日記の１ページが落ちている"</original>
+    <translation>"A page out of a diary has fallen down."</translation>
   </message>
   <message>
     <original>この大陸は、その気候や生態、文化など
 全てにおいて異なる点が多く見られます</original>
+    <translation>On this continent, the climate, ecology, culture, and etc,
+are all so different than everything we knew.</translation>
   </message>
   <message>
     <original>特に、この水路で見たあのサルのような魔物――
 姿形はレスタニアに生息しているものに
 似ていますが、決定的に違うのは、そのトゲ――</original>
+    <translation>Particularly, monsters like the ape we had seen in this waterway..
+It's appearance is similar to those inhabiting Lestania,
+but decisively different, because of those thorns...</translation>
   </message>
   <message>
     <original>しかしこの魔物からも、レスタニアでは見る事の無い
 希少な素材を回収できました
 これで、水路に降りた目的を達成したはずです</original>
+    <translation>However, from this demon we were able to recover 
+one of the rare materials that did not exist in Lestania.
+With this, we should have achieved the purpose of why we came into this waterway.</translation>
   </message>
   <message>
     <original>――ベンジャミン様は
 ご友人の遺体と日記を発見してから
 以前にも増して寡黙になられたようです――</original>
+    <translation>...Master Benjamin seems to become more withdrawn
+the more we stumble upon the diaries of his acquaintances who have likely
+fallen...</translation>
   </message>
   <message>
     <original>時折、酷く悔しそうな表情をされます――
 しかしその真意までは
 ポーンの私には判らないのです</original>
+    <translation>Occasionally, I will have a look of chagrin on my face...
+but the intention behind it, is one that my pawn can't understand.</translation>
   </message>
 </resource>

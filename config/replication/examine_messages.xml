@@ -1,5 +1,17 @@
 ﻿<replication>
   <message_set name="examine message">
     <match>^ui\\00_message\\examine_message\\</match>
+		<rewrite>
+      <original_match>^(.+?)のエリアマスター機能が解放されました$</original_match>
+      <translation_replace>Area Master for {0} has been unlocked.</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)と(.+?)の(.+?)が解放されました$</original_match>
+      <translation_replace>{2} in {0} and {1} has been unlocked.</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="location name" />
+    </rewrite>
   </message_set>
 </replication>

@@ -1,28 +1,41 @@
 ﻿<resource>
   <message>
     <original>"誰かの日記の１ページが落ちている"</original>
+    <translation>"A page of someone's diary has fallen"</translation>
   </message>
   <message>
     <original>危ない所だった――
 ただでさえ怪力で厄介なサイクロプスが
 侵食によって、およそ生物とは
 思えない力を発揮していた</original>
+    <translation>It was a dangerous place...
+Even a simple Cyclops, already troublesome due to it's sturdiness,
+was demonstrating an unexpected strength when corrupted by these strange
+organisms.</translation>
   </message>
   <message>
     <original>まともに相手をしていたら、今頃命は無かっただろう
 今こうして日記を書いている手も、震えが止まらない</original>
+    <translation>If I did not have a decent partner, I would not currently be alive.
+Even as I write this, my hands cannot stop trembling.</translation>
   </message>
   <message>
     <original>なんとか手に入れたこのおぞましい貴重素材――
 見た目はひどいものだが、
 祈祷師や好事家あたりが見れば大喜びするだろう</original>
+    <translation>I did manage to acquire this valuable and hideous material somehow...
+Although it's a terrible sight to behold, you would be delighted to see the prices the
+shamans and dilettantes have offered for it.</translation>
   </message>
   <message>
     <original>しかし、金にするのが本当に正しい用途なのか？
 もっと集めることで、何か作り出せるのかもしれない</original>
+    <translation>But, is this really the right way to use it; making money?
+Perhaps by gathering more, something useful might be made from it.</translation>
   </message>
   <message>
     <original>例えば、それが武器だとしたら――
 大きな力を持つはずだ</original>
+    <translation>For example, if formed into a weapon...it should be imbued with great power.</translation>
   </message>
 </resource>

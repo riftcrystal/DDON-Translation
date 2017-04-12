@@ -43,6 +43,8 @@
     <key>CLAN_KYOTEN_MSG_EXT_BOUGHT_FUNC_NOTICE</key>
     <original>&lt;VAL&gt;を購入しました
 次回、クラン拠点へ訪れた時に反映されます</original>
+    <translation>Purchased &lt;VAL&gt;
+It'll be visible next time you visit the Clan Hall.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION</key>
@@ -54,6 +56,9 @@
     <original>以下を購入します。よろしいですか？
 　拡張項目：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
+    <translation>Are you sure you want to purchase the following?
+Extension Item: &lt;VAL&gt;
+Cost: &lt;VAL CP&gt;</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_NEED_ITEM</key>
@@ -75,11 +80,16 @@
     <original>以下を購入します。よろしいですか？
 　支援効果：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
+    <translation>Are you sure you want to purchase the following?
+Support Effect: &lt;VAL&gt;
+Cost: &lt;VAL CP&gt;</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BOUGHT_BUFF_NOTICE</key>
     <original>&lt;VAL&gt;を発動しました
 本日のポーン遠征隊の派遣に反映されます</original>
+    <translation>Activated &lt;VAL&gt;
+It will be visible in the dispatch of today's Pawn Expedition Corps.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_BOUGHT</key>
@@ -89,18 +99,22 @@
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_NO_AUTHORITY</key>
     <original>クランポイントを使用する権限が与えられていません</original>
+    <translation>You are not authorized to spend Clan Points.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CONDITION</key>
     <original>購入条件が満たされていません</original>
+    <translation>Purchase requirements have not been met.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CP</key>
     <original>クランポイントが足りません</original>
+    <translation>Insufficient Clan Points</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_ACTIVE</key>
     <original>すでに発動中の効果です</original>
+    <translation>Already activated.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BUFF_TITLE</key>
@@ -135,31 +149,40 @@
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_SET</key>
     <original>すでに設定されています</original>
+    <translation>Already set.</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF</key>
     <original>ポーン遠征隊支援</original>
+    <translation>Pawn Expedition Corps Support</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_CATEGORY_EXT</key>
     <original>クラン拠点拡張</original>
+    <translation>Clan Hall Extension</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP</key>
     <original>ポーン遠征隊拡張</original>
+    <translation>Pawn Expedition Extension</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_APPLY</key>
     <original>設定中</original>
+    <translation>Apply Setting</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BUY_CONCIERGE_CONFIRM</key>
     <original>クラン執務官を変更します。よろしいですか？
 　スタッフ：&lt;VAL&gt;
 　購入価格：&lt;VAL CP&gt;</original>
+    <translation>Are you sure you want to change the Clan Officer?
+Staff: &lt;VAL&gt;
+Cost: &lt;VAL CP&gt;</translation>
   </message>
   <message>
     <key>CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE</key>
     <original>クラン執務官を&lt;VAL&gt;に変更しました</original>
+    <translation>Changed Clan Officer to &lt;VAL&gt;</translation>
   </message>
 </resource>

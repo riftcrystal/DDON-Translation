@@ -17,6 +17,7 @@
   <message>
     <key>time_event_msg_02</key>
     <original>条件</original>
+    <translation>Requirements</translation>
   </message>
   <message>
     <key>time_event_msg_03</key>
@@ -31,5 +32,6 @@
   <message>
     <key>time_event_msg_05</key>
     <original>無制限</original>
+    <translation>Unlimited</translation>
   </message>
 </resource>

@@ -3,35 +3,49 @@
     <key>NORMAL_SKILL_INFO_06_92</key>
     <original>魔法弾を放つ
 空中でも発動可能</original>
+    <translation>Release a magickal bolt.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_93</key>
     <original>魔法の罠を敵の足元に展開する
 空中でも発動可能</original>
+    <translation>Summon a Magickal Trap at an enemy's feet.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_94</key>
     <original>マジックボールの弾数と
 マジックトラップの範囲を上昇させる
 空中でも発動可能</original>
+    <translation>Increases the number of Magick Bolts released and
+extends the range of Magick Traps.
+Can be activated even while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_95</key>
     <original>魔法詠唱中スペルサークルに示される順序で
 &lt;PADM&gt;スティック入力&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;を行い、魔法の威力を増加させる</original>
+    <translation>Move the &lt;PADM&gt; Right Stick;KEYM&gt;Mouse&lt;/KEYM&gt; in
+the order shown in the magic circle while casting a spell to increase it's power.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_96</key>
     <original>後方にすばやく移動する</original>
+    <translation>Quickly dodge backwards.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_101</key>
     <original>ジャンプ中の落下速度を抑制し
 滞空時間を延長する</original>
+    <translation>Slow your descent while falling, and
+extend the duration you stay in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_06_102</key>
     <original>しがみついた状態から、敵の体に魔印を刻む
 魔印に攻撃を加えると魔法波で敵を攻撃する</original>
+    <translation>While climbing an enemy, place a magickal orb on them
+that when attacked, will explode into waves of powerful magick.</translation>
   </message>
 </resource>

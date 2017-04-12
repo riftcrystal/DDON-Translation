@@ -244,7 +244,7 @@ death's door.
 ジャストタイミングが延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</original>
     <translation>Extends the just timing window for
-Demon Slash and True Demon Slash.
+Savage Lash and Indomitable Lash.
 &lt;COL ffdc78&gt;LV UP: Further extends window.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -2387,8 +2387,7 @@ LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
     <original>百裂斬り/阿修羅斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Scarlet Kisses/Biting
-Wind.
+    <translation>Increases the damage of Scarlet Kisses/Hundred Kisses.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -2489,8 +2488,7 @@ LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translatio
     <original>乱斬り/大乱斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Chaotic Strike/Great
-Chaotic Strike.
+    <translation>Increases the damage of Scarlet Slashes/Hundred Slashes.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
   </message>
@@ -2518,7 +2516,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of
-Demon Slash/True Demon Slash.
+Savage Lash/Indomitable Lash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -2877,7 +2875,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>連斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the amount of damage dealt by Scarlet Kisses.
+    <translation>Increases the amount of damage dealt by Carve.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -2974,7 +2972,7 @@ LV5~6: Increase chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>百裂斬り/阿修羅斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases damage of Hundred Kisses and Helm Splitter.
+    <translation>Increases damage of Scarlet Kisses/Hundred Kisses.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increase chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -3074,7 +3072,7 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>乱斬り/大乱斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Carve/Triple Cut.
+    <translation>Increases the damage of Scarlet Slashes/Hundred Slashes.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -3101,7 +3099,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>魔人斬り/真・魔人斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Demon Slash/True Demon Slash.
+    <translation>Increases the damage of Savage Lash/Indomitable Lash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -3229,7 +3227,7 @@ the weapon is enchanted.
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases damage of Keensight shots.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3237,18 +3235,18 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>フィールドシフト解除時の衝撃波のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases damage dealt by the shockwave
-created when cancelling Field Shift.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
+    <translation>Increases the damage of the shockwave generated when
+cancelling Field Shift.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
+LV5~6: Increases chance and exhaust attack.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_341</key>
     <original>シールドシーケンスのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Shield Counter.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+    <translation>Increases damage of Shield Sequence.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3257,7 +3255,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Roundhouse Kick.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3266,7 +3264,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
     <translation>Increases the damage of Magick Trap.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases casting speed.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3274,10 +3272,10 @@ LV5~6: Increases casting speed.&lt;/COL&gt;</translation>
     <original>奮わせ直魔矢の回復量が増加する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加
 LV5～6で効果範囲が拡大&lt;/COL&gt;</original>
-    <translation>Increased Stamina recovery amount
-on targets hit by or around recovery field.
-&lt;COL ffdc78&gt;LV UP: Further increases recovered amount.
-LV5~6: Increases effect range.&lt;/COL&gt;</translation>
+    <translation>Increases the stamina recovery amount of
+Invigorating Arrow.
+&lt;COL ffdc78&gt;LV UP: Further increases recovery amount.
+LV5~6: Expands range of effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_389</key>
@@ -3285,7 +3283,7 @@ LV5~6: Increases effect range.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Devastate.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3294,7 +3292,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Alchemical Radius.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3303,7 +3301,7 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Thrust More.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3319,79 +3317,81 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Dire Onslaught.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_319</key>
     <original>達人装填成功時に増加する弓射ちの矢の威力が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-  <translation>On a successful master reload, the bonus arrows do extra damage.
-&lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
+    <translation>Increases the damage of the triple shot arrow gained
+upon a perfect reload.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_331</key>
     <original>ヒールオーラまたはセイントオーラ展開中
 自身の物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>While Heal Aura or Saint Aura are active, the
-caster's Physical and Magical Defense are increased.
-&lt;COL ffdc78&gt;LV UP: Further increases Physical and Magical Defense.&lt;/COL&gt;</translation>
+    <translation> Increases Physical and Magickal Defense power while Heal Aura
+or Holy Aura are currently active.
+&lt;COL ffdc78&gt;LV UP: Further increases Physical and Magickal Defense power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_343</key>
     <original>アトラクト/モアアトラクトの
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
-    <translation>Reduces the Stamina consumption of Attract and Attract More.
-&lt;COL ffdc78&gt;LV UP: Further reduces Stamina consumption.&lt;/COL&gt;</translation>
+    <translation>Reduces stamina consumption of Attract/More Attract.
+&lt;COL ffdc78&gt;LV UP: Further reduces stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_355</key>
     <original>転身のスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
-    <translation>Reduces the Stamina consumption of the dodge roll.
-&lt;COL ffdc78&gt;LV UP: Further reduces Stamina consumption.&lt;/COL&gt;</translation>
+    <translation>Reduces stamina cost of Forward Roll.
+&lt;COL ffdc78&gt;LV UP: Further reduces stamina cost.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_367</key>
     <original>バックムーブのスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
-    <translation>Reduces the Stamina consumption of Back Move.
-&lt;COL ffdc78&gt;LV UP: Further reduces Stamina consumption.&lt;/COL&gt;</translation>
+    <translation>Reduces stamina cost of Back Move.
+&lt;COL ffdc78&gt;LV UP: Further reduces stamina cost.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_379</key>
     <original>助真の魔眼、弱体魔弓による
 シークレットコア出現時間が大幅に延長される
 &lt;COL ffdc78&gt;LV UP毎に出現時間がより延長&lt;/COL&gt;</original>
-    <translation>Greatly increases the duration that Secret Cores
-are exposed when revealed by Magick Eye: True Aid.
-&lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
+    <translation>The duration that secret cores revealed by Magick Eye: True Aid
+are exposed is greatly extended.
+&lt;COL ffdc78&gt;LV UP: Further increases the duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_391</key>
     <original>魔人斬り、真・魔人斬りによる
 リベンジゲージ消費時に少しゲージが残る
 &lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</original>
-    <translation>Using Demon Slayer or True Demon Slayer leaves a
-small amount of the Revenge Gauge after it is consumed.
-&lt;COL ffdc78&gt;LV UP: Leaves slightly more Revenge Gauge&lt;/COL&gt;</translation>
+    <translation>When using Savage Lash or Indomitable Lash, a tiny
+portion of the revenge gauge remains when the gauge is consumed.
+&lt;COL ffdc78&gt;LV UP: Further increases remaining gauge amount.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_403</key>
     <original>錬成値が最大の状態でエリクシルを発動すると、
 一定時間、物理防御力と魔法防御力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
-    <translation>Using a fully alchemized elixir increases Physical and Magical Defense for a time.
-&lt;COL ffdc78&gt;LV UP: Effect duration increases.&lt;/COL&gt;</translation>
+    <translation>When detonating a maximized Elixir, Physical and Magickal Defense
+power is increased for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases duration of effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_440</key>
     <original>攻撃時のスピリットゲージの蓄積量が増加
 &lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
-    <translation>The amount of Spirit Gauge gained by attacking increases.
-&lt;COL ffdc78&gt;LV UP: Further increases Spirit Gauge gain.&lt;/COL&gt;</translation>
+    <translation>Increases Spirit Gauge gained from attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases Gauge gains.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_263</key>
@@ -3404,8 +3404,8 @@ small amount of the Revenge Gauge after it is consumed.
     <key>ABILITY_INFO_307</key>
     <original>えぐり突きのスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に軽減量がより増加&lt;/COL&gt;</original>
-    <translation>Stamina consumption of Gouge is reduced.
-&lt;COL ffdc78&gt;LV UP: Further reduces Stamina consumption.&lt;/COL&gt;</translation>
+    <translation>Reduces stamina cost of Gouge.
+&lt;COL ffdc78&gt;LV UP: Further increases reduction amount.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_264</key>

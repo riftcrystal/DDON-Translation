@@ -69,16 +69,26 @@ charge to finish.</translation>
     <key>CUSTOM_SKILL_COMMAND_06_79</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動
 発動後、爆発が出るまでに&lt;PADM&gt;左スティック上下&lt;KEYM&gt;移動キー&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_BACKWARD&gt;&lt;/KEYM&gt;で攻撃範囲調整</original>
+    <translation>Begin casting by pressing the assigned button,
+and after the chant finishes, release to cause an explosion.
+The range of the skill can be adjusted by pressing &lt;PADM&gt;Left stick up or down.&lt;KEYM&gt;&lt;KC MOVE_FORWARD&gt; or &lt;KC MOVE_BACKWARD&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_06_137</key>
     <original>セットボタンを押して詠唱、詠唱完了で氷塊発現
 発現後、&lt;KC ATTACK1&gt;&lt;PADM&gt;または&lt;ICON PAD_L2&gt;か&lt;ICON PAD_R2&gt;&lt;/PADM&gt;を押すと射出
 &lt;KC TOUCH&gt;を押すと氷塊解除</original>
+    <translation>Begin casting by pressing the assigned button, conjuring a
+giant snowflake upon completion of the chant, and immediately afterwards press 
+&lt;KC ATTACK1&gt;,&lt;PADM&gt;or &lt;ICON PAD_L2&gt; or &lt;ICON PAD_R2&gt;&lt;/PADM&gt;.
+Pressing &lt;KC TOUCH&gt; will release the ice.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_06_138</key>
     <original>セットボタンを押して詠唱、詠唱完了で魔法杭発現
 発現後、再度セットボタンを押すと放電開始</original>
+    <translation>Begin casting by pressing the assigned button, conjuring a
+magickal stake upon completion of the chant, and press the assigned button again
+to start discharging it.</translation>
   </message>
 </resource>

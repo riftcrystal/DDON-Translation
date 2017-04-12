@@ -1827,8 +1827,8 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_quest_info_update</key>
     <original>パーティーメンバーが＜&lt;VAL&gt;＞を進行しました</original>
-    <translation>A party member has updated progress on the
-quest "&lt;VAL&gt;".</translation>
+    <translation>A party member has updated progress
+on the quest "&lt;VAL&gt;".</translation>
   </message>
   <message>
     <key>ana_quest_info_accept_solo</key>

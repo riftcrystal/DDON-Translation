@@ -59,11 +59,16 @@ Restore path "bridge heading to the east area"
     <original>封鎖エリアが開放《&lt;SPOT 904&gt;》
 封鎖エリアが開放《&lt;SPOT 898&gt;》
 封鎖交通路が復旧《ファーラナ高地の崖崩れ》</original>
+    <translation>Unblock area "&lt;SPOT 904&gt;"
+Unblock area "&lt;SPOT 898&gt;"
+Restore path "Farana Highland cliff collapse"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_287</key>
     <original>新たな強敵が出現《&lt;SPOT 924&gt;》
 封鎖エリアが開放《&lt;SPOT 901&gt;》</original>
+    <translation>New powerful enemy at "&lt;SPOT 924&gt;"
+Unblock area "&lt;SPOT 901&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_288</key>

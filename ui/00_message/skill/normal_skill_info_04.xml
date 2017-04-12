@@ -4,6 +4,9 @@
     <original>杖から魔法球を放つ
 ボタンの長押しで弾数、威力が上昇する
 空中でも発動可能（ボタン長押しは地上のみ）</original>
+    <translation>Fire magickal bolts from the tip of the cane.
+Holding the button down will increase the number and damage of bolts.
+Can be activated even while in the air, but can only charge on the ground.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_62</key>
@@ -12,12 +15,20 @@
 空中でも発動可能、フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UPで回復力が上昇し、より広範囲に
 エリア展開する＜ヒールオーラエクス＞に進化&lt;/COL&gt;</original>
+    <translation>Release a magickal aura around yourself that recovers
+the health of those within it. (Maximum recovery amount scales with healing power.)
+Can be activated even while in the air, and works with Field Shift.
+&lt;COL ffdc78&gt;LV UP: Increases healing power, and becomes a larger radius
+form (Great Heal Aura).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_63</key>
     <original>自身を中心に体力回復効果のある
 魔法エリアを広範囲に展開する
 空中でも発動可能、フィールドシフトに対応</original>
+    <translation>Release a magical aura around yourself that recovers
+the health of those within it.
+Can be activated even while in the air, and works with Field Shift.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_64</key>
@@ -26,31 +37,43 @@
 空中でも発動可能、フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UPで攻撃威力が上昇し、より広範囲に
 エリア展開する＜セイントオーラエクス＞に進化&lt;/COL&gt;</original>
+    <translation>Release a damaging Holy aura around yourself.
+Can be activated even while in the air, and works with Field Shift.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill, and becomes
+a larger radius form (Greater Holy Aura).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_65</key>
     <original>自身を中心に聖属性を帯びた攻撃魔法エリアを
 広範囲に展開する
 空中でも発動可能、フィールドシフトに対応</original>
+    <translation>Release a damaging Holy aura around yourself.
+Can be activated even while in the air, and works with Field Shift.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_66</key>
     <original>自身が展開している魔法エリアを
 味方全員に移し付与する</original>
+    <translation>Transfer an active magickal aura to an ally.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_68</key>
     <original>ジャンプ中の落下速度を抑制し
 滞空時間を延長する</original>
+    <translation>Slow your descent while falling, and
+extend the duration you stay in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_69</key>
     <original>しがみついた状態から、癒しの魔法陣を展開させる
 魔法陣の内部は味方の体力が回復する</original>
+    <translation>While climbing an enemy, form a healing aura around yourself
+that recovers the health of allies inside of it.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_146</key>
     <original>しがみついた状態から、自身を中心に
 聖属性の攻撃魔法エリアを展開する</original>
+    <translation>While climbing an enemy, form a damaging holy aura around yourself.</translation>
   </message>
 </resource>

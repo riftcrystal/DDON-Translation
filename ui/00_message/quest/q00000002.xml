@@ -3,90 +3,151 @@
     <original>【ヒント：新たなメインクエストについて】
 新たな&lt;COL ff7575&gt;メインクエスト＜和解の使者＞&lt;/COL&gt;が受注可能になりました
 謁見の間にいるレオに話しかけて受注しましょう</original>
+    <translation>[Tip: About New Main Quests]
+New &lt;COL ff7575&gt;Main Quest (Envoy of Reconciliation)&lt;/COL&gt;
+Gain new orders by speaking to Leo, who is in the Audience Chamber.</translation>
   </message>
   <message>
     <original>まず《謁見の間》へ行くこと
 そのあとでまた会おう
 少し話そうぜ</original>
+    <translation>First go to the "Audience Chamber". We'll talk again
+when we meet later on.</translation>
   </message>
   <message>
     <original>画面右上のミニマップを見て、赤いマーカーが示す
 《謁見の間》へ向かいましょう</original>
+    <translation>Look at the minimap on the top-right of
+the screen, and head for the "Audience Chamber"
+indicated by the red marker.</translation>
   </message>
   <message>
     <original>マップを拡大すると見やすくなります</original>
+    <translation>Expanding the map out makes it easier
+to see everything.</translation>
   </message>
   <message>
     <original>【ヒント：ミニマップのサイズ変更】</original>
+    <translation>[Tip: Resizing the Minimap]</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;&lt;KCT UI_MINIMAP&gt;を押しながら&lt;KCT UI_MINIMAP_SCALING&gt;&lt;/COL&gt;でサイズ変更</original>
+    <translation>&lt;COL ff7575&gt;While holding &lt;KCT UI_MINIMAP&gt;, change minmap
+size by pressing &lt;KCT UI_MINIMAP_SCALING&gt;&lt;/COL&gt;</translation>
   </message>
   <message>
     <original>ついてきな――謁見の間の前まで案内してやるよ</original>
+    <translation>Follow me. I'll show you around
+the Audience Chamber.</translation>
   </message>
   <message>
     <original>この神殿は白竜の守護のもと――神官によって統治されてるんだ</original>
+    <translation>This temple is under the
+protection of the White Dragon, and governed by
+the priests.</translation>
   </message>
   <message>
     <original>砦戦はどうだった？レオとイリスに相当いわれたようだな</original>
+    <translation>How went the battle? It seems
+it went fairly well according to Leo and Iris.</translation>
   </message>
   <message>
     <original>一人前の覚者になるためには――まだまだ戦い方を知る必要があるぜ</original>
+    <translation>In order to become an Arisen,
+you still need to know how to properly fight.</translation>
   </message>
   <message>
     <original>今のジョブが自分に合ってないと思うなら&lt;COL ff7575&gt;いつでも他のジョブに転職&lt;/COL&gt;も可能だ</original>
+    <translation>If you feel your current
+vocation does not suit you, &lt;COL ff7575&gt;it is possible to change
+to another vocation at any time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;装備を強くしたりスキルの使い方&lt;/COL&gt;などいろいろ教える事があるが――まずは白竜に挨拶が先だ</original>
+    <translation>There are many things to be
+taught, such as &lt;COL ff7575&gt;enhancing equipment and
+properly utilizing skills.&lt;/COL&gt;
+Before that however, it is time to greet the
+former White Dragon.</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;他の覚者と一緒に冒険に出る&lt;/COL&gt;――これもお前がもう少し一人前になってからだ</original>
+    <translation>&lt;COL ff7575&gt;Go out and adventure with
+other Arisen&lt;/COL&gt;, even if you feel you can handle
+things on your own.</translation>
   </message>
   <message>
     <original>あと自分の容姿が気に入らないようなら&lt;COL ff7575&gt;＜商店区＞にある美容院&lt;/COL&gt;にいくといいぜ</original>
+    <translation>If you're unsatisfied with your
+appearance, seek out the hairdresser
+&lt;COL ff7575&gt;located in the Shopping District's beauty salon.&lt;/COL&gt;</translation>
   </message>
   <message>
     <original>ついたぞ――この先が謁見の間だ</original>
+    <translation>We've arrived. Beyond this
+point lies the Audience Chamber.</translation>
   </message>
   <message>
     <original>今さら自己紹介でもないが
 俺は覚者の統率――まとめ役のレオだ</original>
+    <translation>Albeit a bit late for an introduction, I am Leo, the leader of the Arisen.</translation>
   </message>
   <message>
     <original>俺が重要だと考えている
 覚者の務めは、ふたつ</original>
+    <translation>I would like to think myself important, as are the duties of the Arisen.</translation>
   </message>
   <message>
     <original>ひとつは――
 石化した白竜の回復を助け
 完全なる復活への後押しをすること</original>
+    <translation>First of which, is to reverse the petrification of
+the White Dragon, and strive towards it's complete
+revival.</translation>
   </message>
   <message>
     <original>心臓を捧げた俺たちと
 その心臓を預かる白竜は一心同体だ</original>
+    <translation>We who dedicated our hearts, and the
+White Dragon whom safeguards the heart,
+are all of one mind.</translation>
   </message>
   <message>
     <original>白竜が力を取り戻せば、俺たち覚者の
 力も増す――もちろん、その逆もしかり</original>
+    <translation>If the White Dragon regains their strength, so
+too shall our strength increase,
+and of course, the reverse is also true.</translation>
   </message>
   <message>
     <original>加えて――
 白竜はこのレスタニアの大地とも
 深くつながっている</original>
+    <translation>Additionally, the White Dragon is also deeply
+connected to this land of Lestania.</translation>
   </message>
   <message>
     <original>つまり、レスタニアと、人々の未来は
 我々の双肩にかかっているというわけだ</original>
+    <translation>In other words, Lestania and the people's
+future, rests upon our shoulders.</translation>
   </message>
   <message>
     <original>もうひとつの務めは
 白竜の砦となり、盾として戦うこと</original>
+    <translation>Another duty of ours is to become a bulwark of
+the White Dragon, to fight as their shield.</translation>
   </message>
   <message>
     <original>このところ、オークどもの勢いが増している
 防衛隊はあちこちの小競り合いで敗走を重ね
 グリッテン砦への侵入まで許してしまった</original>
+    <translation>Recently, the Orc's offensive momentum has
+increased, and the Defense Corps have been
+repeatedly driven to defeat in skirmishes against
+them.
+We've allowed this to continue, that is, until the
+Invasion of Gritten Fort.</translation>
   </message>
   <message>
     <original>このきびしい季節の到来に合わせるように
@@ -96,9 +157,13 @@
   <message>
     <original>もちろん、苦難に背を向ける生き方もある
 だが、おまえは誇り高き道を選ぶ――</original>
+    <translation>Of course, there are ways to live that keep one
+away from suffering, but you chose a way to
+live proudly...</translation>
   </message>
   <message>
     <original>ああ、俺の目にくるいはない</original>
+    <translation>Ah...there's nothing in my eye.</translation>
   </message>
   <message>
     <original>（白竜は半ば石になっている――）</original>

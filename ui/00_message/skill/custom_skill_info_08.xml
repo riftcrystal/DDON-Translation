@@ -141,6 +141,15 @@ LV.6: Increases the duration of the sphere.&lt;/COL&gt;</translation>
 なお当たった部位は暫く自動的に魔矢の標的になる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力／詠唱速度の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>After gathering sufficient magickal power, let loose
+an extraordinarily powerful Holy arrow.
+The arrow can be controlled mid-flight with the &lt;PADM&gt;Left Stick&lt;KEYM&gt;Movement Keys&lt;/KEYM&gt;.
+The power of the skill depends on the max stamina available. The spot
+that is hit will automatically be targeted by magickal arrows for a period
+of time.
+&lt;COL ffdc78&gt;LV UP: Increases damage and cast speed of the skill.
+LV.6: Increases number of hits.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_141</key>
@@ -149,6 +158,11 @@ LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
 体力を一定量回復する（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に回復量上昇
 LV.６で起爆時の閃光効果強化&lt;/COL&gt;</original>
+    <translation>Let loose a holy magickal arrow imbued with the power to heal
+into the sky and detonate it. The arrow emits a strong flash at the time of detonation,
+and those within it's light recover a portion of health.(Damages Undead)
+&lt;COL ffdc78&gt;LV UP: Increases health recovery amount.
+LV.6: Increases the power of the flash at detonation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_142</key>
@@ -157,5 +171,10 @@ LV.６で起爆時の閃光効果強化&lt;/COL&gt;</original>
 自ら攻撃に向かう。侵食核の破壊に有効
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で連鎖回数増加&lt;/COL&gt;</original>
+    <translation>Let loose a dark magickal arrow that tears apart the enemy it
+contacts with tentacles. The tentacles will seek out additional enemies, and 
+attack them. Effective for destroying Infected Sprouts.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill.
+LV.6: Increases the target chain amount.&lt;/COL&gt;</translation>
   </message>
 </resource>

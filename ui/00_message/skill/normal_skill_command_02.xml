@@ -2,57 +2,75 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_02_24</key>
     <original>&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>Repeatedly press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_25</key>
     <original>&lt;KC ATTACK1&gt;後、少し遅らせて&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;, delay a moment and then repeatedly
+press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_26</key>
     <original>&lt;KC ATTACK2&gt;を連続して押す</original>
+    <translation>Repeatedly press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_27</key>
     <original>&lt;KC ATTACK2&gt;を連続して押す</original>
+    <translation>Repeatedly press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_32</key>
     <original>空中で&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>While in the air, press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_33</key>
     <original>空中で&lt;KC ATTACK2&gt;を押す</original>
+    <translation>While in the air, press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_28</key>
     <original>&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_29</key>
     <original>&lt;KC WEAPON_SUB&gt;を押しながら&lt;KC THROW_ROPE&gt;を押す</original>
+    <translation>Hold &lt;KC WEAPON_SUB&gt; and press &lt;KC THROW_ROPE&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_30</key>
     <original>&lt;KC ROLLING&gt;を押す</original>
+    <translation>Press &lt;KC ROLLING&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_31</key>
     <original>&lt;KC CATAPULT&gt;を押す</original>
+    <translation>Press &lt;KC CATAPULT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_36</key>
     <original>&lt;PADM&gt;空中で壁に対して逆に左スティックを倒しながら&lt;KC JUMP&gt;を押す&lt;KEYM&gt;空中で壁に対して逆に移動キーを押しながら&lt;KC JUMP&gt;を押す</original>
+    <translation>&lt;PADM&gt;Press &lt;KC JUMP&gt; while holding the left stick
+opposite a wall while in the air.
+&lt;KEYM&gt;Press &lt;KC JUMP&gt; while holding the directional key
+opposite a wall while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_37</key>
     <original>空中で&lt;KC JUMP&gt;を押す</original>
+    <translation>While in the air, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_38</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>While climbing an enemy, repeatedly press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_39</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>While climbing an enemy, repeatedly press &lt;KC ATTACK1&gt;</translation>
   </message>
 </resource>

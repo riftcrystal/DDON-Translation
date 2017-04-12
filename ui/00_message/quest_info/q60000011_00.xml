@@ -19,30 +19,42 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000011_00_1517</key>
     <original>アルケムで錬成物質を付着させ、敵の注意を引け</original>
+    <translation>Attach alchemical stakes to an enemy with Alchemy, and
+draw their attention.</translation>
   </message>
   <message>
     <key>q60000011_00_1518</key>
     <original>クラスターで錬成物質を付着させ、敵の注意を引け</original>
+    <translation>Attach alchemical stakes to an enemy using Cluster, and
+draw their attention.</translation>
   </message>
   <message>
     <key>q60000011_00_1519</key>
     <original>錬成物質をさらに付着させ、より敵の注意を引け</original>
+    <translation>Amplify the alchemical stakes by attacking them more,
+and draw more enemy attention.</translation>
   </message>
   <message>
     <key>q60000011_00_1520</key>
     <original>アルケム・フーガで敵の攻撃を避けろ</original>
+    <translation>Avoid an enemy attack with Alchemical Fuga</translation>
   </message>
   <message>
     <key>q60000011_00_1521</key>
     <original>錬成物質を敵に2体以上付着させよ</original>
+    <translation>Attach two masses of alchemical stakes to the enemy.</translation>
   </message>
   <message>
     <key>q60000011_00_1522</key>
     <original>敵に付着した錬成物質をエリクシルで解放せよ</original>
+    <translation>Unleash the power of the alchemical stakes on the enemy
+with Elixir.</translation>
   </message>
   <message>
     <key>q60000011_00_1526</key>
     <original>最奥の敵にしがみつきコンクラスターで攻撃せよ</original>
+    <translation>Cling to the enemy in the deeper chamber and attack them
+with Concluster.</translation>
   </message>
   <message>
     <key>q60000011_00_1523</key>

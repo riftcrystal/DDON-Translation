@@ -2,42 +2,52 @@
   <message>
     <key>CLAN_PROFILE_MOTTO_001</key>
     <original>自由がモットーです</original>
+    <translation>Freedom is the motto.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_002</key>
     <original>初心者にやさしく教えます</original>
+    <translation>Kind and informative to beginners.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_003</key>
     <original>メンバーを大切にします</original>
+    <translation>Values its members.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_004</key>
     <original>エンドコンテンツで遊びます</original>
+    <translation>Plays with the endgame content.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_005</key>
     <original>経験者募集</original>
+    <translation>Desires veterans.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_006</key>
     <original>クラフトを頑張ります</original>
+    <translation>Does the best at their craft.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_007</key>
     <original>モットー予備</original>
+    <translation>Motto reserved.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_008</key>
     <original>モットー予備</original>
+    <translation>Motto reserved.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_009</key>
     <original>モットー予備</original>
+    <translation>Motto reserved.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_010</key>
     <original>モットー予備</original>
+    <translation>Motto reserved.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_DAY_001</key>
@@ -82,6 +92,7 @@
   <message>
     <key>CLAN_PROFILE_FEATURE_001</key>
     <original>だれでも歓迎</original>
+    <translation>Anyone is welcome</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_002</key>
@@ -91,6 +102,7 @@
   <message>
     <key>CLAN_PROFILE_FEATURE_003</key>
     <original>熟練者歓迎</original>
+    <translation>Veterans welcome</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_004</key>
@@ -100,81 +112,101 @@
   <message>
     <key>CLAN_PROFILE_FEATURE_005</key>
     <original>クラン集会あります</original>
+    <translation>Holds clan meetings.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_006</key>
     <original>なりきりプレイ</original>
+    <translation>Free-form play</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_007</key>
     <original>雑談大好き</original>
+    <translation>Loves chatting</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_008</key>
     <original>チャット不要</original>
+    <translation>Non-chatty</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_009</key>
     <original>バトル大好き</original>
+    <translation>Loves Battle</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_010</key>
     <original>お金大好き</original>
+    <translation>Loves Money</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_011</key>
     <original>シナリオ大好き</original>
+    <translation>Loves scenarios</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_012</key>
     <original>クラフト大好き</original>
+    <translation>Loves crafting</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_013</key>
     <original>ランキング大好き</original>
+    <translation>Loves ranking up</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_014</key>
     <original>クエスト攻略大好き</original>
+    <translation>Loves quest strategies.</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_015</key>
     <original>ミッション攻略大好き</original>
+    <translation>Loves mission strategies</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_016</key>
     <original>ポーン育成大好き</original>
+    <translation>Loves pawn training</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_017</key>
     <original>アチーブ大好き</original>
+    <translation>Loves achievements</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_018</key>
     <original>レベルあげ大好き</original>
+    <translation>Loves levelling</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_019</key>
     <original>レア素材大好き</original>
+    <translation>Loves rare materials</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_020</key>
     <original>オーブエネミーを倒す</original>
+    <translation>Kills Blood Orb enemies</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_021</key>
     <original>クラン拠点あります</original>
+    <translation>There are Clan Halls</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_022</key>
     <original>ポーン遠征隊で遊ぼう</original>
+    <translation>Plays with Pawn Expedition Corps</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_023</key>
     <original>クランダンジョン大好き</original>
+    <translation>Loves Clan Dungeons</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_024</key>
     <original>特徴予備</original>
+    <translation>Not Available (Upcoming Feature)</translation>
   </message>
 </resource>

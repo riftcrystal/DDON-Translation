@@ -137,6 +137,10 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 ゲージが表示される全ての溜め行動、詠唱が対象
 &lt;COL ffdc78&gt;LV UP毎に展開中のスタミナ消費減少
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <translation>Focus a prayer on nearby allies, hastening the
+charging of all their skills that display a charge gauge.
+&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption of the skill.
+LV.6: Increases the range of effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_133</key>
@@ -145,6 +149,11 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <translation>Release a magickal aura around yourself that increases
+healing power for nearby allies.
+Can be used with Field Shift.
+&lt;COL ffdc78&gt;LV UP: Extends duration of effect after Field Shifting.
+LV.6: Increases the range of effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_134</key>
@@ -152,5 +161,9 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 同数の魔法球を放つ砲台を一定時間生成する
 &lt;COL ffdc78&gt;LV UP毎に魔法砲台の出現時間延長
 LV.６で魔法球の威力上昇／魔法砲台増加（１→２）&lt;/COL&gt;</original>
+    <translation>Call forth a magickal orb that acts as a turret and
+when hit by Blast Bit, will generate additional Blast Bits from itself.
+&lt;COL ffdc78&gt;LV UP: Increases duration of the magickal orb.
+LV.6: Increases the damage of the magickal orb, and the amount that are placed (1→2)&lt;/COL&gt;</translation>
   </message>
 </resource>

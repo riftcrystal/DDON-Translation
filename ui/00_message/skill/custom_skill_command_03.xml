@@ -63,9 +63,11 @@
     <key>CUSTOM_SKILL_COMMAND_03_131</key>
     <original>セットボタンを押す
 </original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_132</key>
     <original>セットボタンで構え後、セットボタンを連続して押す</original>
+    <translation>After pressing the assigned button, repeatedly press the assigned button.</translation>
   </message>
 </resource>

@@ -57,6 +57,7 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_02_28</key>
     <original>敵の攻撃を引きつけてセットボタンを押す</original>
+    <translation>Press the assigned button, and wait for an enemy's attack.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_02_129</key>
@@ -68,5 +69,8 @@
     <original>セットボタンを押す
 発動中にセットボタン再入力で追い打ち
 &lt;KC JUMP&gt;で急停止</original>
+    <translation>Press the assigned button.
+Chase by pressing the assigned button again during skill activation.
+Cancel the skill with &lt;KC JUMP&gt;</translation>
   </message>
 </resource>

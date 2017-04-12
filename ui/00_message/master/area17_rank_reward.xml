@@ -57,16 +57,22 @@ New collectable item "Kingalite" appears</translation>
     <key>AREA_RANK_REWARD_316</key>
     <original>封鎖交通路が復旧《&lt;SPOT 950&gt;へ続く大門・崖崩れ》
 新たな強敵が出現《&lt;SPOT 950&gt;》</original>
+    <translation>Restore path "gate to &lt;SPOT 950&gt; blocked by cliff collapse"
+New powerful enemy at "&lt;SPOT 950&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_317</key>
     <original>封鎖エリアが開放《&lt;SPOT 914&gt;》
 封鎖エリアが開放《&lt;SPOT 959&gt;》</original>
+    <translation>Unblock area "&lt;SPOT 914&gt;"
+Unblock area "&lt;SPOT 959&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_318</key>
     <original>新たな強敵が出現《&lt;SPOT 953&gt;》
 封鎖エリアが開放《&lt;SPOT 915&gt;》</original>
+    <translation>New powerful enemy at "&lt;SPOT 953&gt;"
+Unblock area "&lt;SPOT 915&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_319</key>

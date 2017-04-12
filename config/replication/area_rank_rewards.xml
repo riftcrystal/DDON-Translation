@@ -1,6 +1,7 @@
 ﻿<replication>
   <message_set name="area rank reward">
     <match>^ui\\00_message\\master\\area\d+_rank_reward$</match>
+    <!-- Unblock area -->
     <rewrite>
       <original_match>^封鎖エリア《ハイデル地下霊廟　深部～最深部》開放$</original_match>
       <translation_replace>Unblock areas "Hidell Catacombs Depths～Innermost Depths"</translation_replace>
@@ -19,6 +20,13 @@
       <translation_replace>Unblock area "&lt;SPOT {0}&gt;"</translation_replace>
     </rewrite>
     <rewrite>
+      <original_match>^封鎖エリアが開放《&lt;SPOT (\d+)&gt;》
+封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>Unblock area "&lt;SPOT {0}&gt;"
+Unblock area "&lt;SPOT {1}&gt;"</translation_replace>
+    </rewrite>
+    <!-- New powerful enemy -->
+    <rewrite>
       <original_match>^《\s*(.+?)\s*》に新たな強敵が出現$</original_match>
       <translation_replace>New powerful enemy at "{0}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -26,6 +34,19 @@
     <rewrite>
       <original_match>^新たな強敵が出現《&lt;SPOT (\d+)&gt;》$</original_match>
       <translation_replace>New powerful enemy at "&lt;SPOT {0}&gt;"</translation_replace>
+    </rewrite>
+    <!-- Mixed -->
+    <rewrite>
+      <original_match>^新たな強敵が出現《&lt;SPOT (\d+)&gt;》
+封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>New powerful enemy at "&lt;SPOT {0}&gt;"
+Unblock area "&lt;SPOT {1}&gt;"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^封鎖交通路が復旧《&lt;SPOT (\d+)&gt;へ続く大門・崖崩れ》
+新たな強敵が出現《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>Restore path "gate to &lt;SPOT {0}&gt; blocked by cliff collapse"
+New powerful enemy at "&lt;SPOT {1}&gt;"</translation_replace>
     </rewrite>
   </message_set>
 </replication>

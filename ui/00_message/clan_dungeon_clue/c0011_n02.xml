@@ -1,29 +1,43 @@
 ﻿<resource>
   <message>
     <original>"日記の１ページが落ちている"</original>
+    <translation>"A page out of a diary has fallen down."</translation>
   </message>
   <message>
     <original>遺跡の奥底に坐していたあの魔物――
 レスタニアに生息しているそれと姿形は似ているけど
 より凶暴で、俊敏だったように感じます</original>
+    <translation>That demon dwelling within the depths of the ruins...
+It looks similar to those that inhabit Lestania, but feels far more
+ferocious and agile.</translation>
   </message>
   <message>
     <original>それとは別に、見知った魔物も見かけました
 同様の進化を遂げたのか、何らかの手段で
 向こうからこちらへ渡って来たのか――</original>
+    <translation>That aside, I also saw a monster I recognized.
+Have you evolved in a similar way by some means?
+Did you cross over to here from there...?</translation>
   </message>
   <message>
     <original>しかし、我々の知っていた倒し方が通用したせいか
 ベンジャミン様は少し興奮しておられるようでした</original>
+    <translation>However, it seemed that Benjamin was a bit excited
+because the method of killing we knew had worked.</translation>
   </message>
   <message>
     <original>ベンジャミン様の命でこの日記をつけるように
 なってから、心の機微と出来事のつながりが
 整理でき、人の感情が推測できるように
 なってきた気がします――</original>
+    <translation>Since I had begun to record Benjamin's life in this diary,
+I feel it is now possible to organize the link between the subtleties of the mind,
+and the events of one's life to better understand how they feel...</translation>
   </message>
   <message>
     <original>この調子で、もう少し――
 主人の心に寄り添えるポーンになりたいものです</original>
+    <translation>In this manner, just a little further...
+I'll become a pawn that is closer to my master's heart.</translation>
   </message>
 </resource>

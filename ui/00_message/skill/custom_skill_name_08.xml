@@ -32,7 +32,7 @@
   <message>
     <key>CUSTOM_SKILL_NAME_08_99</key>
     <original>減防魔弓</original>
-    <translation>Dissolving Bow</translation>
+    <translation>Crippling Bow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_96</key>
@@ -47,7 +47,7 @@
   <message>
     <key>CUSTOM_SKILL_NAME_08_101</key>
     <original>減耐魔弓</original>
-    <translation>Debilitating Bow</translation>
+    <translation>Exhausting Bow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_102</key>
@@ -57,7 +57,7 @@
   <message>
     <key>CUSTOM_SKILL_NAME_08_103</key>
     <original>全霊弓</original>
-    <translation>Soul Bow</translation>
+    <translation>Gamble Draw</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_141</key>
@@ -67,5 +67,6 @@
   <message>
     <key>CUSTOM_SKILL_NAME_08_142</key>
     <original>触裂魔矢</original>
+    <translation>Tearing Tentacle Arrow</translation>
   </message>
 </resource>

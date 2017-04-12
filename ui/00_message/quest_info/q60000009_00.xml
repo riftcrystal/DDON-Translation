@@ -19,6 +19,7 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000009_00_1107</key>
     <original>闘波の魔眼で敵２体を捉えよ</original>
+    <translation>Capture 2 enemies within Magick Eye: Seeker</translation>
   </message>
   <message>
     <key>q60000009_00_1164</key>
@@ -28,34 +29,45 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000009_00_1165</key>
     <original>最適距離から闘波の魔眼で敵を３秒以上捉え攻撃せよ</original>
+    <translation>Get to the optimum distance away from enemies while using
+Magick Eye: Seeker, and attack them for more than 3 seconds.</translation>
   </message>
   <message>
     <key>q60000009_00_1536</key>
     <original>闘波の魔眼の集中力を最大まで溜めて攻撃せよ</original>
+    <translation>Fully charge a Seeker arrow, and loose it at an enemy.</translation>
   </message>
   <message>
     <key>q60000009_00_1166</key>
     <original>仲間に助真の魔眼を成功せよ</original>
+    <translation>Lock onto an ally with Magick Eye: True Aid.</translation>
   </message>
   <message>
     <key>q60000009_00_1167</key>
     <original>仲間の体力を助真の矢で回復せよ</original>
+    <translation>Recover an ally's health with True Aid arrows.</translation>
   </message>
   <message>
     <key>q60000009_00_1256</key>
     <original>癒しの装で自分の体力を回復せよ</original>
+    <translation>Recover your health with Healing Shroud.</translation>
   </message>
   <message>
     <key>q60000009_00_1257</key>
     <original>前蹴りで敵に攻撃せよ</original>
+    <translation>Attack an enemy with Front Kick.</translation>
   </message>
   <message>
     <key>q60000009_00_1168</key>
     <original>最奥の敵にしがみつき奮わせ直魔矢をせよ</original>
+    <translation>Cling to the enemy in the deeper chamber and use
+Invigorating Magick Arrow.</translation>
   </message>
   <message>
     <key>q60000009_00_1169</key>
     <original>敵怒り中に助真の構えでシークレットコアを発見せよ</original>
+    <translation>While the enemy is enraged, reveal it's secret core
+with Magick Eye: True Aid</translation>
   </message>
   <message>
     <key>q60000009_00_1170</key>
