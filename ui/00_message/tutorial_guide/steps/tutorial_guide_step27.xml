@@ -64,7 +64,7 @@
 &lt;COL ffdc78&gt;Reset Camera Position：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;Camera Distance：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】quickly tapped twice&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt; forward and backward】&lt;/KEYM&gt;</translation>-->
-    <translation>Next, Camera controls
+    <translation>Next, Camera Controls
 
 
 &lt;COL ffdc78&gt;Camera (POV) Operation: &lt;/COL&gt;&lt;PADM&gt;[Right Stick]&lt;KEYM&gt;[Move &lt;ICON MOUSE&gt;]&lt;/KEYM&gt;
