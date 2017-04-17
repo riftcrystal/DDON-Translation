@@ -57,6 +57,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_529</key>
     <original>討伐請け負います</original>
+	<translation>Taking Bounties</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_530</key>
@@ -156,26 +157,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_590</key>
     <original>小鬼退治Ⅰ</original>
+	<translation>Goblin Exterminator I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_591</key>
     <original>小鬼退治Ⅱ</original>
+	<translation>Goblin Exterminator II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_592</key>
     <original>小鬼退治Ⅲ</original>
+	<translation>Goblin Exterminator III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_608</key>
     <original>亜人ハンターⅠ</original>
+	<translation>Filth Hunter I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_609</key>
     <original>亜人ハンターⅡ</original>
+	<translation>Filth Hunter II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_610</key>
     <original>亜人ハンターⅢ</original>
+	<translation>Filth Hunter III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_623</key>
@@ -195,26 +202,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_629</key>
     <original>貪欲な魔獣Ⅰ</original>
+	<translation>Greedy Beasts I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_630</key>
     <original>貪欲な魔獣Ⅱ</original>
+	<translation>Greedy Beasts II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_631</key>
     <original>貪欲な魔獣Ⅲ</original>
+	<translation>Greedy Beasts III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_632</key>
     <original>黒き影狼Ⅰ</original>
+	<translation>Black Shadows I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_633</key>
     <original>黒き影狼Ⅱ</original>
+	<translation>Black Shadows II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_634</key>
     <original>黒き影狼Ⅲ</original>
+	<translation>Black Shadows III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_635</key>
@@ -264,50 +277,62 @@
   <message>
     <key>ACHIEVEMENT_NAME_653</key>
     <original>剣盾のファントムⅠ</original>
+	<translation>Phantoms of Sword and Shield I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_654</key>
     <original>剣盾のファントムⅡ</original>
+	<translation>Phantoms of Sword and Shield II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_655</key>
     <original>剣盾のファントムⅢ</original>
+	<translation>Phantoms of Sword and Shield III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_662</key>
     <original>死の気配Ⅰ</original>
+	<translation>Signs of Death I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_663</key>
     <original>死の気配Ⅱ</original>
+	<translation>Signs of Death II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_664</key>
     <original>死の気配Ⅲ</original>
+	<translation>Signs of Death III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_665</key>
     <original>亡霊の騎士Ⅰ</original>
+	<translation>Ghostly Knights I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_666</key>
     <original>亡霊の騎士Ⅱ</original>
+	<translation>Ghostly Knights II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_667</key>
     <original>亡霊の騎士Ⅲ</original>
+	<translation>Ghostly Knights III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_668</key>
     <original>魔性のドクロⅠ</original>
+	<translation>Magic Skulls I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_669</key>
     <original>魔性のドクロⅡ</original>
+	<translation>Magic Skulls II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_670</key>
     <original>魔性のドクロⅢ</original>
+	<translation>Magic Skulls III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_671</key>
