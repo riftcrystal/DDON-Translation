@@ -364,14 +364,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_683</key>
     <original>岩壁を這う者Ⅰ</original>
+	<translation>Rock Crawlers I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_684</key>
     <original>岩壁を這う者Ⅱ</original>
+	<translation>Rock Crawlers II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_685</key>
     <original>岩壁を這う者Ⅲ</original>
+	<translation>Rock Crawlers III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_689</key>
