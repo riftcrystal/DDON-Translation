@@ -382,26 +382,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_689</key>
     <original>トカゲ発電Ⅰ</original>
+	<translation>Lizard Power I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_690</key>
     <original>トカゲ発電Ⅱ</original>
+	<translation>Lizard Power II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_691</key>
     <original>トカゲ発電Ⅲ</original>
+	<translation>Lizard Power III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_692</key>
     <original>不死殺しⅠ</original>
+	<translation>Corpse Slayer I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_693</key>
     <original>不死殺しⅡ</original>
+	<translation>Corpse Slayer II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_694</key>
     <original>不死殺しⅢ</original>
+	<translation>Corpse Slayer III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_707</key>
@@ -421,26 +427,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_713</key>
     <original>葬儀屋Ⅰ</original>
+	<translation>The Undertaker I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_714</key>
     <original>葬儀屋Ⅱ</original>
+	<translation>The Undertaker II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_715</key>
     <original>葬儀屋Ⅲ</original>
+	<translation>The Undertaker III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_719</key>
     <original>歌う鳥妖Ⅰ</original>
+	<translation>Songbirds I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_720</key>
     <original>歌う鳥妖Ⅱ</original>
+	<translation>Songbirds II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_721</key>
     <original>歌う鳥妖Ⅲ</original>
+	<translation>Songbirds III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_725</key>
@@ -460,14 +472,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_728</key>
     <original>舞い散る黒翼Ⅰ</original>
+	<translation>Swirling and Dancing Black Wings I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_729</key>
     <original>舞い散る黒翼Ⅱ</original>
+	<translation>Swirling and Dancing Black Wings II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_730</key>
     <original>舞い散る黒翼Ⅲ</original>
+	<translation>Swirling and Dancing Black Wings III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_731</key>
@@ -502,14 +517,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_752</key>
     <original>メルガンの怨敵Ⅰ</original>
+	<translation>Sworn Enemy of the Mergan I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_753</key>
     <original>メルガンの怨敵Ⅱ</original>
+	<translation>Sworn Enemy of the Mergan II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_754</key>
     <original>メルガンの怨敵Ⅲ</original>
+	<translation>Sworn Enemy of the Mergan III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_773</key>
