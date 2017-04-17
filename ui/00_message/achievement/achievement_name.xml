@@ -352,14 +352,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_677</key>
     <original>忍び寄る縞模様Ⅰ</original>
+	<translation>Silent Veins I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_678</key>
     <original>忍び寄る縞模様Ⅱ</original>
+	<translation>Silent Veins II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_679</key>
     <original>忍び寄る縞模様Ⅲ</original>
+	<translation>Silent Veins III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_683</key>
