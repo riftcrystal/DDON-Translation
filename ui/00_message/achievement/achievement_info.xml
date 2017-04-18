@@ -6143,71 +6143,68 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2295</key>
-    <original>ファイターのジョブレベルが
-80に到達</original>
+    <original>ファイターのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Fighter Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2296</key>
-    <original>ハンターのジョブレベルが
-80に到達</original>
+    <original>ハンターのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Hunter Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2297</key>
-    <original>プリーストのジョブレベルが
-80に到達</original>
+    <original>プリーストのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Priest Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2298</key>
-    <original>シールドセージのジョブレベルが
-80に到達</original>
+    <original>シールドセージのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Shield Sage Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2299</key>
-    <original>シーカーのジョブレベルが
-80に到達</original>
+    <original>シーカーのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Seeker Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2300</key>
-    <original>ソーサラーのジョブレベルが
-80に到達</original>
+    <original>ソーサラーのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Sorceror Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2301</key>
-    <original>エレメントアーチャーのジョブレベルが
-80に到達</original>
+    <original>エレメントアーチャーのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Element Archer Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2302</key>
-    <original>ウォリアーのジョブレベルが
-80に到達</original>
+    <original>ウォリアーのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Warrior Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2303</key>
-    <original>アルケミストのジョブレベルが
-80に到達</original>
+    <original>アルケミストのジョブレベルが80に到達</original>
+	<translation>Reach Level 80 in the Alchemist Vocation</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2304</key>
-    <original>スピリットランサーのジョブレベルが
-10に到達</original>
+    <original>スピリットランサーのジョブレベルが10に到達</original>
     <translation>Reach job level 10 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2305</key>
-    <original>スピリットランサーのジョブレベルが
-40に到達</original>
+    <original>スピリットランサーのジョブレベルが40に到達</original>
     <translation>Reach job level 40 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2306</key>
-    <original>スピリットランサーのジョブレベルが
-60に到達</original>
+    <original>スピリットランサーのジョブレベルが60に到達</original>
     <translation>Reach job level 60 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2307</key>
-    <original>スピリットランサーのジョブレベルが
-80に到達</original>
+    <original>スピリットランサーのジョブレベルが80に到達</original>
+	<translation>Reach job level 80 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2308</key>
