@@ -6509,14 +6509,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
     <original>精霊竜ウィルミアを1体討伐</original>
+	<translation>Kill 1 Wyrmia Spirit Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2377</key>
     <original>精霊竜ウィルミアを10体討伐</original>
+	<translation>Kill 10 Wyrmia Spirit Dragons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2378</key>
     <original>精霊竜ウィルミアを100体討伐</original>
+	<translation>Kill 100 Wyrmia Spirit Dragons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2379</key>
@@ -6641,34 +6644,42 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2537</key>
     <original>エラン水林で精霊の火種を15個発見</original>
+	<translation>Find 15 Fire Spirits in the Eran Water Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2538</key>
     <original>エラン水林で精霊の火種を30個発見</original>
+	<translation>Find 30 Fire Spirits in the Eran Water Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2539</key>
     <original>ファーラナ平原で精霊の火種を15個発見</original>
+	<translation>Find 15 Fire Spirits on the Farana Plain</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2540</key>
     <original>ファーラナ平原で精霊の火種を30個発見</original>
+	<translation>Find 30 Fire Spirits on the Farana Plain</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2541</key>
     <original>モロー樹林で精霊の火種を15個発見</original>
+	<translation>Find 15 Fire Spirits in the Morrow Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2542</key>
     <original>モロー樹林で精霊の火種を30個発見</original>
+	<translation>Find 30 Fire Spirits in the Morrow Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2543</key>
     <original>キンガル峡谷で精霊の火種を15個発見</original>
+	<translation>Find 15 Fire Spirits in the Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2544</key>
     <original>キンガル峡谷で精霊の火種を30個発見</original>
+	<translation>Find 30 Fire Spirits in the Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2545</key>
