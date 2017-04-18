@@ -57,6 +57,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_529</key>
     <original>討伐請け負います</original>
+	<translation>Taking Bounties</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_530</key>
@@ -156,26 +157,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_590</key>
     <original>小鬼退治Ⅰ</original>
+	<translation>Goblin Exterminator I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_591</key>
     <original>小鬼退治Ⅱ</original>
+	<translation>Goblin Exterminator II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_592</key>
     <original>小鬼退治Ⅲ</original>
+	<translation>Goblin Exterminator III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_608</key>
     <original>亜人ハンターⅠ</original>
+	<translation>Filth Hunter I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_609</key>
     <original>亜人ハンターⅡ</original>
+	<translation>Filth Hunter II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_610</key>
     <original>亜人ハンターⅢ</original>
+	<translation>Filth Hunter III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_623</key>
@@ -195,26 +202,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_629</key>
     <original>貪欲な魔獣Ⅰ</original>
+	<translation>Greedy Beasts I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_630</key>
     <original>貪欲な魔獣Ⅱ</original>
+	<translation>Greedy Beasts II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_631</key>
     <original>貪欲な魔獣Ⅲ</original>
+	<translation>Greedy Beasts III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_632</key>
     <original>黒き影狼Ⅰ</original>
+	<translation>Black Shadows I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_633</key>
     <original>黒き影狼Ⅱ</original>
+	<translation>Black Shadows II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_634</key>
     <original>黒き影狼Ⅲ</original>
+	<translation>Black Shadows III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_635</key>
@@ -264,50 +277,62 @@
   <message>
     <key>ACHIEVEMENT_NAME_653</key>
     <original>剣盾のファントムⅠ</original>
+	<translation>Phantoms of Sword and Shield I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_654</key>
     <original>剣盾のファントムⅡ</original>
+	<translation>Phantoms of Sword and Shield II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_655</key>
     <original>剣盾のファントムⅢ</original>
+	<translation>Phantoms of Sword and Shield III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_662</key>
     <original>死の気配Ⅰ</original>
+	<translation>Signs of Death I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_663</key>
     <original>死の気配Ⅱ</original>
+	<translation>Signs of Death II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_664</key>
     <original>死の気配Ⅲ</original>
+	<translation>Signs of Death III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_665</key>
     <original>亡霊の騎士Ⅰ</original>
+	<translation>Ghostly Knights I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_666</key>
     <original>亡霊の騎士Ⅱ</original>
+	<translation>Ghostly Knights II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_667</key>
     <original>亡霊の騎士Ⅲ</original>
+	<translation>Ghostly Knights III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_668</key>
     <original>魔性のドクロⅠ</original>
+	<translation>Magic Skulls I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_669</key>
     <original>魔性のドクロⅡ</original>
+	<translation>Magic Skulls II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_670</key>
     <original>魔性のドクロⅢ</original>
+	<translation>Magic Skulls III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_671</key>
@@ -327,50 +352,62 @@
   <message>
     <key>ACHIEVEMENT_NAME_677</key>
     <original>忍び寄る縞模様Ⅰ</original>
+	<translation>Silent Veins I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_678</key>
     <original>忍び寄る縞模様Ⅱ</original>
+	<translation>Silent Veins II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_679</key>
     <original>忍び寄る縞模様Ⅲ</original>
+	<translation>Silent Veins III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_683</key>
     <original>岩壁を這う者Ⅰ</original>
+	<translation>Rock Crawlers I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_684</key>
     <original>岩壁を這う者Ⅱ</original>
+	<translation>Rock Crawlers II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_685</key>
     <original>岩壁を這う者Ⅲ</original>
+	<translation>Rock Crawlers III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_689</key>
     <original>トカゲ発電Ⅰ</original>
+	<translation>Lizard Power I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_690</key>
     <original>トカゲ発電Ⅱ</original>
+	<translation>Lizard Power II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_691</key>
     <original>トカゲ発電Ⅲ</original>
+	<translation>Lizard Power III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_692</key>
     <original>不死殺しⅠ</original>
+	<translation>Corpse Slayer I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_693</key>
     <original>不死殺しⅡ</original>
+	<translation>Corpse Slayer II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_694</key>
     <original>不死殺しⅢ</original>
+	<translation>Corpse Slayer III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_707</key>
@@ -390,26 +427,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_713</key>
     <original>葬儀屋Ⅰ</original>
+	<translation>The Undertaker I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_714</key>
     <original>葬儀屋Ⅱ</original>
+	<translation>The Undertaker II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_715</key>
     <original>葬儀屋Ⅲ</original>
+	<translation>The Undertaker III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_719</key>
     <original>歌う鳥妖Ⅰ</original>
+	<translation>Songbirds I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_720</key>
     <original>歌う鳥妖Ⅱ</original>
+	<translation>Songbirds II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_721</key>
     <original>歌う鳥妖Ⅲ</original>
+	<translation>Songbirds III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_725</key>
@@ -429,14 +472,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_728</key>
     <original>舞い散る黒翼Ⅰ</original>
+	<translation>Swirling and Dancing Black Wings I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_729</key>
     <original>舞い散る黒翼Ⅱ</original>
+	<translation>Swirling and Dancing Black Wings II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_730</key>
     <original>舞い散る黒翼Ⅲ</original>
+	<translation>Swirling and Dancing Black Wings III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_731</key>
@@ -471,26 +517,32 @@
   <message>
     <key>ACHIEVEMENT_NAME_752</key>
     <original>メルガンの怨敵Ⅰ</original>
+	<translation>Sworn Enemy of the Mergan I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_753</key>
     <original>メルガンの怨敵Ⅱ</original>
+	<translation>Sworn Enemy of the Mergan II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_754</key>
     <original>メルガンの怨敵Ⅲ</original>
+	<translation>Sworn Enemy of the Mergan III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_773</key>
     <original>荒くれ鎮圧Ⅰ</original>
+	<translation>Violent Suppression I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_774</key>
     <original>荒くれ鎮圧Ⅱ</original>
+	<translation>Violent Suppression II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_775</key>
     <original>荒くれ鎮圧Ⅲ</original>
+	<translation>Violent Suppression III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_794</key>
@@ -525,74 +577,92 @@
   <message>
     <key>ACHIEVEMENT_NAME_836</key>
     <original>迷えるポーンに安らぎをⅠ</original>
+	<translation>Lost Pawns Live Peacefully I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_837</key>
     <original>迷えるポーンに安らぎをⅡ</original>
+	<translation>Lost Pawns Live Peacefully II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_838</key>
     <original>迷えるポーンに安らぎをⅢ</original>
+	<translation>Lost Pawns Live Peacefully III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_863</key>
     <original>森の妖鬼Ⅰ</original>
+	<translation>Forest Demons I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_864</key>
     <original>森の妖鬼Ⅱ</original>
+	<translation>Forest Demons II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_865</key>
     <original>森の妖鬼Ⅲ</original>
+	<translation>Forest Demons III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_872</key>
     <original>血濡れの赤帽Ⅰ</original>
+	<translation>Bloodsoaked Redcaps I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_873</key>
     <original>血濡れの赤帽Ⅱ</original>
+	<translation>Bloodsoaked Redcaps II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_874</key>
     <original>血濡れの赤帽Ⅲ</original>
+	<translation>Bloodsoaked Redcaps III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_881</key>
     <original>異形の小鬼Ⅰ</original>
+	<translation>Grotesque Demons I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_882</key>
     <original>異形の小鬼Ⅱ</original>
+	<translation>Grotesque Demons II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_883</key>
     <original>異形の小鬼Ⅲ</original>
+	<translation>Grotesque Demons III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_899</key>
     <original>呪いの妖精Ⅰ</original>
+	<translation>Cursed Fairy I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_900</key>
     <original>呪いの妖精Ⅱ</original>
+	<translation>Cursed Fairy II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_901</key>
     <original>呪いの妖精Ⅲ</original>
+	<translation>Cursed Fairy III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_914</key>
     <original>害虫駆除業者Ⅰ</original>
+	<translation>Pest Control Agent I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_915</key>
     <original>害虫駆除業者Ⅱ</original>
+	<translation>Pest Control Agent II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_916</key>
     <original>害虫駆除業者Ⅲ</original>
+	<translation>Pest Control Agent III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_917</key>
