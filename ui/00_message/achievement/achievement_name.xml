@@ -532,14 +532,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_773</key>
     <original>荒くれ鎮圧Ⅰ</original>
+	<translation>Violent Suppression I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_774</key>
     <original>荒くれ鎮圧Ⅱ</original>
+	<translation>Violent Suppression II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_775</key>
     <original>荒くれ鎮圧Ⅲ</original>
+	<translation>Violent Suppression III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_794</key>
@@ -574,74 +577,92 @@
   <message>
     <key>ACHIEVEMENT_NAME_836</key>
     <original>迷えるポーンに安らぎをⅠ</original>
+	<translation>Lost Pawns Live Peacefully I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_837</key>
     <original>迷えるポーンに安らぎをⅡ</original>
+	<translation>Lost Pawns Live Peacefully II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_838</key>
     <original>迷えるポーンに安らぎをⅢ</original>
+	<translation>Lost Pawns Live Peacefully III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_863</key>
     <original>森の妖鬼Ⅰ</original>
+	<translation>Forest Demons I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_864</key>
     <original>森の妖鬼Ⅱ</original>
+	<translation>Forest Demons II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_865</key>
     <original>森の妖鬼Ⅲ</original>
+	<translation>Forest Demons III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_872</key>
     <original>血濡れの赤帽Ⅰ</original>
+	<translation>Bloodsoaked Redcaps I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_873</key>
     <original>血濡れの赤帽Ⅱ</original>
+	<translation>Bloodsoaked Redcaps II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_874</key>
     <original>血濡れの赤帽Ⅲ</original>
+	<translation>Bloodsoaked Redcaps III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_881</key>
     <original>異形の小鬼Ⅰ</original>
+	<translation>Grotesque Demons I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_882</key>
     <original>異形の小鬼Ⅱ</original>
+	<translation>Grotesque Demons II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_883</key>
     <original>異形の小鬼Ⅲ</original>
+	<translation>Grotesque Demons III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_899</key>
     <original>呪いの妖精Ⅰ</original>
+	<translation>Cursed Fairy I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_900</key>
     <original>呪いの妖精Ⅱ</original>
+	<translation>Cursed Fairy II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_901</key>
     <original>呪いの妖精Ⅲ</original>
+	<translation>Cursed Fairy III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_914</key>
     <original>害虫駆除業者Ⅰ</original>
+	<translation>Pest Control Agent I</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_915</key>
     <original>害虫駆除業者Ⅱ</original>
+	<translation>Pest Control Agent II</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_916</key>
     <original>害虫駆除業者Ⅲ</original>
+	<translation>Pest Control Agent III</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_917</key>
