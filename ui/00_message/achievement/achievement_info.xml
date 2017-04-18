@@ -6454,49 +6454,57 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2362</key>
     <original>タラスクを1体討伐</original>
-    <translation>Kill 1 タラスクを</translation>
+    <translation>Kill 1 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2363</key>
     <original>タラスクを10体討伐</original>
-    <translation>Kill 10 タラスクを</translation>
+    <translation>Kill 10 Tarasques</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2364</key>
     <original>タラスクを100体討伐</original>
-    <translation>Kill 100 タラスクを</translation>
+    <translation>Kill 100 Tarasques</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2368</key>
     <original>グリーンガーディアンを50体討伐</original>
+	<translation>Kill 50 Green Guardians</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2369</key>
     <original>セイレーンを50体討伐</original>
+	<translation>Kill 50 Sirens</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2370</key>
     <original>狂侵グリフィンを50体討伐</original>
+	<translation>Kill 50 Mad Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2371</key>
     <original>狂侵デーモンを50体討伐</original>
+	<translation>Kill 50 Mad Demons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
     <original>フィンダーエントを50体討伐</original>
+	<translation>Kill 50 Finder Ents</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2373</key>
     <original>黒騎士を1体討伐</original>
+	<translation>Kill 1 Black Knight</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2374</key>
     <original>黒騎士を10体討伐</original>
+	<translation>Kill 10 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2375</key>
     <original>黒騎士を100体討伐</original>
+	<translation>Kill 100 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
