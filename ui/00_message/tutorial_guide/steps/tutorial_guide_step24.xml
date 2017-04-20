@@ -8,6 +8,12 @@
 （パーティーメンバーの現在位置、敵や施設、
 　地名やクエスト目的地など）
 が確認できるため、ぜひ活用してください</original>
+    <translation>In the Game Menu, selecting "World", then &lt;COL ffdc78&gt;"Map"&lt;/COL&gt;
+will show a wider view of the world than the mini-map.
+
+To check various information useful to your adventure
+(Party member's current locations, enemies, buildings,
+place names or quest objectives), make sure to use it.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_223</key>
@@ -20,5 +26,14 @@
 　【&lt;KC UI_Y&gt;】透明度の変更
 ＜フリーマーカー＞　
 　【&lt;KC UI_MAP_FREEMARKER&gt;】設置／消去（長押し）</original>
+    <translation>Operating the "Map" in the Game Menu.
+
+Local/Field/Global Switch:
+　[&lt;KC UI_LB&gt;/&lt;KC UI_RB&gt;] Switch Left/Right
+Display Change:
+　[&lt;KC UI_MAP_ZOOM_IN&gt;/&lt;KC UI_MAP_ZOOM_OUT&gt;] Zoom in/out
+　[&lt;KC UI_Y&gt;] Change transparency
+Free Marker:
+　[&lt;KC UI_MAP_FREEMARKER&gt;] Place/Remove (Hold)</translation>
   </message>
 </resource>

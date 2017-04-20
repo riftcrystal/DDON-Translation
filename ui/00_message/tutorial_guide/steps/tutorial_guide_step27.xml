@@ -27,6 +27,15 @@
 &lt;COL ffdc78&gt;Sprint:&lt;/COL&gt;&lt;PADM&gt;Press the【&lt;ICON PAD_L3&gt;button】while moving.&lt;KEYM&gt;Tap the same directional key twice&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;Jump:&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;button】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</translation>-->
+    <translation>First, Basic Operation
+
+
+&lt;COL ffdc78&gt;Movement: &lt;/COL&gt;&lt;PADM&gt;[Left Stick]&lt;KEYM&gt;[&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_LEFT&gt;&lt;KC MOVE_BACKWARD&gt;&lt;KC MOVE_RIGHT&gt;]&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Sprint: &lt;/COL&gt;&lt;PADM&gt;Press [&lt;KC DASH&gt;] while moving&lt;KEYM&gt;Double tap movement key
+(By default)&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Jump: &lt;/COL&gt;[&lt;KC JUMP&gt;]</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_46</key>
@@ -55,5 +64,13 @@
 &lt;COL ffdc78&gt;Reset Camera Position：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;Camera Distance：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】quickly tapped twice&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt; forward and backward】&lt;/KEYM&gt;</translation>-->
+    <translation>Next, Camera Controls
+
+
+&lt;COL ffdc78&gt;Camera (POV) Operation: &lt;/COL&gt;&lt;PADM&gt;[Right Stick]&lt;KEYM&gt;[Move &lt;ICON MOUSE&gt;]&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Reset View: &lt;/COL&gt;[&lt;KC CAMERA_RESET&gt;]
+
+&lt;COL ffdc78&gt;Change View Distance：&lt;/COL&gt;&lt;PADM&gt;[&lt;KC CAMERA_RESET&gt;]Double click&lt;KEYM&gt;[&lt;ICON MOUSE_WHL_4&gt;up and down]&lt;/KEYM&gt;</translation>
   </message>
 </resource>

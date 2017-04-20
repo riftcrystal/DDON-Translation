@@ -82,8 +82,9 @@ or stalactites.
     <key>ABILITY_INFO_405</key>
     <original>通常状態でのスピリットゲージの減少速度が低下する
 &lt;COL ffdc78&gt;LV UP毎により減少速度がさらに低下&lt;/COL&gt;</original>
-    <translation>Reduces the rate in which the Spirit Gauge decreases.
-&lt;COL ffdc78&gt;LV UP: Further reduces decrease rate.&lt;/COL&gt;</translation>
+    <translation>Slows the drain of the Spirit Gauge in normal mode.
+&lt;COL ffdc78&gt;LV UP: Further slows the drain.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>ABILITY_INFO_4</key>

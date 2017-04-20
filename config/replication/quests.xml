@@ -72,6 +72,12 @@
       <translation_replace>{0} Materials Request</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(.+?)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial {1}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+      <translation_arg index="1" message_set="numerals" />
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^＜\s*(.+?)\s*＞に向かう$</original_match>

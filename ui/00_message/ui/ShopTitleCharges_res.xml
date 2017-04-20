@@ -36,7 +36,7 @@
   <message>
     <key>msg_ShopTitle_Charges07</key>
     <original>報酬アイテムのレア確率UP！</original>
-    <translation>Rare item reward chance increased!</translation>
+    <translation>Rare reward chance increased!</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges08</key>
@@ -76,7 +76,7 @@
   <message>
     <key>msg_ShopTitle_Charges15</key>
     <original>マイ拠点へのリム転移無料！</original>
-    <translation>Teleport is free to your saved bases!</translation>
+    <translation>Free teleports to favorite Portcrystals!</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges16</key>
@@ -91,6 +91,7 @@
   <message>
     <key>msg_ShopTitle_Charges18</key>
     <original>%s</original>
+    <translation>%s</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges19</key>
@@ -137,7 +138,7 @@
   <message>
     <key>msg_ShopTitle_Charges27</key>
     <original>報酬アイテムのレア確率UP！</original>
-    <translation>Rare item reward chance increased!</translation>
+    <translation>Rare reward chance increased!</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges28</key>
@@ -219,6 +220,7 @@
   <message>
     <key>msg_ShopTitle_Charges46</key>
     <original>格納チェストの拡張枠が使用可能！</original>
+    <translation>Expanded Storage Chest is usable!</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges47</key>
@@ -243,5 +245,6 @@
   <message>
     <key>msg_ShopTitle_Charges52</key>
     <original>必要素材が格納チェストからも参照可能！</original>
+    <translation>You can also use required materials from Storage Chest!</translation>
   </message>
 </resource>
