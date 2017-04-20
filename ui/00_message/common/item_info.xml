@@ -3060,14 +3060,14 @@ Used to accomodate Diamantes.</translation>
   <item id="1054">
     <original>獲得XPが上昇する
 一定レベルに達すると、効果は失われる</original>
-    <translation>EXP Gain increased
-Effective until level 65</translation>
+    <translation>XP Gain increased.
+Effective only until a certain level.</translation>
   </item>
   <item id="1074">
     <original>肉系のクラフト用素材
 獣から取れる一般的な肉。生食できない</original>
     <translation>Basic crafting material.
-Simple Meat that can be found on many beasts. Cannot be eaten raw.</translation>
+Simple meat that can be found on many beasts. Cannot be eaten raw.</translation>
   </item>
   <item id="1316">
     <original>雑多なクラフト用素材
