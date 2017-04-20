@@ -167,22 +167,11 @@
       <translation_arg message_set="item name" />
     </rewrite>
     <rewrite>
-      <!-- Crest of {0} II -->
-      <original_match>^((.+?)のクレスト)(2|２)$</original_match>
-      <translation_replace>{0} II</translation_replace>
-      <translation_arg message_set="item name" />
-    </rewrite>
-    <rewrite>
-      <!-- Crest of {0} III -->
-      <original_match>^((.+?)のクレスト)(3|３)$</original_match>
-      <translation_replace>{0} III</translation_replace>
-      <translation_arg message_set="item name" />
-    </rewrite>
-    <rewrite>
-      <!-- Crest of {0} IV -->
-      <original_match>^((.+?)のクレスト)(4|４)$</original_match>
-      <translation_replace>{0} IV</translation_replace>
-      <translation_arg message_set="item name" />
+      <!-- Crest of {0} II-X -->
+      <original_match>^((.+?)のクレスト)(.+?)$</original_match>
+      <translation_replace>{0} {2}</translation_replace>
+      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="2" message_set="numerals" required="true" />
     </rewrite>
     <!-- Misc -->
     <rewrite>

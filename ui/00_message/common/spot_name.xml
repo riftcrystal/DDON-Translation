@@ -1823,10 +1823,12 @@
   <message>
     <key>SPOT_NAME_900</key>
     <original>知恵の小塔</original>
+    <translation>Small Tower of Wisdom</translation>
   </message>
   <message>
     <key>SPOT_NAME_901</key>
     <original>聖河の遺跡</original>
+    <translation>Ruins of the Sacred River</translation>
   </message>
   <message>
     <key>SPOT_NAME_902</key>
@@ -1835,6 +1837,7 @@
   <message>
     <key>SPOT_NAME_903</key>
     <original>ダナウィンの挑堂</original>
+    <translation>Darwin's Challenge Temple</translation>
   </message>
   <message>
     <key>SPOT_NAME_904</key>
@@ -1907,7 +1910,7 @@
   <message>
     <key>SPOT_NAME_919</key>
     <original>旧闘技場跡地</original>
-    <translation>Old Arena</translation>
+    <translation>Old Arena Site</translation>
   </message>
   <message>
     <key>SPOT_NAME_920</key>
@@ -1926,10 +1929,12 @@
   <message>
     <key>SPOT_NAME_923</key>
     <original>ファーラナ中央洲</original>
+    <translation>Farana Center Sandbank</translation>
   </message>
   <message>
     <key>SPOT_NAME_924</key>
     <original>大翼の谷</original>
+    <translation>Valley of Great Wings</translation>
   </message>
   <message>
     <key>SPOT_NAME_925</key>
@@ -1939,6 +1944,7 @@
   <message>
     <key>SPOT_NAME_926</key>
     <original>喧噪の跡地</original>
+    <translation>Tumult Site</translation>
   </message>
   <message>
     <key>SPOT_NAME_928</key>
@@ -1968,6 +1974,7 @@
   <message>
     <key>SPOT_NAME_933</key>
     <original>木漏れ日の川辺</original>
+    <translation>Riverside of Dappled Sunlight</translation>
   </message>
   <message>
     <key>SPOT_NAME_934</key>
@@ -1977,6 +1984,7 @@
   <message>
     <key>SPOT_NAME_935</key>
     <original>訪いの広場</original>
+    <translation>Visiting Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_936</key>
@@ -2073,6 +2081,7 @@
   <message>
     <key>SPOT_NAME_960</key>
     <original>聖雫の間</original>
+    <translation>Between Sacred Drops</translation>
   </message>
   <message>
     <key>SPOT_NAME_961</key>
@@ -2288,10 +2297,12 @@
   <message>
     <key>SPOT_NAME_1006</key>
     <original>聖河の遺跡　中央通路</original>
+    <translation>Ruins of the Sacred River Center Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1007</key>
     <original>聖河の遺跡　中心部</original>
+    <translation>Ruins of the Sacred River Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1008</key>
@@ -2381,6 +2392,7 @@
   <message>
     <key>SPOT_NAME_1027</key>
     <original>聖河の遺跡 船着き場</original>
+    <translation>Ruins of the Sacred River Wharf</translation>
   </message>
   <message>
     <key>SPOT_NAME_1028</key>

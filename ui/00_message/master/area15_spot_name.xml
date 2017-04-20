@@ -40,7 +40,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>旧闘技場跡地</original>
-    <translation>Old Arena</translation>
+    <translation>Old Arena Site</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -59,14 +59,17 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>大翼の谷</original>
+    <translation>Valley of Great Wings</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ファーラナ中央洲</original>
+    <translation>Farana Center Sandbank</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ダナウィンの挑堂</original>
+    <translation>Darwin's Challenge Temple</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -104,9 +107,11 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>聖河の遺跡</original>
+    <translation>Ruins of the Sacred River</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>知恵の小塔</original>
+    <translation>Small Tower of Wisdom</translation>
   </message>
 </resource>

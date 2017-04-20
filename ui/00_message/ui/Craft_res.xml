@@ -1210,6 +1210,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>TAB_SPECIAL</key>
     <original>一時レンタル</original>
+    <translation>One-time Rental</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_GP_CREATE</key>

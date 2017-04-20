@@ -85,7 +85,8 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
     <translation>Draws the bow with all the user's might,
 then looses a shot straight ahead.
-Power increases if released immediately.
+Power greatly increases if released as
+maximum charge is reached.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</translation>
   </message>
