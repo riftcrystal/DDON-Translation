@@ -2984,72 +2984,106 @@ status debilitations.</translation>
   <item id="1029">
     <original>メルゴダ護政区、《錬金研究棟》の鍵
 目玉を模した模様が刻まれている</original>
+    <translation>The key to Mergoda District's "Alchemy Research Building".
+A pattern imitating the eyeball is engraved</translation>
   </item>
   <item id="1030">
     <original>ドリード城のどこかにある《礼拝堂》の鍵
 騎士団により管理されてきた</original>
+    <translation>The key to a "chapel" somewhere in Dreed Castle.
+It has been managed by the Order.</translation>
   </item>
   <item id="1031">
     <original>禊の神殿、《水流制御室》の鍵
 竜の細工が施されている</original>
+    <translation>A key to the "Water Current Control Room" somewhere in the Shrine.
+Draconic markings are apparent.</translation>
   </item>
   <item id="1032">
     <original>大樹の意匠が彫られた壮麗なパネル状の鍵
 かなり大きな扉の施錠に使われていたようだ</original>
+    <translation>A magnificent panel-shaped key in which the design of the big tree was carved.
+It seems that it was used to lock quite a large door.</translation>
   </item>
   <item id="1034">
     <original>メルゴダ護政区、《軍事指導官室》の鍵
 この建物のどこかで使えるかもしれない</original>
+    <translation>The key to the "Military leaders' room".
+It might be usable somewhere in this building.</translation>
   </item>
   <item id="1035">
     <original>メルゴダ護政区・《特別研究区》の鍵
 大石塊と同じ紋章が彫り込まれている</original>
+    <translation>The key to the Mergoda District's "Special Research District".
+A symbol is engraved, reminiscent of large rocks.</translation>
   </item>
   <item id="1038">
     <original>ガルドノック砦の巨大な鍵
 正面の大門を開くためのものらしい</original>
+    <translation>Gardnock Fortress' huge key.
+It seems to open the main gate of the fort.</translation>
   </item>
   <item id="1044">
     <original>イベント封鎖用アイテム
 欠番だがIDはOM側で使用</original>
+    <translation>Event Blocked Item.
+Only used Server-Side.</translation>
   </item>
   <item id="1049">
     <original>ドリード城地下に保管されていた旧時代の遺物
 謎の魔物が持っていたものと同じ物のようだが――？</original>
+    <translation>Ancient relics from Dreed Castle's that had been kept underground
+Strikingly similar to various relics that demons have.</translation>
   </item>
   <item id="1050">
     <original>キースヒルトの命を収めた命の器
 清らかな光が静かに満たされている</original>
+    <translation>The legendary Vessel of Life.
+Seems to be filled with light.</translation>
   </item>
   <item id="1051">
     <original>ズールの命を収めた命の器
 赤い光が禍々しく脈動している</original>
+    <translation>The Vessel of Life corrupted by Zuhl.
+It is pulsating with a violent red glow.</translation>
   </item>
   <item id="1052">
     <original>テオドールが制作した命の器
 ディアマンテスの命を収めるためのもの</original>
+    <translation>The Vessel of Life created by Theodore.
+Used to accomodate Diamantes.</translation>
   </item>
   <item id="1053">
     <original>装備した武器/防具の重量が軽減される</original>
+    <translation>Weight of equipped gear is reduced</translation>
   </item>
   <item id="1054">
     <original>獲得XPが上昇する
 一定レベルに達すると、効果は失われる</original>
+    <translation>EXP Gain increased
+Effective until level 65</translation>
   </item>
   <item id="1074">
     <original>肉系のクラフト用素材
 獣から取れる一般的な肉。生食できない</original>
+    <translation>Basic crafting material.
+Simple Meat that can be found on many beasts. Cannot be eaten raw.</translation>
   </item>
   <item id="1316">
     <original>雑多なクラフト用素材
 暗い所で青白く発光する特殊な虫</original>
+    <translation>Miscellaneous crafting material.
+A special insect that emits a pale light in dark places.</translation>
   </item>
   <item id="1351">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="1359">
     <original>クラフト昇格試験アイテム</original>
+    <translation>Craft promotion test item</translation>
   </item>
   <item id="1674">
     <original></original>
