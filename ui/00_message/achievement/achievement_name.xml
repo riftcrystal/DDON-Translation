@@ -6030,14 +6030,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_2353</key>
     <original>見張る者</original>
+    <translation>The Watchman</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2354</key>
     <original>噛みつき注意</original>
+    <translation>Biting for Attention</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2355</key>
     <original>黒き獅子</original>
+    <translation>Black Lion</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2358</key>
@@ -6047,66 +6050,82 @@
   <message>
     <key>ACHIEVEMENT_NAME_2359</key>
     <original>白い悪鳥</original>
+    <translation>Wicked White Bird</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2360</key>
     <original>虹を呼ぶ鳥</original>
+    <translation>A Bird Called a Rainbow</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2362</key>
     <original>人喰いの怪物</original>
+    <translation>A Monster-Eating Monster</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2363</key>
     <original>邪悪な眷属</original>
+    <translation>Wicked Family</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2364</key>
     <original>獰猛竜</original>
+    <translation>Fierce Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2368</key>
     <original>森の狼</original>
+    <translation>Wolf in the Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2369</key>
     <original>空飛ぶ歌い手</original>
+    <translation>Flying Singer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2370</key>
     <original>冒された翼</original>
+    <translation>Tainted with Evil</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2371</key>
     <original>悪に染まりし者</original>
+    <translation>Standing in the Earth</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2372</key>
     <original>大地に佇む者</original>
+    <translation>Standing in the Earth</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2373</key>
     <original>ブラックナイト</original>
+    <translation>Black Knight</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2374</key>
     <original>クルセイダー</original>
+    <translation>Crusader</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2375</key>
     <original>リベンジャー</original>
+    <translation>Revenger</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2376</key>
     <original>精霊竜のきずな</original>
+    <translation>Bond of the Spirit Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2377</key>
     <original>精霊竜の聖域</original>
+    <translation>Sanctuary of the Spirit Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2378</key>
     <original>次元の崩壊</original>
+    <translation>Destroyer of Worlds</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2379</key>
@@ -6141,6 +6160,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2387</key>
     <original>猪武者</original>
+    <translation>Reckless Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2520</key>
@@ -6165,6 +6185,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2524</key>
     <original>大樹の覚者</original>
+    <translation>Master of the Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2525</key>
@@ -6214,6 +6235,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2534</key>
     <original>十万億土</original>
+    <translation>Paradise</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2535</key>
@@ -6223,6 +6245,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2536</key>
     <original>私は恋なすび</original>
+    <translation>I'm in love with you</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2537</key>
@@ -6232,6 +6255,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2538</key>
     <original>エラン探検家</original>
+    <translation>Elan Explorer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2539</key>
@@ -6241,6 +6265,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2540</key>
     <original>ファーラナ探検家</original>
+    <translation>Farana Explorer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2541</key>
@@ -6250,6 +6275,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2542</key>
     <original>モロー探検家</original>
+    <translation>Morrow Explorer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2543</key>
@@ -6259,6 +6285,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2544</key>
     <original>キンガル探検家</original>
+    <translation>Kingal Explorer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2545</key>
@@ -6268,14 +6295,16 @@
   <message>
     <key>ACHIEVEMENT_NAME_2546</key>
     <original>目覚めた収集家</original>
-    <translation>Collector Arisen</translation>
+    <translation>Arisen Collector</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2547</key>
     <original>偉大な収集家</original>
+    <translation>Great Collector</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2548</key>
     <original>伝説の収集家</original>
+    <translation>Legendary Collector</translation>
   </message>
 </resource>
