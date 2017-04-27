@@ -13,10 +13,29 @@
       <xs:enumeration value="Big" />
     </xs:restriction>
   </xs:simpleType>
+  <xs:simpleType name="gender">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Neuter" />
+      <xs:enumeration value="Male" />
+      <xs:enumeration value="Female" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="default_translation_format">
+    <xs:attribute name="proper" type="xs:boolean" use="optional" />
+  </xs:complexType>
+  <xs:complexType name="translation_format">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="proper" type="xs:boolean" use="optional" />
+        <xs:attribute name="gender" type="gender" use="optional" default="Neuter" />
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
 
   <!-- resource types -->
   <xs:complexType name="message_resource">
     <xs:sequence>
+      <xs:element name="default_translation_format" type="default_translation_format" minOccurs="0" maxOccurs="1" />
       <xs:element name="message" type="message" minOccurs="0" maxOccurs="unbounded" />
     </xs:sequence>
     <xs:attribute name="endian" type="endian" use="optional" default="Little" />
@@ -27,12 +46,14 @@
       <xs:element name="key" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
       <xs:element name="original" type="xs:string" minOccurs="1" maxOccurs="1" />
       <xs:element name="translation" type="xs:string" minOccurs="0" maxOccurs="1" />
+      <xs:element name="translation_format" type="translation_format" minOccurs="0" maxOccurs="1" />
     </xs:sequence>
   </xs:complexType>
   
   <!-- item_data types -->
   <xs:complexType name="item_data">
     <xs:sequence>
+      <xs:element name="default_translation_format" type="default_translation_format" minOccurs="0" maxOccurs="1" />
       <xs:element name="item" type="item_message" minOccurs="0" maxOccurs="unbounded" />
     </xs:sequence>
     <xs:attribute name="endian" type="endian" use="optional" default="Little" />
@@ -42,6 +63,7 @@
     <xs:sequence>
       <xs:element name="original" type="xs:string" minOccurs="1" maxOccurs="1" />
       <xs:element name="translation" type="xs:string" minOccurs="0" maxOccurs="1" />
+      <xs:element name="translation_format" type="translation_format" minOccurs="0" maxOccurs="1" />
     </xs:sequence>
     <xs:attribute name="id" type="xs:unsignedInt" use="required" />
   </xs:complexType>
@@ -49,7 +71,15 @@
   <!-- named_param types -->
   <xs:complexType name="named_params">
     <xs:sequence>
+      <xs:element name="default_translation_format" type="default_translation_format" minOccurs="0" maxOccurs="1" />
       <xs:element name="named_param" type="named_message" minOccurs="0" maxOccurs="unbounded" />
+      <xs:element name="unknown" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="message" type="message" minOccurs="0" maxOccurs="unbounded" />
+					</xs:sequence>
+				</xs:complexType>
+      </xs:element>
     </xs:sequence>
     <xs:attribute name="endian" type="endian" use="optional" default="Little" />
     <xs:attribute name="tag" type="xs:string" use="optional" default="TextWeb" />
@@ -58,6 +88,7 @@
     <xs:sequence>
       <xs:element name="original" type="named_text" minOccurs="1" maxOccurs="1" />
       <xs:element name="translation" type="named_text" minOccurs="0" maxOccurs="1" />
+      <xs:element name="translation_format" type="translation_format" minOccurs="0" maxOccurs="1" />
     </xs:sequence>
     <xs:attribute name="id" type="xs:unsignedInt" use="required" />
   </xs:complexType>

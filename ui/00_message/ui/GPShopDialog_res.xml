@@ -2,11 +2,12 @@
   <message>
     <key>OSD_index_en</key>
     <original>Status</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>OSD_index_jp</key>
     <original>黄金石の確認</original>
-    <translation>Check Stones</translation>
+    <translation>Check GG</translation>
   </message>
   <message>
     <key>OSD_tab_goldstone</key>
@@ -31,7 +32,7 @@
   <message>
     <key>OSD_title_goldstone_items</key>
     <original>所持黄金石の内訳</original>
-    <translation>Breakdown of Gemstones</translation>
+    <translation>Breakdown of owned GG</translation>
   </message>
   <message>
     <key>OSD_title_goldstone_pay</key>
@@ -50,7 +51,7 @@
   <message>
     <key>OSD_effectivedate_text1</key>
     <original>黄金石の有効期限は、獲得から4か月後の月末までです</original>
-    <translation>Gemstones expire at the end of the month, 4 months after purchase.</translation>
+    <translation>GG expire at the end of the month, 4 months after purchase.</translation>
   </message>
   <message>
     <key>OSD_effectivedate_text2</key>
@@ -60,6 +61,7 @@
   <message>
     <key>OSD_date</key>
     <original>&lt;DATE&gt;</original>
+    <translation>&lt;DATE&gt;</translation>
   </message>
   <message>
     <key>OSD_pay</key>
@@ -74,6 +76,7 @@
   <message>
     <key>OSD_eventcode_index_en</key>
     <original>Event Code</original>
+    <translation>Event Code</translation>
   </message>
   <message>
     <key>OSD_eventcode_index_jp</key>
@@ -162,13 +165,16 @@ currently logged in character.</translation>
   <message>
     <key>OSD_msg_no_list</key>
     <original>リストはありません</original>
+    <translation>There is no list.</translation>
   </message>
   <message>
     <key>OSD_ps_buy</key>
     <original>PlayStation®Storeで購入</original>
+    <translation>PlayStation®Store Purchase</translation>
   </message>
   <message>
     <key>OSD_ps_buy_by_bonus</key>
     <original>PlayStation®Storeで購入（ボーナス）</original>
+    <translation>PlayStation®Store Purchase (Bonus)</translation>
   </message>
 </resource>

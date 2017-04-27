@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>ENEMY_NAME_1</key>
     <original>ゴブリン</original>
@@ -53,6 +54,7 @@
     <key>ENEMY_NAME_11</key>
     <original>モゴック</original>
     <translation>Mogok</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_12</key>
@@ -513,6 +515,7 @@
     <key>ENEMY_NAME_102</key>
     <original>ゴルゴラン</original>
     <translation>Golgorran</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_103</key>
@@ -523,16 +526,19 @@
     <key>ENEMY_NAME_104</key>
     <original>白竜</original>
     <translation>The White Dragon</translation>
+    <translation_format>White Dragon</translation_format>
   </message>
   <message>
     <key>ENEMY_NAME_105</key>
     <original>ディアマンテス</original>
     <translation>Diamantes</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_106</key>
     <original>ズール</original>
     <translation>Zuhl</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_107</key>
@@ -588,11 +594,13 @@
     <key>ENEMY_NAME_117</key>
     <original>イリス</original>
     <translation>Iris</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_118</key>
     <original>レオ</original>
     <translation>Leo</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_119</key>
@@ -1268,6 +1276,7 @@
     <key>ENEMY_NAME_271</key>
     <original>アルタード・ズール</original>
     <translation>Altered Zuhl</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_272</key>
@@ -1288,6 +1297,7 @@
     <key>ENEMY_NAME_276</key>
     <original>精霊竜ウィルミア</original>
     <translation>Spirit Dragon Willmia</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>ENEMY_NAME_277</key>
@@ -1442,10 +1452,12 @@
   <message>
     <key>ENEMY_NAME_310</key>
     <original>祈りの竜晶</original>
+    <translation>Dragon Crystal of Praying</translation>
   </message>
   <message>
     <key>ENEMY_NAME_311</key>
     <original>うめきの竜晶</original>
+    <translation>Dragon Crystal of Groaning</translation>
   </message>
   <message>
     <key>ENEMY_NAME_312</key>

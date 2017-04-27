@@ -12,10 +12,12 @@
   <message>
     <key>q00020240_00_2167</key>
     <original>始まりの洞へ向かう</original>
+    <translation>Head to the Den of Beginnings</translation>
   </message>
   <message>
     <key>q00020240_00_2168</key>
     <original>＜精霊竜のねぐら＞を目指す</original>
+    <translation>Head for "Spirit Dragon's Roost"</translation>
   </message>
   <message>
     <key>q00020240_00_2169</key>
@@ -24,6 +26,6 @@
   <message>
     <key>q00020240_00_2166</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>バートランド平原北部</original>
@@ -8,11 +9,13 @@
     <key>SPOT_NAME_</key>
     <original>ドラワン</original>
     <translation>Drawan</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>フロックヴァルト大橋</original>
     <translation>Flocwald Bridge</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -63,6 +66,7 @@
     <key>SPOT_NAME_</key>
     <original>ガルドノック砦</original>
     <translation>Gardnox Fortress</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>

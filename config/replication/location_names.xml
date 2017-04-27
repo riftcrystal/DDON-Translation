@@ -7,8 +7,79 @@
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
     <extra>
-    	<original>マヌン</original>
-    	<translation>Manun</translation>
+      <original>白竜神殿</original>
+      <translation>The White Dragon Temple</translation>
+      <translation_format proper="false">White Dragon Temple</translation_format>
+    </extra>
+    <extra>
+      <original>マヌン</original>
+      <translation>Manun</translation>
+      <translation_format proper="true" />
+    </extra>
+    <extra>
+      <original>テオドールの工房</original>
+      <translation>Theodor's Workshop</translation>
+      <translation_format proper="true" />
+    </extra>
+    <extra>
+      <original>温泉の地キノザ</original>
+      <translation>the hot springs of Kinoza</translation>
+      <translation_format proper="false">hot springs of Kinoza</translation_format>
+    </extra>
+    <extra>
+      <original>アークの最深部</original>
+      <translation>the deepest part of the Ark</translation>
+      <translation_format proper="false">deepest part of the Ark</translation_format>
+    </extra>
+    <extra>
+      <original>亡都メルゴダ王宮層</original>
+      <translation>Mergoda Ruins Royal Palace Level</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>メルゴダの広場</original>
+      <translation>Mergoda square</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>黄金郷</original>
+      <translation>Golden township</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>異界の狭間・深層</original>
+      <translation>The Rift's Inner Depths</translation>
+      <translation_format proper="false">Rift's Inner Depths</translation_format>
+    </extra>
+    <extra>
+      <original>近くの洞窟</original>
+      <translation>nearby cave</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>精霊の地</original>
+      <translation>The Spirit Land</translation>
+      <translation_format proper="false">Spirit Land</translation_format>
+    </extra>
+    <extra>
+      <original>精霊の地への入り口</original>
+      <translation>Entrance to the Spirit Land</translation>
+      <translation_format proper="false">entrance to the Spirit Land</translation_format>
+    </extra>
+    <extra>
+      <original>第一試練の場所</original>
+      <translation>The Location of the First Test</translation>
+      <translation_format proper="false">location of the first test</translation_format>
+    </extra>
+    <extra>
+      <original>第二試練の場所</original>
+      <translation>The Location of the Second Test</translation>
+      <translation_format proper="false">location of the second test</translation_format>
+    </extra>
+    <extra>
+      <original>最終試練の場所</original>
+      <translation>The Location of the Final Test</translation>
+      <translation_format proper="false">location of the final test</translation_format>
     </extra>
     <rewrite>
       <original_match>^(.+?)\s+深部$</original_match>

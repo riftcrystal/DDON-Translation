@@ -7,19 +7,22 @@
   <message>
     <key>q00020160_00_48</key>
     <original>フィンダムの大陸を探索する</original>
+    <translation>Explore the continent of Phindym</translation>
   </message>
   <message>
     <key>q00020160_00_2083</key>
     <original>フィンダム大陸へ渡り＜守り人の庵＞前で待つロイグと話す</original>
-    <translation>Traverse Phindym and speak with Loeg waiting in front of Protectors' Hut</translation>
+    <translation>Traverse Phindym and speak with Loeg waiting in front of "Protector's Retreat"</translation>
   </message>
   <message>
     <key>q00020160_00_2084</key>
     <original>エラン水林を抜けファーラナ平原を目指す</original>
+    <translation>Leave the Elan Water Grove and head for the Farana Plains</translation>
   </message>
   <message>
     <key>q00020160_00_2346</key>
     <original>道先にある廃村へ向かう</original>
+    <translation>Head to the deserted village along the road</translation>
   </message>
   <message>
     <key>q00020160_00_2138</key>
@@ -29,7 +32,7 @@
   <message>
     <key>q00020160_00_2347</key>
     <original>廃村内を調べる</original>
-    <translation>Examine the abandoned village</translation>
+    <translation>Investigate the deserted village</translation>
   </message>
   <message>
     <key>q00020160_00_2085</key>
@@ -38,6 +41,6 @@
   <message>
     <key>q00020160_00_2087</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

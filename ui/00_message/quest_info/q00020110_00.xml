@@ -19,7 +19,7 @@ site with Loeg as your guide</translation>
   <message>
     <key>q00020110_00_1751</key>
     <original>魔赤島へ渡るため港洞のゼルキンと話をする</original>
-    <translation>Head to Cave Harbor and speak to Zerkin in order to cross to Bloodbane Isle</translation>
+    <translation>Head to the Cave Harbor and speak to Zerkin in order to cross to Bloodbane Isle</translation>
   </message>
   <message>
     <key>q00020110_00_1761</key>
@@ -39,7 +39,7 @@ site with Loeg as your guide</translation>
   <message>
     <key>q00020110_00_1790</key>
     <original>洞窟内を探索する</original>
-    <translation>Explore the cave interior</translation>
+    <translation>Explore the cave</translation>
   </message>
   <message>
     <key>q00020110_00_1749</key>
@@ -49,7 +49,7 @@ site with Loeg as your guide</translation>
   <message>
     <key>q00020110_00_1748</key>
     <original>洞窟を抜け島の光り輝く光源を目指す</original>
-    <translation>Proceed through the cave and continue heading for the source of the bright light over the island</translation>
+    <translation>Leave the cave and head for the source of the bright light over the island</translation>
   </message>
   <message>
     <key>q00020110_00_1747</key>
@@ -59,6 +59,6 @@ site with Loeg as your guide</translation>
   <message>
     <key>q00020110_00_1746</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

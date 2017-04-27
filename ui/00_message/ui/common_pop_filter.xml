@@ -22,24 +22,27 @@
   <message>
     <key>cpf_clan_authority_setting_cap01_01</key>
     <original>勧誘する権限</original>
+    <translation>Authority to Invite</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap01_02</key>
     <original>加入を許可する権限</original>
+    <translation>Authority to Review Applications</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap01_03</key>
     <original>直接招待する権限</original>
-    <translation>Direct Invite</translation>
+    <translation>Authority to Direct Invite</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap02_01</key>
     <original>クランポイントを使用する権限</original>
-    <translation>Use Clan Points</translation>
+    <translation>Authority to use Clan Points</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap03_01</key>
     <original>サブマスターに任命（上記の権限をすべて付与）</original>
+    <translation>Appoint as sub-master (grants all above permissions)</translation>
   </message>
   <message>
     <key>cpf_bt_change</key>

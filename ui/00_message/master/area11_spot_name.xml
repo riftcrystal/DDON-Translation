@@ -1,13 +1,16 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ザンドラ東部</original>
     <translation>Eastern Zandora</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ゾマ</original>
     <translation>Zoma</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>

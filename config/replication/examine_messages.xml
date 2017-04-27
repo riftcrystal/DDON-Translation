@@ -1,7 +1,7 @@
 ﻿<replication>
   <message_set name="examine message">
     <match>^ui\\00_message\\examine_message\\</match>
-		<rewrite>
+    <rewrite>
       <original_match>^(.+?)のエリアマスター機能が解放されました$</original_match>
       <translation_replace>Area Master for {0} has been unlocked.</translation_replace>
       <translation_arg message_set="location name" />

@@ -25,10 +25,12 @@
   <message>
     <key>q00020180_00_2119</key>
     <original>船に乗り対岸にある洞窟へ向かう</original>
+    <translation>Take the boat and head to the cave on the opposite shore</translation>
   </message>
   <message>
     <key>q00020180_00_2120</key>
     <original>洞窟を抜けモルフォールの集落へ向かう</original>
+    <translation>Go through the cave and head to the village of Morfall</translation>
   </message>
   <message>
     <key>q00020180_00_2458</key>
@@ -38,6 +40,7 @@
   <message>
     <key>q00020180_00_2459</key>
     <original>洞窟を抜けモルフォールの集落へ向かう</original>
+    <translation>Go through the cave and head to the village of Morfall</translation>
   </message>
   <message>
     <key>q00020180_00_2099</key>
@@ -60,6 +63,6 @@
   <message>
     <key>q00020180_00_2102</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

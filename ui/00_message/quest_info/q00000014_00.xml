@@ -11,7 +11,7 @@
   <message>
     <key>q00000014_00_1003</key>
     <original>オーク軍を迎え撃つためハイデル平原へ向かう</original>
-    <translation>Head out to Hidell Plains and fight the Orc forces</translation>
+    <translation>Head to the Hidell Plains and fight the Orc forces</translation>
   </message>
   <message>
     <key>q00000014_00_1004</key>
@@ -36,6 +36,6 @@
   <message>
     <key>q00000014_00_1008</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

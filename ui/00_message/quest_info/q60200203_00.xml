@@ -14,10 +14,11 @@
   <message>
     <key>q60200203_00_2719</key>
     <original>ヴァネッサの元へ向かう</original>
+    <translation>Seek out Vanessa</translation>
   </message>
   <message>
     <key>q60200203_00_2720</key>
-    <original>ダウ渓谷の＜レオのアジト＞を調査する</original>
+    <original>ダウ渓谷の＜&lt;SPOT 695&gt;＞を調査する</original>
   </message>
   <message>
     <key>q60200203_00_2721</key>
@@ -30,6 +31,7 @@
   <message>
     <key>q60200203_00_2723</key>
     <original>地図に記された場所へ向かう</original>
+    <translation>Head to the place marked on the map</translation>
   </message>
   <message>
     <key>q60200203_00_2724</key>
@@ -37,7 +39,7 @@
   </message>
   <message>
     <key>q60200203_00_2725</key>
-    <original>風鳴り洞窟内を調査する</original>
+    <original>&lt;SPOT 548&gt;内を調査する</original>
   </message>
   <message>
     <key>q60200203_00_2726</key>
@@ -50,5 +52,6 @@
   <message>
     <key>q60200203_00_2717</key>
     <original>メッセージの示す場所へ向かう</original>
+    <translation>Head to the place indicated in the message</translation>
   </message>
 </resource>

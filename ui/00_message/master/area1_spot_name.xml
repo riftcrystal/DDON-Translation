@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ハイデル平原</original>
@@ -8,11 +9,13 @@
     <key>SPOT_NAME_</key>
     <original>白竜神殿レーゼ</original>
     <translation>The White Dragon Temple</translation>
+    <translation_format>White Dragon Temple</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>テル</original>
     <translation>Tel</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -43,6 +46,7 @@
     <key>SPOT_NAME_</key>
     <original>黒狼団のアジト</original>
     <translation>The Black Wolves' Hideout</translation>
+    <translation_format>Black Wolves' Hideout</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -98,10 +102,12 @@
     <key>SPOT_NAME_</key>
     <original>アーク</original>
     <translation>The Ark</translation>
+    <translation_format>Ark</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>アーク　裏層</original>
     <translation>The Ark's Lower Level</translation>
+    <translation_format>Ark's Lower Level</translation_format>
   </message>
 </resource>

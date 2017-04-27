@@ -18,7 +18,7 @@ talking to the people in the Audience Chamber</translation>
   <message>
     <key>q00000010_00_1197</key>
     <original>謁見の間のレオと話す</original>
-    <translation>Speak with Leo in Audience Chamber</translation>
+    <translation>Speak with Leo in the Audience Chamber</translation>
   </message>
   <message>
     <key>q00000010_00_988</key>
@@ -38,6 +38,6 @@ talking to the people in the Audience Chamber</translation>
   <message>
     <key>q00000010_00_991</key>
     <original>謁見の間のミシアルに経緯を報告する</original>
-    <translation>Report back to Mysial in Audience Chamber</translation>
+    <translation>Report back to Mysial in the Audience Chamber</translation>
   </message>
 </resource>

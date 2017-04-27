@@ -154,8 +154,8 @@ hits.&lt;/COL&gt;</translation>
 ボタンの連打で揺さぶり回数が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で最大揺さぶり回数増加&lt;/COL&gt;</original>
-    <translation>While climbing an enemy, thrust the blade deep into them
-and vigorously shake it around.
+    <translation>While climbing an enemy, thrust the blade
+deep into them and vigorously shake it around.
 The number of shakes increases with repeated button presses.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
 LV.6: Increases maximum number of shakes.&lt;/COL&gt;</translation>
@@ -167,10 +167,10 @@ LV.6: Increases maximum number of shakes.&lt;/COL&gt;</translation>
 により威力が上昇。倒れた状態の敵に対し真価を発揮
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階上昇（１→２）&lt;/COL&gt;</original>
-    <translation>Slam the blade into the ground with the entire body's might
-and shake the earth.
-Performing the skill from high altitudes while in the air, or holding the assigned
-button on the ground increases the damage of the skill. 
+    <translation>Slam the blade into the ground with the entire
+body's might and shake the earth. Performing the skill
+from high altitudes while in the air, or holding the
+assigned button on the ground increases the damage of the skill.
 Especially effective against downed enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>

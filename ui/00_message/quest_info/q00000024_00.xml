@@ -17,7 +17,7 @@
   <message>
     <key>q00000024_00_1054</key>
     <original>ディアマンテスのもとへ向かう</original>
-    <translation>Face Diamantes</translation>
+    <translation>Seek out Diamantes</translation>
   </message>
   <message>
     <key>q00000024_00_1055</key>
@@ -32,6 +32,6 @@
   <message>
     <key>q00000024_00_1057</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

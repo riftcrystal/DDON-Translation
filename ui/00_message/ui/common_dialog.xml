@@ -1377,7 +1377,7 @@ They will leave the party.</translation>
   <message>
     <key>ana_CARD_ERR_NOT_ONLINE</key>
     <original>オフラインです</original>
-    <translation>It is offline.</translation>
+    <translation>Offline.</translation>
   </message>
   <message>
     <key>ana_APPLY_CLAN_ERR_ALREADY_JOIN</key>
@@ -2423,14 +2423,16 @@ and activated.
     <key>ana_partner_pawn_rwmsg_edit</key>
     <original>ポーンに新しい髪型の提案を受け
 エディットパーツが増えました！</original>
-    <translation>You received a proposal for a new hairstyle from your pawn.
+    <translation>You received a proposal for a new
+hairstyle from your pawn.
 The number of edit parts has increased!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_ability</key>
     <original>ポーンに戦技の提案を受け
 シークレットアビリティを獲得！</original>
-    <translation>You received a proposal for an augment from your pawn.
+    <translation>You received a proposal for an
+augment from your pawn.
 Gained Secret Augment!</translation>
   </message>
   <message>
@@ -2504,6 +2506,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_om_warp_single_seater_used</key>
     <original>すでに転移の力を失っている</original>
+    <translation>It has already lost its power of transference.</translation>
   </message>
   <message>
     <key>ana_item_cannot_use_by_bat_status</key>
@@ -2513,6 +2516,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_cpOmOneWay</key>
     <original>壁の向こう側へ移動しますか？</original>
+    <translation>Move to the other side of the barrier?</translation>
   </message>
   <message>
     <key>ana_cpOmJukeBox</key>

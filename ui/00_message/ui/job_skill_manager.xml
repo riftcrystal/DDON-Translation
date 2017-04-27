@@ -43,18 +43,22 @@
   <message>
     <key>button_get</key>
     <original>習得</original>
+    <translation>Learn</translation>
   </message>
   <message>
     <key>button_levelup</key>
     <original>LV.UP</original>
+    <translation>LV.UP</translation>
   </message>
   <message>
     <key>button_levelmax</key>
     <original>LV.MAX</original>
+    <translation>LV.MAX</translation>
   </message>
   <message>
     <key>heading_current_skill</key>
     <original>Set Custom Skill</original>
+    <translation>Set Custom Skill</translation>
   </message>
   <message>
     <key>heading_current_ability</key>
@@ -133,14 +137,17 @@ to level it up?</translation>
   <message>
     <key>job_infomation_window_title_infomation</key>
     <original>Information</original>
+    <translation>Information</translation>
   </message>
   <message>
     <key>job_infomation_window_heading_caption</key>
     <original>Details</original>
+    <translation>Details</translation>
   </message>
   <message>
     <key>job_infomation_window_heading_weapon</key>
     <original>Weapons</original>
+    <translation>Weapons</translation>
   </message>
   <message>
     <key>heading_normal_skill</key>
@@ -150,6 +157,7 @@ to level it up?</translation>
   <message>
     <key>heading_custom_skill</key>
     <original>Custom Skills</original>
+    <translation>Custom Skills</translation>
   </message>
   <message>
     <key>heading_ability</key>
@@ -159,6 +167,7 @@ to level it up?</translation>
   <message>
     <key>heading_command</key>
     <original>Command</original>
+    <translation>Command</translation>
   </message>
   <message>
     <key>error_cost_over</key>
@@ -207,6 +216,7 @@ to level it up?</translation>
   <message>
     <key>title_preset_ability</key>
     <original>Ability Set</original>
+    <translation>Augment Set</translation>
   </message>
   <message>
     <key>need_level_to_get</key>
@@ -235,6 +245,7 @@ to level it up?</translation>
   <message>
     <key>heading_skill</key>
     <original>Skills</original>
+    <translation>Skills</translation>
   </message>
   <message>
     <key>preset_default_name</key>
@@ -289,6 +300,7 @@ to level it up?</translation>
   <message>
     <key>job_msg_total_job_level</key>
     <original>Total &lt;VAL LV&gt;</original>
+    <translation>Total &lt;VAL LV&gt;</translation>
   </message>
   <message>
     <key>job_cahnge_no_ability_notice</key>
@@ -320,31 +332,40 @@ to level it up?</translation>
     <original>&lt;VAL&gt;の
 &lt;VAL JP&gt;を消費して習得します
 よろしいですか？</original>
+    <translation>Are you sure you want to spend &lt;VAL&gt;'s
+&lt;VAL JP&gt; to learn this?</translation>
   </message>
   <message>
     <key>dialog_ability_lvup</key>
     <original>&lt;VAL&gt;の
 &lt;VAL JP&gt;を消費してレベルアップします
 よろしいですか？</original>
+    <translation>Are you sure you want to spend &lt;VAL&gt;'s
+&lt;VAL JP&gt; to level up this?</translation>
   </message>
   <message>
     <key>ability_search_learn_check</key>
     <original>習得済み</original>
+    <translation>Learned</translation>
   </message>
   <message>
     <key>ability_search_not_learn_check</key>
     <original>未修得</original>
+    <translation>Not Learned</translation>
   </message>
   <message>
     <key>ability_search_header_cost</key>
     <original>コスト</original>
+    <translation>Cost</translation>
   </message>
   <message>
     <key>ability_search_cost_over</key>
     <original>以上</original>
+    <translation>Minimum</translation>
   </message>
   <message>
     <key>ability_search_cost_under</key>
     <original>以下</original>
+    <translation>Maximum</translation>
   </message>
 </resource>

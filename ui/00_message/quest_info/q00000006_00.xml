@@ -11,12 +11,12 @@
   <message>
     <key>q00000006_00_967</key>
     <original>メイリーフを捜しにミスリウ森林へ向かう</original>
-    <translation>Head to Mysree Forest and search for Mayleaf</translation>
+    <translation>Head to the Mysree Forest and search for Mayleaf</translation>
   </message>
   <message>
     <key>q00000006_00_968</key>
     <original>燐光虫の洞窟に入りメイリーフを捜す</original>
-    <translation>Enter Glowworm Cave and look for Mayleaf</translation>
+    <translation>Enter the Glowworm Cave and look for Mayleaf</translation>
   </message>
   <message>
     <key>q00000006_00_969</key>
@@ -36,6 +36,6 @@
   <message>
     <key>q00000006_00_972</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

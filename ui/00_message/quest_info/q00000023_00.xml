@@ -18,7 +18,7 @@
   <message>
     <key>q00000023_00_1049</key>
     <original>巨人兵の居場所に関する情報を探す</original>
-    <translation>Seek information on the Giant Soldier and its whereabouts</translation>
+    <translation>Seek information on the Giant Warrior and its whereabouts</translation>
   </message>
   <message>
     <key>q00000023_00_1598</key>
@@ -28,17 +28,17 @@
   <message>
     <key>q00000023_00_1599</key>
     <original>術師の取引所のアリアドネに報告する</original>
-    <translation>Report to Ariadne in Specialist Trading Post</translation>
+    <translation>Report to Ariadne in the Specialist Trading Post</translation>
   </message>
   <message>
     <key>q00000023_00_1600</key>
     <original>巨人兵のいる亡都メルゴダ王宮層へ向かう</original>
-    <translation>Seek out the Giant Soldier in Mergoda Ruins Royal Palace Level</translation>
+    <translation>Seek out the Giant Warrior in the Mergoda Ruins Royal Palace Level</translation>
   </message>
   <message>
     <key>q00000023_00_1050</key>
     <original>巨人兵ゴリアテを撃破し鍵を入手する</original>
-    <translation>Defeat the Giant Soldier Goliath in order to obtain the key</translation>
+    <translation>Defeat the Giant Warrior Goliath in order to obtain the key</translation>
   </message>
   <message>
     <key>q00000023_00_1601</key>
@@ -58,6 +58,6 @@
   <message>
     <key>q00000023_00_1052</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

@@ -7,6 +7,7 @@
   <message>
     <key>OS_index_en</key>
     <original>Online Shop</original>
+    <translation>Online Shop</translation>
   </message>
   <message>
     <key>OS_index_jp</key>
@@ -36,6 +37,7 @@
   <message>
     <key>OS_cap</key>
     <original>CAP</original>
+    <translation>CAP</translation>
   </message>
   <message>
     <key>OS_relogin</key>
@@ -45,6 +47,7 @@
   <message>
     <key>OS_cogid</key>
     <original>COG ID</original>
+    <translation>COG ID</translation>
   </message>
   <message>
     <key>OS_status_title</key>
@@ -59,6 +62,7 @@
   <message>
     <key>OS_status_ticket</key>
     <original>Ticket</original>
+    <translation>Ticket</translation>
   </message>
   <message>
     <key>OS_status_cticket</key>
@@ -68,6 +72,7 @@
   <message>
     <key>OS_status_usecourse</key>
     <original>Used Passport and Course</original>
+    <translation>Used Passport and Course</translation>
   </message>
   <message>
     <key>OS_status_time_remaining</key>
@@ -87,7 +92,7 @@
   <message>
     <key>OS_status_history</key>
     <original>黄金石使用履歴</original>
-    <translation>Golden Gemstone Usage History</translation>
+    <translation>GG Usage History</translation>
   </message>
   <message>
     <key>OS_status</key>
@@ -124,10 +129,12 @@ Golden Gemstones with &lt;VAL CAP&gt;?</translation>
   <message>
     <key>OS_catalog_option</key>
     <original>&lt;OPCS&gt;</original>
+    <translation>&lt;OPCS&gt;</translation>
   </message>
   <message>
     <key>OS_catalog_wepon</key>
     <original>武具・防具</original>
+    <translation>Weapon/Armor</translation>
   </message>
   <message>
     <key>OS_status_time_remaining_day</key>
@@ -137,6 +144,7 @@ Golden Gemstones with &lt;VAL CAP&gt;?</translation>
   <message>
     <key>OS_date</key>
     <original>&lt;DATE&gt;</original>
+    <translation>&lt;DATE&gt;</translation>
   </message>
   <message>
     <key>OS_cod_impression</key>
@@ -210,7 +218,7 @@ Is this okay?</translation>
   <message>
     <key>OS_announce_gpdialog</key>
     <original>黄金石の確認</original>
-    <translation>Check Stones</translation>
+    <translation>Check GG</translation>
   </message>
   <message>
     <key>OS_catalog_collabo</key>
@@ -230,6 +238,7 @@ Is this okay?</translation>
   <message>
     <key>OS_index_status_en</key>
     <original>Online Station</original>
+    <translation>Online Station</translation>
   </message>
   <message>
     <key>OS_index_status_jp</key>
@@ -262,6 +271,7 @@ Is this okay?</translation>
   <message>
     <key>OS_index_category</key>
     <original>Category</original>
+    <translation>Category</translation>
   </message>
   <message>
     <key>OS_index_management</key>
@@ -275,6 +285,7 @@ Is this okay?</translation>
   <message>
     <key>OS_index_caption</key>
     <original>Details</original>
+    <translation>Details</translation>
   </message>
   <message>
     <key>OS_index_price</key>
@@ -305,10 +316,12 @@ Is this okay?</translation>
   <message>
     <key>OS_index_valid</key>
     <original>有効</original>
+    <translation>Valid</translation>
   </message>
   <message>
     <key>OS_index_invalid</key>
     <original>無効</original>
+    <translation>Invalid</translation>
   </message>
   <message>
     <key>OS_index_loginskip_disable</key>
@@ -333,10 +346,12 @@ Is this okay?</translation>
   <message>
     <key>OS_index_pass_cource</key>
     <original>&lt;OPCS&gt;</original>
+    <translation>&lt;OPCS&gt;</translation>
   </message>
   <message>
     <key>OS_index_equipment_item</key>
     <original>装備・アイテム</original>
+    <translation>Equipment/Item</translation>
   </message>
   <message>
     <key>OS_index_none</key>
@@ -346,7 +361,7 @@ Is this okay?</translation>
   <message>
     <key>OS_catalog_pawn2</key>
     <original>クラフトマスターポーン</original>
-    <translation>Craft Master Pawns</translation>
+    <translation>Craft Master Pawn</translation>
   </message>
   <message>
     <key>OS_announce_voice2</key>
@@ -386,10 +401,12 @@ Is this okay?</translation>
   <message>
     <key>OS_catalog_storage</key>
     <original>ストレージ</original>
+    <translation>Storage</translation>
   </message>
   <message>
     <key>OS_catalog_skillreset</key>
     <original>スキルリセット</original>
+    <translation>Skill Reset</translation>
   </message>
   <message>
     <key>OS_dialog_buy_announce_afterfollow</key>

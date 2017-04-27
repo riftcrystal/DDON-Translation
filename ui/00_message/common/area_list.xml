@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>AREA_NAME_1</key>
     <original>ハイデル平原</original>
@@ -48,6 +49,7 @@
     <key>AREA_NAME_11</key>
     <original>ザンドラ東部</original>
     <translation>Eastern Zandora</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>AREA_NAME_10</key>
@@ -63,6 +65,7 @@
     <key>AREA_NAME_13</key>
     <original>魔赤島</original>
     <translation>Bloodbane Isle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>AREA_NAME_14</key>

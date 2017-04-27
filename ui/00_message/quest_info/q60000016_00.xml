@@ -17,7 +17,7 @@
   <message>
     <key>q60000016_00_1205</key>
     <original>クラフトルームにいるソニアと話す</original>
-    <translation>Speak with Sonia in Craft Room</translation>
+    <translation>Speak with Sonia in the Craft Room</translation>
   </message>
   <message>
     <key>q60000016_00_1194</key>
@@ -42,6 +42,6 @@
   <message>
     <key>q60000016_00_1122</key>
     <original>謁見の間にいるイリスに経緯を報告する</original>
-    <translation>Report back to Iris in Audience Chamber</translation>
+    <translation>Report back to Iris in the Audience Chamber</translation>
   </message>
 </resource>

@@ -16,7 +16,7 @@
   <message>
     <key>q00000012_00_994</key>
     <original>情報をもとにリンウッドへ向かう</original>
-    <translation>Go to Lynwood Village to find more information</translation>
+    <translation>Head to Lynwood to find more information</translation>
   </message>
   <message>
     <key>q00000012_00_1545</key>
@@ -36,7 +36,7 @@
   <message>
     <key>q00000012_00_995</key>
     <original>情報をもとにイニアス湖南東にある小島の方へ向かう</original>
-    <translation>Go to Lake Inias</translation>
+    <translation>Based on the information head to the small island southeast of the Lake Inias</translation>
   </message>
   <message>
     <key>q00000012_00_996</key>
@@ -46,6 +46,6 @@
   <message>
     <key>q00000012_00_997</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

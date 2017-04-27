@@ -19,7 +19,7 @@ home and is headed for Flocwald Bridge</translation>
   <message>
     <key>q00020060_00_1682</key>
     <original>セシリーを追いフロックヴァルト大橋へ向かう</original>
-    <translation>Go after Cecily, who is headed for Flocwald Bridge</translation>
+    <translation>Go after Cecily heading to Flocwald Bridge</translation>
   </message>
   <message>
     <key>q00020060_00_1683</key>
@@ -29,6 +29,6 @@ home and is headed for Flocwald Bridge</translation>
   <message>
     <key>q00020060_00_1684</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

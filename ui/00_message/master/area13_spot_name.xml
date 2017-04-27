@@ -1,8 +1,10 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>魔赤島</original>
     <translation>Bloodbane Isle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -78,6 +80,7 @@
     <key>SPOT_NAME_</key>
     <original>橋向かいの坑道</original>
     <translation>The Tunnel across the Bridge</translation>
+    <translation_format>Tunnel across the Bridge</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>

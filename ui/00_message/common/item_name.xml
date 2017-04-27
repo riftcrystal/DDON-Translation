@@ -1,4 +1,5 @@
 ﻿<item_data>
+  <default_translation_format proper="false" />
   <item id="34">
     <original>癒しの薬</original>
     <translation>Healing Potion</translation>
@@ -19278,6 +19279,7 @@
   </item>
   <item id="7560">
     <original>謎の古文書</original>
+    <translation>Mysterious Ancient Texts</translation>
   </item>
   <item id="7561">
     <original>欠けた封印宮の大鍵</original>
@@ -43391,22 +43393,27 @@
   <item id="14507">
     <original>ザカーネル</original>
     <translation>The Colonel</translation>
+    <translation_format>Colonel</translation_format>
   </item>
   <item id="14508">
     <original>ザカーネル</original>
     <translation>The Colonel</translation>
+    <translation_format>Colonel</translation_format>
   </item>
   <item id="14509">
     <original>ザカーネル</original>
     <translation>The Colonel</translation>
+    <translation_format>Colonel</translation_format>
   </item>
   <item id="14510">
     <original>ザカーネル</original>
     <translation>The Colonel</translation>
+    <translation_format>Colonel</translation_format>
   </item>
   <item id="14511">
     <original>ザカーネル</original>
     <translation>The Colonel</translation>
+    <translation_format>Colonel</translation_format>
   </item>
   <item id="14512">
     <original>ボウオブトライブ</original>
@@ -49637,8 +49644,8 @@
     <translation>Servant's Sleepwear (Type 3)</translation>
   </item>
   <item id="16134">
-    <original>ジュークボックス</original>
-    <translation>Jukebox</translation>
+    <original>シークレットアビリティプレイヤー</original>
+    <translation>Secret Ability Player</translation>
   </item>
   <item id="16135">
     <original>バニーイヤー【茶】</original>
@@ -51012,6 +51019,7 @@
   </item>
   <item id="16503">
     <original>破光のタイラントソード</original>
+    <translation>Tyrant Sword of Torn Light</translation>
   </item>
   <item id="16504">
     <original>猛炎のスケイルブレード</original>
@@ -51019,6 +51027,7 @@
   </item>
   <item id="16505">
     <original>破光のタイラントブレード</original>
+    <translation>Tyrant Blade of Torn Light</translation>
   </item>
   <item id="16506">
     <original>猛炎のスケイルガード</original>
@@ -51026,6 +51035,7 @@
   </item>
   <item id="16507">
     <original>破光のタイラントガード</original>
+    <translation>Tyrant Guard of Torn Light</translation>
   </item>
   <item id="16508">
     <original>猛炎のスケイルダガー</original>
@@ -51033,6 +51043,7 @@
   </item>
   <item id="16509">
     <original>破光のタイラントダガー</original>
+    <translation>Tyrant Daggers of Torn Light</translation>
   </item>
   <item id="16510">
     <original>猛炎のスケイルボウ</original>
@@ -51040,6 +51051,7 @@
   </item>
   <item id="16511">
     <original>破光のタイラントボウ</original>
+    <translation>Tyrant Bow of Torn Light</translation>
   </item>
   <item id="16512">
     <original>猛炎のスケイルハンズ</original>
@@ -51047,6 +51059,7 @@
   </item>
   <item id="16513">
     <original>破光のタイラントハンズ</original>
+    <translation>Tyrant Hands of Torn Light</translation>
   </item>
   <item id="16514">
     <original>猛炎のスケイルシューター</original>
@@ -51054,6 +51067,7 @@
   </item>
   <item id="16515">
     <original>破光のタイラントスペル</original>
+    <translation>Tyrant Spell of Torn Light</translation>
   </item>
   <item id="16516">
     <original>猛炎のスケイルスタッフ</original>
@@ -51061,6 +51075,7 @@
   </item>
   <item id="16517">
     <original>破光のタイラントスタッフ</original>
+    <translation>Tyrant Staff of Torn Light</translation>
   </item>
   <item id="16518">
     <original>猛炎のスケイルワンズ</original>
@@ -51068,6 +51083,7 @@
   </item>
   <item id="16519">
     <original>破光のタイラントワンズ</original>
+    <translation>Tyrant Wand of Torn Light</translation>
   </item>
   <item id="16520">
     <original>猛炎のスケイルスピア</original>
@@ -51075,6 +51091,7 @@
   </item>
   <item id="16521">
     <original>破光のタイラントスピア</original>
+    <translation>Tyrant Spear of Torn Light</translation>
   </item>
   <item id="16522">
     <original>精霊の火種</original>
@@ -52143,9 +52160,11 @@
   </item>
   <item id="16833">
     <original>銀の宝珠認証</original>
+    <translation>Silver Authentication Orb</translation>
   </item>
   <item id="16834">
     <original>金の宝珠認証</original>
+    <translation>Gold Authentication Orb</translation>
   </item>
   <item id="16859">
     <original>異彩を放つ錆びた片手剣</original>
@@ -52966,5 +52985,131 @@
   <item id="17154">
     <original>老甲晶のリング</original>
     <translation>Ancient Clear Shell Ring</translation>
+  </item>
+  <item id="17941">
+    <original>ジャスティス学園　一文字伐A </original>
+  </item>
+  <item id="17942">
+    <original>ジャスティス学園　一文字伐B</original>
+  </item>
+  <item id="17943">
+    <original>ジャスティス学園　若葉ひなたA</original>
+  </item>
+  <item id="17944">
+    <original>ジャスティス学園　若葉ひなたB</original>
+  </item>
+  <item id="18599">
+    <original>至高のリング【戦徒】</original>
+  </item>
+  <item id="18600">
+    <original>至高の腕輪【戦徒】</original>
+  </item>
+  <item id="18601">
+    <original>至高のピアス【戦徒】</original>
+  </item>
+  <item id="18602">
+    <original>至高のリング【探究】</original>
+  </item>
+  <item id="18603">
+    <original>至高の腕輪【探究】</original>
+  </item>
+  <item id="18604">
+    <original>至高のピアス【探究】</original>
+  </item>
+  <item id="18605">
+    <original>至高のリング【侵滅】</original>
+  </item>
+  <item id="18606">
+    <original>至高の腕輪【侵滅】</original>
+  </item>
+  <item id="18607">
+    <original>至高のピアス【侵滅】</original>
+  </item>
+  <item id="18608">
+    <original>至高のリング【夜帝】</original>
+  </item>
+  <item id="18609">
+    <original>至高の腕輪【夜帝】</original>
+  </item>
+  <item id="18610">
+    <original>至高のピアス【夜帝】</original>
+  </item>
+  <item id="18611">
+    <original>戦徒のリングプレート</original>
+    <translation>Soldier Ring Plate</translation>
+  </item>
+  <item id="18612">
+    <original>探究のリングプレート</original>
+    <translation>Inquiry Ring Plate</translation>
+  </item>
+  <item id="18613">
+    <original>侵滅のリングプレート</original>
+  </item>
+  <item id="18614">
+    <original>夜帝のリングプレート</original>
+    <translation>Night Emperor Ring Plate</translation>
+  </item>
+  <item id="18615">
+    <original>至高の戦功勲章</original>
+  </item>
+  <item id="18616">
+    <original>戦徒</original>
+  </item>
+  <item id="18617">
+    <original>探究</original>
+  </item>
+  <item id="18618">
+    <original>侵滅</original>
+  </item>
+  <item id="18619">
+    <original>夜帝</original>
+  </item>
+  <item id="18620">
+    <original>ジャスティス学園　一文字伐A </original>
+  </item>
+  <item id="18621">
+    <original>ジャスティス学園　一文字伐A </original>
+  </item>
+  <item id="18622">
+    <original>ジャスティス学園　一文字伐A </original>
+  </item>
+  <item id="18623">
+    <original>ジャスティス学園　一文字伐A </original>
+  </item>
+  <item id="18624">
+    <original>ジャスティス学園　一文字伐B</original>
+  </item>
+  <item id="18625">
+    <original>ジャスティス学園　一文字伐B</original>
+  </item>
+  <item id="18626">
+    <original>ジャスティス学園　一文字伐B</original>
+  </item>
+  <item id="18627">
+    <original>ジャスティス学園　一文字伐B</original>
+  </item>
+  <item id="18628">
+    <original>ジャスティス学園　若葉ひなたA</original>
+  </item>
+  <item id="18629">
+    <original>ジャスティス学園　若葉ひなたA</original>
+  </item>
+  <item id="18630">
+    <original>ジャスティス学園　若葉ひなたA</original>
+  </item>
+  <item id="18631">
+    <original>ジャスティス学園　若葉ひなたA</original>
+  </item>
+  <item id="18632">
+    <original>ジャスティス学園　若葉ひなたB</original>
+  </item>
+  <item id="18633">
+    <original>ジャスティス学園　若葉ひなたB</original>
+  </item>
+  <item id="18634">
+    <original>ジャスティス学園　若葉ひなたB</original>
+  </item>
+  <item id="18635">
+    <original>ジャスティス学園　若葉ひなたB</original>
   </item>
 </item_data>

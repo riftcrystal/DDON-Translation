@@ -5,6 +5,10 @@
 ことから、全ての民にとって寄り所と言える地域に
 なった。そのため、比較的魔物の勢力は弱いが
 オークなど強力な魔物の侵入は脅威となる</original>
+    <translation>A large plains located in central Lestania.
+A temple was built here, for this was the place the White Dragon fell, 
+and so people gathered, and therefore became citizens.
+Although weak, monsters can be found here.</translation>
   </message>
   <message>
     <original>ハイデル平原南部に位置する村
@@ -12,6 +16,11 @@
 と原因不明の病により活力が落ちつつある
 この異変には、廃屋化したハイデル教会が何らか
 の形で関わるのではと噂されている</original>
+    <translation>A village located in the southern part of the Hidell plains.
+Wine and other beverages used to be plentiful, but in recent years,
+bad crops and blights have been common due to unknown diseases.
+Due to this, the Hidell church was abandoned.
+It is rumored to be involved somehow.</translation>
   </message>
   <message>
     <original>テルの東にあるハイデル教会地下墓地
@@ -19,6 +28,11 @@
 廃屋化して後、扉が開かれたことはない
 夜間徘徊する亡者の目撃談もあり、今では誰も
 教会に近づかなくなっている</original>
+    <translation>Hidell Church's subsurface cemetery east of Tel.
+Previously, many visited as a place of prayer,
+however, its doors were never opened again after it was abandoned.
+Stories say you can see the dead wander at night. 
+Nobody dares go near it.</translation>
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;【宝飾】の扉あり&lt;/COL&gt;
@@ -26,5 +40,13 @@
 表側とは異なり、こちらには恐るべき危険性を
 秘めた大型の錬魔も確認されたという。後に神殿を
 攻める足がかりとして準備されていた可能性がある</original>
+    <translation>&lt;COL ffdc78&gt; A door requiring a [Jewelry] key. &lt;/COL&gt;
+Another layer that continues from the back of
+the ark that fell west of Tel.
+This passage is far more dangerous than the
+front.
+A strange odor is present here as well. 
+It's possible that this location was prepared as
+a foothold in case of attack.</translation>
   </message>
 </resource>

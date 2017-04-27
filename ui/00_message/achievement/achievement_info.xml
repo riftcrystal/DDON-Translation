@@ -6145,46 +6145,55 @@ level 30 in crafting</translation>
     <key>ACHIEVEMENT_INFO_2295</key>
     <original>ファイターのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2296</key>
     <original>ハンターのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2297</key>
     <original>プリーストのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2298</key>
     <original>シールドセージのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2299</key>
     <original>シーカーのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2300</key>
     <original>ソーサラーのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2301</key>
     <original>エレメントアーチャーのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as an Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2302</key>
     <original>ウォリアーのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2303</key>
     <original>アルケミストのジョブレベルが
 80に到達</original>
+    <translation>Reach level 80 as a Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2304</key>
@@ -6208,6 +6217,7 @@ level 30 in crafting</translation>
     <key>ACHIEVEMENT_INFO_2307</key>
     <original>スピリットランサーのジョブレベルが
 80に到達</original>
+    <translation>Reach job level 80 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2308</key>
@@ -6457,21 +6467,22 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2362</key>
     <original>タラスクを1体討伐</original>
-    <translation>Kill 1 タラスクを</translation>
+    <translation>Kill 1 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2363</key>
     <original>タラスクを10体討伐</original>
-    <translation>Kill 10 タラスクを</translation>
+    <translation>Kill 10 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2364</key>
     <original>タラスクを100体討伐</original>
-    <translation>Kill 100 タラスクを</translation>
+    <translation>Kill 100 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2368</key>
     <original>グリーンガーディアンを50体討伐</original>
+    <translation>Kill 50 Green Guardians</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2369</key>

@@ -97,7 +97,7 @@
   <message>
     <key>TUTORIAL_57</key>
     <original>エレメントアーチャーの戦術的役割</original>
-    <translation>Tactical Role of the Elemental Archer</translation>
+    <translation>Tactical Role of the Element Archer</translation>
   </message>
   <message>
     <key>TUTORIAL_66</key>
@@ -172,7 +172,7 @@
   <message>
     <key>TUTORIAL_80</key>
     <original>エレメントアーチャーの戦法：基本</original>
-    <translation>Basic Tactics: Elemental Archer</translation>
+    <translation>Basic Tactics: Element Archer</translation>
   </message>
   <message>
     <key>TUTORIAL_81</key>
@@ -187,6 +187,7 @@
   <message>
     <key>TUTORIAL_87</key>
     <original>装備品</original>
+    <translation>Equipment</translation>
   </message>
   <message>
     <key>TUTORIAL_88</key>
@@ -261,10 +262,12 @@
   <message>
     <key>TUTORIAL_119</key>
     <original>拠点の利用</original>
+    <translation>Portcrystal Use</translation>
   </message>
   <message>
     <key>TUTORIAL_121</key>
     <original>世界の探索</original>
+    <translation>Exploring the World</translation>
   </message>
   <message>
     <key>TUTORIAL_122</key>
@@ -442,7 +445,7 @@
   <message>
     <key>TUTORIAL_179</key>
     <original>シールドセージの戦法：追記</original>
-    <translation>Advanced Tactics：Shield Sage</translation>
+    <translation>Advanced Tactics: Shield Sage</translation>
   </message>
   <message>
     <key>TUTORIAL_180</key>
@@ -487,7 +490,7 @@
   <message>
     <key>TUTORIAL_214</key>
     <original>エレメントアーチャーの戦法：追記</original>
-    <translation>Advanced Tactics: Elemental Archer</translation>
+    <translation>Advanced Tactics: Element Archer</translation>
   </message>
   <message>
     <key>TUTORIAL_216</key>
@@ -662,14 +665,17 @@
   <message>
     <key>TUTORIAL_268</key>
     <original>スピリットランサーの戦法：基本</original>
+    <translation>Basic Tactics: Spirit Lancer</translation>
   </message>
   <message>
     <key>TUTORIAL_269</key>
     <original>スピリットランサーの戦法：追記</original>
+    <translation>Advanced Tactics: Spirit Lancer</translation>
   </message>
   <message>
     <key>TUTORIAL_271</key>
     <original>スピリットランサーの戦術的役割</original>
+    <translation>Tactical Role of the Spirit Lancer</translation>
   </message>
   <message>
     <key>TUTORIAL_275</key>
@@ -693,6 +699,7 @@
   <message>
     <key>TUTORIAL_288</key>
     <original>歪みの執行人</original>
+    <translation>Agent of Corruption</translation>
   </message>
   <message>
     <key>TUTORIAL_293</key>
@@ -744,11 +751,12 @@
   <message>
     <key>TUTORIAL_314</key>
     <original>古代神殿の死闘</original>
-    <translation>Ancient Temple's Death Struggle</translation>
+    <translation>The Deathly Battle of the Ancient Temple</translation>
   </message>
   <message>
     <key>TUTORIAL_315</key>
     <original>呼び覚まされし竜</original>
+    <translation>The Dragon Awakened</translation>
   </message>
   <message>
     <key>TUTORIAL_316</key>
@@ -770,10 +778,12 @@
   <message>
     <key>TUTORIAL_322</key>
     <original>大地の怒り</original>
+    <translation>Earth's Fury</translation>
   </message>
   <message>
     <key>TUTORIAL_323</key>
     <original>降臨せし闇</original>
+    <translation>Onset of Darkness</translation>
   </message>
   <message>
     <key>TUTORIAL_326</key>
@@ -807,6 +817,7 @@
   <message>
     <key>TUTORIAL_334</key>
     <original>アルケミストの戦法：追記２</original>
+    <translation>Advanced Tactics: Alchemist II</translation>
   </message>
   <message>
     <key>TUTORIAL_335</key>

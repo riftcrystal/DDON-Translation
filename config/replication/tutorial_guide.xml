@@ -1,0 +1,37 @@
+﻿<replication>
+  <message_set name="tutorial name">
+    <match>^ui\\00_message\\tutorial_guide\\tutorial_guide$</match>
+    <rewrite>
+      <original_match>^(.+?)$</original_match>
+      <translation_replace>{0}</translation_replace>
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の戦法：基本$</original_match>
+      <translation_replace>Basic Tactics: {0}</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の戦法：基本(.+?)$</original_match>
+      <translation_replace>Basic Tactics: {0} {1}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+      <translation_arg index="1" message_set="numerals" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の戦法：追記$</original_match>
+      <translation_replace>Advanced Tactics: {0}</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の戦法：追記(.+?)$</original_match>
+      <translation_replace>Advanced Tactics: {0} {1}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+      <translation_arg index="1" message_set="numerals" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の戦術的役割$</original_match>
+      <translation_replace>Tactical Role of the {0}</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+  </message_set>
+</replication>

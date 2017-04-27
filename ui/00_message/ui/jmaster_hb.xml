@@ -20,7 +20,7 @@
   <message>
     <key>JMMH_MSG_BEAT_STR</key>
     <original>&lt;VAL LV&gt;以上の&lt;NAME ENEMY&gt;を倒せ！</original>
-    <translation>Defeat &lt;VAL LV&gt;～ &lt;NAME ENEMY&gt;!</translation>
+    <translation>Defeat &lt;VAL LV&gt;+ &lt;NAME ENEMY&gt;!</translation>
   </message>
   <message>
     <key>JMMH_MSG_EQUIP_STR</key>

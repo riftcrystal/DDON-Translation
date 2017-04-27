@@ -1,0 +1,745 @@
+﻿<replication>
+  <message_set name="quest name" type="quest_name">
+    <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
+    <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\\q\d+_\d+$</match>
+    <!-- Quest names -->
+    <rewrite soft="true">
+      <original_match>^【高難度】(.+?)$</original_match>
+      <translation_replace>High Difficulty: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^【竜力の扉】(.+?)$</original_match>
+      <translation_replace>Door of Dragon Force: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^【財宝の扉】(.+?)$</original_match>
+      <translation_replace>Door of Treasures: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^【宝飾の扉】(.+?)$</original_match>
+      <translation_replace>Door of Jewelry: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^【昌石の扉】(.+?)$</original_match>
+      <translation_replace>Door of Gemstones: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^【時限採取】(.+?)$</original_match>
+      <translation_replace>Time Restriction: {0}</translation_replace>
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
+      <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^＜エリアオーダー＞(.+?)補給$</original_match>
+      <translation_replace>Area Order: {0} Resupply</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^＜エリアオーダー＞(.+?)$</original_match>
+      <translation_replace>Area Order: {0}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)　試練：(.+?)$</original_match>
+      <translation_replace>{0} Trial: {1}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^白翼覚者隊・納品依頼　(.+?)$</original_match>
+      <translation_replace>White Wings: Delivery ({0})</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^白翼覚者隊・収集依頼　(.+?)$</original_match>
+      <translation_replace>White Wings: Collection ({0})</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^白翼覚者隊・討伐任務　(.+?)$</original_match>
+      <translation_replace>White Wings: Elimination ({0})</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^白翼覚者隊・協力要請　(.+?)$</original_match>
+      <translation_replace>White Wings: Cooperation ({0})</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)名産品の入手依頼$</original_match>
+      <translation_replace>{0} Materials Request</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(.+?)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial {1}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+      <translation_arg index="1" message_set="numerals" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)・限界域$</original_match>
+      <translation_replace>{0}: Restricted Stage</translation_replace>
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)・限界域$</original_match>
+      <translation_replace>{0}: Restricted Stage</translation_replace>
+    </rewrite>
+    <!-- Quest objectives -->
+    <rewrite>
+      <original_match>^＜\s*(.+?)\s*＞に向かう$</original_match>
+      <translation_replace>Go to "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
+      <translation_replace>Defeat the enemies in "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <!-- Obtain -->
+    <rewrite>
+      <original_match>^「(.+)」を手に入れる$</original_match>
+      <translation_replace>Obtain {0:d!}"{0}"</translation_replace>
+      <translation_arg message_set="item name" />
+    </rewrite>
+    <!-- Confirm with/Confirm details from -->
+    <rewrite>
+      <original_match>^&lt;SPOT (\d+)&gt; にいる&lt;NPC (\d+)&gt;から確認する$</original_match>
+      <translation_replace>Confirm with &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;SPOT (\d+)&gt;の&lt;NPC (\d+)&gt;から詳細確認する$</original_match>
+      <translation_replace>Confirm details from &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;NPC (\d+)&gt;から詳細を確認する$</original_match>
+      <translation_replace>Confirm details from &lt;NPC {0}&gt;</translation_replace>
+    </rewrite>
+    <!-- Speak with -->
+    <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
+    <rewrite>
+      <original_match>^(.+?)にある(.+)入口で(.+?)と話す$</original_match>
+      <translation_replace>Speak with {2:d} at the entrance to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)大陸へ渡り＜(.+)＞前で待つ(.+?)と話す$</original_match>
+      <translation_replace>Traverse {0:d} and speak with {2:d} waiting in front of "{1}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞前で待つ(.+?)と話す$</original_match>
+      <translation_replace>Speak with {1:d} waiting in front of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
+      <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
+      <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に向かいゴブリン王(.+?)と話す$</original_match>
+      <translation_replace>Head to {0:d} and speak with {1:d} the Goblin King</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)のセントラムへ行き(.+?)と話す$</original_match>
+      <translation_replace>Head to {0:d}'s centrum and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)の集落へ行き(.+?)と話す$</original_match>
+      <translation_replace>Head to {0:d} village and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)(へ行き|へ向かい)(現地の)?(.+?)と話す$</original_match>
+      <translation_replace>Head to {0:d} and speak with {3:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="3" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターの(.+)と話す$</original_match>
+      <translation_replace>Speak with {0}, the Area Master</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の支配人(.+?)と話す$</original_match>
+      <translation_replace>Speak with manager {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)前の崖下にいる(.+?)と話す$</original_match>
+      <translation_replace>Speak with {1:d} at the base of the cliff before {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)村の(.+?)と話す$</original_match>
+      <translation_replace>Speak with {1:d} in {0:d} village</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内の(.+?)と話す$</original_match>
+      <translation_replace>Speak with {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(の|にいる)(.+?)と話す$</original_match>
+      <translation_replace>Speak with {2:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)と話す$</original_match>
+      <translation_replace>Speak with {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Speak to -->
+    <rewrite>
+      <original_match>^(.+?)へ渡るため(.+)の(.+?)と話をする$</original_match>
+      <translation_replace>Head to {1:d} and speak to {2:d} in order to cross to {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^騎士団本部へ向かい(.+?)と話をする$</original_match>
+      <translation_replace>Head to Knights' Headquarters and speak to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)へ向かい(.+?)と話をする$</original_match>
+      <translation_replace>Head to {0:d} and speak to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターの(.+)と話をする$</original_match>
+      <translation_replace>Speak to {0:d}, the Area Master</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にいる(.+?)と話をする$</original_match>
+      <translation_replace>Speak to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)と話をする$</original_match>
+      <translation_replace>Speak to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Approach -->
+    <rewrite>
+      <original_match>^(.+)にいる(.+?)に詰め寄る$</original_match>
+      <translation_replace>Approach {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <!-- Seek out -->
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^別の場所に出現した敵のところへ向かう$</original_match>
+      <translation_replace>Seek out the enemy elsewhere</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^巨人兵のいる(.+)へ向かう$</original_match>
+      <translation_replace>Seek out the Giant Warrior in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^神殿の奥で待つ(.+)の元へ向かう$</original_match>
+      <translation_replace>Seek out {0:d} waiting in the temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を探索し(.+)を見つける$</original_match>
+      <translation_replace>Seek out {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターの(.+)の元へ向かう$</original_match>
+      <translation_replace>Seek out {0:d}, the Area Master</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の元へ向かう$</original_match>
+      <translation_replace>Seek out {0:d}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)のもとへ向かう$</original_match>
+      <translation_replace>Seek out {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Enter -->
+    <rewrite>
+      <original_match>^浴場内へ向かう$</original_match>
+      <translation_replace>Enter the springs</translation_replace>
+    </rewrite>
+    <!-- Head for -->
+    <rewrite>
+      <original_match>^洞窟を抜け島の光り輝く光源を目指す$</original_match>
+      <translation_replace>Leave the cave and head for the source of the bright light over the island</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を抜け(.+)を目指す$</original_match>
+      <translation_replace>Leave {0:d} and head for {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞を目指す$</original_match>
+      <translation_replace>Head for "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <!-- Head to -->
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^地図に記された場所へ向かう$</original_match>
+      <translation_replace>Head to the place marked on the map</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^メッセージの示す場所へ向かう$</original_match>
+      <translation_replace>Head to the place indicated in the message</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^罠にはめた魔物の居場所へ向かう$</original_match>
+      <translation_replace>Head to the location of the monster caught in the trap</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^オークの溜まり場へ向かう$</original_match>
+      <translation_replace>Head to the Orcs' location</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^メッセージに従い丘の上の廃教会へ向かう$</original_match>
+      <translation_replace>Head to the ruined chapel on the hill just like in the message</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^竜力の淀みし場所へ向かう$</original_match>
+      <translation_replace>Head to the location of the stagnant dragon force</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^道先にある廃村へ向かう$</original_match>
+      <translation_replace>Head to the deserted village along the road</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^船に乗り対岸にある洞窟へ向かう$</original_match>
+      <translation_replace>Take the boat and head to the cave on the opposite shore</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^原始の雫を探し求め、峡谷の奥地へ向かう$</original_match>
+      <translation_replace>Head to the back of the canyon and search for the primeval drops</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^開いた洞窟の奥へ向かう$</original_match>
+      <translation_replace>Head into the open cave</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^指定された場所へ向かう$</original_match>
+      <translation_replace>Head to the designated location</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^山頂の小堂近くの巣へ向かう$</original_match>
+      <translation_replace>Head to nest at the summit near the chapel</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう</original_match>
+      <translation_replace>Head to &lt;STG {0}&gt; in order to acquire Play Points</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜原始の雫＞を探すため(.+)の奥地へ向かう$</original_match>
+      <translation_replace>Head to the back of {0:d} and search for the "Primeval Drops"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^洞窟を抜け(.+)の集落へ向かう$</original_match>
+      <translation_replace>Go through the cave and head to the village of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の関所から(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} from {0:d}'s barrier</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で開かれる会談の場へ向かう$</original_match>
+      <translation_replace>Head to the open meeting place in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の光り輝く歪みの場所へ向かう$</original_match>
+      <translation_replace>Head to the glowing distortion on {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)のゲートの前へ向かう$</original_match>
+      <translation_replace>Head to in front of the gate on {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^桟橋から船で(.+)へ向かう$</original_match>
+      <translation_replace>Board the ship at the pier heading to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^情報をもとに(.+)南東にある小島の方へ向かう$</original_match>
+      <translation_replace>Based on the information head to the small island southeast of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^襲撃のあった(.+)近くの廃教会へ向かう$</original_match>
+      <translation_replace>Head to the church ruins under attack near {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に出現した侵食魔の元へ向かう$</original_match>
+      <translation_replace>Head to the emerging corruption infestation in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)救援のため(.+)の元へ向かう$</original_match>
+      <translation_replace>Head to {1:d} and assist in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の待つ(.+)屋外(.+)の畔へ向かう$</original_match>
+      <translation_replace>Head to {0:d} waiting on the banks of {2:d} outside {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を見つけた(.+)の村へ向かう$</original_match>
+      <translation_replace>Head to the village of {1:d} where {0:d} was found</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を探し海岸へ向かう$</original_match>
+      <translation_replace>Head to the coast and search for {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^準備を整え船で(.+)へ向かう$</original_match>
+      <translation_replace>Prepare and head to {0:d} by ship</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)から(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} from {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^情報をもとに(.+)へ向かう$</original_match>
+      <translation_replace>Head to {0:d} to find more information</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を捜し(に)?(.+)へ向かう$</original_match>
+      <translation_replace>Head to {2:d} and search for {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="2" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の待つ(.+)へ向かう$</original_match>
+      <translation_replace>Head to {0:d} waiting in {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にある＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{1}" in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にある(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)との待ち合わせ場所へ向かう</original_match>
+      <translation_replace>Head to {0:d}'s meeting place</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の行方を追い(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} and find {0:d}'s whereabouts</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を追い(.+)へ向かう$</original_match>
+      <translation_replace>Go after {0:d} heading to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)軍を迎え撃つため(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} and fight {0:d} forces</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を探すため正門の奥へ向かう$</original_match>
+      <translation_replace>Head to the back of the main gate and search for {0:d}</translation_replace>
+      <translation_arg message_set="item name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)中心部へ向かう$</original_match>
+      <translation_replace>Head into the heart of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を通り(.+)へ向かう$</original_match>
+      <translation_replace>Pass through {0:d} and head to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)村へ向かう$</original_match>
+      <translation_replace>Head to the village of {0:t}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^白竜神殿(.+)の家へ向かう$</original_match>
+      <translation_replace>Head to {0:d}'s home in the White Dragon Temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にいる(.+)の元へ向かう$</original_match>
+      <translation_replace>Rendezvous with {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^新たな植物採取のため＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{0}" to collect new plants</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^南方の(.+)＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{1}" of southern {0:t}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{1}" of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)の元へ向かう$</original_match>
+      <translation_replace>Head to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)へ向かう$</original_match>
+      <translation_replace>Head to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <!-- Look for -->
+    <rewrite>
+      <original_match>^(.+)に入り(.+?)を捜す$</original_match>
+      <translation_replace>Enter {0:d} and look for {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <!-- Find -->
+    <rewrite>
+      <original_match>^(.+?)を探す$</original_match>
+      <translation_replace>Find {0:d}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <!-- Report back to -->
+    <rewrite>
+      <original_match>^白竜神殿の(.+?)に経緯を報告する$</original_match>
+      <translation_replace>Report back to {0:d} in the White Dragon Temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(の|にいる)(.+?)に経緯を報告する$</original_match>
+      <translation_replace>Report back to {2:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <!-- Report to -->
+    <ignore>^リム転移で神殿に戻り、謁見の間のレオに報告する$</ignore>
+    <rewrite>
+      <original_match>^(依頼者|依頼人)に報告する$</original_match>
+      <translation_replace>Report to the requester</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターに報告する$</original_match>
+      <translation_replace>Report to the Area Master</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターの&lt;NPC (\d+)&gt;に報告する$</original_match>
+      <translation_replace>Report to &lt;NPC {0}&gt;, the Area Master</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^白竜神殿の(.+?)に報告する$</original_match>
+      <translation_replace>Report to {0:d} in the White Dragon Temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^標の祠の(.+?)に報告する$</original_match>
+      <translation_replace>Report to {0:d} in the shrine</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;SPOT (\d+)&gt;\s*(の|にいる)&lt;NPC (\d+)&gt;に報告する$</original_match>
+      <translation_replace>Report to &lt;NPC {2}&gt; in &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;\s*(の|にいる)&lt;NPC (\d+)&gt;に報告する$</original_match>
+      <translation_replace>Report to &lt;NPC {2}&gt; in &lt;STG {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)(へ戻り|に戻り)(.+?)に報告する$</original_match>
+      <translation_replace>Return to {0:d} and report to {2:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="2" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)村の(.+?)に報告する$</original_match>
+      <translation_replace>Report to {1:d} in {0:d} village</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)の娘(.+?)に報告する$</original_match>
+      <translation_replace>Report to {0:d}'s daughter {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" required="true" />
+      <translation_arg index="1" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(のいる|の|で|にいる)(.+?)に報告する$</original_match>
+      <translation_replace>Report to {2:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に報告する$</original_match>
+      <translation_replace>Report to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Time restricted objectives -->
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間にパーティメンバーを拠点内に集める$</original_match>
+      <translation_replace>Gather party members in the camp from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間に依頼者から詳細を聞く$</original_match>
+      <translation_replace>Listen to details from the requester from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞(つ)?納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {2}&gt; from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <!-- Weather restricted objectives -->
+    <rewrite>
+      <original_match>^＜晴天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Fine" weather</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜曇天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Cloudy" weather</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜雨天＞時に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Rainy" weather</translation_replace>
+    </rewrite>
+    <!-- Tutorial -->
+    <rewrite>
+      <original_match>^ゲージを溜め、(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Fill your Force Gauge, then attack the enemy with {0}</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^リベンジゲージ最大の(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0} with a full Revenge Gauge</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^射撃の最適距離から(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0} from the optimum distance</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で敵を攻撃せよ$</original_match>
+      <translation_replace>Attack the enemy with {0}</translation_replace>
+      <translation_arg message_set="normal skill name" />
+    </rewrite>
+    <!-- Grand Missions -->
+    <rewrite>
+      <original_match>^(\d+)pt以上の獲得を目指せ$</original_match>
+      <translation_replace>Aim to aquire {0}pt or more</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)を護衛し、目標地点の敵を殲滅せよ$</original_match>
+      <translation_replace>Escort {0:d} and defeat the enemy at the target locations</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)を護衛し、呪われた敵を排除せよ$</original_match>
+      <translation_replace>Escort {0:d} and defeat the cursed enemy</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)《リザルト報酬》$</original_match>
+      <translation_replace>{0} (Result Reward)</translation_replace>
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)《最終報酬》$</original_match>
+      <translation_replace>{0} (Final Reward)</translation_replace>
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
+  </message_set>
+</replication>

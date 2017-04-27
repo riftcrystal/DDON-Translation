@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>エラン水林</original>
@@ -7,11 +8,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>守り人の庵</original>
-    <translation>Protectors' Hut</translation>
+    <translation>Protector's Retreat</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>喧噪の跡地</original>
+    <translation>Tumult Site</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -41,11 +43,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>彩光の滝</original>
-    <translation>Iridescent Waterfall</translation>
+    <translation>Shimmering Waterfall</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>木漏れ日の川辺</original>
+    <translation>Riverside of Dappled Sunlight</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -55,6 +58,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>訪いの広場</original>
+    <translation>Visiting Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -79,6 +83,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>旧船頭寄合所</original>
+    <translation>Old Ferryman's Haunt</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>

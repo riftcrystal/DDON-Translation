@@ -50,21 +50,27 @@
   </message>
   <message>
     <original>何かが引っ掛かって開かない</original>
+    <translation>It seems to be caught on something.</translation>
   </message>
   <message>
     <original>厳重に封印されている――</original>
+    <translation>It has been strongly sealed.</translation>
   </message>
   <message>
     <original>文字はかすれていて読めない</original>
+    <translation>The characters are faint and cannot be read.</translation>
   </message>
   <message>
     <original>すでに息絶えている――</original>
+    <translation>Out of breath...</translation>
   </message>
   <message>
     <original>特に気になるものはない</original>
+    <translation>Nothing of intrest here.</translation>
   </message>
   <message>
     <original>何か仕掛けがあるようだ</original>
+    <translation>Something feels off here.</translation>
   </message>
   <message>
     <original>この先は他の覚者とパーティーを組んだ

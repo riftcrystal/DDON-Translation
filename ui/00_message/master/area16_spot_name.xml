@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>モロー樹林</original>
@@ -8,14 +9,17 @@
     <key>SPOT_NAME_</key>
     <original>モルフォール</original>
     <translation>Morfall</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>賢者の墓標</original>
+    <translation>Sage's Gravestone</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>森精の隠れ家</original>
+    <translation>Forest Sprite's Refuge</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -29,6 +33,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>廃村エスリグ</original>
+    <translation>Deserted Village of Aethrig</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -41,10 +46,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>侵染の窪地</original>
+    <translation>Infected Basin</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>暗樹の大淵</original>
+    <translation>Dark Woods Great Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>

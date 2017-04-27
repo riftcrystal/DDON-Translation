@@ -2,17 +2,17 @@
   <message>
     <key>ability_category_2</key>
     <original>アクション強化</original>
-    <translation>Action Improvement</translation>
+    <translation>Improve Actions</translation>
   </message>
   <message>
     <key>ability_category_3</key>
     <original>攻撃力上昇</original>
-    <translation>Increase Attack Power</translation>
+    <translation>Inc. Attack Power</translation>
   </message>
   <message>
     <key>ability_category_4</key>
     <original>攻力上昇</original>
-    <translation>Increase Attack Force</translation>
+    <translation>Inc. Attack Force</translation>
   </message>
   <message>
     <key>ability_category_5</key>
@@ -22,17 +22,17 @@
   <message>
     <key>ability_category_6</key>
     <original>防御力上昇</original>
-    <translation>Increase Defense Power</translation>
+    <translation>Inc. Defense Power</translation>
   </message>
   <message>
     <key>ability_category_7</key>
     <original>防力上昇</original>
-    <translation>Increase Defense Force</translation>
+    <translation>Inc. Defense Force</translation>
   </message>
   <message>
     <key>ability_category_8</key>
     <original>耐性上昇</original>
-    <translation>Increase Resistance</translation>
+    <translation>Inc. Resistance</translation>
   </message>
   <message>
     <key>ability_category_9</key>

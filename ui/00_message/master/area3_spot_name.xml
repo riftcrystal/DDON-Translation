@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ミスリウ森林</original>
@@ -13,6 +14,7 @@
     <key>SPOT_NAME_</key>
     <original>リンウッド</original>
     <translation>Lynwood</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -43,6 +45,7 @@
     <key>SPOT_NAME_</key>
     <original>唸り猿の縄張り</original>
     <translation>The Roaring Ape's Territory</translation>
+    <translation_format>Roaring Ape's Territory</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -53,6 +56,7 @@
     <key>SPOT_NAME_</key>
     <original>豚喰いのねぐら</original>
     <translation>The Pig-Eater's Den</translation>
+    <translation_format>Pig-Eater's Den</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -68,6 +72,7 @@
     <key>SPOT_NAME_</key>
     <original>異界の狭間</original>
     <translation>The Rift</translation>
+    <translation_format>Rift</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -83,6 +88,7 @@
     <key>SPOT_NAME_</key>
     <original>異界の狭間　深層部</original>
     <translation>The Rift's Inner Depths</translation>
+    <translation_format>Rift's Inner Depths</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>

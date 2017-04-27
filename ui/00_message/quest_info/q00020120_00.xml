@@ -20,7 +20,7 @@ the current situation</translation>
   <message>
     <key>q00020120_00_1605</key>
     <original>レオの待つ禊の神殿屋外セラー湖の畔へ向かう</original>
-    <translation>Go meet Leo, who is waiting outside the Temple of Purification near the banks of Cera Lake</translation>
+    <translation>Head to Leo waiting on the banks of Lake Cera outside the Temple of Purification</translation>
   </message>
   <message>
     <key>q00020120_00_1606</key>
@@ -30,7 +30,7 @@ the current situation</translation>
   <message>
     <key>q00020120_00_1607</key>
     <original>ポーン郷にある異界の狭間・深層へ向かう</original>
-    <translation>Go to the Pawn Cathedral and enter the Rift's Inner Depths</translation>
+    <translation>Head to the Rift's Inner Depths in the Pawn Cathedral</translation>
   </message>
   <message>
     <key>q00020120_00_1616</key>
@@ -75,6 +75,6 @@ the current situation</translation>
   <message>
     <key>q00020120_00_1609</key>
     <original>謁見の間のジョゼフに報告する</original>
-    <translation>Report to Joseph in Audience Chamber</translation>
+    <translation>Report to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

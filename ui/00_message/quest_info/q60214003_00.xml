@@ -12,6 +12,7 @@
   <message>
     <key>q60214003_00_2379</key>
     <original>&lt;NPC 559&gt;から詳細を確認する</original>
+    <translation>Confirm details from &lt;NPC 559&gt;</translation>
   </message>
   <message>
     <key>q60214003_00_2498</key>
@@ -28,6 +29,7 @@
   <message>
     <key>q60214003_00_2546</key>
     <original>罠にはめた魔物の居場所へ向かう</original>
+    <translation>Head to the location of the monster caught in the trap</translation>
   </message>
   <message>
     <key>q60214003_00_2381</key>

@@ -2,7 +2,7 @@
   <message>
     <key>q60200114_00_153</key>
     <original>戦技の継承　シールドセージ求道試練３</original>
-    <translation>Skill Augmentation: Shield Sage Trial 3</translation>
+    <translation>Skill Augmentation: Shield Sage Trial III</translation>
   </message>
   <message>
     <key>q60200114_00_153</key>
@@ -19,7 +19,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200114_00_2196</key>
     <original>第一試練の場所へ向かう</original>
-    <translation>Go to location of the first test</translation>
+    <translation>Head to the location of the first test</translation>
   </message>
   <message>
     <key>q60200114_00_2197</key>
@@ -29,7 +29,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200114_00_2198</key>
     <original>第二試練の場所へ向かう</original>
-    <translation>Go to location of the second test</translation>
+    <translation>Head to the location of the second test</translation>
   </message>
   <message>
     <key>q60200114_00_2199</key>
@@ -39,7 +39,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200114_00_2200</key>
     <original>最終試練の場所へ向かう</original>
-    <translation>Go to location of the final test</translation>
+    <translation>Head to the location of the final test</translation>
   </message>
   <message>
     <key>q60200114_00_2201</key>

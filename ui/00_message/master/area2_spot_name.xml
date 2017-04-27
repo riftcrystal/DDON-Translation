@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ブリア海岸</original>
@@ -8,6 +9,7 @@
     <key>SPOT_NAME_</key>
     <original>ローテス</original>
     <translation>Rotes</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>

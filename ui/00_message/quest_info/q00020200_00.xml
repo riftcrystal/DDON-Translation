@@ -16,6 +16,7 @@
   <message>
     <key>q00020200_00_2110</key>
     <original>ファーラナ平原にある精霊の地への入り口へ向かう</original>
+    <translation>Head to the entrance to the Spirit Land in the Farana Plains</translation>
   </message>
   <message>
     <key>q00020200_00_2111</key>
@@ -34,10 +35,11 @@
   <message>
     <key>q00020200_00_2114</key>
     <original>ファーラナ平原で開かれる会談の場へ向かう</original>
+    <translation>Head to the open meeting place in the Farana Plains</translation>
   </message>
   <message>
     <key>q00020200_00_2125</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

@@ -22,7 +22,7 @@
   <message>
     <key>q00000016_00_1015</key>
     <original>オークの溜まり場へ向かう</original>
-    <translation>Go to the Orcs' location</translation>
+    <translation>Head to the Orcs' location</translation>
   </message>
   <message>
     <key>q00000016_00_1016</key>
@@ -52,7 +52,7 @@
   <message>
     <key>q00000016_00_1556</key>
     <original>命の器を探すため正門の奥へ向かう</original>
-    <translation>Search for the Vessel of Life</translation>
+    <translation>Head to the back of the main gate and search for the Vessel of Life</translation>
   </message>
   <message>
     <key>q00000016_00_1019</key>
@@ -62,6 +62,6 @@
   <message>
     <key>q00000016_00_1020</key>
     <original>謁見の間のレオに経緯を報告する</original>
-    <translation>Report back to Leo in Audience Chamber</translation>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
 </resource>

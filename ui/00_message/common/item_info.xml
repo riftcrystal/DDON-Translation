@@ -64,6 +64,8 @@ specified status effect.</translation>
   <item id="47">
     <original>蝶の細工があしらわれた小さな銀の鍵
 エルフ族の文字が刻まれている</original>
+    <translation>A small silver key with a butterfly design.
+Elven characters are inscribed.</translation>
   </item>
   <item id="48">
     <original>ガルドノック砦のどこかの鍵
@@ -87,6 +89,7 @@ specified status effect.</translation>
   </item>
   <item id="55">
     <original>装備しているランタンに着火し、一定時間点灯させる</original>
+    <translation>Used to ignite your lantern for a time.</translation>
   </item>
   <item id="56">
     <original>使用者のスタミナを回復する</original>
@@ -96,14 +99,20 @@ status debilitations.</translation>
   <item id="57">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from ore veins.
+Has a chance to break upon use.</translation>
   </item>
   <item id="58">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from fallen logs.
+Has a chance to break upon use.</translation>
   </item>
   <item id="59">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
+    <translation>Used to open locked treasure chests.
+Has a chance to break upon use.</translation>
   </item>
   <item id="61">
     <original>使用者のスタミナを回復する</original>
@@ -2969,76 +2978,112 @@ status debilitations.</translation>
   <item id="1026">
     <original>異界の狭間にて入手できる不思議な結晶
 覚者がポーンの民と契約を結ぶために必要なもの</original>
+    <translation>Mysterious crystals that are found in other worlds.
+Used to sign a contract with a new pawn.</translation>
   </item>
   <item id="1029">
     <original>メルゴダ護政区、《錬金研究棟》の鍵
 目玉を模した模様が刻まれている</original>
+    <translation>The key to Mergoda District's "Alchemy Research Building".
+A pattern imitating the eyeball is engraved</translation>
   </item>
   <item id="1030">
     <original>ドリード城のどこかにある《礼拝堂》の鍵
 騎士団により管理されてきた</original>
+    <translation>The key to a "chapel" somewhere in Dreed Castle.
+It has been managed by the Order.</translation>
   </item>
   <item id="1031">
     <original>禊の神殿、《水流制御室》の鍵
 竜の細工が施されている</original>
+    <translation>A key to the "Water Current Control Room" somewhere in the Shrine.
+Draconic markings are apparent.</translation>
   </item>
   <item id="1032">
     <original>大樹の意匠が彫られた壮麗なパネル状の鍵
 かなり大きな扉の施錠に使われていたようだ</original>
+    <translation>A magnificent panel-shaped key in which the design of the big tree was carved.
+It seems that it was used to lock quite a large door.</translation>
   </item>
   <item id="1034">
     <original>メルゴダ護政区、《軍事指導官室》の鍵
 この建物のどこかで使えるかもしれない</original>
+    <translation>The key to the "Military leaders' room".
+It might be usable somewhere in this building.</translation>
   </item>
   <item id="1035">
     <original>メルゴダ護政区・《特別研究区》の鍵
 大石塊と同じ紋章が彫り込まれている</original>
+    <translation>The key to the Mergoda District's "Special Research District".
+A symbol is engraved, reminiscent of large rocks.</translation>
   </item>
   <item id="1038">
     <original>ガルドノック砦の巨大な鍵
 正面の大門を開くためのものらしい</original>
+    <translation>Gardnock Fortress' huge key.
+It seems to open the main gate of the fort.</translation>
   </item>
   <item id="1044">
     <original>イベント封鎖用アイテム
 欠番だがIDはOM側で使用</original>
+    <translation>Event Blocked Item.
+Only used Server-Side.</translation>
   </item>
   <item id="1049">
     <original>ドリード城地下に保管されていた旧時代の遺物
 謎の魔物が持っていたものと同じ物のようだが――？</original>
+    <translation>Ancient relics from Dreed Castle's that had been kept underground
+Strikingly similar to various relics that demons have.</translation>
   </item>
   <item id="1050">
     <original>キースヒルトの命を収めた命の器
 清らかな光が静かに満たされている</original>
+    <translation>The legendary Vessel of Life.
+Seems to be filled with light.</translation>
   </item>
   <item id="1051">
     <original>ズールの命を収めた命の器
 赤い光が禍々しく脈動している</original>
+    <translation>The Vessel of Life corrupted by Zuhl.
+It is pulsating with a violent red glow.</translation>
   </item>
   <item id="1052">
     <original>テオドールが制作した命の器
 ディアマンテスの命を収めるためのもの</original>
+    <translation>The Vessel of Life created by Theodore.
+Used to accomodate Diamantes.</translation>
   </item>
   <item id="1053">
     <original>装備した武器/防具の重量が軽減される</original>
+    <translation>Weight of equipped gear is reduced</translation>
   </item>
   <item id="1054">
     <original>獲得XPが上昇する
 一定レベルに達すると、効果は失われる</original>
+    <translation>XP Gain increased.
+Effective only until a certain level.</translation>
   </item>
   <item id="1074">
     <original>肉系のクラフト用素材
 獣から取れる一般的な肉。生食できない</original>
+    <translation>Basic crafting material.
+Simple meat that can be found on many beasts. Cannot be eaten raw.</translation>
   </item>
   <item id="1316">
     <original>雑多なクラフト用素材
 暗い所で青白く発光する特殊な虫</original>
+    <translation>Miscellaneous crafting material.
+A special insect that emits a pale light in dark places.</translation>
   </item>
   <item id="1351">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="1359">
     <original>クラフト昇格試験アイテム</original>
+    <translation>Craft promotion test item</translation>
   </item>
   <item id="1674">
     <original></original>
@@ -14466,6 +14511,7 @@ status debilitations.</translation>
   </item>
   <item id="5723">
     <original>クラフト昇格試験アイテム</original>
+    <translation>Craft promotion test item</translation>
   </item>
   <item id="7526">
     <original>key - lte_竜の巣</original>
@@ -20039,26 +20085,38 @@ specified status effect.</translation>
   <item id="9401">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from ore veins.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9402">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from fallen logs.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9403">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
+    <translation>Used to open locked treasure chests.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9404">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from ore veins.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9405">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from fallen logs.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9406">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
+    <translation>Used to open locked treasure chests.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9407">
     <original>ハーブ類をふんだんに使ったサラダ
@@ -20079,6 +20137,8 @@ specified status effect.</translation>
   <item id="9411">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9412">
     <original>肉を使った精力満点の料理
@@ -20095,6 +20155,8 @@ specified status effect.</translation>
   <item id="9415">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9416">
     <original>肉を使った精力満点の料理
@@ -20111,6 +20173,8 @@ specified status effect.</translation>
   <item id="9419">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9420">
     <original>肉を使った精力満点の料理
@@ -20127,6 +20191,8 @@ specified status effect.</translation>
   <item id="9423">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9424">
     <original>肉を使った精力満点の料理
@@ -31763,7 +31829,8 @@ when equipped to armor.</translation>
   <item id="13491">
     <original>《鑑定交換》で利用できる宝珠
 レウスシリーズ防具と交換できる
-（ファイター/ウォリアー/ハンター/シーカー用）</original>
+（ファイター/ウォリアー/ハンター/シーカー
+　/スピリットランサー用）</original>
   </item>
   <item id="13492">
     <original>《鑑定交換》で利用できる宝珠
@@ -42199,6 +42266,148 @@ a commemorative trophy.</translation>
     <original>特製チョコレートのレシピ</original>
   </item>
   <item id="17154">
+    <original></original>
+  </item>
+  <item id="17941">
+    <original></original>
+  </item>
+  <item id="17942">
+    <original></original>
+  </item>
+  <item id="17943">
+    <original></original>
+  </item>
+  <item id="17944">
+    <original></original>
+  </item>
+  <item id="18599">
+    <original></original>
+  </item>
+  <item id="18600">
+    <original></original>
+  </item>
+  <item id="18601">
+    <original></original>
+  </item>
+  <item id="18602">
+    <original></original>
+  </item>
+  <item id="18603">
+    <original></original>
+  </item>
+  <item id="18604">
+    <original></original>
+  </item>
+  <item id="18605">
+    <original></original>
+  </item>
+  <item id="18606">
+    <original></original>
+  </item>
+  <item id="18607">
+    <original></original>
+  </item>
+  <item id="18608">
+    <original></original>
+  </item>
+  <item id="18609">
+    <original></original>
+  </item>
+  <item id="18610">
+    <original></original>
+  </item>
+  <item id="18611">
+    <original>友体/友活/友攻/友魔/友防/友護
+全てのアビリティのLv6より高い効果が付与される
+《至高ジュエリー【戦徒】》と交換可能な
+リング状プレート</original>
+  </item>
+  <item id="18612">
+    <original>探採/宝眼/延泉/安着/流断/薬効
+全てのアビリティのLv6より高い効果が付与される
+《至高ジュエリー【探究】》と交換可能な
+リング状プレート</original>
+  </item>
+  <item id="18613">
+    <original>侵壊/侵護/減侵/豪握/強壮
+全てのアビリティのLv6より高い効果が付与される
+《至高ジュエリー【侵滅】》と交換可能な
+リング状プレート</original>
+  </item>
+  <item id="18614">
+    <original>羅刹/夜叉/空滅/速離/聖体
+全てのアビリティのLv6より高い効果が付与される
+《至高ジュエリー【夜帝】》と交換可能な
+リング状プレート</original>
+  </item>
+  <item id="18615">
+    <original>至高のジュエリーの元となる
+リングプレートの生産素材</original>
+  </item>
+  <item id="18616">
+    <original>友体/友活/友攻/友魔/友防/友護
+全てのアビリティのLv6より高い効果が付与される
+ポーンが装備した場合は効果なし</original>
+  </item>
+  <item id="18617">
+    <original>探採/宝眼/延泉/安着/流断/薬効
+全てのアビリティのLv6より高い効果が付与される
+ポーンが装備した場合、探採/宝眼の効果なし</original>
+  </item>
+  <item id="18618">
+    <original>侵壊/侵護/減侵/豪握/強壮
+全てのアビリティのLv6より高い効果が付与される</original>
+  </item>
+  <item id="18619">
+    <original>羅刹/夜叉/空滅/速離/聖体
+全てのアビリティのLv6より高い効果が付与される</original>
+  </item>
+  <item id="18620">
+    <original></original>
+  </item>
+  <item id="18621">
+    <original></original>
+  </item>
+  <item id="18622">
+    <original></original>
+  </item>
+  <item id="18623">
+    <original></original>
+  </item>
+  <item id="18624">
+    <original></original>
+  </item>
+  <item id="18625">
+    <original></original>
+  </item>
+  <item id="18626">
+    <original></original>
+  </item>
+  <item id="18627">
+    <original></original>
+  </item>
+  <item id="18628">
+    <original></original>
+  </item>
+  <item id="18629">
+    <original></original>
+  </item>
+  <item id="18630">
+    <original></original>
+  </item>
+  <item id="18631">
+    <original></original>
+  </item>
+  <item id="18632">
+    <original></original>
+  </item>
+  <item id="18633">
+    <original></original>
+  </item>
+  <item id="18634">
+    <original></original>
+  </item>
+  <item id="18635">
     <original></original>
   </item>
 </item_data>

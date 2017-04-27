@@ -282,7 +282,7 @@
   <message>
     <key>msg_SUB_MENU_CLAN_INVITE_DIRECT</key>
     <original>クランに直接招待する</original>
-    <translation>Invite to Clan</translation>
+    <translation>Invite Directly to Clan</translation>
   </message>
   <message>
     <key>msg_SUB_MENU_KEYCONFIG_EDIT_NAME</key>

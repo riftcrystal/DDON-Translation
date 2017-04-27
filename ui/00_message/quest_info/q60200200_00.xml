@@ -14,7 +14,8 @@
   </message>
   <message>
     <key>q60200200_00_2686</key>
-    <original>ブリア海岸の＜海辺の地下室＞へ向かう</original>
+    <original>ブリア海岸の＜&lt;SPOT 585&gt;＞へ向かう</original>
+    <translation>Head to "&lt;SPOT 585&gt;" of the Breya Coast</translation>
   </message>
   <message>
     <key>q60200200_00_2758</key>
@@ -22,7 +23,7 @@
   </message>
   <message>
     <key>q60200200_00_2687</key>
-    <original>海辺の地下室内を調査する</original>
+    <original>&lt;SPOT 585&gt;内を調査する</original>
   </message>
   <message>
     <key>q60200200_00_2688</key>
@@ -31,7 +32,8 @@
   </message>
   <message>
     <key>q60200200_00_2689</key>
-    <original>ボルド鉱山の＜盗賊の隠れ家＞へ向かう</original>
+    <original>ボルド鉱山の＜&lt;SPOT 551&gt;＞へ向かう</original>
+    <translation>Head to "&lt;SPOT 551&gt;" of the Volden Mines</translation>
   </message>
   <message>
     <key>q60200200_00_2759</key>
@@ -39,7 +41,7 @@
   </message>
   <message>
     <key>q60200200_00_2690</key>
-    <original>盗賊の隠れ家内を調査する</original>
+    <original>&lt;SPOT 551&gt;内を調査する</original>
   </message>
   <message>
     <key>q60200200_00_2691</key>
@@ -47,7 +49,8 @@
   </message>
   <message>
     <key>q60200200_00_2692</key>
-    <original>ジンゲンの＜採掘師の隠れ道＞へ向かう</original>
+    <original>ボルド鉱山の＜&lt;SPOT 490&gt;＞へ向かう</original>
+    <translation>Head to "&lt;SPOT 490&gt;" of the Volden Mines</translation>
   </message>
   <message>
     <key>q60200200_00_2693</key>
@@ -55,7 +58,7 @@
   </message>
   <message>
     <key>q60200200_00_2771</key>
-    <original>採掘師の隠れ道内を調査する</original>
+    <original>&lt;SPOT 490&gt;内を調査する</original>
   </message>
   <message>
     <key>q60200200_00_2694</key>

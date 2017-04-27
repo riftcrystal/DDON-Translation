@@ -2,7 +2,7 @@
   <message>
     <key>q60200128_00_103</key>
     <original>戦技の継承　ウォリアー求道試練１</original>
-    <translation>Skill Augmentation: Warrior Trial 1</translation>
+    <translation>Skill Augmentation: Warrior Trial I</translation>
   </message>
   <message>
     <key>q60200128_00_103</key>
@@ -19,7 +19,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200128_00_2054</key>
     <original>第一試練の場所へ向かう</original>
-    <translation>Go to location of the first test</translation>
+    <translation>Head to the location of the first test</translation>
   </message>
   <message>
     <key>q60200128_00_2055</key>
@@ -29,7 +29,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200128_00_2056</key>
     <original>第二試練の場所へ向かう</original>
-    <translation>Go to location of the second test</translation>
+    <translation>Head to the location of the second test</translation>
   </message>
   <message>
     <key>q60200128_00_2057</key>
@@ -39,7 +39,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200128_00_1875</key>
     <original>最終試練の場所へ向かう</original>
-    <translation>Go to location of the final test</translation>
+    <translation>Head to the location of the final test</translation>
   </message>
   <message>
     <key>q60200128_00_1876</key>

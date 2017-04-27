@@ -7,11 +7,12 @@
   <message>
     <key>q00020210_00_53</key>
     <original>聖域の門から精霊の地へ向かう</original>
+    <translation>Head to the Spirit Land from the Sanctuary Gate</translation>
   </message>
   <message>
     <key>q00020210_00_2143</key>
     <original>ファーラナ平原にある＜聖域の門＞へ向かう</original>
-    <translation>Head to "Sanctuary Gate" in Farana Plains</translation>
+    <translation>Head to "Sanctuary Gate" in the Farana Plains</translation>
   </message>
   <message>
     <key>q00020210_00_2142</key>
@@ -60,6 +61,6 @@
   <message>
     <key>q00020210_00_2147</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

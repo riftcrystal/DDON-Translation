@@ -82,8 +82,9 @@ or stalactites.
     <key>ABILITY_INFO_405</key>
     <original>通常状態でのスピリットゲージの減少速度が低下する
 &lt;COL ffdc78&gt;LV UP毎により減少速度がさらに低下&lt;/COL&gt;</original>
-    <translation>Reduces the rate at which the Spirit Gauge decreases in normal mode.
-&lt;COL ffdc78&gt;LV UP: Further reduces the rate.&lt;/COL&gt;</translation>
+    <translation>Slows the drain of the Spirit Gauge in normal mode.
+&lt;COL ffdc78&gt;LV UP: Further slows the drain.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>ABILITY_INFO_4</key>
@@ -3098,7 +3099,8 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>魔人斬り/真・魔人斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Savage Lash/Indomitable Lash.
+    <translation>Increases the damage of Savage
+Lash/Indomitable Lash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
   </message>
@@ -3187,7 +3189,8 @@ period of time when assisting and reviving party members.
     <key>ABILITY_INFO_388</key>
     <original>しがみつき時に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of attacks while climbing.
+    <translation>Increases the damage of attacks while
+climbing.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3372,9 +3375,11 @@ are exposed is greatly extended.
     <original>魔人斬り、真・魔人斬りによる
 リベンジゲージ消費時に少しゲージが残る
 &lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</original>
-    <translation>When using Savage Lash or Indomitable Lash, a tiny
-portion of the revenge gauge remains when the gauge is consumed.
-&lt;COL ffdc78&gt;LV UP: Further increases remaining gauge amount.&lt;/COL&gt;</translation>
+    <translation>When using Savage Lash or Indomitable Lash,
+a tiny portion of the revenge gauge remains
+when the gauge is consumed.
+&lt;COL ffdc78&gt;LV UP: Further increases remaining gauge
+amount.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_403</key>
@@ -3754,5 +3759,25 @@ safely fall.
 &lt;COL ffdc78&gt;LV UP毎に重量さらに軽減&lt;/COL&gt;</original>
     <translation>Decreases the weight of equipped items.
 &lt;COL ffdc78&gt;LV UP: Further decreases item weight.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>ABILITY_INFO_461</key>
+    <original>友体/友活/友攻/友魔/友防/友護の
+Lv6以上の全てのアビリティ効果が付与される</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_462</key>
+    <original>探採/宝眼/延泉/安着/流断/薬効の
+Lv6以上の全てのアビリティ効果が付与される</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_463</key>
+    <original>侵壊/侵護/減侵/豪握/強壮の
+Lv6以上の全てのアビリティ効果が付与される</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_464</key>
+    <original>羅刹/夜叉/空滅/速離/聖体の
+Lv6以上の全てのアビリティ効果が付与される</original>
   </message>
 </resource>

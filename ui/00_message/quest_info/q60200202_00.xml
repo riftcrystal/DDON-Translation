@@ -40,7 +40,8 @@
   </message>
   <message>
     <key>q60200202_00_2714</key>
-    <original>新たな植物採取のため＜ヴァルテブル・ホール＞へ向かう</original>
+    <original>新たな植物採取のため＜&lt;SPOT 897&gt;＞へ向かう</original>
+    <translation>Head to "&lt;SPOT 897&gt;" to collect new plants</translation>
   </message>
   <message>
     <key>q60200202_00_2715</key>

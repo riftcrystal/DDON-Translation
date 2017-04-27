@@ -2,7 +2,7 @@
   <message>
     <key>q90020304_00_98</key>
     <original>古代神殿の死闘　戦況：重度</original>
-    <translation>Ancient Temple's Death Struggle: Severe</translation>
+    <translation>The Deathly Battle of the Ancient Temple: Severe</translation>
   </message>
   <message>
     <key>q90020304_00_98</key>
@@ -16,51 +16,62 @@
   <message>
     <key>q90020304_00_2501</key>
     <original>最奥へ続く道の敵を殲滅</original>
+    <translation>Defeat enemies on the way to the innermost</translation>
   </message>
   <message>
     <key>q90020304_00_2502</key>
     <original>二手に分かれ、神殿内を捜索する</original>
+    <translation>Split into two groups and search inside the temple</translation>
   </message>
   <message>
     <key>q90020304_00_2503</key>
     <original>《殲滅区 右方》序盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Opening stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2504</key>
     <original>《殲滅区 左方》序盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Opening stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2505</key>
     <original>魔物を呼ぶ元凶を討伐し、更なる増援を抑える</original>
+    <translation>Defeat the monster caller, suppress further reinforcements</translation>
   </message>
   <message>
     <key>q90020304_00_2506</key>
     <original>《殲滅区 右方》中盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Middle stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2507</key>
     <original>《殲滅区 左方》中盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Middle stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2508</key>
     <original>《殲滅区 右方》終盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Final stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2509</key>
     <original>《殲滅区 左方》終盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Final stage in progress</translation>
   </message>
   <message>
     <key>q90020304_00_2510</key>
     <original>《宝物庫》へ転移し、報酬を獲得</original>
+    <translation>[Treasury] Transfer and acquire reward</translation>
   </message>
   <message>
     <key>q90020304_00_2511</key>
     <original>神殿内に残る最後の脅威を排除する</original>
+    <translation>Eliminate the last threat within the temple</translation>
   </message>
   <message>
     <key>q90020304_00_98</key>
     <original>古代神殿の死闘《リザルト報酬》</original>
-    <translation>Ancient Temple's Death Struggle (Result Reward)</translation>
+    <translation>The Deathly Battle of the Ancient Temple (Result Reward)</translation>
   </message>
   <message>
     <key>q90020304_00_98</key>

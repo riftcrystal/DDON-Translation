@@ -11,7 +11,7 @@
   <message>
     <key>q00020170_00_2088</key>
     <original>＜守り人の庵＞前で待つセシリーと話す</original>
-    <translation>Speak with Cecily waiting in front of Protectors' Hut</translation>
+    <translation>Speak with Cecily waiting in front of the Protector's Retreat</translation>
   </message>
   <message>
     <key>q00020170_00_2089</key>
@@ -25,7 +25,7 @@
   <message>
     <key>q00020170_00_2116</key>
     <original>エリアマスターのラザネイルと話す</original>
-    <translation>Speak with the Area Master, Razanail</translation>
+    <translation>Speak with Razanail, the Area Master</translation>
   </message>
   <message>
     <key>q00020170_00_2451</key>
@@ -61,6 +61,6 @@
   <message>
     <key>q00020170_00_2097</key>
     <original>謁見の間に戻りジョゼフに報告する</original>
-    <translation>Return to Audience Chamber and report to Joseph</translation>
+    <translation>Return to the Audience Chamber and report to Joseph</translation>
   </message>
 </resource>

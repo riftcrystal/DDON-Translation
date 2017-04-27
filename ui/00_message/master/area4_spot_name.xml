@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ボルド鉱山</original>
@@ -8,11 +9,13 @@
     <key>SPOT_NAME_</key>
     <original>キノザ</original>
     <translation>Kinoza</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>キノザ鉱泉</original>
     <translation>Kinoza Mineral Springs</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -43,6 +46,7 @@
     <key>SPOT_NAME_</key>
     <original>巨鷲の宝物溜め</original>
     <translation>The Giant Eagle's Treasure Hoard</translation>
+    <translation_format>Giant Eagle's Treasure Hoard</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>

@@ -2,7 +2,7 @@
   <message>
     <key>q60200105_00_92</key>
     <original>戦技の継承　プリースト求道試練2</original>
-    <translation>Skill Augmentation: Priest Trial 2</translation>
+    <translation>Skill Augmentation: Priest Trial II</translation>
   </message>
   <message>
     <key>q60200105_00_92</key>
@@ -19,7 +19,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200105_00_2010</key>
     <original>第一試練の場所へ向かう</original>
-    <translation>Go to location of the first test</translation>
+    <translation>Head to the location of the first test</translation>
   </message>
   <message>
     <key>q60200105_00_2011</key>
@@ -29,7 +29,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200105_00_2012</key>
     <original>第二試練の場所へ向かう</original>
-    <translation>Go to location of the second test</translation>
+    <translation>Head to the location of the second test</translation>
   </message>
   <message>
     <key>q60200105_00_2013</key>
@@ -39,7 +39,7 @@ challenge the trial of the Job Master</translation>
   <message>
     <key>q60200105_00_1831</key>
     <original>最終試練の場所へ向かう</original>
-    <translation>Go to location of the final test</translation>
+    <translation>Head to the location of the final test</translation>
   </message>
   <message>
     <key>q60200105_00_1832</key>

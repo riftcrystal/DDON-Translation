@@ -1,13 +1,16 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>STAGE_NAME_1</key>
     <original>レスタニア</original>
     <translation>Lestania</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_2</key>
     <original>白竜神殿レーゼ</original>
     <translation>The White Dragon Temple</translation>
+    <translation_format>White Dragon Temple</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_3</key>
@@ -98,6 +101,7 @@
     <key>STAGE_NAME_22</key>
     <original>イヴァンの山小屋</original>
     <translation>Ivan's Lodge</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_23</key>
@@ -298,11 +302,13 @@
     <key>STAGE_NAME_62</key>
     <original>さる錬金術師の家</original>
     <translation>An Alchemist's Home</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_63</key>
     <original>テオドール錬金工房</original>
     <translation>Theodor's Alchemy Workshop</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_64</key>
@@ -318,6 +324,7 @@
     <key>STAGE_NAME_66</key>
     <original>グリッテン砦</original>
     <translation>Gritten Fort</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_67</key>
@@ -328,21 +335,25 @@
     <key>STAGE_NAME_68</key>
     <original>ガルドノック砦</original>
     <translation>Gardnox Fortress</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_69</key>
     <original>ドリード城</original>
     <translation>Dreed Castle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_70</key>
     <original>エルテ・ディナン</original>
     <translation>Erte Deenan</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_71</key>
     <original>グリッテン砦</original>
     <translation>Gritten Fort</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_72</key>
@@ -363,6 +374,7 @@
     <key>STAGE_NAME_75</key>
     <original>黄金宮</original>
     <translation>The Golden Palace</translation>
+    <translation_format>Golden Palace</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_76</key>
@@ -388,6 +400,7 @@
     <key>STAGE_NAME_80</key>
     <original>キノザ鉱泉</original>
     <translation>Kinoza Mineral Springs</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_81</key>
@@ -403,6 +416,7 @@
     <key>STAGE_NAME_83</key>
     <original>グリッテン砦</original>
     <translation>Gritten Fort</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_84</key>
@@ -528,11 +542,13 @@
     <key>STAGE_NAME_108</key>
     <original>レ・カルバス・サルトー</original>
     <translation>Le Karvas Salto</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_109</key>
     <original>レ・カルバス・アーマ</original>
     <translation>Le Karvas Arma</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_110</key>
@@ -687,41 +703,49 @@
     <key>STAGE_NAME_140</key>
     <original>異界の狭間</original>
     <translation>The Rift</translation>
+    <translation_format>Rift</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_142</key>
     <original>異界の狭間</original>
     <translation>The Rift</translation>
+    <translation_format>Rift</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_143</key>
     <original>アーク</original>
     <translation>The Ark</translation>
+    <translation_format>Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_144</key>
     <original>第二のアーク</original>
     <translation>The Second Ark</translation>
+    <translation_format>Second Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_145</key>
     <original>第三のアーク</original>
     <translation>The Third Ark</translation>
+    <translation_format>Third Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_146</key>
     <original>アーク</original>
     <translation>The Ark</translation>
+    <translation_format>Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_147</key>
     <original>第二のアーク</original>
     <translation>The Second Ark</translation>
+    <translation_format>Second Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_148</key>
     <original>第三のアーク</original>
     <translation>The Third Ark</translation>
+    <translation_format>Third Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_149</key>
@@ -1120,6 +1144,7 @@
     <key>STAGE_NAME_240</key>
     <original>アーク</original>
     <translation>The Ark</translation>
+    <translation_format>Ark</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_241</key>
@@ -1151,6 +1176,7 @@
     <key>STAGE_NAME_289</key>
     <original>黄金宮</original>
     <translation>The Golden Palace</translation>
+    <translation_format>Golden Palace</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_290</key>
@@ -1164,6 +1190,7 @@
     <key>STAGE_NAME_300</key>
     <original>グリッテン砦</original>
     <translation>Gritten Fort</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_303</key>
@@ -1259,6 +1286,7 @@
     <key>STAGE_NAME_335</key>
     <original>魔赤島</original>
     <translation>Bloodbane Isle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_336</key>
@@ -1273,7 +1301,7 @@
   <message>
     <key>STAGE_NAME_339</key>
     <original>守り人の庵</original>
-    <translation>Protectors' Hut</translation>
+    <translation>Protector's Retreat</translation>
   </message>
   <message>
     <key>STAGE_NAME_340</key>
@@ -1289,6 +1317,7 @@
     <key>STAGE_NAME_342</key>
     <original>レオのアジト</original>
     <translation>Leo's Hideout</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_347</key>
@@ -1383,11 +1412,13 @@
   <message>
     <key>STAGE_NAME_367</key>
     <original>聖河の遺跡</original>
+    <translation>Sacred River Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_368</key>
     <original>ネビュラ小神殿</original>
     <translation>Nebula Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_369</key>
@@ -1417,11 +1448,13 @@
     <key>STAGE_NAME_375</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_376</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_377</key>
@@ -1441,22 +1474,27 @@
   <message>
     <key>STAGE_NAME_380</key>
     <original>精霊竜のねぐら</original>
+    <translation>Spirit Dragon's Roost</translation>
   </message>
   <message>
     <key>STAGE_NAME_381</key>
     <original>精霊竜のねぐら</original>
+    <translation>Spirit Dragon's Roost</translation>
   </message>
   <message>
     <key>STAGE_NAME_382</key>
     <original>始まりの洞</original>
+    <translation>Den of Beginnings</translation>
   </message>
   <message>
     <key>STAGE_NAME_383</key>
     <original>始まりの洞</original>
+    <translation>Den of Beginnings</translation>
   </message>
   <message>
     <key>STAGE_NAME_384</key>
     <original>始まりの洞　集いの間　</original>
+    <translation>Den of Beginnings: Meeting Space</translation>
   </message>
   <message>
     <key>STAGE_NAME_385</key>
@@ -1487,10 +1525,12 @@
   <message>
     <key>STAGE_NAME_397</key>
     <original>知恵の小塔</original>
+    <translation>Small Tower of Wisdom</translation>
   </message>
   <message>
     <key>STAGE_NAME_400</key>
     <original>イヴァノスの塔</original>
+    <translation>Tower of Ivanos</translation>
   </message>
   <message>
     <key>STAGE_NAME_401</key>
@@ -1513,16 +1553,19 @@
     <key>STAGE_NAME_405</key>
     <original>異界の狭間　深層部</original>
     <translation>The Rift's Inner Depths</translation>
+    <translation_format>Rift's Inner Depths</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_406</key>
     <original>アーク　裏層</original>
     <translation>The Ark's Lower Level</translation>
+    <translation_format>Ark's Lower Level</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_408</key>
     <original>橋向かいの坑道</original>
     <translation>The Tunnel across the Bridge</translation>
+    <translation_format>Tunnel across the Bridge</translation_format>
   </message>
   <message>
     <key>STAGE_NAME_409</key>
@@ -1571,6 +1614,8 @@
   <message>
     <key>STAGE_NAME_419</key>
     <original>ダナウィンの挑堂</original>
+    <translation>Darwin's Challenge Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_420</key>
@@ -1635,6 +1680,7 @@
     <key>STAGE_NAME_433</key>
     <original>魔赤島</original>
     <translation>Bloodbane Isle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_434</key>
@@ -1685,6 +1731,7 @@
   <message>
     <key>STAGE_NAME_448</key>
     <original>古代地下宮</original>
+    <translation>Ancient Underground Shrine</translation>
   </message>
   <message>
     <key>STAGE_NAME_449</key>
@@ -1699,6 +1746,7 @@
   <message>
     <key>STAGE_NAME_451</key>
     <original>旧船頭寄合所</original>
+    <translation>Old Ferryman's Haunt</translation>
   </message>
   <message>
     <key>STAGE_NAME_452</key>
@@ -1713,6 +1761,7 @@
     <key>STAGE_NAME_455</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_458</key>
@@ -1740,5 +1789,6 @@
   <message>
     <key>STAGE_NAME_472</key>
     <original>始まりの洞</original>
+    <translation>Den of Beginnings</translation>
   </message>
 </resource>

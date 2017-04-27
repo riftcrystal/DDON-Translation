@@ -2259,4 +2259,20 @@
     <original>減重</original>
     <translation>Ease Burden</translation>
   </message>
+  <message>
+    <key>ABILITY_NAME_461</key>
+    <original>戦徒</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_462</key>
+    <original>探究</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_463</key>
+    <original>侵滅</original>
+  </message>
+  <message>
+    <key>ABILITY_NAME_464</key>
+    <original>夜帝</original>
+  </message>
 </resource>

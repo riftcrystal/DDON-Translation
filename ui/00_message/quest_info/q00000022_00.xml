@@ -32,7 +32,7 @@
   <message>
     <key>q00000022_00_1046</key>
     <original>テオドールの工房へ向かう</original>
-    <translation>Go to Theodor's Workshop</translation>
+    <translation>Head to Theodor's Workshop</translation>
   </message>
   <message>
     <key>q00000022_00_1596</key>
@@ -42,11 +42,11 @@
   <message>
     <key>q00000022_00_1597</key>
     <original>テオドールの工房にいるテオドールと話をする</original>
-    <translation>Speak to Theodor in Theodor's workshop</translation>
+    <translation>Speak to Theodor in Theodor's Workshop</translation>
   </message>
   <message>
     <key>q00000022_00_1047</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

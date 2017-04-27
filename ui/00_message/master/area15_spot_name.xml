@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>ファーラナ平原</original>
@@ -13,6 +14,7 @@
     <key>SPOT_NAME_</key>
     <original>ダナ</original>
     <translation>Dana</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -27,10 +29,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>始まりの洞　集いの間</original>
+    <translation>Den of Beginnings: Meeting Space</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>始まりの洞</original>
+    <translation>Den of Beginnings</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -40,12 +44,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>旧闘技場跡地</original>
-    <translation>Old Arena</translation>
+    <translation>Former Arena</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ニュートの巣穴</original>
-    <translation>Newts' Burrow</translation>
+    <translation>Newt Den</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -59,14 +63,18 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>大翼の谷</original>
+    <translation>Great Wings Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ファーラナ中央洲</original>
+    <translation>Central Farana Sandbank</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ダナウィンの挑堂</original>
+    <translation>Darwin's Challenge Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -100,13 +108,16 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>精霊竜のねぐら</original>
+    <translation>Spirit Dragon's Roost</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>聖河の遺跡</original>
+    <translation>Sacred River Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>知恵の小塔</original>
+    <translation>Small Tower of Wisdom</translation>
   </message>
 </resource>

@@ -26,7 +26,7 @@
   <message>
     <key>q00000013_00_1548</key>
     <original>禊の神殿へ向かう</original>
-    <translation>Go to the Temple of Purification</translation>
+    <translation>Head to the Temple of Purification</translation>
   </message>
   <message>
     <key>q00000013_00_1496</key>
@@ -56,6 +56,6 @@
   <message>
     <key>q00000013_00_1002</key>
     <original>謁見の間のレオに経緯を報告する</original>
-    <translation>Report back to Leo in Audience Chamber</translation>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
 </resource>

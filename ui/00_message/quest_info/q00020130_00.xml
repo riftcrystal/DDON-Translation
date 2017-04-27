@@ -12,17 +12,17 @@
   <message>
     <key>q00020130_00_1610</key>
     <original>レオの待つ禊の神殿へ向かう</original>
-    <translation>Go to Leo waiting in the Temple of Purification</translation>
+    <translation>Head to Leo waiting in the Temple of Purification</translation>
   </message>
   <message>
     <key>q00020130_00_1611</key>
     <original>神殿の奥で待つレオの元へ向かう</original>
-    <translation>Go to Leo waiting in the back of the temple</translation>
+    <translation>Seek out Leo waiting in the temple</translation>
   </message>
   <message>
     <key>q00020130_00_1612</key>
     <original>竜力の淀みし場所へ向かう</original>
-    <translation>Go to the location of the Dragon Force Stagnation</translation>
+    <translation>Head to the location of the stagnant dragon force</translation>
   </message>
   <message>
     <key>q00020130_00_1613</key>
@@ -32,11 +32,11 @@
   <message>
     <key>q00020130_00_1614</key>
     <original>白竜神殿のセシリーの元へ向かう</original>
-    <translation>Go to Cecily in the White Dragon Temple</translation>
+    <translation>Head to Cecily in the White Dragon Temple</translation>
   </message>
   <message>
     <key>q00020130_00_1615</key>
     <original>謁見の間のジョゼフに報告する</original>
-    <translation>Report to Joseph in Audience Chamber</translation>
+    <translation>Report to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

@@ -1,4 +1,5 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_</key>
     <original>キンガル峡谷</original>
@@ -8,14 +9,17 @@
     <key>SPOT_NAME_</key>
     <original>グリンデュア</original>
     <translation>Grindua</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>イヴァノスの塔</original>
+    <translation>Tower of Ivanos</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>キンガル西岸</original>
+    <translation>Kingal West Bank</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -25,10 +29,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>腐肉のほとり</original>
+    <translation>Carrion Bank</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>大神殿前広場</original>
+    <translation>Great Temple Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -37,15 +43,18 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>廃村クラーハ</original>
+    <translation>Deserted Village of Kraag</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>円形舞踊場</original>
+    <translation>Dancing Circle</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ネビュラ小神殿</original>
     <translation>Nebula Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -56,6 +65,7 @@
     <key>SPOT_NAME_</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -68,5 +78,6 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>古代地下宮</original>
+    <translation>Ancient Underground Shrine</translation>
   </message>
 </resource>

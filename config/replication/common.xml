@@ -1,6 +1,10 @@
 ﻿<replication>
   <message_set name="job name">
     <match>^ui\\00_message\\common\\job_name$</match>
+    <extra>
+      <original>エレメントアーチャ―</original>
+      <translation>Element Archer</translation>
+    </extra>
   </message_set>
   <message_set name="npc name">
     <match>^ui\\00_message\\npc\\npc_name$</match>

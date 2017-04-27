@@ -32,7 +32,7 @@
   <message>
     <key>q00000015_00_1550</key>
     <original>「ディナンの古鍵」を手に入れる</original>
-    <translation>Obtain the 'Ancient Key of Deenan'</translation>
+    <translation>Obtain the "Ancient Deenan Key"</translation>
   </message>
   <message>
     <key>q00000015_00_1551</key>
@@ -47,6 +47,6 @@
   <message>
     <key>q00000015_00_1013</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

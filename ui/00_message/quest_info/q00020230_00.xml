@@ -7,10 +7,12 @@
   <message>
     <key>q00020230_00_55</key>
     <original>原始の雫を探し求め、峡谷の奥地へ向かう</original>
+    <translation>Head to the back of the canyon and search for the primeval drops</translation>
   </message>
   <message>
     <key>q00020230_00_2158</key>
     <original>始まりの洞へ向かう</original>
+    <translation>Head to the Den of Beginnings</translation>
   </message>
   <message>
     <key>q00020230_00_2159</key>
@@ -20,6 +22,7 @@
   <message>
     <key>q00020230_00_2157</key>
     <original>＜原始の雫＞を探すためキンガル峡谷の奥地へ向かう</original>
+    <translation>Head to the back of the Kingal Canyon and search for the "Primeval Drops"</translation>
   </message>
   <message>
     <key>q00020230_00_2160</key>
@@ -28,6 +31,7 @@
   <message>
     <key>q00020230_00_2162</key>
     <original>開いた洞窟の奥へ向かう</original>
+    <translation>Head into the open cave</translation>
   </message>
   <message>
     <key>q00020230_00_2163</key>
@@ -44,6 +48,6 @@
   <message>
     <key>q00020230_00_2164</key>
     <original>謁見の間に戻り白竜と話す</original>
-    <translation>Return to Audience Chamber and speak with The White Dragon</translation>
+    <translation>Return to the Audience Chamber and speak with the White Dragon</translation>
   </message>
 </resource>

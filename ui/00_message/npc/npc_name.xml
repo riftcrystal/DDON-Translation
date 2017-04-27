@@ -3,6 +3,7 @@
     <key>NPC_NAME_251</key>
     <original>白竜</original>
     <translation>The White Dragon</translation>
+    <translation_format proper="false">White Dragon</translation_format>
   </message>
   <message>
     <key>NPC_NAME_252</key>
@@ -103,6 +104,7 @@
     <key>NPC_NAME_271</key>
     <original>流浪の探究者</original>
     <translation>Wandering Seeker</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_272</key>
@@ -113,46 +115,55 @@
     <key>NPC_NAME_273</key>
     <original>白衛騎士団員</original>
     <translation>White Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_274</key>
     <original>白衛騎士団員</original>
     <translation>White Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_275</key>
     <original>白衛騎士団員</original>
     <translation>White Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_276</key>
     <original>不気味な男</original>
     <translation>Strange Man</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_277</key>
     <original>不思議な少女</original>
     <translation>Mysterious Girl</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_278</key>
     <original>行商人</original>
     <translation>Peddler</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_279</key>
     <original>男</original>
     <translation>Man</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_280</key>
     <original>男</original>
     <translation>Man</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_281</key>
     <original>女</original>
     <translation>Woman</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_282</key>
@@ -203,26 +214,31 @@
     <key>NPC_NAME_291</key>
     <original>盗賊</original>
     <translation>Thief</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_292</key>
     <original>たたずむスケルトン</original>
     <translation>Lingering Skeleton</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_293</key>
     <original>スケルトン</original>
     <translation>Skeleton</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_294</key>
     <original>スケルトン</original>
     <translation>Skeleton</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_295</key>
     <original>物憂げなハーピー</original>
     <translation>Weary Harpy</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_296</key>
@@ -238,141 +254,169 @@
     <key>NPC_NAME_298</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_299</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_300</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_301</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_302</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_303</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_304</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_305</key>
     <original>戦士</original>
     <translation>Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_306</key>
     <original>戦士</original>
     <translation>Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_307</key>
     <original>女性戦士</original>
     <translation>Female Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_308</key>
     <original>軽装の戦士</original>
     <translation>Lightly-Equipped Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_309</key>
     <original>軽装の女戦士</original>
     <translation>Lightly-Equipped Female Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_310</key>
     <original>ハンター</original>
     <translation>Hunter</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_311</key>
     <original>旅の女性ハンター</original>
     <translation>Traveling Female Hunter</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_312</key>
     <original>魔術師</original>
     <translation>Sorcerer</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_313</key>
     <original>魔術師</original>
     <translation>Sorcerer</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_314</key>
     <original>神官</original>
     <translation>Priest</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_315</key>
     <original>女性神官</original>
     <translation>Female Priest</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_316</key>
     <original>息絶えた村人</original>
     <translation>Lifeless Villager</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_317</key>
     <original>息絶えた村人</original>
     <translation>Lifeless Villager</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_318</key>
     <original>息絶えた村人</original>
     <translation>Lifeless Villager</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_319</key>
     <original>息絶えた村人</original>
     <translation>Lifeless Villager</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_320</key>
     <original>息絶えた村人</original>
     <translation>Lifeless Villager</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_321</key>
     <original>息絶えた騎士</original>
     <translation>Lifeless Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_322</key>
     <original>息絶えた騎士</original>
     <translation>Lifeless Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_323</key>
     <original>息絶えた騎士</original>
     <translation>Lifeless Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_324</key>
     <original>息絶えた覚者</original>
     <translation>Lifeless Arisen</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_325</key>
     <original>息絶えた覚者</original>
     <translation>Lifeless Arisen</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_326</key>
@@ -383,6 +427,7 @@
     <key>NPC_NAME_327</key>
     <original>息絶えた覚者</original>
     <translation>Lifeless Arisen</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_328</key>
@@ -1153,26 +1198,31 @@
     <key>NPC_NAME_481</key>
     <original>ジェネラルオーク</original>
     <translation>General Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_482</key>
     <original>キャプテンオーク</original>
     <translation>Captain Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_483</key>
     <original>オーク</original>
     <translation>Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_484</key>
     <original>オーク</original>
     <translation>Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_485</key>
     <original>オーク</original>
     <translation>Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_486</key>
@@ -1945,6 +1995,7 @@
     <key>NPC_NAME_674</key>
     <original>ゴブリン</original>
     <translation>Goblin</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_675</key>
@@ -2104,26 +2155,31 @@
     <key>NPC_NAME_717</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_718</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_719</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_720</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_721</key>
     <original>白衛騎士団3</original>
     <translation>White Knights 3</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_722</key>
@@ -2138,6 +2194,7 @@
     <key>NPC_NAME_724</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_725</key>
@@ -2160,6 +2217,7 @@
     <key>NPC_NAME_729</key>
     <original>覚者隊の隊士</original>
     <translation>Arisen Corps Regimental Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_730</key>
@@ -2199,11 +2257,13 @@
     <key>NPC_NAME_742</key>
     <original>怪しいゴブリン</original>
     <translation>Suspicious Goblin</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_743</key>
     <original>オーク</original>
     <translation>Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_744</key>
@@ -2324,6 +2384,7 @@
     <key>NPC_NAME_781</key>
     <original>魔術師</original>
     <translation>Sorcerer</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_782</key>
@@ -2333,6 +2394,7 @@
     <key>NPC_NAME_783</key>
     <original>戦士</original>
     <translation>Soldier</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_784</key>
@@ -2362,6 +2424,7 @@
     <key>NPC_NAME_790</key>
     <original>神官</original>
     <translation>Priest</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_791</key>
@@ -2415,6 +2478,7 @@
     <key>NPC_NAME_803</key>
     <original>盗賊</original>
     <translation>Thief</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_804</key>
@@ -2492,6 +2556,7 @@
     <key>NPC_NAME_822</key>
     <original>セカンドポーン</original>
     <translation>Second Pawn</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_823</key>
@@ -2505,6 +2570,7 @@
     <key>NPC_NAME_827</key>
     <original>グランエント</original>
     <translation>Grand Ent</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_828</key>
@@ -2530,6 +2596,7 @@
     <key>NPC_NAME_833</key>
     <original>黒騎士</original>
     <translation>Black Knight</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_834</key>
@@ -2540,6 +2607,7 @@
     <key>NPC_NAME_835</key>
     <original>淀みし大竜力</original>
     <translation>Phantasmic Great Dragon</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_836</key>
@@ -2959,11 +3027,13 @@
     <key>NPC_NAME_933</key>
     <original>ガラダの護衛戦士</original>
     <translation>Garada's Escort Guard</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_934</key>
     <original>ガラダの護衛戦士</original>
     <translation>Garada's Escort Guard</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_935</key>
@@ -3012,6 +3082,7 @@
     <key>NPC_NAME_944</key>
     <original>パートナーポーン</original>
     <translation>Partner Pawn</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_945</key>
@@ -3037,6 +3108,7 @@
     <key>NPC_NAME_987</key>
     <original>ガラダの護衛戦士</original>
     <translation>Garada's Escort Guard</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_988</key>

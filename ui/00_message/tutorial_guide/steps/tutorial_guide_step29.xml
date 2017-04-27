@@ -10,6 +10,17 @@
 
 すぐ使いたいアイテムや機能は
 あらかじめ登録しておきましょう</original>
+    <translation>&lt;COL ffdc78&gt;"Shortcuts"&lt;/COL&gt; are a convenient way to execute
+game functions with a simple button
+combination.
+
+The use of healing items, chat messages,
+menu/pawn commands and more in an instant
+can be the difference between life and death.
+
+If you have an item or feature you might
+want to use in a hurry, make sure to
+register it in advance.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_408</key>
@@ -23,6 +34,15 @@
 &lt;PADM&gt;　　　　　　※任意に割り当て
 
 &lt;PADM&gt;　【&lt;KC UI_SC_MULTI_PAGE_L&gt;／&lt;KC UI_SC_MULTI_PAGE_R&gt;】セット切替（３セットまで可能）&lt;/PADM&gt;</original>
+    <translation>Registration Method - Multi-Shortcut:
+From the [&lt;KC UI_GAME_MENU&gt;] Game Menu, highlight the menu option.
+In the case of an item, highlight a &lt;COL ffdc78&gt;Consumable&lt;/COL&gt;
+from the "Item Bag".
+
+&lt;PADM&gt;　Hold [&lt;KC UI_SC_MULTI&gt;] then press [ &lt;KC UI_SC_MULTI_RIGHT&gt;/&lt;KC UI_SC_MULTI_DOWN&gt;/&lt;KC UI_SC_MULTI_LEFT&gt;/&lt;KC UI_SC_MULTI_UP&gt; ]&lt;KEYM&gt;　[&lt;KC UI_MSC1&gt; ~ &lt;KC UI_MSC12&gt;] assign to your choice&lt;/KEYM&gt;
+&lt;PADM&gt;　　　　　　*assign to your choice
+
+&lt;PADM&gt;　[&lt;KC UI_SC_MULTI_PAGE_L&gt;/&lt;KC UI_SC_MULTI_PAGE_R&gt;] Change set (Up to 3 sets allowed)&lt;/PADM&gt;</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_409</key>
@@ -35,5 +55,14 @@
 &lt;PADM&gt;　　　　　　　　【 &lt;KC UI_SC_COMMU5&gt;／&lt;KC UI_SC_COMMU6&gt;／&lt;KC UI_SC_COMMU7&gt;／&lt;KC UI_SC_COMMU8&gt; 】
 　　　　　　※任意に割り当て&lt;/PADM&gt;&lt;KEYM&gt;　　　※呼び出し時は【&lt;KC UI_SC_COMMU&gt;】で登録ウィンドウ切替&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;KC UI_SC_COMMU_PAGE_L&gt;／&lt;KC UI_SC_COMMU_PAGE_R&gt;】&lt;KEYM&gt;　【&lt;KC UI_MSC9&gt;／&lt;KC UI_MSC10&gt;】&lt;/KEYM&gt;セット切替（３セットまで可能）</original>
+    <translation>Registration Method - Quick Communication:
+From the [&lt;KC UI_GAME_MENU&gt;] Game Menu, in "Communication"-&gt;"Phrases" or "Emotes"
+or in "Character"-&gt;"Pawn Order", highlight
+an entry to register.
+
+&lt;PADM&gt;　Hold [&lt;KC UI_SC_COMMU&gt;] then press [ &lt;KC UI_SC_COMMU1&gt;/&lt;KC UI_SC_COMMU2&gt;/&lt;KC UI_SC_COMMU3&gt;/&lt;KC UI_SC_COMMU4&gt; ]&lt;KEYM&gt;　[&lt;KC UI_MSC1&gt; ~ &lt;KC UI_MSC8&gt;] assign to your choice&lt;/KEYM&gt;
+&lt;PADM&gt;　　　　　　　　[ &lt;KC UI_SC_COMMU5&gt;/&lt;KC UI_SC_COMMU6&gt;/&lt;KC UI_SC_COMMU7&gt;/&lt;KC UI_SC_COMMU8&gt; ]
+　　　　　　*assign to your choice&lt;/PADM&gt;&lt;KEYM&gt;　　　*press [&lt;KC UI_SC_COMMU&gt;] to toggle the quick chat window&lt;/KEYM&gt;
+&lt;PADM&gt;　[&lt;KC UI_SC_COMMU_PAGE_L&gt;/&lt;KC UI_SC_COMMU_PAGE_R&gt;]&lt;KEYM&gt;　[&lt;KC UI_MSC9&gt;/&lt;KC UI_MSC10&gt;]&lt;/KEYM&gt; Change set (Up to 3 sets allowed)</translation>
   </message>
 </resource>

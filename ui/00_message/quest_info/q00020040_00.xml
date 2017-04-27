@@ -18,12 +18,12 @@
   <message>
     <key>q00020040_00_1624</key>
     <original>港洞にいるゼルキンと話をする</original>
-    <translation>Speak to Zerkin in Cave Harbor</translation>
+    <translation>Speak to Zerkin in the Cave Harbor</translation>
   </message>
   <message>
     <key>q00020040_00_1987</key>
     <original>桟橋から船で魔赤島へ向かう</original>
-    <translation>Board the ship at the pier to Bloodbane Isle</translation>
+    <translation>Board the ship at the pier heading to Bloodbane Isle</translation>
   </message>
   <message>
     <key>q00020040_00_1767</key>
@@ -38,7 +38,7 @@
   <message>
     <key>q00020040_00_1766</key>
     <original>エリアマスターのベルトランと話をする</original>
-    <translation>Speak to the Area Master, Bertrand</translation>
+    <translation>Speak to Bertrand, the Area Master</translation>
   </message>
   <message>
     <key>q00020040_00_1625</key>
@@ -48,16 +48,16 @@
   <message>
     <key>q00020040_00_1626</key>
     <original>近くの洞窟へ向かう</original>
-    <translation>Go to the nearby cave</translation>
+    <translation>Head to the nearby cave</translation>
   </message>
   <message>
     <key>q00020040_00_1627</key>
     <original>洞窟内を探索する</original>
-    <translation>Explore the cave interior</translation>
+    <translation>Explore the cave</translation>
   </message>
   <message>
     <key>q00020040_00_1630</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
-    <translation>Report back to Joseph in Audience Chamber</translation>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>
