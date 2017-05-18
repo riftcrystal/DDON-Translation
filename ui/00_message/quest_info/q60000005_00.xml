@@ -29,14 +29,17 @@ challenge the trial of the Training Chapel</translation>
   <message>
     <key>q60000005_00_1146</key>
     <original>敵の攻撃を転身で回避せよ</original>
+    <translation>Avoid enemy attacks with Forward Roll.</translation>
   </message>
   <message>
     <key>q60000005_00_1248</key>
     <original>敵にロープ投げを成功せよ</original>
+    <translation>Successfully hit an enemy with Rope Throw.</translation>
   </message>
   <message>
     <key>q60000005_00_1148</key>
     <original>最奥の敵にしがみついて乱斬りせよ</original>
+    <translation>Cling to the enemy in the inner sanctum, and attack it with Scarlet Slashes.</translation>
   </message>
   <message>
     <key>q60000005_00_1149</key>
