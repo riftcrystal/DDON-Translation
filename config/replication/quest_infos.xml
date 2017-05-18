@@ -392,7 +392,7 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)の関所から(.+)へ向かう$</original_match>
-      <translation_replace>Head to {1:d} from {0:d}'s barrier</translation_replace>
+      <translation_replace>Head to {1:d} from {0:d}'s border checkpoint</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>

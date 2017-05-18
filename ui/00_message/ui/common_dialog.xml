@@ -2194,6 +2194,7 @@ your party members to the entryboard?</translation>
   <message>
     <key>ana_get_gmission_reward</key>
     <original>を獲得！</original>
+    <translation> acquired!</translation>
   </message>
   <message>
     <key>ana_totalscore_reward</key>
@@ -2203,6 +2204,8 @@ your party members to the entryboard?</translation>
     <key>ana_totalscore_ability_reward</key>
     <original>累計スコア報酬で
 シークレットアビリティを獲得！</original>
+    <translation>Earned Secret Augment in the
+total score reward!</translation>
   </message>
   <message>
     <key>ana_ranking_reward</key>

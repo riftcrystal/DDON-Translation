@@ -12,7 +12,7 @@
   <message>
     <key>q00020190_00_2103</key>
     <original>モルフォールへ行きセシリーと話す</original>
-    <translation>Head to Morfall and speak with Cecily</translation>
+    <translation>Head to Morfaul and speak with Cecily</translation>
   </message>
   <message>
     <key>q00020190_00_2122</key>
@@ -21,7 +21,7 @@
   <message>
     <key>q00020190_00_2104</key>
     <original>ファーラナ平原の関所からキンガル峡谷へ向かう</original>
-    <translation>Head to the Kingal Canyon from the Farana Plains's barrier</translation>
+    <translation>Head to the Kingal Canyon from the Farana Plains's border checkpoint</translation>
   </message>
   <message>
     <key>q00020190_00_2123</key>
@@ -43,7 +43,7 @@
   <message>
     <key>q00020190_00_2106</key>
     <original>ガラダを探す</original>
-    <translation>Find Garada</translation>
+    <translation>Find Gearóid</translation>
   </message>
   <message>
     <key>q00020190_00_2107</key>

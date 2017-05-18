@@ -2109,7 +2109,7 @@
   </named_param>
   <named_param id="920">
     <original type="Replace">未知の魔物？</original>
-    <translation type="Replace">Unknown Demon?</translation>
+    <translation type="Replace">Unknown Beast?</translation>
   </named_param>
   <named_param id="921">
     <original type="Replace">ズール</original>
@@ -2944,7 +2944,7 @@
   </named_param>
   <named_param id="1231">
     <original type="Replace">謎の魔物</original>
-    <translation type="Replace">Mysterious Demon</translation>
+    <translation type="Replace">Mysterious Beast</translation>
   </named_param>
   <named_param id="1232">
     <original type="Prefix">廃村に巣食う</original>
@@ -2952,14 +2952,15 @@
   </named_param>
   <named_param id="1233">
     <original type="Prefix">試練の魔物</original>
-    <translation type="Prefix">Trial Demon </translation>
+    <translation type="Prefix">Trial Beast </translation>
   </named_param>
   <named_param id="1234">
     <original type="Prefix">試練の魔物</original>
-    <translation type="Prefix">Trial Demon </translation>
+    <translation type="Prefix">Trial Beast </translation>
   </named_param>
   <named_param id="1235">
     <original type="Prefix">ロイグの家畜</original>
+    <translation type="Prefix">Loeg's Tamed </translation>
   </named_param>
   <named_param id="1236">
     <original type="Prefix">樹内に蔓延る</original>
@@ -3604,7 +3605,7 @@
   </named_param>
   <named_param id="1428">
     <original type="Prefix">鍵番</original>
-    <translation type="Prefix">Key Number </translation>
+    <translation type="Prefix">Key Guardian </translation>
   </named_param>
   <named_param id="1429">
     <original type="Replace">歪みの執行人</original>

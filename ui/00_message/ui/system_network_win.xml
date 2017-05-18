@@ -115,8 +115,8 @@ Exiting to the launcher.</translation>
     <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました
 タイトル画面に戻ります</original>
-    <translation>Due to prolonged inactivity,
-the connection to the server has been disconnected.
+    <translation>Due to prolonged inactivity, the connection
+to the server has been disconnected.
 Returning to the title screen.</translation>
   </message>
   <message>
@@ -158,8 +158,8 @@ an internet connection is required.</translation>
     <key>net_autologout_keep</key>
     <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました</original>
-    <translation>Due to prolonged inactivity,
-the connection to the server has been disconnected.</translation>
+    <translation>Due to prolonged inactivity, the connection
+to the server has been disconnected.</translation>
   </message>
   <message>
     <key>net_edit_keep</key>

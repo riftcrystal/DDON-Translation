@@ -2590,7 +2590,7 @@
   <message>
     <key>NPC_NAME_832</key>
     <original>ガラダ</original>
-    <translation>Garada</translation>
+    <translation>Gearóid</translation>
   </message>
   <message>
     <key>NPC_NAME_833</key>
@@ -2767,12 +2767,12 @@
   <message>
     <key>NPC_NAME_871</key>
     <original>ピサル</original>
-    <translation>Pisal</translation>
+    <translation>Pisarr</translation>
   </message>
   <message>
     <key>NPC_NAME_872</key>
     <original>ラザネイル</original>
-    <translation>Razanail</translation>
+    <translation>Razanailt</translation>
   </message>
   <message>
     <key>NPC_NAME_873</key>
@@ -2802,7 +2802,7 @@
   <message>
     <key>NPC_NAME_878</key>
     <original>フィン</original>
-    <translation>Finn</translation>
+    <translation>Fionn</translation>
   </message>
   <message>
     <key>NPC_NAME_879</key>
@@ -2827,7 +2827,7 @@
   <message>
     <key>NPC_NAME_883</key>
     <original>アルトフェイル</original>
-    <translation>Altofell</translation>
+    <translation>Arthfael</translation>
   </message>
   <message>
     <key>NPC_NAME_884</key>
@@ -2882,7 +2882,7 @@
   <message>
     <key>NPC_NAME_895</key>
     <original>キアラン</original>
-    <translation>Ciaran</translation>
+    <translation>Ciarán</translation>
   </message>
   <message>
     <key>NPC_NAME_896</key>
@@ -3016,7 +3016,7 @@
   <message>
     <key>NPC_NAME_931</key>
     <original>アデルドナハ</original>
-    <translation>Adelnodaha</translation>
+    <translation>Adair Donnchadh</translation>
   </message>
   <message>
     <key>NPC_NAME_932</key>
@@ -3026,13 +3026,13 @@
   <message>
     <key>NPC_NAME_933</key>
     <original>ガラダの護衛戦士</original>
-    <translation>Garada's Escort Guard</translation>
+    <translation>Gearóid's Escort Guard</translation>
     <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_934</key>
     <original>ガラダの護衛戦士</original>
-    <translation>Garada's Escort Guard</translation>
+    <translation>Gearóid's Escort Guard</translation>
     <translation_format proper="false" />
   </message>
   <message>
@@ -3107,7 +3107,7 @@
   <message>
     <key>NPC_NAME_987</key>
     <original>ガラダの護衛戦士</original>
-    <translation>Garada's Escort Guard</translation>
+    <translation>Gearóid's Escort Guard</translation>
     <translation_format proper="false" />
   </message>
   <message>
