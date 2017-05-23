@@ -217,14 +217,17 @@
   <message>
     <key>simple_text_2436</key>
     <original>どのジョブを持っていますか？</original>
+    <translation>Which job do you have?</translation>
   </message>
   <message>
     <key>simple_text_2437</key>
     <original>他にどのジョブができますか？</original>
+    <translation>What other jobs can you do?</translation>
   </message>
   <message>
     <key>simple_text_2438</key>
     <original>準備はできていますか？</original>
+    <translation>Are you prepared?</translation>
   </message>
   <message>
     <key>simple_text_2439</key>
@@ -254,10 +257,12 @@
   <message>
     <key>simple_text_2445</key>
     <original>後でまたお話ししてください</original>
+    <translation>Please tell me the story later</translation>
   </message>
   <message>
     <key>simple_text_2447</key>
     <original>今は個人行動を優先中です</original>
+    <translation>Every man for themselves</translation>
   </message>
   <message>
     <key>simple_text_2448</key>
@@ -352,6 +357,7 @@
   <message>
     <key>simple_text_2479</key>
     <original>約束があります</original>
+    <translation>I have an appointment</translation>
   </message>
   <message>
     <key>simple_text_2482</key>
@@ -366,6 +372,7 @@
   <message>
     <key>simple_text_2484</key>
     <original>用事があります</original>
+    <translation>I have things to do</translation>
   </message>
   <message>
     <key>simple_text_2486</key>
@@ -395,10 +402,12 @@
   <message>
     <key>simple_text_2492</key>
     <original>覚えていません</original>
+    <translation>I don't remember</translation>
   </message>
   <message>
     <key>simple_text_2493</key>
     <original>知りません</original>
+    <translation>I don't know</translation>
   </message>
   <message>
     <key>simple_text_2495</key>
@@ -488,6 +497,7 @@
   <message>
     <key>simple_text_2522</key>
     <original>解散します</original>
+    <translation>Disbanding</translation>
   </message>
   <message>
     <key>simple_text_2523</key>
@@ -497,6 +507,7 @@
   <message>
     <key>simple_text_2527</key>
     <original>レベル差が少ないほうがいいですね</original>
+    <translation>It's better to be within a few levels</translation>
   </message>
   <message>
     <key>simple_text_2529</key>
@@ -531,6 +542,7 @@
   <message>
     <key>simple_text_2539</key>
     <original>参加を希望します</original>
+    <translation>I hope I can participate</translation>
   </message>
   <message>
     <key>simple_text_2540</key>
@@ -545,42 +557,52 @@
   <message>
     <key>simple_text_9070</key>
     <original>ポーンを参加させます</original>
+    <translation>Pawns can participate</translation>
   </message>
   <message>
     <key>simple_text_9071</key>
     <original>引きつける！</original>
+    <translation>Attract!</translation>
   </message>
   <message>
     <key>simple_text_9072</key>
     <original>助けてくれ！</original>
+    <translation>Help me!</translation>
   </message>
   <message>
     <key>simple_text_9073</key>
     <original>回復を頼む</original>
+    <translation>Requesting healing</translation>
   </message>
   <message>
     <key>simple_text_9074</key>
     <original>回復する！</original>
+    <translation>Healing!</translation>
   </message>
   <message>
     <key>simple_text_9075</key>
     <original>跳ね上げる！</original>
+    <translation>Leap!</translation>
   </message>
   <message>
     <key>simple_text_9076</key>
     <original>こっちだ</original>
+    <translation>Here</translation>
   </message>
   <message>
     <key>simple_text_9077</key>
     <original>いまだ、攻撃を！</original>
+    <translation>Once more, attack!</translation>
   </message>
   <message>
     <key>simple_text_9078</key>
     <original>退くぞ！</original>
+    <translation>Get back!</translation>
   </message>
   <message>
     <key>simple_text_9079</key>
     <original>引きつける！</original>
+    <translation>Attract!</translation>
   </message>
   <message>
     <key>simple_text_9080</key>
@@ -590,26 +612,32 @@
   <message>
     <key>simple_text_9081</key>
     <original>回復をお願い</original>
+    <translation>Please heal me</translation>
   </message>
   <message>
     <key>simple_text_9082</key>
     <original>回復します！</original>
+    <translation>I'll heal!</translation>
   </message>
   <message>
     <key>simple_text_9083</key>
     <original>跳ね上げます！</original>
+    <translation>Jump!</translation>
   </message>
   <message>
     <key>simple_text_9084</key>
     <original>こっちです</original>
+    <translation>This way</translation>
   </message>
   <message>
     <key>simple_text_9085</key>
     <original>いまこそ、攻撃を！</original>
+    <translation>Now, attack!</translation>
   </message>
   <message>
     <key>simple_text_9086</key>
     <original>退きましょう！</original>
+    <translation>Withdraw!</translation>
   </message>
   <message>
     <key>simple_text_9087</key>
@@ -639,10 +667,12 @@
   <message>
     <key>simple_text_9092</key>
     <original>少し下がってください</original>
+    <translation>Please move down a bit and give me a little distance</translation>
   </message>
   <message>
     <key>simple_text_9093</key>
     <original>敵に注視されぬよう気をつけてください</original>
+    <translation>Please be careful and keep an eye out for enemies</translation>
   </message>
   <message>
     <key>simple_text_9094</key>
@@ -662,6 +692,7 @@
   <message>
     <key>simple_text_9097</key>
     <original>支援行動をお願いします！</original>
+    <translation>Please give me aid!</translation>
   </message>
   <message>
     <key>simple_text_9098</key>
@@ -706,6 +737,7 @@
   <message>
     <key>simple_text_9106</key>
     <original>しがみつきます</original>
+    <translation>Hang onto it</translation>
   </message>
   <message>
     <key>simple_text_9107</key>
@@ -740,6 +772,7 @@
   <message>
     <key>simple_text_9113</key>
     <original>がんばりましょう！</original>
+    <translation>Let's do our best!</translation>
   </message>
   <message>
     <key>simple_text_9114</key>
@@ -749,38 +782,47 @@
   <message>
     <key>simple_text_9115</key>
     <original>やりましょう！</original>
+    <translation>Let's do it!</translation>
   </message>
   <message>
     <key>simple_text_9116</key>
     <original>いきましょう！</original>
+    <translation>Let's go!</translation>
   </message>
   <message>
     <key>simple_text_9117</key>
     <original>楽しかった！</original>
+    <translation>It was fun!</translation>
   </message>
   <message>
     <key>simple_text_9118</key>
     <original>すごい！</original>
+    <translation>Amazing!</translation>
   </message>
   <message>
     <key>simple_text_9119</key>
     <original>すばらしい！</original>
+    <translation>Wonderful!</translation>
   </message>
   <message>
     <key>simple_text_9120</key>
     <original>グッジョブ！</original>
+    <translation>Good job!</translation>
   </message>
   <message>
     <key>simple_text_9121</key>
     <original>さすが！</original>
+    <translation>As expected!</translation>
   </message>
   <message>
     <key>simple_text_9122</key>
     <original>ナイスです！</original>
+    <translation>Nice!</translation>
   </message>
   <message>
     <key>simple_text_9123</key>
     <original>気にしないで！</original>
+    <translation>Don't worry about it!</translation>
   </message>
   <message>
     <key>simple_text_9124</key>
