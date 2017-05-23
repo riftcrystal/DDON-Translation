@@ -827,178 +827,222 @@
   <message>
     <key>simple_text_9124</key>
     <original>お気になさらず</original>
+    <translation>Without favoriting</translation>
   </message>
   <message>
     <key>simple_text_9125</key>
     <original>それではまた！</original>
+    <translation>Well then...again!</translation>
   </message>
   <message>
     <key>simple_text_9126</key>
     <original>次こそは！</original>
+    <translation>Next time!</translation>
   </message>
   <message>
     <key>simple_text_9127</key>
     <original>ザコは無視しますか？</original>
+    <translation>Ignore it?</translation>
   </message>
   <message>
     <key>simple_text_9128</key>
     <original>いいですね！</original>
+    <translation>That's excellent!</translation>
   </message>
   <message>
     <key>simple_text_9129</key>
     <original>了解！</original>
+    <translation>Understood!</translation>
   </message>
   <message>
     <key>simple_text_9130</key>
     <original>無理です！</original>
+    <translation>That's unreasonable!</translation>
   </message>
   <message>
     <key>simple_text_9131</key>
     <original>マーカーを目指しましょう</original>
+    <translation>Head for the marker</translation>
   </message>
   <message>
     <key>simple_text_9132</key>
     <original>帰還しましょう</original>
+    <translation>Let's return</translation>
   </message>
   <message>
     <key>simple_text_9133</key>
     <original>拠点に行きましょう</original>
+    <translation>Let's head towards the base</translation>
   </message>
   <message>
     <key>simple_text_9134</key>
     <original>リム転移します</original>
+    <translation>Let's transfer at the Riftstone</translation>
   </message>
   <message>
     <key>simple_text_9135</key>
     <original>装備を変えます</original>
+    <translation>Changing equipment</translation>
   </message>
   <message>
     <key>simple_text_9136</key>
     <original>ジョブを変えます</original>
+    <translation>Changing job</translation>
   </message>
   <message>
     <key>simple_text_9137</key>
     <original>アイテムを補充します</original>
+    <translation>Replenishing items</translation>
   </message>
   <message>
     <key>simple_text_9138</key>
     <original>アイテムを取ります！</original>
+    <translation>Harvesting items!</translation>
   </message>
   <message>
     <key>simple_text_9139</key>
     <original>アイテムがいっぱいになりました</original>
+    <translation>Items have been filled</translation>
   </message>
   <message>
     <key>simple_text_9140</key>
     <original>もう一度行きませんか？</original>
+    <translation>Are we not going again?</translation>
   </message>
   <message>
     <key>simple_text_9141</key>
     <original>離脱します！</original>
+    <translation>Withdrawing!</translation>
   </message>
   <message>
     <key>simple_text_9142</key>
     <original>リーダーを変更します</original>
+    <translation>Changing leader</translation>
   </message>
   <message>
     <key>simple_text_9143</key>
     <original>どんまい！</original>
+    <translation>I don't mind!</translation>
   </message>
   <message>
     <key>simple_text_9144</key>
     <original>気にするな！</original>
+    <translation>Never mind!</translation>
   </message>
   <message>
     <key>simple_text_9145</key>
     <original>気にしないで！</original>
+    <translation>Don't worry about it!</translation>
   </message>
   <message>
     <key>simple_text_9146</key>
     <original>大丈夫です！</original>
+    <translation>It's okay!</translation>
   </message>
   <message>
     <key>simple_text_9147</key>
     <original>申し訳ない！</original>
+    <translation>I'm sorry!</translation>
   </message>
   <message>
     <key>simple_text_9148</key>
     <original>すみません！</original>
+    <translation>Pardon me!</translation>
   </message>
   <message>
     <key>simple_text_9149</key>
     <original>俺が！</original>
+    <translation>Me!</translation>
   </message>
   <message>
     <key>simple_text_9150</key>
     <original>私が！</original>
+    <translation>I!</translation>
   </message>
   <message>
     <key>simple_text_9151</key>
     <original>状態異常に気を付けましょう！</original>
+    <translation>Let's debilitate it!</translation>
   </message>
   <message>
     <key>simple_text_9152</key>
     <original>エンチャントを頼む！</original>
+    <translation>Requesting an enchantment!</translation>
   </message>
   <message>
     <key>simple_text_9153</key>
     <original>エンチャントをお願い！</original>
+    <translation>Please enchant!</translation>
   </message>
   <message>
     <key>simple_text_9154</key>
     <original>ザコは無視しよう！</original>
+    <translation>Ignore it!</translation>
   </message>
   <message>
     <key>simple_text_9155</key>
     <original>ザコは無視しましょう！</original>
+    <translation>Ignoring it!</translation>
   </message>
   <message>
     <key>simple_text_9156</key>
     <original>この敵は倒そう！</original>
+    <translation>Kill this enemy!</translation>
   </message>
   <message>
     <key>simple_text_9157</key>
     <original>この敵は倒しましょう！</original>
+    <translation>Killing this enemy!</translation>
   </message>
   <message>
     <key>simple_text_9158</key>
     <original>先に行ってください</original>
+    <translation>Please go ahead</translation>
   </message>
   <message>
     <key>simple_text_9189</key>
     <original>急ごう！</original>
+    <translation>Hurry!</translation>
   </message>
   <message>
     <key>simple_text_9190</key>
     <original>急ぎましょう！</original>
+    <translation>Make haste!</translation>
   </message>
   <message>
     <key>simple_text_9191</key>
     <original>焦らずに</original>
+    <translation>Stay calm</translation>
   </message>
   <message>
     <key>simple_text_9192</key>
     <original>助かりました！</original>
+    <translation>Rescued!</translation>
   </message>
   <message>
     <key>simple_text_9193</key>
     <original>う、動けない！</original>
+    <translation>Ooh, it cannot move!</translation>
   </message>
   <message>
     <key>simple_text_9194</key>
     <original>少し準備します</original>
+    <translation>Preparing a bit</translation>
   </message>
   <message>
     <key>simple_text_9195</key>
     <original>手を出すな</original>
+    <translation>Hand it in</translation>
   </message>
   <message>
     <key>simple_text_9196</key>
     <original>手を出さないで</original>
+    <translation>Do not hand it in</translation>
   </message>
   <message>
     <key>simple_text_9197</key>
     <original>敵を引きつける</original>
+    <translation>Attract the enemy</translation>
   </message>
   <message>
     <key>simple_text_9198</key>
@@ -1008,74 +1052,92 @@
   <message>
     <key>simple_text_9199</key>
     <original>俺に任せろ！</original>
+    <translation>Leave it to me!</translation>
   </message>
   <message>
     <key>simple_text_9200</key>
     <original>私に任せて！</original>
+    <translation>Entrust it to me!</translation>
   </message>
   <message>
     <key>simple_text_9201</key>
     <original>俺の背中に隠れて！</original>
+    <translation>I'll hide on the back!</translation>
   </message>
   <message>
     <key>simple_text_9202</key>
     <original>私の背中に隠れて！</original>
+    <translation>I'll conceal myself on the back!</translation>
   </message>
   <message>
     <key>simple_text_9203</key>
     <original>凍らせる！</original>
+    <translation>Can Freeze!</translation>
   </message>
   <message>
     <key>simple_text_9204</key>
     <original>凍らせます！</original>
+    <translation>Able to Freeze!</translation>
   </message>
   <message>
     <key>simple_text_9205</key>
     <original>スローにする！</original>
+    <translation>Slowing it!</translation>
   </message>
   <message>
     <key>simple_text_9206</key>
     <original>スローにします！</original>
+    <translation>I'll slow it!</translation>
   </message>
   <message>
     <key>simple_text_9207</key>
     <original>眠らせる！</original>
+    <translation>Can put it to sleep!</translation>
   </message>
   <message>
     <key>simple_text_9208</key>
     <original>眠らせます！</original>
+    <translation>Able to put it to sleep!</translation>
   </message>
   <message>
     <key>simple_text_9209</key>
     <original>状態異常を狙う！</original>
+    <translation>Debilitate it!</translation>
   </message>
   <message>
     <key>simple_text_9210</key>
     <original>状態異常を狙います！</original>
+    <translation>Aim debilitations at it!</translation>
   </message>
   <message>
     <key>simple_text_9211</key>
     <original>状態異常にする！</original>
+    <translation>Can debilitate it!</translation>
   </message>
   <message>
     <key>simple_text_9212</key>
     <original>状態異常にします！</original>
+    <translation>Debilitating it!</translation>
   </message>
   <message>
     <key>simple_text_9213</key>
     <original>弱点を攻撃してくれ！</original>
+    <translation>Attack it's weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9214</key>
     <original>弱点を攻撃して！</original>
+    <translation>Strike at it's weak point!</translation>
   </message>
   <message>
     <key>simple_text_9215</key>
     <original>別れて戦おう！</original>
+    <translation>Spread out and attack!</translation>
   </message>
   <message>
     <key>simple_text_9216</key>
     <original>別れて戦いましょう！</original>
+    <translation>Split up and fight!</translation>
   </message>
   <message>
     <key>simple_text_9217</key>
@@ -1085,65 +1147,81 @@
   <message>
     <key>simple_text_9218</key>
     <original>散らばってください！</original>
+    <translation>Please spread out!</translation>
   </message>
   <message>
     <key>simple_text_9219</key>
     <original>弱点を出そう！</original>
+    <translation>Reveal it's weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9220</key>
     <original>弱点を狙おう！</original>
+    <translation>Aim for it's weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9221</key>
     <original>弱点を攻撃しよう！</original>
+    <translation>Attack it's weakspot!</translation>
   </message>
   <message>
     <key>simple_text_9222</key>
     <original>スタミナを減らそう！</original>
+    <translation>Decrease it's stamina!</translation>
   </message>
   <message>
     <key>simple_text_9223</key>
     <original>一気に揺さぶろう！</original>
+    <translation>Shake it without stopping!</translation>
   </message>
   <message>
     <key>simple_text_9224</key>
     <original>今助ける！</original>
+    <translation>Help now!</translation>
   </message>
   <message>
     <key>simple_text_9225</key>
     <original>今助けます！</original>
+    <translation>Assist now!</translation>
   </message>
   <message>
     <key>simple_text_9226</key>
     <original>こっちだ、跳ね上げる！</original>
+    <translation>Over here, jump!</translation>
   </message>
   <message>
     <key>simple_text_9227</key>
     <original>こっちです、跳ね上げます！</original>
+    <translation>This way, leap!</translation>
   </message>
   <message>
     <key>simple_text_9228</key>
     <original>おきろ！</original>
+    <translation>Get up!</translation>
   </message>
   <message>
     <key>simple_text_9229</key>
     <original>起きて！</original>
+    <translation>Rise!</translation>
   </message>
   <message>
     <key>simple_text_9230</key>
     <original>トドメだ！</original>
+    <translation>Take that!</translation>
   </message>
   <message>
     <key>simple_text_9231</key>
     <original>仕切り直そう！</original>
+    <translation>We'll redo that!</translation>
   </message>
   <message>
     <key>simple_text_9232</key>
     <original>仕切り直しましょう！</original>
+    <translation>Let's go back and start again!</translation>
   </message>
   <message>
     <key>simple_text_9233</key>
     <original>こいつは危険です！</original>
+    <translation>You're in danger!</translation>
   </message>
 </resource>
