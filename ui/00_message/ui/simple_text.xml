@@ -147,7 +147,7 @@
   <message>
     <key>simple_text_2419</key>
     <original>どこにですか？</original>
-    <translation>Where to?*</translation>
+    <translation>Where to?</translation>
   </message>
   <message>
     <key>simple_text_2420</key>
@@ -267,7 +267,7 @@
   <message>
     <key>simple_text_2448</key>
     <original>答えたいですが、表現がわかりません</original>
-    <translation>I don't know how to answer that question*</translation>
+    <translation>I want to answer, but I don't understand the expression.</translation>
   </message>
   <message>
     <key>simple_text_2449</key>
