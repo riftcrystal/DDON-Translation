@@ -9,6 +9,14 @@
 
 マップを確認しながら《中央広場》の奥へ
 向いましょう</original>
+<translation>&lt;COL ffdc78&gt;"The Withe Dragon Temple"&lt;/COL&gt;Its an important
+Place for all players, its the starting point of their adventure
+
+The place where you recieve new missions and quests is the
+&lt;COL ffdc78&gt;"Audience Chamber"&lt;/COL&gt;
+
+Check the map for the "Central Square" 
+and go south from there</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_50</key>
@@ -22,5 +30,15 @@
 《港洞》　　…海洋任務に備える停船所
 
 《謁見の間》…白竜や重要人物との対話の場</original>
+<translation>The White Dragon Temple is divided into several districs
+
+"Central Square" It's the center of the Temple and where everyone gathers
+"Shopping District" Here are varous stores that sell weapons and materials
+"Relay Station District" Here are places to relax, like Inns and Taverns
+
+"Craft Room" Where Pawns can craft Items
+"Cave harbour" Where you can set sail to Islands in the open seas
+
+"Audience Chamber" Where the White Dragon and the nobles reside </translation>
   </message>
 </resource>

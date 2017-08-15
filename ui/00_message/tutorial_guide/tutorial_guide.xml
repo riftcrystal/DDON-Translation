@@ -32,7 +32,7 @@
   <message>
     <key>TUTORIAL_33</key>
     <original>戦うべき敵</original>
-    <translation>Enemies to be Fought</translation>
+    <translation>Fighting Monsters</translation>
   </message>
   <message>
     <key>TUTORIAL_35</key>
@@ -540,6 +540,7 @@
   <message>
     <key>TUTORIAL_229</key>
     <original>ロストポーンの救出</original>
+    <translation>Rescuing a Lost Pawn</translation>
   </message>
   <message>
     <key>TUTORIAL_230</key>
@@ -572,6 +573,7 @@
   <message>
     <key>TUTORIAL_236</key>
     <original>エリアマスターの支援品</original>
+    <translation>Area Master's Support Items</translation>
   </message>
   <message>
     <key>TUTORIAL_237</key>
@@ -625,7 +627,6 @@
   <message>
     <key>TUTORIAL_250</key>
     <original>メインクエストのボス戦時の注意点</original>
-	<translation>Main Quest Boss Wartime notes</translation>
   </message>
   <message>
     <key>TUTORIAL_252</key>
