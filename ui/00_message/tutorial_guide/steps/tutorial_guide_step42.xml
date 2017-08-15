@@ -10,6 +10,14 @@
 
 &lt;COL ffdc78&gt;ワールドクエスト指定の討伐対象敵は
 ミニマップに青の丸で示されます&lt;/COL&gt;</original>
+    <translation>&lt;COL 78f5ff&gt;"World Quests" are available!&lt;/COL&gt;
+&lt;COL ffdc78&gt;"World Quests"&lt;/COL&gt; are unique to each area
+They can be obtained from "Lestania News", talking to NPCs or
+Encountering an enemy in the field.
+Be sure to check the the recommended level!      
+
+&lt;COL ffdc78&gt; The Target Enemy of the "World Quest" appears
+on your Mini Map as a blue circle</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_300</key>
@@ -23,6 +31,15 @@
 もう一つのポイントは
 &lt;COL ffdc78&gt;《公開クエスト》か《未公開クエスト》&lt;/COL&gt;によって
 報酬や遊び方が異なることです</original>
+    <translation>World Quests and their rewards can be checked at any
+time by checking the&lt;COL ffdc78&gt;"Lestania News"&lt;/COL&gt;
+
+Also, each&lt;COL ffdc78&gt;"Area Master" has "World Quest information"&lt;/COL&gt;
+You can get detailed information of what the Enemy is or where it appears.
+
+Also note that 
+&lt;COL ffdc78&gt;"Public quests" and "Hidden Quests"&lt;/COL&gt;have
+different rewards and objectives</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_36</key>
@@ -34,5 +51,13 @@
 　…自力で探索し見つけ出すか、エリアマスターに
 　　情報料を払う必要があるクエストです
 　&lt;COL ffdc78&gt;クリア時１度のみ、未公開ボーナス報酬が付きます&lt;/COL&gt;</original>
+    <translation>"Public Quests":Gives Normal Rewards...
+The location of the enemy and the quest rewards
+can be seen by all players
+
+"Hidden Quests":Gives Bonus Rewards...
+You need to search for yourself how to complete it
+you can also pay the "Area Master" for hints
+&lt;COL ffdc78&gt;Know that you can only get the bonus rewards once&lt;/COL&gt;</translation>
   </message>
 </resource>
