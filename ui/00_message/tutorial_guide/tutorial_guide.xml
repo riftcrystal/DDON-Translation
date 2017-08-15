@@ -625,30 +625,37 @@
   <message>
     <key>TUTORIAL_250</key>
     <original>メインクエストのボス戦時の注意点</original>
+	<translation>Main Quest Boss Wartime notes</translation>
   </message>
   <message>
     <key>TUTORIAL_252</key>
     <original>レスタニア序節　到達</original>
+	<translation>Reaching Lestania part 1 </translation>
   </message>
   <message>
     <key>TUTORIAL_253</key>
     <original>レスタニア第二節　到達</original>
+	<translation>Reaching Lestania part 2</translation>
   </message>
   <message>
     <key>TUTORIAL_255</key>
     <original>鑑定交換</original>
+	<translation>Appraisal Exchange</translation>
   </message>
   <message>
     <key>TUTORIAL_257</key>
     <original>レスタニア第三節　到達</original>
+	<translation>Reaching Lestania part 3</translation>
   </message>
   <message>
     <key>TUTORIAL_258</key>
     <original>覚者の自室</original>
+	<translation>Arisen's Room</translation>
   </message>
   <message>
     <key>TUTORIAL_261</key>
     <original>鑑定ジュエリー</original>
+	<translation>Appraising Jewelry</translation>
   </message>
   <message>
     <key>TUTORIAL_264</key>
@@ -657,6 +664,7 @@
   <message>
     <key>TUTORIAL_266</key>
     <original>侵食魔について：小型敵</original>
+    <translation>Infected: Small Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_267</key>
@@ -679,7 +687,8 @@
   </message>
   <message>
     <key>TUTORIAL_275</key>
-    <original>侵食魔について：大型敵 </original>
+    <original>侵食魔について：大型敵</original>
+	<translation>Infected: Large Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_278</key>
@@ -704,6 +713,7 @@
   <message>
     <key>TUTORIAL_293</key>
     <original>侵食の大災 序説　到達</original>
+    <translation>An Introduction to the Infected</translation>
   </message>
   <message>
     <key>TUTORIAL_294</key>
@@ -721,6 +731,7 @@
   <message>
     <key>TUTORIAL_299</key>
     <original>ポーン遠征隊</original>
+    <translation>Pawn Expeditions</translation>
   </message>
   <message>
     <key>TUTORIAL_301</key>
@@ -766,6 +777,7 @@
   <message>
     <key>TUTORIAL_317</key>
     <original>クランレベルとクラン拠点</original>
+    <translation>Clan levels and Clan Bases</translation>
   </message>
   <message>
     <key>TUTORIAL_320</key>

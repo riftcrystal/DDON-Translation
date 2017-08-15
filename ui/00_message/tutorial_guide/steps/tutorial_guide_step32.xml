@@ -9,6 +9,14 @@
 
 &lt;COL ffdc78&gt;「討伐クエスト」&lt;/COL&gt;と&lt;COL ffdc78&gt;「納品クエスト」&lt;/COL&gt;
 から、受注したいものを選びましょう</original>
+    <translation>&lt;COL 78f5ff&gt;"Board Quests" ae available!&lt;/COL&gt;
+	
+In various locations you will see&lt;COL ffdc78&gt;"Quest Boards"&lt;/COL&gt;
+Residents put their various requests on&lt;COL ffdc78&gt;"Board Quests"&lt;/COL&gt;
+Every day we get new requests.
+
+&lt;COL ffdc78&gt;"Elimination Quests"&lt;/COL&gt;and&lt;COL ffdc78&gt;"Delivery Quests"&lt;/COL&gt;
+Choose whichever you like</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_10</key>
@@ -21,5 +29,14 @@
 なお、依頼期間（配信）が過ぎてしまった
 場合は自動的にクエスト破棄されますので
 ご注意ください</original>
+    <translation>&lt;COL ffdc78&gt;"Elimination Quests" are aimed at the suppression of monsters
+The target enemies are indicated by a green circle on the mini map&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;"Delivery Quests" are about obtaining specific items
+and deliver them to a "Postbox"&lt;/COL&gt;
+
+However, if the time limit for the delivery has passed
+The quest will automatically fail
+Please be careful.</translation>
   </message>
 </resource>
