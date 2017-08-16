@@ -10,6 +10,15 @@
 　　　地域問題やジョブの専門家
 
 など、さまざまな役割を持つ者がいます</original>
+    <translation>In Lestania, beside the Arisen
+Many people (NPCs) live
+NPCs have different roles, such as
+
+   Shopkeepers and facility owners
+   Quest clients
+   Area and Job Masters
+
+Be sure to know them well!</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_82</key>
@@ -18,5 +27,10 @@
 
 利用したい機能、話したい内容を
 選びましょう</original>
+    <translation>When you talk to them
+Options appear in the Conversation menu
+
+So you can choose what you want to talk about
+Get to know them!</translation>
   </message>
 </resource>

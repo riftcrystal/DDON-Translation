@@ -9,6 +9,14 @@
 小さな丸が敵の位置です&lt;/COL&gt;
 
 倒すべき敵の位置を把握しましょう</original>
+    <translation>On the upper-right corner of the screen you will find
+the&lt;COL ffdc78&gt;"Mini Map"&lt;/COL&gt;where you can quickly see
+Your position and the position of enemies.
+
+&lt;COL ffdc78&gt;The Green circle at the center is your current location
+and small circles represent enemies&lt;/COL&gt;
+
+Use it to decide who to attack</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_32</key>
@@ -21,5 +29,14 @@
 　【&lt;KC UI_MINIMAP&gt;】+【&lt;KC UI_MAP_ZOOM_IN&gt;／&lt;KC UI_MAP_ZOOM_OUT&gt;】で変更
 ＜位置固定＞
 　【&lt;KC UI_MINIMAP&gt;】+【&lt;KC UI_MINIMAP_LOCK&gt;】で固定</original>
+    <translation>You can change the size and zoom of the "Mini Map"
+at any time. Change it according to the situation.
+
+"Resizing"
+Change Size with[&lt;KC UI_MINIMAP&gt;]+[&lt;KC UI_MINIMAP_SCALING&gt;]
+"Zooming"
+Change Zoom with[&lt;KC UI_MINIMAP&gt;]+[&lt;KC UI_MAP_ZOOM_IN&gt;／&lt;KC UI_MAP_ZOOM_OUT&gt;]
+"Fixing Position"
+Fix the Mini Map with[&lt;KC UI_MINIMAP&gt;]+[&lt;KC UI_MINIMAP_LOCK&gt;]</translation>
   </message>
 </resource>

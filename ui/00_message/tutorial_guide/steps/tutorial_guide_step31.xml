@@ -10,6 +10,15 @@
 
 　深刻な追加ダメージにつながるため、
 　回復手段はいつでも用意しておきましょう</original>
+    <translation>There are dangerous places in the field.
+Proceed with caution.
+
+There are places filled with poison and flames
+You will take damage or status abnormalities
+Like [Poison] and [Burning]
+
+Which will deal additional damage
+Always prepare ways to recover from those.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_77</key>
@@ -21,6 +30,14 @@
 
 　ただし、あまりに深い淵や谷川に落下した場合
 　死亡状態になることもあります</original>
+    <translation>"Water"
+There is danger in the waters of Lestania
+The Brine hides in the water and drags victims into the depths
+
+If that happens you will be returned to land
+
+However, if you fall into a deep pool or stream
+You may die</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_229</key>
@@ -30,5 +47,11 @@
 
 　あまりに高いと死亡の危険もあるため
 　崖ぎわなどは特に注意が必要です</original>
+    <translation>"Falling Damage"
+When you fall, damage depends on the height
+which you fell
+	
+Fall from too high and you may die 
+Be careful around cliffs.</translation>
   </message>
 </resource>
