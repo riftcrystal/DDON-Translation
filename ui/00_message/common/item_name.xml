@@ -40883,7 +40883,7 @@
   </item>
   <item id="13826">
     <original>レリーフコイン【浅黄】</original>
-    <translation>Relief Coin (Light Yellow)</translation>
+    <translation>Relief Coin (Pale Yellow)</translation>
   </item>
   <item id="13827">
     <original>レリーフコイン【花橙】</original>
@@ -49793,6 +49793,7 @@
   </item>
   <item id="16174">
     <original>風格のある机</original>
+    <translation>Opulent Desk</translation>
   </item>
   <item id="16175">
     <original>ダイニングテーブル・ローズ</original>
@@ -49828,6 +49829,7 @@
   </item>
   <item id="16183">
     <original>パペット・埋もれマンドラゴラ大</original>
+    <translation>Puppet - Burrowing Giant Mandragora</translation>
   </item>
   <item id="16184">
     <original>封印された樹晶</original>
@@ -49835,6 +49837,7 @@
   </item>
   <item id="16185">
     <original>解放された樹晶</original>
+    <translation>Unsealed Crystal Tree</translation>
   </item>
   <item id="16186">
     <original>ムーディーランプ・ミント</original>
@@ -49866,6 +49869,7 @@
   </item>
   <item id="16204">
     <original>風格のある机</original>
+    <translation>Opulent Desk</translation>
   </item>
   <item id="16205">
     <original>ジュークボックス</original>
@@ -49937,6 +49941,7 @@
   </item>
   <item id="16222">
     <original>解放された樹晶</original>
+    <translation>Unsealed Crystal Tree</translation>
   </item>
   <item id="16223">
     <original>覚者の部屋着・タイプ１</original>
@@ -49992,6 +49997,7 @@
   </item>
   <item id="16236">
     <original>パペット・埋もれマンドラゴラ大</original>
+    <translation>Puppet - Burrowing Giant Mandragora</translation>
   </item>
   <item id="16237">
     <original>会話5</original>
@@ -53012,11 +53018,11 @@
   </item>
   <item id="17954">
     <original>魅惑の水着・上【輝ける黄金】</original>
-    <translation>Alluring Swimsuit Top (Shining Gold)</translation>
+    <translation>Alluring Swimsuit Top (Glittering Gold)</translation>
   </item>
   <item id="17955">
     <original>魅惑の水着・下【輝ける黄金】</original>
-    <translation>Alluring Swimsuit Bottom (Shining Gold)</translation>
+    <translation>Alluring Swimsuit Bottom (Glittering Gold)</translation>
   </item>
   <item id="17956">
     <original>チャンピオンベルト・１位</original>
@@ -53044,39 +53050,51 @@
   </item>
   <item id="18599">
     <original>至高のリング【戦徒】</original>
+    <translation>Supreme Ring (Soldier)</translation>
   </item>
   <item id="18600">
     <original>至高の腕輪【戦徒】</original>
+    <translation>Supreme Bracelet (Soldier)</translation>
   </item>
   <item id="18601">
     <original>至高のピアス【戦徒】</original>
+    <translation>Supreme Earrings (Soldier)</translation>
   </item>
   <item id="18602">
     <original>至高のリング【探究】</original>
+    <translation>Supreme Ring (Inquiry)</translation>
   </item>
   <item id="18603">
     <original>至高の腕輪【探究】</original>
+    <translation>Supreme Bracelet (Inquiry)</translation>
   </item>
   <item id="18604">
     <original>至高のピアス【探究】</original>
+    <translation>Supreme Earrings (Inquiry)</translation>
   </item>
   <item id="18605">
     <original>至高のリング【侵滅】</original>
+    <translation>Supreme Ring (Breach)</translation>
   </item>
   <item id="18606">
     <original>至高の腕輪【侵滅】</original>
+    <translation>Supreme Bracelet (Breach)</translation>
   </item>
   <item id="18607">
     <original>至高のピアス【侵滅】</original>
+    <translation>Supreme Earrings (Breach)</translation>
   </item>
   <item id="18608">
     <original>至高のリング【夜帝】</original>
+    <translation>Supreme Ring (Night Emperor)</translation>
   </item>
   <item id="18609">
     <original>至高の腕輪【夜帝】</original>
+    <translation>Supreme Bracelet (Night Emperor)</translation>
   </item>
   <item id="18610">
     <original>至高のピアス【夜帝】</original>
+    <translation>Supreme Earrings (Night Emperor)</translation>
   </item>
   <item id="18611">
     <original>戦徒のリングプレート</original>
@@ -53088,6 +53106,7 @@
   </item>
   <item id="18613">
     <original>侵滅のリングプレート</original>
+    <translation>Breach Ring Plate</translation>
   </item>
   <item id="18614">
     <original>夜帝のリングプレート</original>
@@ -53099,15 +53118,19 @@
   </item>
   <item id="18616">
     <original>戦徒</original>
+    <translation>Soldier</translation>
   </item>
   <item id="18617">
     <original>探究</original>
+    <translation>Inquiry</translation>
   </item>
   <item id="18618">
     <original>侵滅</original>
+    <translation>Breach</translation>
   </item>
   <item id="18619">
     <original>夜帝</original>
+    <translation>Night Emperor</translation>
   </item>
   <item id="18620">
     <original>ジャスティス学園　一文字伐A </original>
@@ -53397,6 +53420,7 @@
   </item>
   <item id="19147">
     <original>芯樹の雫</original>
+    <translation>Central Tree Drop</translation>
   </item>
   <item id="19149">
     <original>クリムゾンソード</original>
@@ -53748,9 +53772,11 @@
   </item>
   <item id="19293">
     <original>闘気のクロス</original>
+    <translation>Cloth of Fighting Spirit</translation>
   </item>
   <item id="19294">
     <original>覇気のクロス</original>
+    <translation>Cloth of Ambition</translation>
   </item>
   <item id="19295">
     <original>NPC_翠緑の水着【上】２</original>
@@ -53826,11 +53852,14 @@
   </item>
   <item id="19382">
     <original>フレッシュサングリア</original>
+    <translation>Fresh Sangria</translation>
   </item>
   <item id="19383">
     <original>ピリ辛ラディッシュマリネ</original>
+    <translation>Spicy Radish Marinade</translation>
   </item>
   <item id="19384">
     <original>浜辺の串焼き肉</original>
+    <translation>Beach Meat Skewer</translation>
   </item>
 </item_data>

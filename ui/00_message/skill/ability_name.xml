@@ -2262,17 +2262,21 @@
   <message>
     <key>ABILITY_NAME_461</key>
     <original>戦徒</original>
+    <translation>Soldier</translation>
   </message>
   <message>
     <key>ABILITY_NAME_462</key>
     <original>探究</original>
+    <translation>Inquiry</translation>
   </message>
   <message>
     <key>ABILITY_NAME_463</key>
     <original>侵滅</original>
+    <translation>Breach</translation>
   </message>
   <message>
     <key>ABILITY_NAME_464</key>
     <original>夜帝</original>
+    <translation>Night Emperor</translation>
   </message>
 </resource>

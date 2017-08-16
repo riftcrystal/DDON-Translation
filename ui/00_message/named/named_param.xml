@@ -863,7 +863,7 @@
   </named_param>
   <named_param id="403">
     <original type="Prefix">はぐれ</original>
-    <translation type="Prefix">Rogue </translation>
+    <translation type="Prefix">Stray </translation>
   </named_param>
   <named_param id="406">
     <original type="Suffix">侵攻兵</original>
@@ -1921,7 +1921,7 @@
   </named_param>
   <named_param id="857">
     <original type="Prefix">はぐれ</original>
-    <translation type="Prefix">Rogue </translation>
+    <translation type="Prefix">Stray </translation>
   </named_param>
   <named_param id="858">
     <original type="Prefix"></original>
