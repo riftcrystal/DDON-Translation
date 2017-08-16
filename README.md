@@ -1,6 +1,3 @@
-# Info about this fork
-In this version, I will be using machine translation to translate text from the game, while I will do my best to keep things readable and that they make sense, some things will not be correct.
-
 # DDO-Translation
 This is a repository for data used to build translation patches for Dragon's Dogma Online.
 
