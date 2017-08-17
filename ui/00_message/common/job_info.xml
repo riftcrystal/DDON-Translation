@@ -8,54 +8,79 @@
     <original>攻守のバランスに長けた戦場の花形
 盾を駆使したカウンター戦法を得意とする
 常に前線に斬り込んでいける安定感が持ち味</original>
+    <translation>Balances Offense and Defense in Battle
+Can use the shield to counter attacks
+The Center at the Chaos of the Battlefield.</translation>
   </message>
   <message>
     <key>JOB_INFO_2</key>
     <original>ヒット＆アウェイのかく乱戦を得意とする軽業師
 ロープワークで死角に回り込み、瞬時に巨大敵の
 頭上に迫り連撃を加える様は戦場の疾風</original>
+    <translation>An Acrobat who excels at hit and run tactics
+Uses a rope to instantly move to the blind spot of large enemies
+The Gale of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_3</key>
     <original>精密な射撃で遠距離から先制するスナイパー役
 特殊矢による多様な支援力も魅力
 強敵の弱点を正確に射ぬき戦況を優位に導く</original>
+    <translation>Able to deal precise damage from a long distance
+Has a variey of support abilities by the use of Special arrows
+The Sniper of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_4</key>
     <original>回復と支援魔法で仲間を支える癒しの術師
 その術は味方へのさまざまな恩恵だけでなく
 怒れる敵の“隠された弱点”すら看破する</original>
+    <translation>Supports the party with healing and support magick
+Can not only heal, but also reveal weakness of enemies
+The Saint of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_5</key>
     <original>敵の注目を一手に集め反撃する強固な砦役
 大盾で受けた敵の力を攻撃・支援の術に変換
 ５属性を操り、仲間を属性面でもフォローする</original>
+    <translation>Attract attention and protect others with your strong defense
+Convert your enemies power into magick to attack and support
+The Fortress of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_6</key>
     <original>絶大な威力の攻撃魔法を操る魔術師
 術は紡がれた魔法陣によりさらに威力を高める
 長い詠唱を効率よく放つには仲間の支援が必要</original>
+    <translation>Magician who commands great magick to cause great harm
+Can enhance magick by chanting, but needs to be protected
+The Calamity of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_7</key>
     <original>受けた痛みを反撃の力に変える剛力の重戦車
 敵の攻撃を耐え忍ぶほどにその一撃は重みを増す
 大剣の一振りは巨大な標的をも怯ませ葬る</original>
+    <translation>Endure pain to deliver even greater damage to your enemies
+One swing oftheir huge sword can even bury enemies
+The Tank of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_8</key>
     <original>魔道弓により霊力の魔矢を操る神秘の射手
 自動的に標的を追ういく本もの魔矢は敵の急所を
 穿つ刃のみならず、味方を癒す光にもなる</original>
+    <translation>Mysterious Archer who manipulates magic into his magick Bow
+It can attack enemies and support allies and can show weak points of enemies
+The of the Battlefield</translation>
   </message>
   <message>
     <key>JOB_INFO_9</key>
     <original>錬金の秘術により敵の注意を引きうける策士
 論理と錬成物質を用いて状態異常を操り、摂理を
 超えた高い移動能力を駆使して敵戦力を散らす</original>
+    <translation>
   </message>
   <message>
     <key>JOB_INFO_10</key>

@@ -21,10 +21,12 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_5</key>
     <original>単品の椅子</original>
+    <translation>Single Chair</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_6</key>
     <original>正面本棚/壁の本棚</original>
+    <translation>Front/Wall Bookshelf</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_7</key>
@@ -34,6 +36,7 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_8</key>
     <original>釜まわり一式</original>
+    <translation>Full Kettle Set</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_9</key>
@@ -53,6 +56,7 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_12</key>
     <original>調理場左の棚/食材</original>
+    <translation>Left Ingredients Shelf</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_13</key>

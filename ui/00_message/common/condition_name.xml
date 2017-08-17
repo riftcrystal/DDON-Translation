@@ -57,12 +57,12 @@
   <message>
     <key>CONDITION_NAME_21</key>
     <original>延焼</original>
-    <translation>Caught Fire</translation>
+    <translation>Burning</translation>
   </message>
   <message>
     <key>CONDITION_NAME_22</key>
     <original>凍結</original>
-    <translation>Frozen Solid</translation>
+    <translation>Frozen</translation>
   </message>
   <message>
     <key>CONDITION_NAME_23</key>

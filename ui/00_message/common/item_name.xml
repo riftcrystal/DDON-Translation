@@ -58,6 +58,7 @@
   </item>
   <item id="48">
     <original>オーク将の錆び鍵</original>
+    <translation>Orc General's Rusty Key</translation>
   </item>
   <item id="49">
     <original>ドリード城主の鍵</original>
@@ -52157,12 +52158,15 @@
   </item>
   <item id="16822">
     <original>経験値(欠片)</original>
+    <translation>Experience Crystal Shard</translation>
   </item>
   <item id="16831">
     <original>経験値(塊)</original>
+    <translation>Experience Crsytal Cluster</translation>
   </item>
   <item id="16832">
     <original>経験値(結晶)</original>
+    <translation>Experience Crystal</translation>
   </item>
   <item id="16833">
     <original>銀の宝珠認証</original>
