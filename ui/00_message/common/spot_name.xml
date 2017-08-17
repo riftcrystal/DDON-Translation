@@ -316,32 +316,32 @@
   <message>
     <key>SPOT_NAME_509</key>
     <original>カタコンベ（カスタム）01</original>
-    <translation>Catacombs（カスタム）01</translation>
+    <translation>Catacombs（Custom）01</translation>
   </message>
   <message>
     <key>SPOT_NAME_510</key>
     <original>自然洞窟＋坑道（カスタム）00</original>
-    <translation>Natural Cave＋Tunnel（カスタム）00</translation>
+    <translation>Natural Cave＋Tunnel（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_511</key>
     <original>エルフ遺跡（カスタム）00</original>
-    <translation>Elven Ruins（カスタム）00</translation>
+    <translation>Elven Ruins（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_512</key>
     <original>地下通路＋水路（カスタム）00</original>
-    <translation>Underground Passage＋Waterway（カスタム）00</translation>
+    <translation>Underground Passage＋Waterway（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_513</key>
     <original>枯れ井戸の中（カスタム）00</original>
-    <translation>In the Abandoned Well（カスタム）00</translation>
+    <translation>In the Abandoned Well（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_514</key>
     <original>祠の中（カスタム）00</original>
-    <translation>In the Shrine（カスタム）00</translation>
+    <translation>In the Shrine（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_515</key>
@@ -823,6 +823,9 @@
   <message>
     <key>SPOT_NAME_613</key>
     <original>聖獣の間</original>
+    <translation>Lair of the Holy Beast</translation>
+    <!--Needs review. According to the translators this is either, the Apostle or The place in between the Holy Beast
+    Since I havent been here yet, Im going for Lair, since apparently this is where you fight a White Chimera-->
   </message>
   <message>
     <key>SPOT_NAME_614</key>
@@ -1051,10 +1054,13 @@
   <message>
     <key>SPOT_NAME_657</key>
     <original>錬金研究棟</original>
+    <translation>Alchemy Research Building</translation>
+    <!-- Neerds revision Im pretty sure the translation is correct but its not "poetic" enough-->
   </message>
   <message>
     <key>SPOT_NAME_658</key>
     <original>軍事演習棟</original>
+    <translation>Barracks</translation>
   </message>
   <message>
     <key>SPOT_NAME_659</key>
@@ -1090,6 +1096,7 @@
   <message>
     <key>SPOT_NAME_665</key>
     <original>囚われし戦徒の間</original>
+    <translation>The Space between Captives and Warriors</translation>
   </message>
   <message>
     <key>SPOT_NAME_666</key>
@@ -1153,6 +1160,7 @@
   <message>
     <key>SPOT_NAME_677</key>
     <original>波打ちの門洞</original>
+    <translation>Gate of the Waving Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_678</key>
@@ -1162,18 +1170,23 @@
   <message>
     <key>SPOT_NAME_679</key>
     <original>臥竜のうろ</original>
+    <translation>Hermit's Hollow</translation>
   </message>
   <message>
     <key>SPOT_NAME_680</key>
     <original>水流制御室</original>
+    <translation>Water flow Control Room</translation>
   </message>
   <message>
     <key>SPOT_NAME_681</key>
     <original>聖滝の間</original>
+    <translation>Chamber of the Holy Waterfall</translation>
+    <!-- Neerds revision -->
   </message>
   <message>
     <key>SPOT_NAME_682</key>
     <original>中央大水廊</original>
+    <translation>Central Flood Corridor</translation>
   </message>
   <message>
     <key>SPOT_NAME_683</key>
@@ -1342,6 +1355,7 @@
   <message>
     <key>SPOT_NAME_717</key>
     <original>腐臭の溜まり場</original>
+    <translation>Rancid Haunt</translation>
   </message>
   <message>
     <key>SPOT_NAME_719</key>
@@ -1351,6 +1365,8 @@
   <message>
     <key>SPOT_NAME_721</key>
     <original>鉱山の大踊り場</original>
+    <translation>Mines' Hall</translation>
+    <!--Needs revision. according to the Kanji its either Dancing floor or Landing(stairs) I used Hall but it might be wrong-->
   </message>
   <message>
     <key>SPOT_NAME_723</key>
@@ -1405,10 +1421,12 @@
   <message>
     <key>SPOT_NAME_771</key>
     <original>眺樹の丘</original>
+    <translation>Tree Hill View</translation>
   </message>
   <message>
     <key>SPOT_NAME_803</key>
     <original>聖遺の塔</original>
+    <translation>Saint Tower Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_804</key>
@@ -1520,10 +1538,12 @@
   <message>
     <key>SPOT_NAME_828</key>
     <original>アーク　裏層　貯蔵所</original>
+    <translation>Arks' Lining Storage</translation>
   </message>
   <message>
     <key>SPOT_NAME_829</key>
     <original>アーク　裏層　宝物庫</original>
+    <translation>Arks' Lining Treasure Vault</translation>
   </message>
   <message>
     <key>SPOT_NAME_830</key>
@@ -1533,6 +1553,7 @@
   <message>
     <key>SPOT_NAME_831</key>
     <original>灼熱の封鎖道　脇道</original>
+    <translation>Scorching Blockade Byroad</translation>
   </message>
   <message>
     <key>SPOT_NAME_832</key>
@@ -1542,10 +1563,12 @@
   <message>
     <key>SPOT_NAME_833</key>
     <original>モルトバ遺跡　左路</original>
+    <translation>Mergova Ruins Left Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_834</key>
     <original>モルトバ遺跡　右路</original>
+    <translation>Mergova Ruins Right Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_835</key>
@@ -1874,10 +1897,13 @@
   <message>
     <key>SPOT_NAME_898</key>
     <original>タラーテ集水路</original>
+    <translation>Thalati Waterway</translation>
+    <!--Needs Revision, not sure if Thalati is a correct Spelling or name, couldnt find it in the wiki-->
   </message>
   <message>
     <key>SPOT_NAME_899</key>
     <original>タラーテ集水路</original>
+     <translation>Tarathi Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_900</key>
@@ -1918,6 +1944,7 @@
   <message>
     <key>SPOT_NAME_907</key>
     <original>侵鬼の洞穴</original>
+    <translation>Invading Demons Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_908</key>
@@ -1927,10 +1954,13 @@
   <message>
     <key>SPOT_NAME_909</key>
     <original>ディプニエ大侵林</original>
+    <translation>Deenan Great Fores</translation>
   </message>
   <message>
     <key>SPOT_NAME_910</key>
     <original>ノーザナス侵林</original>
+    <translation>Northern Forest<translation>
+      <!--Needs revision-->
   </message>
   <message>
     <key>SPOT_NAME_911</key>
@@ -1952,10 +1982,14 @@
   <message>
     <key>SPOT_NAME_914</key>
     <original>アンビュロス大遺跡</original>
+    <translation>Ambulos Great Ruins</translation>
+    <!--Needs Revision, the name AMbulos, perhaps Angulos or Angules-->
   </message>
   <message>
     <key>SPOT_NAME_915</key>
     <original>ハディン地下古道</original>
+    <translation>Hadin Underground Old Road</translation>>
+    <!-- Again the name Hadin needs revision-->
   </message>
   <message>
     <key>SPOT_NAME_916</key>
@@ -1985,6 +2019,7 @@
   <message>
     <key>SPOT_NAME_921</key>
     <original>鎧幽の巨岩</original>
+    <translation>Dark Armor Crag</translation>
   </message>
   <message>
     <key>SPOT_NAME_922</key>
@@ -2069,6 +2104,7 @@
   <message>
     <key>SPOT_NAME_939</key>
     <original>欠緑の林</original>
+    <translation>Missing Green Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_940</key>
@@ -2083,10 +2119,13 @@
   <message>
     <key>SPOT_NAME_942</key>
     <original>モロー古跡</original>
+    <translation>Morrow Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_943</key>
     <original>立ち病みの森</original>
+    <translation>Suffreting Forest</translation>
+    <!-- Needs revision-->
   </message>
   <message>
     <key>SPOT_NAME_944</key>
@@ -2116,6 +2155,7 @@
   <message>
     <key>SPOT_NAME_949</key>
     <original>水底の古道</original>
+    <translation>Watersdeep Old Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_950</key>
@@ -2151,6 +2191,7 @@
   <message>
     <key>SPOT_NAME_958</key>
     <original>滝裏の青洞</original>
+    <translation>Blue Cave in the Waterfall</translation>
   </message>
   <message>
     <key>SPOT_NAME_959</key>
@@ -2251,6 +2292,7 @@
   <message>
     <key>SPOT_NAME_978</key>
     <original>侵鬼の洞穴　最深部</original>
+    <translation>Deepest part of teh Invading Demons Den</translation>
   </message>
   <message>
     <key>SPOT_NAME_979</key>
@@ -2298,6 +2340,7 @@
   <message>
     <key>SPOT_NAME_987</key>
     <original>グリンメル遺跡　中深部</original>
+    <translation>Grimmel Ruins Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_988</key>
@@ -2357,10 +2400,12 @@
   <message>
     <key>SPOT_NAME_999</key>
     <original>旧船頭寄合所　中央広場</original>
+    <translation>Old Ferryman's Haunt Central Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_1000</key>
     <original>旧船頭寄合所　深部通路</original>
+    <translation>Old Ferryman's Haunt Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1001</key>
@@ -2370,18 +2415,22 @@
   <message>
     <key>SPOT_NAME_1002</key>
     <original>アンビュロス大遺跡　中央部</original>
+    <translation>Ambulos Ruins Central Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1003</key>
     <original>アンビュロス大遺跡　深部</original>
+  </message>Ambulos Ruins Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1004</key>
     <original>タラーテ集水路　中央通路</original>
+    <translation>Thalati Waterway Central Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1005</key>
     <original>タラーテ集水路　最深部</original>
+    <translation>Thalati Waterway Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1006</key>
@@ -2396,6 +2445,7 @@
   <message>
     <key>SPOT_NAME_1008</key>
     <original>エラン採石洞　中央部</original>
+    <translation>Elan Quarry Cave Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1009</key>
@@ -2405,10 +2455,12 @@
   <message>
     <key>SPOT_NAME_1010</key>
     <original>ハディン地下古道　中央部</original>
+    <translation>Hadin Underground Old Road Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1011</key>
     <original>ハディン地下古道　深部</original>
+    <translation>Hadin Underground Old Road Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1012</key>
@@ -2453,14 +2505,18 @@
   <message>
     <key>SPOT_NAME_1020</key>
     <original>タラーテ集水路　危険区域</original>
+    <translation>Thalati Waterway: Dangerous Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1021</key>
     <original>ハディン地下古道　危険区域</original>
+    <translation>Hadin Undreground Old Road: Dangerous Area</translation>
+    <translation>
   </message>
   <message>
     <key>SPOT_NAME_1022</key>
     <original>ノーザナス侵林　危険区域</original>
+    <translation>Northern  Forest: Dangerous Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1023</key>

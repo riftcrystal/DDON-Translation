@@ -26668,23 +26668,23 @@ when equipped.</translation>
   </item>
   <item id="11721">
     <original>装着した武器に状態異常を付与するクレスト</original>
-    <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+    <translation>A crest that grants a debilitation effect to 
+weapons when equipped.</translation>
   </item>
   <item id="11722">
     <original>装着した武器に状態異常を付与するクレスト</original>
-    <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+    <translation>A crest that grants a debilitation effect to 
+weapons when equipped.</translation>
   </item>
   <item id="11723">
     <original>装着した武器に状態異常を付与するクレスト</original>
-    <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+    <translation>A crest that grants a debilitation effect to 
+weapons when equipped.</translation>
   </item>
   <item id="11724">
     <original>装着した武器に状態異常を付与するクレスト</original>
-    <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+    <translation>A crest that grants a debilitation effect to 
+weapons when equipped.</translation>
   </item>
   <item id="11725">
     <original>装着した武器に対敵特効を付与するクレスト</original>
@@ -26840,22 +26840,32 @@ when equipped to armor.</translation>
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation> Jewelry Available in the "Appraisal Exchange"
+It's Effect is as yet-unknown</translation>
   </item>
   <item id="11760">
     <original>自室に備え付けられている家具</original>
+    <translation>Furniture installed in your room</translation>
   </item>
   <item id="11764">
     <original>雑多なクラフト用素材
 何らかのスペルが書き込まれた切れ端</original>
+    <translation>Miscellaneous Craft Materials
+Scrap written some kind of spell</translation>
   </item>
   <item id="11765">
     <original>魔導書系のクラフト用素材
 見慣れぬ印が付与されたスクロール</original>
+    <translation>Grimoire Crafting Material
+Scroll with an unfamiliar seal</translation>
   </item>
   <item id="11766">
     <original>キノコ系のクラフト用素材
 暗く湿った場所に生える
 ほのかに銀色に輝く苔</original>
+    <translation>Mushroom-based craft materials
+Grow in a dark and moist place
+The moss which shines faintly in silver</translation>
   </item>
   <item id="11767">
     <original>キノコ系のクラフト用素材
@@ -32535,63 +32545,83 @@ status debilitations.</translation>
   </item>
   <item id="13811">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13812">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13813">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13814">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13815">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13816">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13817">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13818">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13819">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13820">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13821">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13822">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13823">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13824">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13825">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13826">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13827">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13828">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13829">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13830">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Fine Carved Relief Coin</translation>
   </item>
   <item id="13831">
     <original></original>
@@ -33821,34 +33851,47 @@ when equipped to armor.</translation>
   <item id="14248">
     <original>トリック・オア・トリート！
 室内をハロウィン気分で盛り上げる飾り</original>
+    <translation>Trick or Treat!
+Decorate the room with a Halloween mood</translation>
   </item>
   <item id="14249">
     <original>室内をハッピーな光で照らすルームランプ</original>
+    <translation>Room lamps illuminate the room with a happy light</translation>
   </item>
   <item id="14250">
     <original>レスタニアの職人の協力によって
 作成できるようになった特殊なパペット
 チェストの上に置ける大きめサイズ</original>
+    <translation>Through the cooperation of Lestanian artisans
+A special puppet can now be created
+Large size to be put on a chest</translation>
   </item>
   <item id="14251">
     <original>レスタニアの職人の協力によって
 作成できるようになった特殊なパペット
 ベッドに置くのにちょうど良いサイズ</original>
+    <translation>Through the cooperation of Lestanian artisans
+A special puppet can now be created
+Just the right size to be put on the bed</translation>
   </item>
   <item id="14252">
     <original>書斎に設置できるハロウィンカーペット</original>
+    <translation>Halloween carpet that can be set up in the study</translation>
   </item>
   <item id="14253">
     <original></original>
   </item>
   <item id="14254">
     <original>1周年を祝うルームランプ</original>
+    <translation>Room lamp that celebrates the first anniversary</translation>
   </item>
   <item id="14255">
     <original>1周年を祝う豪華なケーキ</original>
+    <translation>Gorgeous cake that celebrates the first anniversary</translation>
   </item>
   <item id="14256">
     <original>1周年を祝う飾り</original>
+    <translation>Decoration that celebrates the first anniversary</translation>
   </item>
   <item id="14257">
     <original></original>
