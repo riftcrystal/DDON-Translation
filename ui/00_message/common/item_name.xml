@@ -52206,19 +52206,7 @@
     <original>衣装：イェルハルド</original>
   </item>
   <item id="16822">
-<<<<<<< HEAD
-    <original>経験値(欠片)</original>
-    <translation>Experience Crystal Shard</translation>
-  </item>
-  <item id="16831">
-    <original>経験値(塊)</original>
-    <translation>Experience Crsytal Cluster</translation>
-  </item>
-  <item id="16832">
-    <original>経験値(結晶)</original>
-    <translation>Experience Crystal</translation>
-=======
-    <original>経験値結晶</original>
+  <original>経験値結晶</original>
   </item>
   <item id="16823">
     <original>髪のパーツEX5</original>
@@ -52237,7 +52225,6 @@
   </item>
   <item id="16832">
     <original>経験値結晶</original>
->>>>>>> pr/3
   </item>
   <item id="16833">
     <original>銀の宝珠認証</original>
