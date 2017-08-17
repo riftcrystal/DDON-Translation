@@ -2,21 +2,26 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_50</key>
     <original>クラン拠点噴水</original>
+    <translation>Clan Hall Fountain</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_51</key>
     <original>トイレットペーパー</original>
+    <translation>Toilet Paper</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_52</key>
     <original>白竜像</original>
+    <translation>White Dragon Statue</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_57</key>
     <original>広間卓上食事</original>
+    <translation>Dinning Hall Table</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_58</key>
     <original>広間大じゅうたん</original>
+    <translation>Hall Grand Carpet</translation>
   </message>
 </resource>

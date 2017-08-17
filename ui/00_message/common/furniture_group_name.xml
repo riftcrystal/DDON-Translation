@@ -19,7 +19,7 @@
     <original>リビング</original>
     <!-- NEEDS REVIEW -->
     <!--テーブル-->
-    <translation>Table</translation>
+    <translation>Living Room</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_7</key>
@@ -49,9 +49,11 @@
   <message>
     <key>FURNITURE_GROUP_NAME_12</key>
     <original>壁紙</original>
+    <translation>Wallpaper</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_13</key>
     <original>時計</original>
+    <translation>Clock</translation>
   </message>
 </resource>
