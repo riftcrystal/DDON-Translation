@@ -19,6 +19,7 @@
   <message>
     <key>q00030010_00_2796</key>
     <original>ガルドリンと話す</original>
+    <translation>Speak with Gurdolin</translation>
   </message>
   <message>
     <key>q00030010_00_2797</key>
@@ -27,10 +28,12 @@
   <message>
     <key>q00030010_00_2798</key>
     <original>クインタスと話す</original>
+    <translation>Speak with クインタス</translation>
   </message>
   <message>
     <key>q00030010_00_2799</key>
     <original>ジリアンと話す</original>
+    <translation>Speak with ジリアン</translation>
   </message>
   <message>
     <key>q00030010_00_2800</key>
@@ -43,9 +46,11 @@
   <message>
     <key>q00030010_00_2802</key>
     <original>エリオットと話す</original>
+    <translation>Speak with Elliot</translation>
   </message>
   <message>
     <key>q00030010_00_2803</key>
     <original>レスタニアに帰還し白竜に報告する</original>
+    <translation>Report to レスタニアに帰還し白竜</translation>
   </message>
 </resource>

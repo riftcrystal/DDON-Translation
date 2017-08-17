@@ -22,7 +22,7 @@
   <message>
     <key>AREA_RANK_REWARD_160</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_161</key>
@@ -47,7 +47,7 @@
   <message>
     <key>AREA_RANK_REWARD_165</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_231</key>
@@ -72,6 +72,6 @@
   <message>
     <key>AREA_RANK_REWARD_333</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
 </resource>

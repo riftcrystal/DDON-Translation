@@ -16,6 +16,7 @@
   <message>
     <key>AREA_RANK_REWARD_382</key>
     <original>支援品のランクアップ</original>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_383</key>
@@ -33,6 +34,7 @@
   <message>
     <key>AREA_RANK_REWARD_394</key>
     <original>封鎖エリアが開放《&lt;SPOT 1067&gt;》</original>
+    <translation>Unblock area "&lt;SPOT 1067&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_395</key>

@@ -52,9 +52,7 @@ Restore path "bridge heading to the east area"
   <message>
     <key>AREA_RANK_REWARD_285</key>
     <original>支援品のランクアップ</original>
-    <!-- NEEDS REVIEW -->
-    <!--支援品の向上-->
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_286</key>
@@ -85,8 +83,6 @@ Unblock area "&lt;SPOT 901&gt;"</translation>
   <message>
     <key>AREA_RANK_REWARD_290</key>
     <original>支援品のランクアップ</original>
-    <!-- NEEDS REVIEW -->
-    <!--支援品の向上-->
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
 </resource>

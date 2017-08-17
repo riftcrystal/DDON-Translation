@@ -2,6 +2,7 @@
   <message>
     <key>q22018016_00_656</key>
     <original>【高難度】悪しき竜軍、強襲！</original>
+    <translation>High Difficulty: 悪しき竜軍、強襲！</translation>
   </message>
   <message>
     <key>q22018016_00_656</key>
@@ -25,6 +26,7 @@
   <message>
     <key>q22018016_00_1280</key>
     <original>指定された場所を調べる</original>
+    <translation>Investigate the specified location</translation>
   </message>
   <message>
     <key>q22018016_00_1281</key>
@@ -53,5 +55,6 @@
   <message>
     <key>q22018016_00_1286</key>
     <original>エリアマスターに経緯を報告する</original>
+    <translation>Report to the Area Master</translation>
   </message>
 </resource>

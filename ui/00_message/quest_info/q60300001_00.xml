@@ -2,6 +2,7 @@
   <message>
     <key>q60300001_00_252</key>
     <original>奇妙な魔物探索</original>
+    <translation>Strange Creature Investigation</translation>
   </message>
   <message>
     <key>q60300001_00_252</key>
@@ -43,5 +44,6 @@
   <message>
     <key>q60300001_00_3188</key>
     <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
   </message>
 </resource>

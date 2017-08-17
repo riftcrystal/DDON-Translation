@@ -18,6 +18,7 @@
   <message>
     <key>q10300700_00_3685</key>
     <original>別行動しているブラッドと合流する</original>
+    <translation>Rendezvous with 別行動しているブラッド</translation>
   </message>
   <message>
     <key>q10300700_00_3686</key>
@@ -30,5 +31,6 @@
   <message>
     <key>q10300700_00_3688</key>
     <original>大食堂にいるキャリーに報告する</original>
+    <translation>Report to キャリー in 大食堂</translation>
   </message>
 </resource>

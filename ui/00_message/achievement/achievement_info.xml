@@ -202,23 +202,17 @@
   <message>
     <key>ACHIEVEMENT_INFO_629</key>
     <original>《グリムワーグ》系エネミーを50体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--グリムワーグを50体討伐-->
-    <translation>Kill 50 Grim Wargs</translation>
+    <translation>Kill 50 "Grim Warg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_630</key>
     <original>《グリムワーグ》系エネミーを100体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--グリムワーグを100体討伐-->
-    <translation>Kill 100 Grim Wargs</translation>
+    <translation>Kill 100 "Grim Warg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
     <original>《グリムワーグ》系エネミーを300体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--グリムワーグを300体討伐-->
-    <translation>Kill 300 Grim Wargs</translation>
+    <translation>Kill 300 "Grim Warg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_632</key>
@@ -6118,23 +6112,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2289</key>
     <original>グランドミッション、ウォーミッションを累計10回攻略</original>
-    <!-- NEEDS REVIEW -->
-    <!--グランドミッションを10回攻略-->
-    <translation>Clear 10 Grand Missions</translation>
+    <translation>Clear 10 Grand Missions/War Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2290</key>
     <original>グランドミッション、ウォーミッションを累計50回攻略</original>
-    <!-- NEEDS REVIEW -->
-    <!--グランドミッションを50回攻略-->
-    <translation>Clear 50 Grand Missions</translation>
+    <translation>Clear 50 Grand Missions/War Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2291</key>
     <original>グランドミッション、ウォーミッションを累計100回攻略</original>
-    <!-- NEEDS REVIEW -->
-    <!--グランドミッションを100回攻略-->
-    <translation>Clear 100 Grand Missions</translation>
+    <translation>Clear 100 Grand Missions/War Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2292</key>
@@ -6377,9 +6365,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2338</key>
     <original>《マンティコア》系エネミーを50体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--マンティコアを50体討伐-->
-    <translation>Kill 50 Manticores</translation>
+    <translation>Kill 50 "Manticore" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2339</key>
@@ -6479,23 +6465,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2362</key>
     <original>《タラスク》系エネミーを1体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--タラスクを1体討伐-->
-    <translation>Kill 1 Tarasque</translation>
+    <translation>Kill 1 "Tarasque" enemy</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2363</key>
     <original>《タラスク》系エネミーを10体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--タラスクを10体討伐-->
-    <translation>Kill 10 Tarasque</translation>
+    <translation>Kill 10 "Tarasque" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2364</key>
     <original>《タラスク》系エネミーを100体討伐</original>
-    <!-- NEEDS REVIEW -->
-    <!--タラスクを100体討伐-->
-    <translation>Kill 100 Tarasque</translation>
+    <translation>Kill 100 "Tarasque" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2368</key>
@@ -6598,9 +6578,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2522</key>
     <original>グランドミッション、ウォーミッションを累計200回攻略</original>
-    <!-- NEEDS REVIEW -->
-    <!--グランドミッションを200回攻略-->
-    <translation>Clear 200 Grand Missions</translation>
+    <translation>Clear 200 Grand Missions/War Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2523</key>
@@ -7535,10 +7513,12 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2848</key>
     <original>クエスト「王子ネド」クリア</original>
+    <translation>Clear quest "王子ネド"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2852</key>
     <original>クエスト「魔軍戦車カトブレパス」クリア</original>
+    <translation>Clear quest "魔軍戦車カトブレパス"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2853</key>
@@ -7555,14 +7535,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2856</key>
     <original>クエスト「王家復興の褒章１」クリア</original>
+    <translation>Clear quest "王家復興の褒章１"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2888</key>
     <original>クエスト「ガーデン・エクステンド」クリア</original>
+    <translation>Clear quest "Extend Garden"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2889</key>
     <original>クエスト「奇妙な魔物探索」クリア</original>
+    <translation>Clear quest "Strange Creature Investigation"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2890</key>
@@ -7579,6 +7562,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2902</key>
     <original>クエスト「不思議な呼び鈴」クリア</original>
+    <translation>Clear quest "不思議な呼び鈴"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2903</key>

@@ -2,97 +2,121 @@
   <message>
     <key>CHAT_COM_39</key>
     <original>誰ですか？</original>
+    <translation>Who?</translation>
   </message>
   <message>
     <key>CHAT_COM_40</key>
     <original>どちらですか？</original>
+    <translation>Which?</translation>
   </message>
   <message>
     <key>CHAT_COM_41</key>
     <original>どうすればいいですか？</original>
+    <translation>How?</translation>
   </message>
   <message>
     <key>CHAT_COM_42</key>
     <original>何ですか？</original>
+    <translation>What?</translation>
   </message>
   <message>
     <key>CHAT_COM_43</key>
     <original>いつですか？</original>
+    <translation>When?</translation>
   </message>
   <message>
     <key>CHAT_COM_44</key>
     <original>いくつですか？</original>
+    <translation>How many?</translation>
   </message>
   <message>
     <key>CHAT_COM_45</key>
     <original>どこにですか？</original>
+    <translation>Where to?</translation>
   </message>
   <message>
     <key>CHAT_COM_46</key>
     <original>どこに行きますか？</original>
+    <translation>Where shall we go?</translation>
   </message>
   <message>
     <key>CHAT_COM_47</key>
     <original>持っていますか？</original>
+    <translation>Do you have it?</translation>
   </message>
   <message>
     <key>CHAT_COM_48</key>
     <original>今どんな武器を持っていますか？</original>
+    <translation>What weapons can you use?</translation>
   </message>
   <message>
     <key>CHAT_COM_49</key>
     <original>できますか？</original>
+    <translation>Can you do it?</translation>
   </message>
   <message>
     <key>CHAT_COM_50</key>
     <original>フレンドになってくれませんか？</original>
+    <translation>Can I add you to my friend list?</translation>
   </message>
   <message>
     <key>CHAT_COM_51</key>
     <original>休憩しませんか？</original>
+    <translation>Shall we take a break?</translation>
   </message>
   <message>
     <key>CHAT_COM_52</key>
     <original>助けはいりますか？</original>
+    <translation>Do you need any help?</translation>
   </message>
   <message>
     <key>CHAT_COM_53</key>
     <original>なぜですか？</original>
+    <translation>Why?</translation>
   </message>
   <message>
     <key>CHAT_COM_54</key>
     <original>どうしてですか？</original>
+    <translation>How come?</translation>
   </message>
   <message>
     <key>CHAT_COM_55</key>
     <original>クランに入りませんか？</original>
+    <translation>Do you want to join my clan?</translation>
   </message>
   <message>
     <key>CHAT_COM_56</key>
     <original>クランに入れてくれませんか？</original>
+    <translation>Can I join your clan?</translation>
   </message>
   <message>
     <key>CHAT_COM_57</key>
     <original>グループチャットに入りませんか？</original>
+    <translation>Do you want to join group chat?</translation>
   </message>
   <message>
     <key>CHAT_COM_58</key>
     <original>グループチャットに入れてくれませんか？</original>
+    <translation>Can I join your group chat?</translation>
   </message>
   <message>
     <key>CHAT_COM_59</key>
     <original>どのジョブを持っていますか？</original>
+    <translation>Which job do you have?</translation>
   </message>
   <message>
     <key>CHAT_COM_60</key>
     <original>他にどのジョブができますか？</original>
+    <translation>What other jobs can you do?</translation>
   </message>
   <message>
     <key>CHAT_COM_61</key>
     <original>準備はできていますか？</original>
+    <translation>Are you prepared?</translation>
   </message>
   <message>
     <key>CHAT_COM_62</key>
     <original>ザコは無視しますか？</original>
+    <translation>Ignore it?</translation>
   </message>
 </resource>

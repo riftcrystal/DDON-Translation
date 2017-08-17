@@ -2,6 +2,7 @@
   <message>
     <key>q60300000_00_251</key>
     <original>ガーデン・エクステンド</original>
+    <translation>Extend Garden</translation>
   </message>
   <message>
     <key>q60300000_00_251</key>
@@ -35,6 +36,7 @@
   <message>
     <key>q60300000_00_3226</key>
     <original>&lt;STG 200&gt;の&lt;NPC 1024&gt;に報告する</original>
+    <translation>Report to &lt;NPC 1024&gt; in &lt;STG 200&gt;</translation>
   </message>
   <message>
     <key>q60300000_00_3231</key>

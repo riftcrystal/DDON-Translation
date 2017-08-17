@@ -2,6 +2,7 @@
   <message>
     <key>q60300404_00_241</key>
     <original>ジョブエンブレム試練　ハンター</original>
+    <translation>Vocation Emblem Trial: Hunter</translation>
   </message>
   <message>
     <key>q60300404_00_241</key>
@@ -11,6 +12,7 @@
   <message>
     <key>q60300404_00_2972</key>
     <original>&lt;STG 550&gt;に行き&lt;NPC 2004&gt;と話す</original>
+    <translation>Speak with &lt;STG 550&gt;に行き&lt;NPC 2004&gt;</translation>
   </message>
   <message>
     <key>q60300404_00_2973</key>
@@ -23,6 +25,7 @@
   <message>
     <key>q60300404_00_3268</key>
     <original>祠内にいる&lt;NPC 2004&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2004&gt; in 祠内</translation>
   </message>
   <message>
     <key>q60300404_00_3266</key>
@@ -31,5 +34,6 @@
   <message>
     <key>q60300404_00_3421</key>
     <original>&lt;STG 200&gt;の&lt;NPC 1029&gt;に報告する</original>
+    <translation>Report to &lt;NPC 1029&gt; in &lt;STG 200&gt;</translation>
   </message>
 </resource>

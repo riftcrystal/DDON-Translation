@@ -31,9 +31,11 @@
   <message>
     <key>q10300104_00_3298</key>
     <original>輸送隊の兵士と話をする</original>
+    <translation>Speak to 輸送隊の兵士</translation>
   </message>
   <message>
     <key>q10300104_00_3299</key>
     <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に報告する</original>
+    <translation>Report to &lt;NPC 580&gt; in &lt;STG 448&gt;</translation>
   </message>
 </resource>

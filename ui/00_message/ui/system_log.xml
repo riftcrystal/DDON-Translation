@@ -265,10 +265,7 @@ and returned to standby state.</translation>
     <key>syslog_reward_box_limit_notion</key>
     <original>報酬ボックスの報酬件数が残り少なくなっています
 古い報酬を失う可能性があります</original>
-    <!-- NEEDS REVIEW -->
-    <!--報酬ボックスの容量が少なくなっています
-古い報酬を失う可能性があります-->
-    <translation>The reward box capacity has few slots left.
+    <translation>The reward box is running low on space.
 There is a possibility of losing old rewards.</translation>
   </message>
   <message>
@@ -1088,9 +1085,6 @@ claimed at the Storage Box.</translation>
     <key>syslog_reward_box_limit_over</key>
     <original>報酬ボックスの報酬件数がいっぱいです
 容量を超えると古い報酬は失われます</original>
-    <!-- NEEDS REVIEW -->
-    <!--報酬ボックスの容量がいっぱいです
-容量を超えると古い報酬は失われます-->
     <translation>Your reward box is full.
 When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
@@ -1280,6 +1274,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_item_get_send_itempost</key>
     <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、アイテムポストに送りました</original>
+    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; sent to Item Post.</translation>
   </message>
   <message>
     <key>syslog_pawn_expedition_sp_delivery</key>

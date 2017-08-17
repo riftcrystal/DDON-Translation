@@ -19,6 +19,7 @@
   <message>
     <key>q60318004_00_3162</key>
     <original>入手した敵情報の居場所へ向かう</original>
+    <translation>Head to 入手した敵情報の居場所</translation>
   </message>
   <message>
     <key>q60318004_00_3163</key>
@@ -27,5 +28,6 @@
   <message>
     <key>q60318004_00_3161</key>
     <original>依頼者の&lt;NPC 600&gt;に報告する</original>
+    <translation>Report to &lt;NPC 600&gt; in 依頼者</translation>
   </message>
 </resource>

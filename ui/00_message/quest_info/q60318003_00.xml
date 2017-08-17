@@ -23,6 +23,7 @@
   <message>
     <key>q60318003_00_3141</key>
     <original>敵の出現場所へ向かう</original>
+    <translation>Head to 敵の出現場所</translation>
   </message>
   <message>
     <key>q60318003_00_3142</key>
@@ -31,5 +32,6 @@
   <message>
     <key>q60318003_00_3143</key>
     <original>依頼者の&lt;NPC 596&gt;に報告する</original>
+    <translation>Report to &lt;NPC 596&gt; in 依頼者</translation>
   </message>
 </resource>

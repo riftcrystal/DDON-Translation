@@ -2,6 +2,7 @@
   <message>
     <key>q60318000_00_225</key>
     <original>ラスニテ山麓　試練：捕虜奪還</original>
+    <translation>ラスニテ山麓 Trial: 捕虜奪還</translation>
   </message>
   <message>
     <key>q60318000_00_225</key>
@@ -43,9 +44,11 @@
   <message>
     <key>q60318000_00_3110</key>
     <original>救出した仲間と話す</original>
+    <translation>Speak with 救出した仲間</translation>
   </message>
   <message>
     <key>q60318000_00_3108</key>
     <original>&lt;STG 630&gt;の&lt;NPC 2800&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2800&gt; in &lt;STG 630&gt;</translation>
   </message>
 </resource>

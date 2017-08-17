@@ -15,6 +15,7 @@
   <message>
     <key>q10300703_00_3708</key>
     <original>スニーカーと共に現地へ向かう</original>
+    <translation>Head to スニーカーと共に現地</translation>
   </message>
   <message>
     <key>q10300703_00_3709</key>
@@ -39,5 +40,6 @@
   <message>
     <key>q10300703_00_3714</key>
     <original>大食堂にいるキャリーに報告する</original>
+    <translation>Report to キャリー in 大食堂</translation>
   </message>
 </resource>

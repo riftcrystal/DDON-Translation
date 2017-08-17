@@ -1,0 +1,5 @@
+﻿<replication>
+  <message_set name="quest dialogue">
+    <match>^ui\\00_message\\quest\\q\d+$</match>
+  </message_set>
+</replication>

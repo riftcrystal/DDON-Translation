@@ -139,12 +139,12 @@ LV.６で溜め時間短縮&lt;/COL&gt;</original>
 残り体力が低い敵ほど効果が高い
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で溜め時間短縮</COL>-->
-    <translation>Draw the bow back with all your might and loose an arrow
+    <!--translation>Draw the bow back with all your might and loose an arrow
 of extraordinary power. When fired right as the charge completes, the damage
 increases significantly.
 Effective against enemies with low stamina.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
-LV.6: Decreases charge time.&lt;/COL&gt;</translation>
+LV.6: Decreases charge time.&lt;/COL&gt;</translation-->
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_131</key>

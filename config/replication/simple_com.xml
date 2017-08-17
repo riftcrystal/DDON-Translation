@@ -1,0 +1,6 @@
+﻿<replication>
+  <message_set name="simple communication">
+    <match>^ui\\00_message\\simple_com\\chat_com_text_\d+$</match>
+    <match>^ui\\00_message\\ui\\simple_text$</match>
+  </message_set>
+</replication>

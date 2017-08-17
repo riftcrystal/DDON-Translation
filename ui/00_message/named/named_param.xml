@@ -4325,6 +4325,7 @@
   </named_param>
   <named_param id="1757">
     <original type="Prefix">行く手を阻む</original>
+    <translation type="Prefix">Obstructing </translation>
   </named_param>
   <named_param id="1758">
     <original type="Replace">獣の将</original>
@@ -4355,6 +4356,7 @@
   </named_param>
   <named_param id="1782">
     <original type="Replace">番兵</original>
+    <translation type="Prefix">Sentinel </translation>
   </named_param>
   <named_param id="1783">
     <original type="Replace">陣地防衛隊長</original>
@@ -4403,18 +4405,23 @@
   </named_param>
   <named_param id="1798">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1799">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1800">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1801">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1803">
     <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1805">
     <original type="Prefix"></original>
@@ -4430,6 +4437,7 @@
   </named_param>
   <named_param id="1827">
     <original type="Prefix">試練</original>
+    <translation type="Prefix">Trial </translation>
   </named_param>
   <named_param id="1828">
     <original type="Prefix">拠点防衛</original>
@@ -4445,6 +4453,7 @@
   </named_param>
   <named_param id="1834">
     <original type="Prefix">試練</original>
+    <translation type="Prefix">Trial </translation>
   </named_param>
   <named_param id="1836">
     <original type="Prefix">処刑官</original>
@@ -4457,6 +4466,7 @@
   </named_param>
   <named_param id="1839">
     <original type="Prefix">襲撃</original>
+    <translation type="Prefix">Marauding </translation>
   </named_param>
   <named_param id="1840">
     <original type="Prefix">メダルコレクター</original>
@@ -4730,6 +4740,7 @@
   </named_param>
   <named_param id="2045">
     <original type="Prefix">はぐれ</original>
+    <translation type="Prefix">Stray </translation>
   </named_param>
   <named_param id="2046">
     <original type="Prefix">脱走した白い</original>

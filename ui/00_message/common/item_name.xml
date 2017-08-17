@@ -40095,9 +40095,7 @@
   </item>
   <item id="13503">
     <original>マンドラゴランタン【銀】</original>
-    <!-- NEEDS REVIEW -->
-    <!--マンドラゴランタン-->
-    <translation>Mandragora Lantern</translation>
+    <translation>Mandragora Lantern (Silver)</translation>
   </item>
   <item id="13504">
     <original>マンドラゴランタン【金】</original>
@@ -40881,9 +40879,7 @@
   </item>
   <item id="13827">
     <original>魔界村コイン</original>
-    <!-- NEEDS REVIEW -->
-    <!--レリーフコイン【花橙】-->
-    <translation>Relief Coin (Flower Orange)</translation>
+    <translation>Ghosts 'n Goblins Coin</translation>
   </item>
   <item id="13828">
     <original>レリーフコイン【柔紅】</original>
@@ -53166,6 +53162,7 @@
   </item>
   <item id="17134">
     <original>大本棚（左）</original>
+    <translation>Large Bookshelf (Left)</translation>
   </item>
   <item id="17135">
     <original>タペストリー・レスタニア</original>
@@ -53190,6 +53187,7 @@
   </item>
   <item id="17142">
     <original>大本棚（右）</original>
+    <translation>Large Bookshelf (Right)</translation>
   </item>
   <item id="17143">
     <original>タペストリー・フィンダム</original>
@@ -53202,6 +53200,7 @@
   </item>
   <item id="17151">
     <original>ベーシックなリビングカーペット</original>
+    <translation>Basic Living Room Carpet</translation>
   </item>
   <item id="17152">
     <original>語らいのベル</original>
@@ -53860,42 +53859,55 @@
   </item>
   <item id="17370">
     <original>マンドラゴラ鉢植え①ノーマル</original>
+    <translation>Mandragora Potted Plant ① Normal</translation>
   </item>
   <item id="17371">
     <original>マンドラゴラ鉢植え②パスポート</original>
+    <translation>Mandragora Potted Plant ② Passport</translation>
   </item>
   <item id="17372">
     <original>マンドラゴラ鉢植え③パスポート</original>
+    <translation>Mandragora Potted Plant ③ Passport</translation>
   </item>
   <item id="17391">
     <original>ノビリティーズエストック</original>
+    <translation>Nobility's Estoc</translation>
   </item>
   <item id="17392">
     <original>ノビリティーズエストック</original>
+    <translation>Nobility's Estoc</translation>
   </item>
   <item id="17393">
     <original>ノビリティーズエストック</original>
+    <translation>Nobility's Estoc</translation>
   </item>
   <item id="17394">
     <original>ノビリティーズエストック</original>
+    <translation>Nobility's Estoc</translation>
   </item>
   <item id="17395">
     <original>ノビリティーズエストック</original>
+    <translation>Nobility's Estoc</translation>
   </item>
   <item id="17396">
     <original>ルプスセイバー</original>
+    <translation>Corpus Saber</translation>
   </item>
   <item id="17397">
     <original>ルプスセイバー</original>
+    <translation>Corpus Saber</translation>
   </item>
   <item id="17398">
     <original>ルプスセイバー</original>
+    <translation>Corpus Saber</translation>
   </item>
   <item id="17399">
     <original>ルプスセイバー</original>
+    <translation>Corpus Saber</translation>
   </item>
   <item id="17400">
     <original>ルプスセイバー</original>
+    <translation>Corpus Saber</translation>
   </item>
   <item id="17401">
     <original>シャムシールエモラード</original>
@@ -53914,18 +53926,23 @@
   </item>
   <item id="17406">
     <original>ノビリティーズガード</original>
+    <translation>Nobility's Guard</translation>
   </item>
   <item id="17407">
     <original>ノビリティーズガード</original>
+    <translation>Nobility's Guard</translation>
   </item>
   <item id="17408">
     <original>ノビリティーズガード</original>
+    <translation>Nobility's Guard</translation>
   </item>
   <item id="17409">
     <original>ノビリティーズガード</original>
+    <translation>Nobility's Guard</translation>
   </item>
   <item id="17410">
     <original>ノビリティーズガード</original>
+    <translation>Nobility's Guard</translation>
   </item>
   <item id="17411">
     <original>ピクシスガード</original>
@@ -53959,33 +53976,43 @@
   </item>
   <item id="17421">
     <original>ノビリティーズセイバー</original>
+    <translation>Nobility's Saber</translation>
   </item>
   <item id="17422">
     <original>ノビリティーズセイバー</original>
+    <translation>Nobility's Saber</translation>
   </item>
   <item id="17423">
     <original>ノビリティーズセイバー</original>
+    <translation>Nobility's Saber</translation>
   </item>
   <item id="17424">
     <original>ノビリティーズセイバー</original>
+    <translation>Nobility's Saber</translation>
   </item>
   <item id="17425">
     <original>ノビリティーズセイバー</original>
+    <translation>Nobility's Saber</translation>
   </item>
   <item id="17426">
     <original>タウルスブレイカ―</original>
+    <translation>Taurus Breaker</translation>
   </item>
   <item id="17427">
     <original>タウルスブレイカ―</original>
+    <translation>Taurus Breaker</translation>
   </item>
   <item id="17428">
     <original>タウルスブレイカ―</original>
+    <translation>Taurus Breaker</translation>
   </item>
   <item id="17429">
     <original>タウルスブレイカ―</original>
+    <translation>Taurus Breaker</translation>
   </item>
   <item id="17430">
     <original>タウルスブレイカ―</original>
+    <translation>Taurus Breaker</translation>
   </item>
   <item id="17431">
     <original>イェクターカヴィ</original>
@@ -54004,18 +54031,23 @@
   </item>
   <item id="17436">
     <original>ノビリティーズフォート</original>
+    <translation>Nobility's Fort</translation>
   </item>
   <item id="17437">
     <original>ノビリティーズフォート</original>
+    <translation>Nobility's Fort</translation>
   </item>
   <item id="17438">
     <original>ノビリティーズフォート</original>
+    <translation>Nobility's Fort</translation>
   </item>
   <item id="17439">
     <original>ノビリティーズフォート</original>
+    <translation>Nobility's Fort</translation>
   </item>
   <item id="17440">
     <original>ノビリティーズフォート</original>
+    <translation>Nobility's Fort</translation>
   </item>
   <item id="17441">
     <original>スクトゥムウォール</original>
@@ -54049,18 +54081,23 @@
   </item>
   <item id="17451">
     <original>ノビリティーズロッド</original>
+    <translation>Nobility's Rod</translation>
   </item>
   <item id="17452">
     <original>ノビリティーズロッド</original>
+    <translation>Nobility's Rod</translation>
   </item>
   <item id="17453">
     <original>ノビリティーズロッド</original>
+    <translation>Nobility's Rod</translation>
   </item>
   <item id="17454">
     <original>ノビリティーズロッド</original>
+    <translation>Nobility's Rod</translation>
   </item>
   <item id="17455">
     <original>ノビリティーズロッド</original>
+    <translation>Nobility's Rod</translation>
   </item>
   <item id="17456">
     <original>ヒドゥルストーチ</original>
@@ -54109,48 +54146,63 @@
   </item>
   <item id="17471">
     <original>ノビリティーズダガー</original>
+    <translation>Nobility's Daggers</translation>
   </item>
   <item id="17472">
     <original>ノビリティーズダガー</original>
+    <translation>Nobility's Daggers</translation>
   </item>
   <item id="17473">
     <original>ノビリティーズダガー</original>
+    <translation>Nobility's Daggers</translation>
   </item>
   <item id="17474">
     <original>ノビリティーズダガー</original>
+    <translation>Nobility's Daggers</translation>
   </item>
   <item id="17475">
     <original>ノビリティーズダガー</original>
+    <translation>Nobility's Daggers</translation>
   </item>
   <item id="17476">
     <original>ジェミニエッジ</original>
+    <translation>Gemini Edge</translation>
   </item>
   <item id="17477">
     <original>ジェミニエッジ</original>
+    <translation>Gemini Edge</translation>
   </item>
   <item id="17478">
     <original>ジェミニエッジ</original>
+    <translation>Gemini Edge</translation>
   </item>
   <item id="17479">
     <original>ジェミニエッジ</original>
+    <translation>Gemini Edge</translation>
   </item>
   <item id="17480">
     <original>ジェミニエッジ</original>
+    <translation>Gemini Edge</translation>
   </item>
   <item id="17481">
     <original>ノビリティーズボウ</original>
+    <translation>Nobility's Bow</translation>
   </item>
   <item id="17482">
     <original>ノビリティーズボウ</original>
+    <translation>Nobility's Bow</translation>
   </item>
   <item id="17483">
     <original>ノビリティーズボウ</original>
+    <translation>Nobility's Bow</translation>
   </item>
   <item id="17484">
     <original>ノビリティーズボウ</original>
+    <translation>Nobility's Bow</translation>
   </item>
   <item id="17485">
     <original>ノビリティーズボウ</original>
+    <translation>Nobility's Bow</translation>
   </item>
   <item id="17486">
     <original>コルヴスボウ</original>
@@ -54184,18 +54236,23 @@
   </item>
   <item id="17496">
     <original>ノビリティーズガントレット</original>
+    <translation>Nobility's Gauntlet</translation>
   </item>
   <item id="17497">
     <original>ノビリティーズガントレット</original>
+    <translation>Nobility's Gauntlet</translation>
   </item>
   <item id="17498">
     <original>ノビリティーズガントレット</original>
+    <translation>Nobility's Gauntlet</translation>
   </item>
   <item id="17499">
     <original>ノビリティーズガントレット</original>
+    <translation>Nobility's Gauntlet</translation>
   </item>
   <item id="17500">
     <original>ノビリティーズガントレット</original>
+    <translation>Nobility's Gauntlet</translation>
   </item>
   <item id="17501">
     <original>キルキヌスアーム</original>
@@ -54229,18 +54286,23 @@
   </item>
   <item id="17511">
     <original>ノビリティーズスペル</original>
+    <translation>Nobility's Spell</translation>
   </item>
   <item id="17512">
     <original>ノビリティーズスペル</original>
+    <translation>Nobility's Spell</translation>
   </item>
   <item id="17513">
     <original>ノビリティーズスペル</original>
+    <translation>Nobility's Spell</translation>
   </item>
   <item id="17514">
     <original>ノビリティーズスペル</original>
+    <translation>Nobility's Spell</translation>
   </item>
   <item id="17515">
     <original>ノビリティーズスペル</original>
+    <translation>Nobility's Spell</translation>
   </item>
   <item id="17516">
     <original>ラケルタシューター</original>
@@ -54274,18 +54336,23 @@
   </item>
   <item id="17526">
     <original>ノビリティーズスタッフ</original>
+    <translation>Nobility's Staff</translation>
   </item>
   <item id="17527">
     <original>ノビリティーズスタッフ</original>
+    <translation>Nobility's Staff</translation>
   </item>
   <item id="17528">
     <original>ノビリティーズスタッフ</original>
+    <translation>Nobility's Staff</translation>
   </item>
   <item id="17529">
     <original>ノビリティーズスタッフ</original>
+    <translation>Nobility's Staff</translation>
   </item>
   <item id="17530">
     <original>ノビリティーズスタッフ</original>
+    <translation>Nobility's Staff</translation>
   </item>
   <item id="17531">
     <original>アラケイン</original>
@@ -54364,18 +54431,23 @@
   </item>
   <item id="17556">
     <original>ノビリティーズスピア</original>
+    <translation>Nobility's Spear</translation>
   </item>
   <item id="17557">
     <original>ノビリティーズスピア</original>
+    <translation>Nobility's Spear</translation>
   </item>
   <item id="17558">
     <original>ノビリティーズスピア</original>
+    <translation>Nobility's Spear</translation>
   </item>
   <item id="17559">
     <original>ノビリティーズスピア</original>
+    <translation>Nobility's Spear</translation>
   </item>
   <item id="17560">
     <original>ノビリティーズスピア</original>
+    <translation>Nobility's Spear</translation>
   </item>
   <item id="17561">
     <original>カリーナスピア</original>
@@ -55327,6 +55399,7 @@
   </item>
   <item id="17886">
     <original>プランクトン液</original>
+    <translation>Plankton Liquid</translation>
   </item>
   <item id="17888">
     <original>竜頭のタイル片</original>
@@ -55404,21 +55477,27 @@
   </item>
   <item id="17935">
     <original>ムーディーランプ・2周年</original>
+    <translation>2nd Anniversary Moody Lamp</translation>
   </item>
   <item id="17936">
     <original>アニバーサリーケーキ・2周年</original>
+    <translation>2nd Anniversary Cake</translation>
   </item>
   <item id="17937">
     <original>デコレーション・2周年</original>
+    <translation>2nd Anniversary Decoration</translation>
   </item>
   <item id="17938">
     <original>アニバーサリーパペット・2周年</original>
+    <translation>2nd Anniversary Puppet</translation>
   </item>
   <item id="17939">
     <original>タペストリー・2周年（右）</original>
+    <translation>2nd Anniversary Tapestry (Right)</translation>
   </item>
   <item id="17940">
     <original>タペストリー・2周年（左）</original>
+    <translation>2nd Anniversary Tapestry (Left)</translation>
   </item>
   <item id="17941">
     <original>ジャスティス学園　一文字伐A </original>
@@ -55452,54 +55531,58 @@
   </item>
   <item id="17956">
     <original>栄光のチャンピオンベルト【Ⅰ】</original>
-    <!-- NEEDS REVIEW -->
-    <!--チャンピオンベルト・１位-->
-    <translation>Champion Belt - Rank 1</translation>
+    <translation>Champion Belt of Glory (I)</translation>
   </item>
   <item id="17957">
     <original>栄光のチャンピオンベルト【Ⅱ】</original>
-    <!-- NEEDS REVIEW -->
-    <!--チャンピオンベルト・２位-->
-    <translation>Champion Belt - Rank 2</translation>
+    <translation>Champion Belt of Glory (II)</translation>
   </item>
   <item id="17958">
     <original>栄光のチャンピオンベルト【Ⅲ】</original>
-    <!-- NEEDS REVIEW -->
-    <!--チャンピオンベルト・３位-->
-    <translation>Champion Belt - Rank 3</translation>
+    <translation>Champion Belt of Glory (III)</translation>
   </item>
   <item id="17959">
     <original>ふかふかの土</original>
   </item>
   <item id="18143">
     <original>エンブレムストーン・ファイター</original>
+    <translation>Emblem Stone: Fighter</translation>
   </item>
   <item id="18144">
     <original>エンブレムストーン・シーカー</original>
+    <translation>Emblem Stone: Seeker</translation>
   </item>
   <item id="18145">
     <original>エンブレムストーン・ハンター</original>
+    <translation>Emblem Stone: Hunter</translation>
   </item>
   <item id="18146">
     <original>エンブレムストーン・プリースト</original>
+    <translation>Emblem Stone: Priest</translation>
   </item>
   <item id="18147">
     <original>エンブレムストーン・Ｓセージ</original>
+    <translation>Emblem Stone: Shield Sage</translation>
   </item>
   <item id="18148">
     <original>エンブレムストーン・ソーサラー</original>
+    <translation>Emblem Stone: Sorcerer</translation>
   </item>
   <item id="18149">
     <original>エンブレムストーン・ウォリアー</original>
+    <translation>Emblem Stone: Warrior</translation>
   </item>
   <item id="18150">
     <original>エンブレムストーン・Ｅアーチャー</original>
+    <translation>Emblem Stone: Element Archer</translation>
   </item>
   <item id="18151">
     <original>エンブレムストーン・アルケミスト</original>
+    <translation>Emblem Stone: Alchemist</translation>
   </item>
   <item id="18152">
     <original>エンブレムストーン・Ｓランサー</original>
+    <translation>Emblem Stone: Spirit Lancer</translation>
   </item>
   <item id="18506">
     <original>お風呂・楽園の湯</original>
@@ -55509,6 +55592,7 @@
   </item>
   <item id="18508">
     <original>自然木炭</original>
+    <translation>Natural Charcoal</translation>
   </item>
   <item id="18513">
     <original>戦功勲章【孔雀】</original>
@@ -55936,15 +56020,19 @@
   </item>
   <item id="18647">
     <original>マンドラゴラキノコ</original>
+    <translation>Mandragora Mushroom</translation>
   </item>
   <item id="18648">
     <original>ヴォルカニックサンド</original>
+    <translation>Volcanic Sand</translation>
   </item>
   <item id="18649">
     <original>ヴォルカニックガラス</original>
+    <translation>Volcanic Glass</translation>
   </item>
   <item id="18650">
     <original>ガーネット</original>
+    <translation>Garnet</translation>
   </item>
   <item id="18655">
     <original>魔獣の肝</original>
@@ -55957,9 +56045,11 @@
   </item>
   <item id="18663">
     <original>マンドラゴラの葉っぱ</original>
+    <translation>Mandragora Leaf</translation>
   </item>
   <item id="18664">
     <original>マンドラゴラの小枝</original>
+    <translation>Mandragora Twig</translation>
   </item>
   <item id="18665">
     <original>ウルスラグナ</original>
@@ -56197,6 +56287,7 @@
   </item>
   <item id="18758">
     <original>デコレーション・2周年</original>
+    <translation>2nd Anniversary Decoration</translation>
   </item>
   <item id="18759">
     <original>鳩時計</original>
@@ -56239,12 +56330,14 @@
   </item>
   <item id="18778">
     <original>タペストリー・2周年A</original>
+    <translation>2nd Anniversary Tapestry A</translation>
   </item>
   <item id="18779">
     <original>タペストリー・フィンダム</original>
   </item>
   <item id="18782">
     <original>タペストリー・2周年B</original>
+    <translation>2nd Anniversary Tapestry B</translation>
   </item>
   <item id="18783">
     <original>クロステーブル・フォレスト</original>
@@ -56254,9 +56347,11 @@
   </item>
   <item id="18788">
     <original>アニバーサリーケーキ・2周年</original>
+    <translation>2nd Anniversary Cake</translation>
   </item>
   <item id="18789">
     <original>アニバーサリーパペット・2周年</original>
+    <translation>2nd Anniversary Puppet</translation>
   </item>
   <item id="18791">
     <original>毛織のリビングカーペット・ホワイト</original>
@@ -56290,6 +56385,7 @@
   </item>
   <item id="18815">
     <original>王家紋章のメダル＜ラスニテ地方＞</original>
+    <translation>"Rasunite" Royal Crest Medal</translation>
   </item>
   <item id="18816">
     <original>「LV.80」成長の宝珠</original>
@@ -56305,12 +56401,15 @@
   </item>
   <item id="18828">
     <original>金貨袋</original>
+    <translation>Coin Pouch</translation>
   </item>
   <item id="18829">
     <original>リム結晶</original>
+    <translation>Rift Crystal</translation>
   </item>
   <item id="18830">
     <original>ブラッドオーブ</original>
+    <translation>Blood Orb</translation>
   </item>
   <item id="18831">
     <original>経験値結晶</original>
@@ -56468,9 +56567,11 @@
   </item>
   <item id="18885">
     <original>オベリスク</original>
+    <translation>Obelisk</translation>
   </item>
   <item id="18886">
     <original>ロイヤル</original>
+    <translation>Royal</translation>
   </item>
   <item id="18893">
     <original>黄金ヤシの繊維</original>
@@ -56501,123 +56602,163 @@
   </item>
   <item id="18900">
     <original>真・ポリッシュドソード</original>
+    <translation>True Polished Sword</translation>
   </item>
   <item id="18905">
     <original>真・ローズトーンズ</original>
+    <translation>True Rose Tones</translation>
   </item>
   <item id="18910">
     <original>真・ローズトーンズ</original>
+    <translation>True Rose Tones</translation>
   </item>
   <item id="18915">
     <original>真・ローズトーンズ</original>
+    <translation>True Rose Tones</translation>
   </item>
   <item id="18920">
     <original>真・ポリッシュドブレイカー</original>
+    <translation>True Polished Breaker</translation>
   </item>
   <item id="18925">
     <original>真・ウォンテッドハート</original>
+    <translation>True Wanted Heart</translation>
   </item>
   <item id="18930">
     <original>真・ウォンテッドハート</original>
+    <translation>True Wanted Heart</translation>
   </item>
   <item id="18935">
     <original>真・ウォンテッドハート</original>
+    <translation>True Wanted Heart</translation>
   </item>
   <item id="18940">
     <original>真・ポリッシュドガード</original>
+    <translation>True Polished Guard</translation>
   </item>
   <item id="18945">
     <original>真・ダークパべーゼ</original>
+    <translation>True Dark Pavise</translation>
   </item>
   <item id="18950">
     <original>真・ダークパべーゼ</original>
+    <translation>True Dark Pavise</translation>
   </item>
   <item id="18955">
     <original>真・ダークパべーゼ</original>
+    <translation>True Dark Pavise</translation>
   </item>
   <item id="18960">
     <original>真・ポリッシュドダガー</original>
+    <translation>True Polished Daggers</translation>
   </item>
   <item id="18965">
     <original>真・ダークパラゾニウム</original>
+    <translation>True Dark Parazonium</translation>
   </item>
   <item id="18970">
     <original>真・ダークパラゾニウム</original>
+    <translation>True Dark Parazonium</translation>
   </item>
   <item id="18975">
     <original>真・ダークパラゾニウム</original>
+    <translation>True Dark Parazonium</translation>
   </item>
   <item id="18980">
     <original>真・ポリッシュドボウ</original>
+    <translation>True Polished Bow</translation>
   </item>
   <item id="18985">
     <original>真・ドラゴンズブリンク</original>
+    <translation>True Dragon's Blink</translation>
   </item>
   <item id="18990">
     <original>真・ドラゴンズブリンク</original>
+    <translation>True Dragon's Blink</translation>
   </item>
   <item id="18995">
     <original>真・ドラゴンズブリンク</original>
+    <translation>True Dragon's Blink</translation>
   </item>
   <item id="19000">
     <original>真・ポリッシュドガントレット</original>
+    <translation>True Polished Gauntlet</translation>
   </item>
   <item id="19005">
     <original>真・ヒドゥンセイズ</original>
+    <translation>True Hidden Seiðr</translation>
   </item>
   <item id="19010">
     <original>真・ヒドゥンセイズ</original>
+    <translation>True Hidden Seiðr</translation>
   </item>
   <item id="19015">
     <original>真・ヒドゥンセイズ</original>
+    <translation>True Hidden Seiðr</translation>
   </item>
   <item id="19020">
     <original>真・ポリッシュドスペル</original>
+    <translation>True Polished Spell</translation>
   </item>
   <item id="19025">
     <original>真・ドラゴンズスプリーム</original>
+    <translation>True Dragon's Supreme</translation>
   </item>
   <item id="19030">
     <original>真・ドラゴンズスプリーム</original>
+    <translation>True Dragon's Supreme</translation>
   </item>
   <item id="19035">
     <original>真・ドラゴンズスプリーム</original>
+    <translation>True Dragon's Supreme</translation>
   </item>
   <item id="19040">
     <original>真・ポリッシュドスタッフ</original>
+    <translation>True Polished Staff</translation>
   </item>
   <item id="19045">
     <original>真・チリーケイン</original>
+    <translation>True Chilly Cane</translation>
   </item>
   <item id="19050">
     <original>真・チリーケイン</original>
+    <translation>True Chilly Cane</translation>
   </item>
   <item id="19055">
     <original>真・チリーケイン</original>
+    <translation>True Chilly Cane</translation>
   </item>
   <item id="19060">
     <original>真・ポリッシュドワンズ</original>
+    <translation>True Polished Wand</translation>
   </item>
   <item id="19065">
     <original>真・ロードトゥハデス</original>
+    <translation>True Road to Hades</translation>
   </item>
   <item id="19070">
     <original>真・ロードトゥハデス</original>
+    <translation>True Road to Hades</translation>
   </item>
   <item id="19075">
     <original>真・ロードトゥハデス</original>
+    <translation>True Road to Hades</translation>
   </item>
   <item id="19080">
     <original>真・ポリッシュドランス</original>
+    <translation>True Polished Lance</translation>
   </item>
   <item id="19085">
     <original>真・エヴァーランス</original>
+    <translation>True Everlance</translation>
   </item>
   <item id="19090">
     <original>真・エヴァーランス</original>
+    <translation>True Everlance</translation>
   </item>
   <item id="19095">
     <original>真・エヴァーランス</original>
+    <translation>True Everlance</translation>
   </item>
   <item id="19100">
     <original>スナップブレード</original>
@@ -57172,108 +57313,143 @@
   </item>
   <item id="19258">
     <original>炎襲 LV.4</original>
+    <translation>Fire Affinity LV.4</translation>
   </item>
   <item id="19259">
     <original>攻闇 LV.4</original>
+    <translation>Dark Attack LV.4</translation>
   </item>
   <item id="19260">
     <original>聖襲 LV.4</original>
+    <translation>Holy Affinity LV.4</translation>
   </item>
   <item id="19261">
     <original>攻氷 LV.4</original>
+    <translation>Ice Attack LV.4</translation>
   </item>
   <item id="19262">
     <original>自回 LV.4</original>
+    <translation>Self Feedback LV.4</translation>
   </item>
   <item id="19263">
     <original>壮健 LV.4</original>
+    <translation>Robust LV.4</translation>
   </item>
   <item id="19264">
     <original>烈墜 LV.4</original>
+    <translation>Destructive Fall LV.4</translation>
   </item>
   <item id="19265">
     <original>緩刃 LV.4</original>
+    <translation>Eased Blade LV.4</translation>
   </item>
   <item id="19266">
     <original>剛力 LV.4</original>
+    <translation>Herculean Strength LV.4</translation>
   </item>
   <item id="19267">
     <original>攻炎 LV.4</original>
+    <translation>Fire Attack LV.4</translation>
   </item>
   <item id="19268">
     <original>氷襲 LV.4</original>
+    <translation>Ice Affinity LV.4</translation>
   </item>
   <item id="19269">
     <original>魔双 LV.4</original>
+    <translation>Twin Magick LV.4</translation>
   </item>
   <item id="19270">
     <original>空撃 LV.4</original>
+    <translation>Sky Hammer LV.4</translation>
   </item>
   <item id="19271">
     <original>英気 LV.4</original>
+    <translation>Heroic Spirit LV.4</translation>
   </item>
   <item id="19272">
     <original>活性 LV.4</original>
+    <translation>Invigorated LV.4</translation>
   </item>
   <item id="19273">
     <original>強靭 LV.4</original>
+    <translation>Resilience LV.4</translation>
   </item>
   <item id="19274">
     <original>耐握 LV.4</original>
+    <translation>Enduring Grip LV.4</translation>
   </item>
   <item id="19275">
     <original>攻雷 LV.4</original>
+    <translation>Thunder Attack LV.4</translation>
   </item>
   <item id="19276">
     <original>闇襲 LV.4</original>
+    <translation>Dark Affinity LV.4</translation>
   </item>
   <item id="19277">
     <original>猛攻 LV.4</original>
+    <translation>Onslaught LV.4</translation>
   </item>
   <item id="19278">
     <original>与震 LV.4</original>
+    <translation>Quakemaker LV.4</translation>
   </item>
   <item id="19279">
     <original>快動 LV.4</original>
+    <translation>Relaxedness LV.4</translation>
   </item>
   <item id="19280">
     <original>加護 LV.4</original>
+    <translation>Divine Protection LV.4</translation>
   </item>
   <item id="19281">
     <original>溌剌 LV.4</original>
+    <translation>Perky LV.4</translation>
   </item>
   <item id="19282">
     <original>快癒 LV.4</original>
+    <translation>Quick Healing LV.4</translation>
   </item>
   <item id="19283">
     <original>強附 LV.4</original>
+    <translation>Great Enchantment LV.4</translation>
   </item>
   <item id="19284">
     <original>攻聖 LV.4</original>
+    <translation>Holy Attack LV.4</translation>
   </item>
   <item id="19285">
     <original>雷襲 LV.4</original>
+    <translation>Thunder Affinity LV.4</translation>
   </item>
   <item id="19286">
     <original>握烈 LV.4</original>
+    <translation>Furious Grip LV.4</translation>
   </item>
   <item id="19287">
     <original>重当 LV.4</original>
+    <translation>Weighted LV.4</translation>
   </item>
   <item id="19288">
     <original>重攻 LV.4</original>
+    <translation>Heavy Attack LV.4</translation>
   </item>
   <item id="19289">
     <original>盛精 LV.4</original>
+    <translation>Vigorous Vitality LV.4</translation>
   </item>
   <item id="19290">
     <original>高堪 LV.4</original>
+    <translation>Unyielding Posture LV.4</translation>
   </item>
   <item id="19291">
     <original>薬効 LV.4</original>
+    <translation>Efficacy LV.4</translation>
   </item>
   <item id="19292">
     <original>硬皮 LV.4</original>
+    <translation>Tough Skin LV.4</translation>
   </item>
   <item id="19293">
     <original>闘気のクロス</original>
@@ -57432,39 +57608,51 @@
   </item>
   <item id="19345">
     <original>戦場のリングプレート【蒼】</original>
+    <translation>Battlefield Ring Plate (Blue)</translation>
   </item>
   <item id="19346">
     <original>戦場のリングプレート【紫】</original>
+    <translation>Battlefield Ring Plate (Purple)</translation>
   </item>
   <item id="19347">
     <original>戦場のリングプレート【緑】</original>
+    <translation>Battlefield Ring Plate (Green)</translation>
   </item>
   <item id="19348">
     <original>戦場のリングプレート【黒】</original>
+    <translation>Battlefield Ring Plate (Black)</translation>
   </item>
   <item id="19349">
     <original>戦場のリングプレート【碧】</original>
+    <translation>Battlefield Ring Plate (Blue-green)</translation>
   </item>
   <item id="19350">
     <original>戦場のリングプレート【黄】</original>
+    <translation>Battlefield Ring Plate (Yellow)</translation>
   </item>
   <item id="19351">
     <original>戦場のアクアマリンリング</original>
+    <translation>Battlefield Aquamarine Ring</translation>
   </item>
   <item id="19352">
     <original>戦場のアメジストリング</original>
+    <translation>Battlefield Amethyst Ring</translation>
   </item>
   <item id="19353">
     <original>戦場のペリドットリング</original>
+    <translation>Battlefield Peridot Ring</translation>
   </item>
   <item id="19354">
     <original>戦場のモリオンリング</original>
+    <translation>Battlefield Morion Ring</translation>
   </item>
   <item id="19355">
     <original>戦場のエメラルドリング</original>
+    <translation>Battlefield Emerald Ring</translation>
   </item>
   <item id="19356">
     <original>戦場のシトリンリング</original>
+    <translation>Battlefield Citrine Ring</translation>
   </item>
   <item id="19357">
     <original>快動Lv4</original>
@@ -57486,18 +57674,23 @@
   </item>
   <item id="19363">
     <original>戦甲砕きのクレスト１</original>
+    <translation>戦甲砕きのクレスト I</translation>
   </item>
   <item id="19364">
     <original>戦甲砕きのクレスト２</original>
+    <translation>戦甲砕きのクレスト II</translation>
   </item>
   <item id="19365">
     <original>戦甲砕きのクレスト３</original>
+    <translation>戦甲砕きのクレスト III</translation>
   </item>
   <item id="19366">
     <original>戦甲砕きのクレスト４</original>
+    <translation>戦甲砕きのクレスト IV</translation>
   </item>
   <item id="19367">
     <original>カスタムメイドサービス券</original>
+    <translation>Custom-made Service Ticket</translation>
   </item>
   <item id="19372">
     <original>飛翔の腕輪・極　</original>
@@ -57555,66 +57748,87 @@
   </item>
   <item id="19389">
     <original>クレイグブレード</original>
+    <translation>Craigblade</translation>
   </item>
   <item id="19390">
     <original>蒼嵐のミスリルソード</original>
+    <translation>Blue Storm Mithril Sword</translation>
   </item>
   <item id="19391">
     <original>蒼嵐のミスリルボウ</original>
+    <translation>Blue Storm Mithril Bow</translation>
   </item>
   <item id="19392">
     <original>蒼嵐のミスリルウォール</original>
+    <translation>Blue Storm Mithril Wall</translation>
   </item>
   <item id="19393">
     <original>蒼嵐のミスリルスタッフ</original>
+    <translation>Blue Storm Mithril Staff</translation>
   </item>
   <item id="19394">
     <original>蒼嵐のミスリルダガー</original>
+    <translation>Blue Storm Mithril Daggers</translation>
   </item>
   <item id="19395">
     <original>蒼嵐のミスリルワンズ</original>
+    <translation>Blue Storm Mithril Wand</translation>
   </item>
   <item id="19396">
     <original>蒼嵐のミスリルシューター</original>
+    <translation>Blue Storm Mithril Shooter</translation>
   </item>
   <item id="19397">
     <original>蒼嵐のミスリルブレイド</original>
+    <translation>Blue Storm Mithril Blade</translation>
   </item>
   <item id="19398">
     <original>蒼嵐のミスリルアーム</original>
+    <translation>Blue Storm Mithril Arm</translation>
   </item>
   <item id="19399">
     <original>蒼嵐のミスリルランス</original>
+    <translation>Blue Storm Mithril Lance</translation>
   </item>
   <item id="19400">
     <original>エッジオブバンガード</original>
+    <translation>Edge of Vanguard</translation>
   </item>
   <item id="19401">
     <original>アロウオブバンガード</original>
+    <translation>Arrow of Vanguard</translation>
   </item>
   <item id="19402">
     <original>ウォールオブバンガード</original>
+    <translation>Wall of Vanguard</translation>
   </item>
   <item id="19403">
     <original>スタッフオブバンガード</original>
+    <translation>Staff of Vanguard</translation>
   </item>
   <item id="19404">
     <original>ダガーオブバンガード</original>
+    <translation>Daggers of Vanguard</translation>
   </item>
   <item id="19405">
     <original>ワンズオブバンガード</original>
+    <translation>Wand of Vanguard</translation>
   </item>
   <item id="19406">
     <original>スペルオブバンガード</original>
+    <translation>Spell of Vanguard</translation>
   </item>
   <item id="19407">
     <original>ブレイドオブバンガード</original>
+    <translation>Blade of Vanguard</translation>
   </item>
   <item id="19408">
     <original>ハンズオブバンガード</original>
+    <translation>Hand of Vanguard</translation>
   </item>
   <item id="19409">
     <original>ランスオブバンガード</original>
+    <translation>Lance of Vanguard</translation>
   </item>
   <item id="19410">
     <original>覇王のアラベスクソード</original>
@@ -57837,15 +58051,19 @@
   </item>
   <item id="19508">
     <original>金貨袋</original>
+    <translation>Coin Pouch</translation>
   </item>
   <item id="19509">
     <original>金貨袋</original>
+    <translation>Coin Pouch</translation>
   </item>
   <item id="19510">
     <original>リム結晶</original>
+    <translation>Rift Crystal</translation>
   </item>
   <item id="19511">
     <original>ブラッドオーブ</original>
+    <translation>Blood Orb</translation>
   </item>
   <item id="19512">
     <original>魔界村アーサーのヤリ</original>
@@ -57954,24 +58172,31 @@
   </item>
   <item id="19617">
     <original>マンドラゴランタン【銅】</original>
+    <translation>Mandragora Lantern (Copper)</translation>
   </item>
   <item id="19618">
     <original>白竜神殿・神官</original>
+    <translation>White Dragon Temple Priest</translation>
   </item>
   <item id="19619">
     <original>白竜神殿・巫女</original>
+    <translation>White Dragon Temple Priestess</translation>
   </item>
   <item id="19622">
     <original>蒼嵐のミスリルシールド</original>
+    <translation>Blue Storm Mithril Shield</translation>
   </item>
   <item id="19623">
     <original>シールドオブバンガード</original>
+    <translation>Shield of Vanguard</translation>
   </item>
   <item id="19624">
     <original>蒼嵐のミスリルロッド</original>
+    <translation>Blue Storm Mithril Rod</translation>
   </item>
   <item id="19625">
     <original>ロッドオブバンガード</original>
+    <translation>Rod of Vanguard</translation>
   </item>
   <item id="19631">
     <original>自室3.0ハロウィン・キッチン料理</original>

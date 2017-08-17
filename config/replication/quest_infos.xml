@@ -79,6 +79,11 @@
       <translation_arg index="1" message_set="numerals" />
     </rewrite>
     <rewrite>
+      <original_match>^ジョブエンブレム試練　(.+?)$</original_match>
+      <translation_replace>Vocation Emblem Trial: {0}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)・限界域$</original_match>
       <translation_replace>{0}: Restricted Stage</translation_replace>
       <translation_arg message_set="quest name" required="true" />
@@ -157,6 +162,10 @@
       <translation_arg message_set="item name" />
     </rewrite>
     <!-- Enquire details from -->
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;に向かい&lt;NPC (\d+)&gt;から詳細を聞く$</original_match>
+      <translation_replace>Head to &lt;STG {0}&gt; and enquire details from &lt;NPC {1}&gt;</translation_replace>
+    </rewrite>
     <rewrite>
       <original_match>^(.+)にいる(.+)から詳細を聞く$</original_match>
       <translation_replace>Enquire details from {1:d} in {0:d}</translation_replace>

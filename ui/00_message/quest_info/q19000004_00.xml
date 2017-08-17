@@ -14,6 +14,7 @@
   <message>
     <key>q19000004_00_3112</key>
     <original>目的地へ向かう</original>
+    <translation>Head to 目的地</translation>
   </message>
   <message>
     <key>q19000004_00_3113</key>
@@ -42,5 +43,6 @@
   <message>
     <key>q19000004_00_3124</key>
     <original>キャリーと話す</original>
+    <translation>Speak with キャリー</translation>
   </message>
 </resource>

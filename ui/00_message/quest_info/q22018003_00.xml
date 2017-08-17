@@ -25,6 +25,7 @@
   <message>
     <key>q22018003_00_1166</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q22018003_00_1167</key>
@@ -33,9 +34,11 @@
   <message>
     <key>q22018003_00_1168</key>
     <original>発見した魔物を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
   </message>
   <message>
     <key>q22018003_00_1169</key>
     <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
   </message>
 </resource>

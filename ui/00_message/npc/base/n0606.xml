@@ -45,9 +45,11 @@
   </message>
   <message>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <original>パーティリーダーが行き先を
@@ -59,9 +61,11 @@
   </message>
   <message>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <original>内部へ向かわれる際は十分に注意してください

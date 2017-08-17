@@ -295,9 +295,11 @@
   <message>
     <key>menu_partyboard_type01</key>
     <original>パーティー募集掲示板を開く</original>
+    <translation>Open Party Recruitment Board</translation>
   </message>
   <message>
     <key>menu_pq_history</key>
     <original>サブストーリーログ</original>
+    <translation>Substory Log</translation>
   </message>
 </resource>

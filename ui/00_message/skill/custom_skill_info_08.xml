@@ -103,12 +103,6 @@ LV.6: Increases the number of ricochets.&lt;/COL&gt;</translation>
 吸着する（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に魔法球継続時間の延長／展開エリア拡張
 LV.６で魔力増加速度の上昇&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--魔矢を放ち、着弾地点にスタミナ回復効果のある
-魔法球を展開する。味方に接触させれば魔法球が
-吸着する（対不死には攻撃）
-<COL ffdc78>LV UP毎に魔法球継続時間の延長／展開エリア拡張
-LV.６で詠唱速度が上昇</COL>-->
     <translation>Fire magickal arrows that emit an area of Stamina
 restoration at the impact point. (Inflicts damage to undead)
 The field will attach to an ally if the arrow makes contact.
@@ -121,11 +115,6 @@ LV.6: Increases casting speed.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎に低下力の強化
 LV.６で魔力増加速度の上昇／
 ターゲット数増加（５→７）&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--敵の耐久力を一定時間低下させる魔矢を放つ
-<COL ffdc78>LV UP毎に低下力の強化
-LV.６で詠唱速度が上昇／
-ターゲット数増加（５→７）</COL>-->
     <translation>Fire magickal arrows that decrease the
 Endurance of enemies for a period of time.
 &lt;COL ffdc78&gt;LV UP: Increases the rate of debilitation accumulation.
@@ -152,12 +141,6 @@ LV.6: Increases the duration of the sphere.&lt;/COL&gt;</translation>
 なお当たった部位は暫く自動的に魔矢の標的になる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力／魔力増加速度の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--魔力を十分に溜めた後、特大威力の聖属性魔矢を放つ
-<PADM>左スティック<KEYM>移動キー</KEYM>で軌道操作可能。威力はスタミナ依存
-なお当たった部位は暫く自動的に魔矢の標的になる
-<COL ffdc78>LV UP毎に攻撃威力／詠唱速度の上昇
-LV.６で攻撃ヒット数増加</COL>-->
     <translation>After gathering sufficient magickal power, let loose
 an extraordinarily powerful Holy arrow.
 The arrow can be controlled mid-flight with the &lt;PADM&gt;Left Stick&lt;KEYM&gt;Movement Keys&lt;/KEYM&gt;.

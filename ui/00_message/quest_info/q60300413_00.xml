@@ -2,6 +2,7 @@
   <message>
     <key>q60300413_00_276</key>
     <original>エンブレムストーンの行方</original>
+    <translation>The Emblem Stone's Whereabouts</translation>
   </message>
   <message>
     <key>q60300413_00_276</key>
@@ -19,5 +20,6 @@
   <message>
     <key>q60300413_00_3412</key>
     <original>&lt;STG 510&gt;に向かい&lt;NPC 2000&gt;から詳細を聞く</original>
+    <translation>Head to &lt;STG 510&gt; and enquire details from &lt;NPC 2000&gt;</translation>
   </message>
 </resource>

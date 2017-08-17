@@ -398,18 +398,22 @@ open the Online Shop?</translation>
   <message>
     <key>title_allbox_e</key>
     <original>All Box</original>
+    <translation>All Boxes</translation>
   </message>
   <message>
     <key>title_allbox_j</key>
     <original>全てのボックス</original>
+    <translation>All Boxes</translation>
   </message>
   <message>
     <key>title_fertilizer_e</key>
     <original>Fertilizer</original>
+    <translation>Fertilizer</translation>
   </message>
   <message>
     <key>title_fertilizer_j</key>
     <original>肥料</original>
+    <translation>Fertilizer</translation>
   </message>
   <message>
     <key>title_fertilizer_message_0</key>
@@ -448,9 +452,11 @@ open the Online Shop?</translation>
   <message>
     <key>pulldown_deposit_ex_0</key>
     <original>&lt;COL DAEEF3&gt;格納チェスト引出し%s&lt;/COL&gt;</original>
+    <translation>&lt;COL DAEEF3&gt;Storage Box Drawer %s&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>option_targeting_deposit_ex_0</key>
     <original>格納チェスト引出し</original>
+    <translation>Storage Box Drawer</translation>
   </message>
 </resource>

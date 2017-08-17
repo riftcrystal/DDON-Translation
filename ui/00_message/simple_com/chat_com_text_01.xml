@@ -2,149 +2,186 @@
   <message>
     <key>CHAT_COM_1</key>
     <original>初めまして</original>
+    <translation>How do you do</translation>
   </message>
   <message>
     <key>CHAT_COM_2</key>
     <original>よろしくお願いします</original>
+    <translation>Nice to meet you</translation>
   </message>
   <message>
     <key>CHAT_COM_4</key>
     <original>おはよう</original>
+    <translation>Good morning</translation>
   </message>
   <message>
     <key>CHAT_COM_5</key>
     <original>こんにちは</original>
+    <translation>Hello</translation>
   </message>
   <message>
     <key>CHAT_COM_6</key>
     <original>こんばんは</original>
+    <translation>Good evening</translation>
   </message>
   <message>
     <key>CHAT_COM_7</key>
     <original>おやすみなさい</original>
+    <translation>Good night</translation>
   </message>
   <message>
     <key>CHAT_COM_8</key>
     <original>さようなら</original>
+    <translation>Goodbye</translation>
   </message>
   <message>
     <key>CHAT_COM_9</key>
     <original>今日は楽しかったです</original>
+    <translation>I had fun today</translation>
   </message>
   <message>
     <key>CHAT_COM_10</key>
     <original>お疲れさまでした！</original>
+    <translation>Good work!</translation>
   </message>
   <message>
     <key>CHAT_COM_11</key>
     <original>また遊びましょう</original>
+    <translation>Let's play together again sometime</translation>
   </message>
   <message>
     <key>CHAT_COM_12</key>
     <original>ただいま</original>
+    <translation>I'm back</translation>
   </message>
   <message>
     <key>CHAT_COM_13</key>
     <original>おかえり</original>
+    <translation>Welcome back</translation>
   </message>
   <message>
     <key>CHAT_COM_14</key>
     <original>おめでとう！</original>
+    <translation>Congratulations!</translation>
   </message>
   <message>
     <key>CHAT_COM_15</key>
     <original>よくやった！</original>
+    <translation>Good job!</translation>
   </message>
   <message>
     <key>CHAT_COM_16</key>
     <original>がんばって！</original>
+    <translation>Good luck!</translation>
   </message>
   <message>
     <key>CHAT_COM_17</key>
     <original>やったー！！！</original>
+    <translation>All right!!!</translation>
   </message>
   <message>
     <key>CHAT_COM_18</key>
     <original>ありがとう</original>
+    <translation>Thank you</translation>
   </message>
   <message>
     <key>CHAT_COM_19</key>
     <original>どういたしまして</original>
+    <translation>You're welcome</translation>
   </message>
   <message>
     <key>CHAT_COM_20</key>
     <original>気を付けてください</original>
+    <translation>Take care</translation>
   </message>
   <message>
     <key>CHAT_COM_21</key>
     <original>ごめんなさい</original>
+    <translation>I'm sorry</translation>
   </message>
   <message>
     <key>CHAT_COM_22</key>
     <original>許してください</original>
+    <translation>Please forgive me</translation>
   </message>
   <message>
     <key>CHAT_COM_23</key>
     <original>残念です</original>
+    <translation>That's too bad</translation>
   </message>
   <message>
     <key>CHAT_COM_24</key>
     <original>ちょっといいですか？</original>
+    <translation>Excuse me...</translation>
   </message>
   <message>
     <key>CHAT_COM_25</key>
     <original>がんばりましょう！</original>
+    <translation>Let's do our best!</translation>
   </message>
   <message>
     <key>CHAT_COM_26</key>
     <original>がんばります！</original>
+    <translation>I'll do my best!</translation>
   </message>
   <message>
     <key>CHAT_COM_27</key>
     <original>やりましょう！</original>
+    <translation>Let's do it!</translation>
   </message>
   <message>
     <key>CHAT_COM_28</key>
     <original>いきましょう！</original>
+    <translation>Let's go!</translation>
   </message>
   <message>
     <key>CHAT_COM_29</key>
     <original>楽しかった！</original>
+    <translation>It was fun!</translation>
   </message>
   <message>
     <key>CHAT_COM_30</key>
     <original>すごい！</original>
+    <translation>Amazing!</translation>
   </message>
   <message>
     <key>CHAT_COM_31</key>
     <original>すばらしい！</original>
+    <translation>Wonderful!</translation>
   </message>
   <message>
     <key>CHAT_COM_32</key>
     <original>グッジョブ！</original>
+    <translation>Good job!</translation>
   </message>
   <message>
     <key>CHAT_COM_33</key>
     <original>さすが！</original>
+    <translation>As expected!</translation>
   </message>
   <message>
     <key>CHAT_COM_34</key>
     <original>ナイスです！</original>
+    <translation>Nice!</translation>
   </message>
   <message>
     <key>CHAT_COM_35</key>
     <original>気にしないで！</original>
+    <translation>Don't worry about it!</translation>
   </message>
   <message>
     <key>CHAT_COM_36</key>
     <original>お気になさらず</original>
+    <translation>Without favoriting</translation>
   </message>
   <message>
     <key>CHAT_COM_37</key>
     <original>それではまた！</original>
+    <translation>Well then...again!</translation>
   </message>
   <message>
     <key>CHAT_COM_38</key>
     <original>次こそは！</original>
+    <translation>Next time!</translation>
   </message>
 </resource>

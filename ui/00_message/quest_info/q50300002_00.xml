@@ -2,6 +2,7 @@
   <message>
     <key>q50300002_00_79</key>
     <original>グリッテン砦攻防戦　戦況：怪戦</original>
+    <translation>Battle for Gritten Fort: Mystery Battle</translation>
   </message>
   <message>
     <key>q50300002_00_79</key>
@@ -15,10 +16,12 @@
   <message>
     <key>q50300002_00_3043</key>
     <original>リズを護衛し、呪われた敵を排除せよ</original>
+    <translation>Escort Lise and defeat the cursed enemy</translation>
   </message>
   <message>
     <key>q50300002_00_3044</key>
     <original>22000pt以上の獲得を目指せ</original>
+    <translation>Aim to aquire 22000pt or more</translation>
   </message>
   <message>
     <key>q50300002_00_3045</key>

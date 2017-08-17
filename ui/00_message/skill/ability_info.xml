@@ -115,9 +115,6 @@ struck by Fire attribute attacks.
     <key>ABILITY_INFO_85</key>
     <original>盾ガード時のスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--盾ガード時のスタミナ消費量が軽減される
-<COL ffdc78>LV UP毎にスタミナ消費量さらに軽減</COL>-->
     <translation>Decreases the Stamina consumed when
 you block attacks with your shield.
 &lt;COL ffdc78&gt;LV UP: Further decreases Stamina consumption.&lt;/COL&gt;</translation>
@@ -596,10 +593,6 @@ White Dragon Temple for a period of time.
     <original>しがみつき時、耐えるアクション中の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--しがみつき時、耐えるアクション中の
-スタミナ消費量が軽減される
-<COL ffdc78>LV UP毎にスタミナ消費がさらに軽減</COL>-->
     <translation>Decreases Stamina consumption when resisting
 an enemy's attempt to shake you off.
 &lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
@@ -617,10 +610,6 @@ an enemy's attempt to shake you off.
 または瀕死状態になるダメージを受けた際の
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--瀕死状態中にダメージを受けた際の
-治癒上限値が低下しにくくなる
-<COL ffdc78>LV UP毎に治癒上限値をさらに維持</COL>-->
     <translation>Slows the rate at which your maximum recoverable
 health decreases from damage when you stand
 at death's door.
@@ -1201,9 +1190,6 @@ high places.
     <key>ABILITY_INFO_410</key>
     <original>エイド/エイド・モールの展開時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に展開時間がより延長&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--エイド／エイド・モールの展開時間が延長される
-<COL ffdc78>LV UP毎に展開時間がより延長</COL>-->
     <translation>Extends the duration of Aid/Aid More.
 &lt;COL ffdc78&gt;LV UP: Increases effect duration further.&lt;/COL&gt;</translation>
   </message>
@@ -2366,10 +2352,6 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--連撃のダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6で吹き飛ばし力が増加</COL>-->
     <translation>Increases the damage of Onslaught.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
@@ -2468,10 +2450,6 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>斬り崩し/強斬り崩しのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--斬り崩し/強斬り崩しのダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6で吹き飛ばし力が増加</COL>-->
     <translation>Increases the damage of Guard Break/Strong Guard
 Break.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
@@ -2573,10 +2551,6 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>えぐり突きのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--えぐり突きのダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6で気絶攻力が増加</COL>-->
     <translation>Increases the damage of Gouge.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stun power.&lt;/COL&gt;</translation>
@@ -2641,10 +2615,6 @@ leaving the White Dragon Temple.
 ジャスト発動した際、スタミナが回復する
 カスタムスキルの場合はスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--溜め攻撃をジャスト発動した際、スタミナが回復する
-カスタムスキルの場合はスタミナ消費量が軽減される
-<COL ffdc78>LV UP毎に回復量がより増加</COL>-->
     <translation>Recovers stamina when just timing a charge
 attack. Reduces stamina consumption for just
 timed custom skills.
@@ -2776,10 +2746,6 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>強連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--強連撃のダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6で吹き飛ばし力が増加</COL>-->
     <translation>Increases the damage of Dire Onslaught.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases blow power.&lt;/COL&gt;</translation>
@@ -2967,10 +2933,6 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--連撃のダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6でチャンス攻力と疲労攻力が増加</COL>-->
     <translation>Increases damage of Onslaught.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
@@ -3069,10 +3031,6 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>斬り崩し/強斬り崩しのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--斬り崩し/強斬り崩しのダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6で気絶攻力が増加</COL>-->
     <translation>Increases damage of Guard Break/Strong Guard Break.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases stun power.&lt;/COL&gt;</translation>
@@ -3173,10 +3131,6 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>えぐり突きのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--えぐり突きのダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6でチャンス攻力と疲労攻力が増加</COL>-->
     <translation>Increases the damage of Gouge.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.</translation>
@@ -3361,10 +3315,6 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>強連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--強連撃のダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがさらに増加
-LV5～6でチャンス攻力と疲労攻力が増加</COL>-->
     <translation>Increases the damage of Dire Onslaught.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
@@ -3391,10 +3341,6 @@ or Holy Aura are currently active.
     <original>アトラクト/モアアトラクトの
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--アトラクト/モアアトラクトの
-スタミナ消費量が軽減される
-<COL ffdc78>LV UP毎にスタミナ消費量がさらに減少</COL>-->
     <translation>Reduces stamina consumption of Attract/More Attract.
 &lt;COL ffdc78&gt;LV UP: Further reduces stamina consumption.&lt;/COL&gt;</translation>
   </message>
@@ -3402,9 +3348,6 @@ or Holy Aura are currently active.
     <key>ABILITY_INFO_355</key>
     <original>転身のスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--転身のスタミナ消費量が軽減される
-<COL ffdc78>LV UP毎にスタミナ消費量がさらに減少</COL>-->
     <translation>Reduces stamina cost of Forward Roll.
 &lt;COL ffdc78&gt;LV UP: Further reduces stamina cost.&lt;/COL&gt;</translation>
   </message>
@@ -3412,9 +3355,6 @@ or Holy Aura are currently active.
     <key>ABILITY_INFO_367</key>
     <original>バックムーブのスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--バックムーブのスタミナ消費量が軽減される
-<COL ffdc78>LV UP毎にスタミナ消費量がさらに減少</COL>-->
     <translation>Reduces stamina cost of Back Move.
 &lt;COL ffdc78&gt;LV UP: Further reduces stamina cost.&lt;/COL&gt;</translation>
   </message>
@@ -3432,10 +3372,6 @@ are exposed is greatly extended.
     <original>魔人斬り/真・魔人斬りによる
 リベンジゲージ消費時に少しゲージが残る
 &lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--魔人斬り、真・魔人斬りによる
-リベンジゲージ消費時に少しゲージが残る
-<COL ffdc78>LV UP毎にゲージ残量が増加</COL>-->
     <translation>When using Savage Lash or Indomitable Lash,
 a tiny portion of the revenge gauge remains
 when the gauge is consumed.
@@ -3469,9 +3405,6 @@ power is increased for a period of time.
     <key>ABILITY_INFO_307</key>
     <original>えぐり突きのスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--えぐり突きのスタミナ消費量が軽減される
-<COL ffdc78>LV UP毎に軽減量がより増加</COL>-->
     <translation>Reduces stamina cost of Gouge.
 &lt;COL ffdc78&gt;LV UP: Further increases reduction amount.&lt;/COL&gt;</translation>
   </message>
