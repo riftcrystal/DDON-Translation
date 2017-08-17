@@ -14554,6 +14554,8 @@ Bestows various buffs upon eating</translation>
   <item id="7551">
     <original>肉系のクラフト用素材
 広く人気のある食材。生食できない</original>
+    <translation>Meat based crafting material
+Widely popular. Can't be eaten raw</translation>
   </item>
   <item id="7552">
     <original>使用者の体力を回復する</original>
@@ -14574,31 +14576,45 @@ Bestows various buffs upon eating</translation>
   <item id="7559">
     <original>グリッテン砦補強のため準備された資材
 砦の副官ヴァネッサに届けよう</original>
+    <translation>Materials prepared to reinforce Gritten Fort
+Deliver this to Liutenant Vanessa</translation>
   </item>
   <item id="7560">
     <original>相当古い時代の難解な文書
 複雑な図とともに記された古語は、ほぼ読みとれない</original>
+    <translation>An esoteric document of a considerable age
+Ancient words written with complicated figures can be hardly read</translation>
   </item>
   <item id="7561">
     <original>ディアマンテスが封じられた宮殿の鍵
 大きく欠損しており、錬金術による修復が必要</original>
+    <translation>The key of the Palace where Diamantes was sealed
+It needs to be restored with Alchemy</translation>
   </item>
   <item id="7562">
     <original>ディアマンテスの命を収めた命の器
 レスタニアの運命を揺るがすほど
 強大な力を秘めている</original>
+   <translation>Diamantes Life Vessel
+It-s mighty power can shake the fate of Lestania</translation>
   </item>
   <item id="7578">
     <original>禊の神殿、セラー湖対岸にある離殿の鍵
 白竜の紋章が彫られている</original>
+    <translation>A key to the Purification Temple, located across the lake from the Cellar
+It-s engraved with a White Dragon</translation>
   </item>
   <item id="7726">
     <original>肉系のクラフト用素材
 グルメ垂涎の高級食材。生食できない</original>
+    <translation>Meat based crafting material
+Premium Quality. Can't be eaten raw</translation>
   </item>
   <item id="7727">
     <original>肉系のクラフト用素材
 グリフィン（ＬＶ．35～）からしか取れぬ逸品</original>
+    <translation>Meat based crafting material
+Can only be Obtained from a (Lv. 35`)Griffin</translation>
   </item>
   <item id="7728">
     <original>肉系のクラフト用素材
