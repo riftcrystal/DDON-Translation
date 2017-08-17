@@ -1430,7 +1430,9 @@
   </message>
   <message>
     <key>SPOT_NAME_804</key>
-    <original>ハイデル平原 北側</original>
+    <original>グリッテン砦 正門前</original>
+    <!-- NEEDS REVIEW -->
+    <!--ハイデル平原 北側-->
     <translation>North Hidell Plains</translation>
   </message>
   <message>
@@ -2557,5 +2559,261 @@
     <key>SPOT_NAME_1030</key>
     <original>モローへの小路 船着き場</original>
     <translation>Path to Morrow Wharf</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_1031</key>
+    <original>隠れ村ピレモス</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1032</key>
+    <original>ロスギル</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1034</key>
+    <original>小鬼の物見台</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1035</key>
+    <original>遠吠えの前線</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1036</key>
+    <original>廃村デニスィル</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1037</key>
+    <original>休憩所跡地</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1038</key>
+    <original>落露の大穴</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1039</key>
+    <original>フェルヤナ関所前</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1058</key>
+    <original>ラスニテ山麓</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1059</key>
+    <original>ラスニテ山麓　湖畔部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1063</key>
+    <original>ラスニテ地下水路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1064</key>
+    <original>水源へ続く地下道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1065</key>
+    <original>冥府下りの洞穴</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1066</key>
+    <original>イミズディット遺跡</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1067</key>
+    <original>ウルタ古水路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1068</key>
+    <original>ラスニテ納骨廟</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1081</key>
+    <original>魔軍緊急野営地</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1082</key>
+    <original>獣将の園生</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1091</key>
+    <original>ティネス砦</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1094</key>
+    <original>ベルタ盗賊団のアジト</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1095</key>
+    <original>湖畔の洞窟</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1100</key>
+    <original>魔軍戦車駐留地</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1105</key>
+    <original>ダクレイム砦</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1107</key>
+    <original>ラスニテ山麓 北側</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1108</key>
+    <original>英霊眠りし道　ラスニテ山麓</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1113</key>
+    <original>湖畔の洞窟 深層部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1114</key>
+    <original>湖畔の洞窟 鍾乳洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1115</key>
+    <original>湖畔の洞窟 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1120</key>
+    <original>冥府下りの洞穴 奥底</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1121</key>
+    <original>ラスニテ地下水路 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1122</key>
+    <original>イミズディット遺跡 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1123</key>
+    <original>イミズディット遺跡 深層部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1124</key>
+    <original>ウルタ古水路 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1125</key>
+    <original>ラスニテ納骨廟 中央広場</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1126</key>
+    <original>ラスニテ納骨廟 深層部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1141</key>
+    <original>英霊眠りし道 祠 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1142</key>
+    <original>英霊眠りし道 祠 深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1143</key>
+    <original>英霊眠りし道 祠 第一の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1144</key>
+    <original>英霊眠りし道 祠 第二の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1145</key>
+    <original>英霊眠りし道 祠 第三の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1146</key>
+    <original>英霊眠りし道 祠 第四の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1147</key>
+    <original>英霊眠りし道 洞窟 通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1148</key>
+    <original>英霊眠りし道 洞窟 第一の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1149</key>
+    <original>英霊眠りし道 洞窟 第二の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1150</key>
+    <original>英霊眠りし道 洞窟 第三の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1151</key>
+    <original>英霊眠りし道 洞窟 第四の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1152</key>
+    <original>英霊眠りし道 洞窟 深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1153</key>
+    <original>英霊眠りし道 洞窟 深層 第一の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1154</key>
+    <original>英霊眠りし道 洞窟 深層 第二の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1155</key>
+    <original>英霊眠りし道 洞窟 深層 第三の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1156</key>
+    <original>英霊眠りし道 洞窟 深層 第四の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1157</key>
+    <original>英霊眠りし道 水路 脇道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1158</key>
+    <original>英霊眠りし道 水路 第一の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1159</key>
+    <original>英霊眠りし道 水路 第二の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1160</key>
+    <original>英霊眠りし道 水路 第三の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1161</key>
+    <original>英霊眠りし道 水路 第四の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1162</key>
+    <original>英霊眠りし道 洞窟 深層 脇道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1163</key>
+    <original>英霊眠りし道 祠 石像の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1164</key>
+    <original>英霊眠りし道 洞窟 石像の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1165</key>
+    <original>英霊眠りし道 洞窟 深層 石像の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1166</key>
+    <original>英霊眠りし道 水路 石像の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1167</key>
+    <original>英霊眠りし道 水路 武神の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1169</key>
+    <original>メルゴダ・黄金宮</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_1170</key>
+    <original>ティネス砦　大食堂</original>
   </message>
 </resource>

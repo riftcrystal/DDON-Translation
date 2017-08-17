@@ -1,0 +1,341 @@
+﻿<resource>
+  <message>
+    <original>ねぇ、盗賊さん――スニーカーさんだっけ
+あの人が洞窟に檻を仕掛けてきたんだって――</original>
+  </message>
+  <message>
+    <original>盗賊の親分さんに“魚を獲ってくる係”に
+任命されたから、身近で水気のある洞窟に
+檻を置いたらしいの――</original>
+  </message>
+  <message>
+    <original>洞窟で魚は獲れないのに、何してるんだろうね！？
+しかも、檻を仕掛ける時に怖い思いをしたから
+檻の回収にも行けないんだって！</original>
+  </message>
+  <message>
+    <original>――というわけで、魚の調達と
+洞窟にある檻の回収を頼まれちゃったよ</original>
+  </message>
+  <message>
+    <original>ピレモスの時みたいに
+木の実やキノコなんかを届けるつもりで
+引き受けたのにー！</original>
+  </message>
+  <message>
+    <original>はぁ――食料は届けてあげたいけど
+水辺にも、怖いものがいるらしい洞窟にも
+近寄りたくないよ――</original>
+  </message>
+  <message>
+    <original>特に水辺は――うう――
+スニーカーさんも、どうしてお魚係になんて
+任命されちゃったんだろう
+魚獲りが上手そうな顔、してないのに</original>
+  </message>
+  <message>
+    <original>はぁ、勢いで引き受けちゃったけど
+気が重いな――
+そろそろ、出発する――？</original>
+  </message>
+  <message>
+    <original>出発する</original>
+  </message>
+  <message>
+    <original>――少し待ってほしい</original>
+  </message>
+  <message>
+    <original>それじゃあ、まずは関所を通っていこうか
+盗賊さんたちもお腹減ってるだろうし
+さっさと終わらせちゃおう！</original>
+  </message>
+  <message>
+    <original>うん、わかった
+アタシも気が重いから
+あなたの気持ちはよくわかるよ</original>
+  </message>
+  <message>
+    <original>今ってさ、湖畔――
+つまり、水辺に向かってるんだよね――？
+“アイツ”がいるかもしれないよね？</original>
+  </message>
+  <message>
+    <original>嫌だな――やっぱりやめたいなぁ
+水辺以外でお魚採れそうなところって無いかなぁ</original>
+  </message>
+  <message>
+    <original>湖畔へ向かう</original>
+  </message>
+  <message>
+    <original>キャリーの話に付き合う</original>
+  </message>
+  <message>
+    <original>やっぱり行かなきゃだよね――
+うん、引き受けちゃったもんね</original>
+  </message>
+  <message>
+    <original>そうだ、あなただけで行ってもらうわけには――
+ダメだよね、うん――わかってた</original>
+  </message>
+  <message>
+    <original>言っておくけど、“アイツ”を見たら
+アタシどうなっちゃうかわかんないからね！</original>
+  </message>
+  <message>
+    <original>“アイツ”――大っ嫌いなの
+名前も口に出したくないくらい</original>
+  </message>
+  <message>
+    <original>はぁ――水辺以外でお魚、獲れないかなぁ
+例えば木に登って暮らす魚とかさ――</original>
+  </message>
+  <message>
+    <original>はぁ、はぁ――
+や、やっぱり出たじゃない！
+水辺ってこれだから嫌なのよッ！</original>
+  </message>
+  <message>
+    <original>うっ、腕が鳥肌になっちゃってる――
+もうほんとにダメなのよ、“アイツ”だけは！</original>
+  </message>
+  <message>
+    <original>あの魚みたいなトカゲみたいな顔も
+頭から背中にかけての丸みも
+二本足で歩くところも、全部ダメ！</original>
+  </message>
+  <message>
+    <original>見るだけで全身ゾワッとして
+バタバタ暴れながら転がり回りたくなるの！</original>
+  </message>
+  <message>
+    <original>――そういえば、さっきアタシ何してた？
+あんまり覚えてないんだけど――</original>
+  </message>
+  <message>
+    <original>――あれ？
+檻の中にゴブリンが入っちゃってる
+この子、前にも会った子だよね？</original>
+  </message>
+  <message>
+    <original>元気無いね――お腹、減ってるのかな
+――ちょっと待ってて！
+あの子に食料、渡してくるから</original>
+  </message>
+  <message>
+    <original>――お待たせ！
+あの子に食料も渡したし
+さっさと檻を回収しちゃおうか</original>
+  </message>
+  <message>
+    <original>ゴブリンについて聞く</original>
+  </message>
+  <message>
+    <original>食料について聞く</original>
+  </message>
+  <message>
+    <original>困ったな
+あのゴブリンの子――
+いっつもお腹空かせてるんだよね</original>
+  </message>
+  <message>
+    <original>そうだ！
+あの子の名前、“ペコ”ってどう？
+会うたびいつも、“腹ペコ”だからね</original>
+  </message>
+  <message>
+    <original>え？　どうしていつも食料を渡すのかって？
+それもあんなにたくさん？</original>
+  </message>
+  <message>
+    <original>――わかるんだ
+アタシもさ、おんなじだったの、
+昔住んでた場所が魔物に襲われてね</original>
+  </message>
+  <message>
+    <original>魔物から必死で逃げて
+自分がどこにいるのかもわからなくなって
+一歩も歩けなくって、もうダメだ！って</original>
+  </message>
+  <message>
+    <original>でもその時に、私を助けてくれた人がいた
+「困ってる者を助けるのは当然だ」って</original>
+  </message>
+  <message>
+    <original>見ず知らずのアタシに
+お腹いっぱいになるまで
+食べさせてくれたんだよ――</original>
+  </message>
+  <message>
+    <original>――きっと、あの子も、いろいろあると思う
+さっきあげた分も、もしかしたら
+自分じゃ食べられてないのかも</original>
+  </message>
+  <message>
+    <original>だから、いっぱいあげたら、その分
+あの子も少しは食べられるかなって――</original>
+  </message>
+  <message>
+    <original>――さ、思い出話はここまで！
+今は、アタシにできることをやって
+みんなの力にならないとね！</original>
+  </message>
+  <message>
+    <original>食料を渡しちゃっていいのかって？
+――いいのよ！</original>
+  </message>
+  <message>
+    <original>だって、アタシもあなたも
+今はお腹空いてないでしょ？
+それに、食料はまた採ればいいんだから</original>
+  </message>
+  <message>
+    <original>フゴ――ウガ、ウガ――
+食ベモノ――</original>
+  </message>
+  <message>
+    <original>ふーっ、やっとアジトについたね！</original>
+  </message>
+  <message>
+    <original>アタシ、盗賊のアジトに来るのって初めて！
+色々見て回りたいけど――</original>
+  </message>
+  <message>
+    <original>ちょっと、疲れちゃったかな――
+少し休んでからじゃないと動けないよ</original>
+  </message>
+  <message>
+    <original>あなたは流石に元気そうだね
+よかったら、スニーカーさんに
+一声かけてきてくれない？</original>
+  </message>
+  <message>
+    <original>おおっ、覚者さんじゃないですかい！
+――ということは、キャリーの姐さんと
+食料を運んできてくださったんで？</original>
+  </message>
+  <message>
+    <original>ありがてぇことです！
+これで俺らも、ここに逃げてきた人たちも
+何とか今日の飯にありつけます</original>
+  </message>
+  <message>
+    <original>俺が洞窟に設置した檻も
+回収してくださったとか――
+いや、変なところに設置してすみません</original>
+  </message>
+  <message>
+    <original>洞窟には洞窟の魚がいるかと思ったんですがね
+せっかくの檻を無駄遣いしたって
+仲間から盛大に叱られちまいまして――</original>
+  </message>
+  <message>
+    <original>これ、お礼というには足りないかも
+知れやせんが――</original>
+  </message>
+  <message>
+    <original>キャリーの姐さんが欲しがってた
+井戸の修復に使える&lt;COL ff2600&gt;《水はけの良い石》&lt;/COL&gt;でさ
+話を小耳に挟んだんで、探しときやした</original>
+  </message>
+  <message>
+    <original>おおっ、覚者さんじゃないですかい！
+――ということは、キャリーの姐さんと
+食料を運んできてくださったんで？</original>
+  </message>
+  <message>
+    <original>ありがてぇことです！
+これで俺らも、ここに逃げてきた人たちも
+何とか今日の飯にありつけます</original>
+  </message>
+  <message>
+    <original>俺が洞窟に設置した檻も
+回収してくださったとか――
+いや、変なところに設置してすみません</original>
+  </message>
+  <message>
+    <original>洞窟には洞窟の魚がいるかと思ったんですがね
+せっかくの檻を無駄遣いしたって
+仲間から盛大に叱られちまいまして――</original>
+  </message>
+  <message>
+    <original>ああ、スニーカーさん喜んでくれたんだね
+良かった――頑張ったかいがあったよ</original>
+  </message>
+  <message>
+    <original>少し休んで疲れもとれたし
+そろそろティネス砦に帰ろっか！
+ちょっと遠いから、帰りにかかる時間も
+余裕みとかないとね</original>
+  </message>
+  <message>
+    <original>むっ――
+また妙な視線を感じるよ</original>
+  </message>
+  <message>
+    <original>もう何だか慣れっこになっちゃったけど
+何者かがこの食堂に入り込んでるみたい</original>
+  </message>
+  <message>
+    <original>けど、スニーカーさんには
+ついさっきアジトで会ったばっかりだし――
+誰がいるの？</original>
+  </message>
+  <message>
+    <original>ギャッ！？
+グゴ――悪いコト、シテナイ！</original>
+  </message>
+  <message>
+    <original>出てク！　ココから出てク！
+フギ――グギィ――</original>
+  </message>
+  <message>
+    <original>手を差し伸べる</original>
+  </message>
+  <message>
+    <original>もっと近寄る</original>
+  </message>
+  <message>
+    <original>ギッ！？　ヤメデ！
+悪いコト、シテナイダカラ</original>
+  </message>
+  <message>
+    <original>出てク――すぐ出てクカラ
+オマエ、何も見ナカッタ！</original>
+  </message>
+  <message>
+    <original>フガ！？　来るナ！
+見てたダケ――悪いコト、シテナイ</original>
+  </message>
+  <message>
+    <original>チョット、チカくで見てたダケ！</original>
+  </message>
+  <message>
+    <original>悪いコト、シテナイ！
+オマエ、アッチいって！</original>
+  </message>
+  <message>
+    <original>え？　ペコがこの食堂にいるの？</original>
+  </message>
+  <message>
+    <original>――隠れてないで出てこればいいのに
+何で隠れるんだろうね？
+アタシたち、あの子をいじめたこともないんだからさ</original>
+  </message>
+  <message>
+    <original>それにしても、アジトへの食料運搬
+大変だったよね――
+ピレモスまでの道のりとは
+一味違うって感じだった</original>
+  </message>
+  <message>
+    <original>外での食料探しと食料運搬――
+かなり慣れたと思ってたけど
+やっぱりアタシひとりじゃ到底無理だわ</original>
+  </message>
+  <message>
+    <original>覚者さん、これからも手を貸してね
+自分ひとりじゃできないことを
+図々しいって思われるかもしれないけど――
+飢える人を少しでも減らしたいんだ</original>
+  </message>
+</resource>

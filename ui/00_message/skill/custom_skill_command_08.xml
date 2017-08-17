@@ -127,4 +127,12 @@ and then unleash with &lt;KC SHOOT&gt;</translation>
     <translation>Press the set button to begin casting,
 and then unleash with &lt;KC SHOOT&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_08_184</key>
+    <original>セットボタンを押して詠唱後、&lt;KC SHOOT&gt;で放つ</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_08_185</key>
+    <original>セットボタンを押して詠唱後、&lt;KC SHOOT&gt;で放つ</original>
+  </message>
 </resource>

@@ -1,0 +1,49 @@
+﻿<resource>
+  <message>
+    <key>q29300000_00_673</key>
+    <original>ダクレイム奪還戦</original>
+  </message>
+  <message>
+    <key>q29300000_00_673</key>
+    <original>【ウォーミッション】
+占領されたダクレイム砦へ進攻し
+悪しき竜軍の部隊長を討伐する</original>
+  </message>
+  <message>
+    <key>q29300000_00_673</key>
+    <original>&lt;NAME AREA&gt;のダクレイム砦が
+悪しき竜軍に占領されてしまったようだ</original>
+  </message>
+  <message>
+    <key>q29300000_00_673</key>
+    <original>&lt;NAME AREA&gt;にある《ダクレイム砦》が
+敵の手中に落ちてしまった
+現在、悪しき竜軍を退け再び奪還するため
+少数精鋭となる討伐隊を募集中だ
+砦内に潜む敵を一掃し、明日への希望の糧とするのだ</original>
+  </message>
+  <message>
+    <key>q29300000_00_1302</key>
+    <original>エリアへ進攻中の敵軍を討伐する</original>
+  </message>
+  <message>
+    <key>q29300000_00_1304</key>
+    <original>アシュトンへ報告する</original>
+  </message>
+  <message>
+    <key>q29300000_00_1303</key>
+    <original>進行マーカーへ集合し、砦へ移動する</original>
+  </message>
+  <message>
+    <key>q29300000_00_1287</key>
+    <original>砦内へ進攻する</original>
+  </message>
+  <message>
+    <key>q29300000_00_1288</key>
+    <original>中央広場を占領する悪しき竜軍を討伐する</original>
+  </message>
+  <message>
+    <key>q29300000_00_1313</key>
+    <original>現れた獣の将をその場で討伐する</original>
+  </message>
+</resource>

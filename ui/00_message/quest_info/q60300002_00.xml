@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60300002_00_270</key>
+    <original>カスタムメイド工房１　探求者の帰還</original>
+  </message>
+  <message>
+    <key>q60300002_00_270</key>
+    <original>武具のカスタムメイド工房
+の施設について教示を受ける</original>
+  </message>
+  <message>
+    <key>q60300002_00_3353</key>
+    <original>&lt;STG 201&gt;の&lt;NPC 4&gt;に&lt;NPC 1047&gt;の帰還報告をする</original>
+  </message>
+  <message>
+    <key>q60300002_00_3449</key>
+    <original>&lt;NPC 1047&gt;の素性について確認する</original>
+  </message>
+  <message>
+    <key>q60300002_00_3450</key>
+    <original>&lt;STG 202&gt;の&lt;NPC 1047&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q60300002_00_3451</key>
+    <original>&lt;NPC 1047&gt;から詳しい話を聞く（残り２）</original>
+  </message>
+  <message>
+    <key>q60300002_00_3452</key>
+    <original>&lt;NPC 1047&gt;から詳しい話を聞く（残り１）</original>
+  </message>
+  <message>
+    <key>q60300002_00_3453</key>
+    <original>&lt;NPC 1047&gt;の話を最後まで聞く</original>
+  </message>
+</resource>

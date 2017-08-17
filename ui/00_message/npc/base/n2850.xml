@@ -1,0 +1,64 @@
+﻿<resource>
+  <message>
+    <original>よう、元気してる？</original>
+  </message>
+  <message>
+    <original>休んでいくなら&lt;VAL PRICE_INN&gt;だ
+見ての通り、ここって色んな店があるから
+ちょっと騒がしいけど――耳栓も貸し出すからさ
+それでもいいかい？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ああ、休みたいのか
+えーっと、ベッドは空いてるな――
+サービスしとくぜ、好きに使ってってくれ</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>《弱化の治療》かい？
+よしきた、気合入れて治療するよ
+&lt;VAL PRICE_WEAK&gt;だけど、いいかな</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>んー、弱化してないけどな
+ほら、気持ちの問題じゃないか？
+ちょっとそこら辺で好みの子に
+声かけてこれば気も晴れるよ、きっと</original>
+  </message>
+  <message>
+    <original>どっかに可愛い子いたら教えてくれよ
+こんな時だからこそ、楽しみが必要さ！</original>
+  </message>
+  <message>
+    <original>ちょっと微笑んでくれる可愛い子が
+いるってだけで毎日頑張れるってもんだろ？　
+ホント、それだけでいいんだよな～</original>
+  </message>
+  <message>
+    <original>まぁ、どんなに可愛い子がいても
+俺のフィアンセには適わないだろうけど――</original>
+  </message>
+  <message>
+    <original>嫌がってたけど、村に残してきたんだよな
+だって、こんなとこに連れてくるのも危ないだろ
+あいつからは少しの危険だって
+遠ざけておきたかったんだ</original>
+  </message>
+</resource>

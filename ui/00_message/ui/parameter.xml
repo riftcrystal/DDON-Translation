@@ -622,7 +622,9 @@
   </message>
   <message>
     <key>material_cateforyname_wood</key>
-    <original>木片</original>
+    <original>木材</original>
+    <!-- NEEDS REVIEW -->
+    <!--木片-->
     <translation>Wood</translation>
   </message>
   <message>
@@ -651,24 +653,20 @@
     <translation>Other</translation>
   </message>
   <message>
-    <key>material_cateforyname_crest_for_wea</key>
-    <original>クレスト：武器</original>
-    <translation>Crest: Weapon</translation>
+    <key>material_large_cateforyname_crest</key>
+    <original>クレスト</original>
   </message>
   <message>
-    <key>material_cateforyname_crest_for_gua</key>
-    <original>クレスト：防具</original>
-    <translation>Crest: Armor</translation>
+    <key>material_large_cateforyname_special</key>
+    <original>精錬材</original>
   </message>
   <message>
-    <key>material_cateforyname_special_for_w</key>
-    <original>精錬材：武器</original>
-    <translation>Refining Material: Weapon</translation>
+    <key>material_cateforyname_for_w</key>
+    <original>武器用</original>
   </message>
   <message>
-    <key>material_cateforyname_special_for_g</key>
-    <original>精錬材：防具</original>
-    <translation>Refining Material: Armor</translation>
+    <key>material_cateforyname_for_g</key>
+    <original>防具用</original>
   </message>
   <message>
     <key>material_cateforyname_dyes</key>
@@ -697,7 +695,9 @@
   </message>
   <message>
     <key>material_large_cateforyname_artifac</key>
-    <original>人工物</original>
+    <original>特殊</original>
+    <!-- NEEDS REVIEW -->
+    <!--人工物-->
     <translation>Artifact</translation>
   </message>
   <message>
@@ -1078,5 +1078,29 @@
     <key>resist_item_sealed</key>
     <original>アイテム封印耐性</original>
     <translation>Resist Item Seal</translation>
+  </message>
+  <message>
+    <key>material_large_cateforyname_judgment</key>
+    <original>鑑定アイテム</original>
+  </message>
+  <message>
+    <key>material_large_cateforyname_material_area</key>
+    <original>地域素材</original>
+  </message>
+  <message>
+    <key>material_cateforyname_all</key>
+    <original>すべて</original>
+  </message>
+  <message>
+    <key>param_msg_item_point</key>
+    <original>ポイント</original>
+  </message>
+  <message>
+    <key>weakness_attack_armed</key>
+    <original>対敵特効【戦甲】</original>
+  </message>
+  <message>
+    <key>material_cateforyname_add_status</key>
+    <original>特質錬石</original>
   </message>
 </resource>

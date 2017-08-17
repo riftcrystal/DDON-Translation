@@ -1,0 +1,32 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_687</key>
+    <original>カスタムメイド工房内にある&lt;COL ffdc78&gt;武具の極限合成&lt;/COL&gt;は
+下記の２つを揃えることで
+何度でも行うことができます
+
+　①★４まで強化された&lt;COL ffdc78&gt;特定の武器や防具&lt;/COL&gt;
+　　（プリズムアイコンのもの：画像参照）
+　②素材やリムなどの必要な費用
+</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_691</key>
+    <original>極限合成は通常の強化とは異なり
+大幅に攻撃性能を高めることができます
+
+各武器につき、最初の１回目は
+必要な素材とリムで極限合成することができます
+
+すでに極限合成を試したことのある武具に
+&lt;COL ffdc78&gt;ふたたび極限合成を試みる場合は
+リムではなく《黄金石》が必要です&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_692</key>
+    <original>また、何度も極限合成を試みる場合は
+そのたびに&lt;COL ffdc78&gt;性能が上書きされるため&lt;/COL&gt;
+成功時に付与される性能例を
+しっかりと確認しながら行いましょう</original>
+  </message>
+</resource>

@@ -1,0 +1,39 @@
+﻿<resource>
+  <message>
+    <key>q10300104_00_9</key>
+    <original>キャリーの心配</original>
+  </message>
+  <message>
+    <key>q10300104_00_9</key>
+    <original>到着が遅れている輸送隊の心配をする
+キャリーの依頼を聞く</original>
+  </message>
+  <message>
+    <key>q10300104_00_3296</key>
+    <original>野営地にいる兵士に話を聞く</original>
+  </message>
+  <message>
+    <key>q10300104_00_3368</key>
+    <original>砦の外で輸送隊の手がかりを探す</original>
+  </message>
+  <message>
+    <key>q10300104_00_3369</key>
+    <original>襲ってきた魔物を倒す</original>
+  </message>
+  <message>
+    <key>q10300104_00_3376</key>
+    <original>他の手がかりを探す</original>
+  </message>
+  <message>
+    <key>q10300104_00_3297</key>
+    <original>襲われている輸送隊を援護する</original>
+  </message>
+  <message>
+    <key>q10300104_00_3298</key>
+    <original>輸送隊の兵士と話をする</original>
+  </message>
+  <message>
+    <key>q10300104_00_3299</key>
+    <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に報告する</original>
+  </message>
+</resource>

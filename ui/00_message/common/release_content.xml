@@ -15,11 +15,6 @@
     <translation>World Quests</translation>
   </message>
   <message>
-    <key>RELEASE_CONTENT_4</key>
-    <original>グランドミッション</original>
-    <translation>Grand Missions</translation>
-  </message>
-  <message>
     <key>RELEASE_CONTENT_5</key>
     <original>エクストリームミッション</original>
     <translation>Extreme Missions</translation>
@@ -239,5 +234,73 @@
   <message>
     <key>RELEASE_CONTENT_58</key>
     <original>エリア目視調査</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_59</key>
+    <original>戦術育成</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_60</key>
+    <original>ファイターのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_61</key>
+    <original>プリーストのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_62</key>
+    <original>ハンターのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_63</key>
+    <original>シールドセージのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_64</key>
+    <original>シーカーのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_65</key>
+    <original>ソーサラーのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_66</key>
+    <original>エレメントアーチャーのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_67</key>
+    <original>ウォリアーのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_68</key>
+    <original>アルケミストのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_69</key>
+    <original>スピリットランサーのジョブの証</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_70</key>
+    <original>ラスニテ山麓ワールドクエスト</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_71</key>
+    <original>フェルヤナ荒原ワールドクエスト</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_72</key>
+    <original>マンドラゴラ育成</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_73</key>
+    <original>HiBOツリー</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_74</key>
+    <original>自室のテラス</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_75</key>
+    <original>王家の協力者</original>
   </message>
 </resource>

@@ -49,4 +49,8 @@
     <original>シナリオ進行</original>
     <translation>Scenarios</translation>
   </message>
+  <message>
+    <key>TUTORIAL_CATEGORY_22</key>
+    <original>サブストーリー</original>
+  </message>
 </resource>

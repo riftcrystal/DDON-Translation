@@ -1,0 +1,47 @@
+﻿<resource>
+  <message>
+    <key>q10300102_00_7</key>
+    <original>絶望の料理番“キャリー”</original>
+  </message>
+  <message>
+    <key>q10300102_00_7</key>
+    <original>キャリーを心配するゼキの頼みを受け
+何かできることを探す</original>
+  </message>
+  <message>
+    <key>q10300102_00_3389</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300102_00_3415</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300102_00_3429</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300102_00_3541</key>
+    <original>&lt;NPC 580&gt;の探索に付き添う</original>
+  </message>
+  <message>
+    <key>q10300102_00_3430</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300102_00_3542</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300102_00_3416</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300102_00_3417</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300102_00_3418</key>
+    <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に話しかける</original>
+  </message>
+</resource>

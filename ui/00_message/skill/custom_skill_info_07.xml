@@ -139,8 +139,13 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_07_88</key>
     <original>力を十分に溜めた後、渾身の一撃を繰り出す
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--力を十分に溜めた後、渾身の一撃を繰り出す
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で剣に風圧が追加／攻撃ヒット数増加</COL>-->
     <translation>After channeling enough energy, release
 a devastating slash with your body's entire might.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
@@ -174,5 +179,19 @@ assigned button on the ground increases the damage of the skill.
 Especially effective against downed enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_180</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+リベンジゲージ最大時に威力が上昇
+&lt;COL ff7878&gt;亜人／鬼人／巨人系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_181</key>
+    <original>【ＥＸ追加効果】
+攻撃を受ける瞬間に発動すると
+ダメージ量が増加すると同時に
+攻撃を敵に接触させる度にリベンジゲージが増加</original>
   </message>
 </resource>

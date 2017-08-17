@@ -450,4 +450,36 @@
     <original>クラン執務官の変更</original>
     <translation>Change Clan Officers</translation>
   </message>
+  <message>
+    <key>poptop_enhance_evolution</key>
+    <original>リミット解除</original>
+  </message>
+  <message>
+    <key>poptop_enhance_special_evolution</key>
+    <original>極限合成</original>
+  </message>
+  <message>
+    <key>poptop_recycle_remaining_num</key>
+    <original>残り回数：</original>
+  </message>
+  <message>
+    <key>poptop_recycle_equip</key>
+    <original>武具の分解</original>
+  </message>
+  <message>
+    <key>poptop_recycle_gs_equip</key>
+    <original>ロット武具の分解</original>
+  </message>
+  <message>
+    <key>poptop_recycle_remaining_num_reset</key>
+    <original>残り回数リセット</original>
+  </message>
+  <message>
+    <key>poptop_depositbox_menu_02_restore</key>
+    <original>アイテム復元</original>
+  </message>
+  <message>
+    <key>poptop_craft_change_quality</key>
+    <original>装備の品質変更</original>
+  </message>
 </resource>

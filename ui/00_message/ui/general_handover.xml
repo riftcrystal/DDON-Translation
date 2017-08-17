@@ -128,4 +128,9 @@ the selected items?</translation>
     <translation>Item is not selected.
 Are you sure you want to cancel delivery?</translation>
   </message>
+  <message>
+    <key>HANDOVER_MSG_DIALOG_00_MANDRA</key>
+    <original>アイテムの受け取りを中止しますか？
+(未受け取りのままだと再び育てることができません)</original>
+  </message>
 </resource>

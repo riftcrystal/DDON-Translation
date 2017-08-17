@@ -1470,8 +1470,88 @@
     <translation>Black Knight Phantom</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_314</key>
+    <original>グリムゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_315</key>
+    <original>グリムゴブリンファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_316</key>
+    <original>スリンググリムゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_318</key>
+    <original>ゴブリンシャーマン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_319</key>
+    <original>ゴブリンエイドシャーマン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_323</key>
+    <original>戦甲グリムワーグ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_334</key>
+    <original>ヘルワーム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_338</key>
+    <original>戦甲ゴアサイクロプス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_341</key>
+    <original>戦甲ゴアマンティコア</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_344</key>
+    <original>クラッガー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_345</key>
+    <original>リトルクラッグ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_351</key>
+    <original>カトブレパス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_352</key>
+    <original>斬兵ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_353</key>
+    <original>隊将ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_357</key>
+    <original>獣の将</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_366</key>
+    <original>打兵ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_367</key>
+    <original>重兵ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_368</key>
+    <original>投兵ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_369</key>
+    <original>グリムゴブリンリーダー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_370</key>
     <original>サイクロプス</original>
     <translation>Cyclops</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_373</key>
+    <original>レッドズール</original>
   </message>
 </resource>

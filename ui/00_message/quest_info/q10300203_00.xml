@@ -1,0 +1,19 @@
+﻿<resource>
+  <message>
+    <key>q10300203_00_13</key>
+    <original>大食堂復旧への第四歩　―酒樽―</original>
+  </message>
+  <message>
+    <key>q10300203_00_13</key>
+    <original>大食堂を復活させるため、酒樽の修復に
+必要な素材を探す</original>
+  </message>
+  <message>
+    <key>q10300203_00_3312</key>
+    <original>修復に必要な特別な素材を探す</original>
+  </message>
+  <message>
+    <key>q10300203_00_3519</key>
+    <original>見つけた素材を大食堂の&lt;NPC 580&gt;に渡す</original>
+  </message>
+</resource>

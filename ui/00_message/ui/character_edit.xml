@@ -795,4 +795,8 @@ Notes
     <original>EX</original>
     <translation>EX</translation>
   </message>
+  <message>
+    <key>EDIT_MSG_TITLE_PAWNREEDIT</key>
+    <original>Pawn Reincarnation</original>
+  </message>
 </resource>

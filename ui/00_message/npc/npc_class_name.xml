@@ -112,8 +112,7 @@
     <translation>Craft Officer</translation>
   </message>
   <message>
-    <original>グランドミッション：グリッテン砦攻防戦</original>
-    <translation>Grand Mission: Battle for Gritten Fort</translation>
+    <original>エクストリームミッション</original>
   </message>
   <message>
     <original>転職・戦技補佐</original>
@@ -134,10 +133,6 @@
   <message>
     <original>バザー</original>
     <translation>Bazaar</translation>
-  </message>
-  <message>
-    <original>グランドミッション：魔物のるつぼ</original>
-    <translation>Grand Mission: The Crucible of Demons</translation>
   </message>
   <message>
     <original>道具屋</original>
@@ -603,11 +598,80 @@
     <translation>Grand Mission: The Deathly Battle of the Ancient Temple</translation>
   </message>
   <message>
+    <original>エリアマスター・紋章メダル交換</original>
+  </message>
+  <message>
+    <original>宿・戦技補佐</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>宿・転職・戦技補佐</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>武具屋</original>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+  </message>
+  <message>
+    <original>戦技補佐</original>
+  </message>
+  <message>
+    <original>宿屋</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+  </message>
+  <message>
+    <original>オーブ交換：クレスト</original>
+  </message>
+  <message>
+    <original>宿・戦技補佐</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>ジョブマスター：ハイセプター</original>
+  </message>
+  <message>
+    <original>戦技補佐</original>
+  </message>
+  <message>
+    <original>ウォーミッション：ダクレイム砦</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>道具屋</original>
+  </message>
+  <message>
+    <original>クラン拠点管理</original>
+  </message>
+  <message>
+    <original>カスタムメイド工房</original>
+  </message>
+  <message>
     <original>セレクトショップ</original>
     <translation>Secret Shop</translation>
   </message>
   <message>
     <original>鑑定交換</original>
     <translation>Appraisal Exchange</translation>
+  </message>
+  <message>
+    <original>冒険手帳サポート係</original>
   </message>
 </resource>

@@ -1,35 +1,11 @@
 ﻿<resource>
   <message>
-    <original>あぁ、覚者か――見たところ、腕は立つようだな
-ならば頼みがある
-</original>
+    <original>受注会話です</original>
   </message>
   <message>
-    <original>《侵食魔の巣窟》に住み着いた、
-凶暴な魔物を退治して欲しいんだ</original>
+    <original>繰り返し会話です</original>
   </message>
   <message>
-    <original>並みの開拓者じゃ歯が立たんヤツらしい
-俺が行ってもいいんだが、正直手が回らなくてな
-被害が大きくなる前に頼むぞ
-</original>
-  </message>
-  <message>
-    <original>どうした？
-まだ退治してくれてないのか</original>
-  </message>
-  <message>
-    <original>何かあってからでは遅いんだ
-《侵食魔の巣窟》だ、頼んだぞ</original>
-  </message>
-  <message>
-    <original>おお、やってくれたか
-俺の目に狂いは無かったな
-</original>
-  </message>
-  <message>
-    <original>これからも何か頼むかもしれないが、
-その時はよろしくな
-</original>
+    <original>クリア時会話です</original>
   </message>
 </resource>

@@ -1,0 +1,19 @@
+﻿<resource>
+  <message>
+    <key>q60300051_00_274</key>
+    <original>【調理日課】ロスギル　出張調理</original>
+  </message>
+  <message>
+    <key>q60300051_00_274</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60300051_00_3380</key>
+    <original>&lt;SPOT 1032&gt; で&lt;NPC 580&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q60300051_00_3381</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 580&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+</resource>

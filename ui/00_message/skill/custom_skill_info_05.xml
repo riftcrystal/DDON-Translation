@@ -64,8 +64,14 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
     <key>CUSTOM_SKILL_INFO_05_61</key>
     <original>地を揺らし、広範囲の敵をよろめかせる
 大型の敵や一部の強敵には無効
+フォースゲージ１本以上の時、消費して詠唱時間短縮
 &lt;COL ffdc78&gt;LV UP毎に詠唱時間短縮
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--地を揺らし、広範囲の敵をよろめかせる
+大型の敵や一部の強敵には無効
+<COL ffdc78>LV UP毎に詠唱時間短縮
+LV.６で攻撃範囲拡大</COL>-->
     <translation>Shake the earth, staggering enemies in a
 wide range. Staggers large enemies and
 some formidable foes.
@@ -174,5 +180,18 @@ When the Force Gauge has one or more charges, they will be automatically
 consumed to increase the performance of the skill.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases Guard Power and number of hits.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_170</key>
+    <original>【ＥＸ追加効果】
+岩石を吹き飛ばし、ダメージを与える
+&lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_171</key>
+    <original>【ＥＸ追加効果】
+周囲の敵の注目を素早く集める
+エンチャントが付与されている際は
+エンチャント属性の状態異常を発生させることも可能</original>
   </message>
 </resource>

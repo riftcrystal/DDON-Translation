@@ -163,4 +163,15 @@ and calls down lightning when charged.
 &lt;COL ffdc78&gt;LV UP: Decreases stamina cost of skill.
 LV.6: Increases damage of the skill and number of hits.&lt;/COL&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_176</key>
+    <original>【ＥＸ追加効果】
+闇の霧の中心部分のダメージ量が増加
+&lt;COL ff7878&gt;亜人／鬼人／巨人の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_177</key>
+    <original>【ＥＸ追加効果】
+毒／睡眠の状態異常を付与</original>
+  </message>
 </resource>

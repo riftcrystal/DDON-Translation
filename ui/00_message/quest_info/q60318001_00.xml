@@ -1,0 +1,27 @@
+﻿<resource>
+  <message>
+    <key>q60318001_00_226</key>
+    <original>ラスニテ山麓　救援要請</original>
+  </message>
+  <message>
+    <key>q60318001_00_226</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318001_00_3019</key>
+    <original>仲間の派遣要請に向かう</original>
+  </message>
+  <message>
+    <key>q60318001_00_2939</key>
+    <original>敵軍討伐のため現地に向かう</original>
+  </message>
+  <message>
+    <key>q60318001_00_2940</key>
+    <original>敵部隊を討伐する</original>
+  </message>
+  <message>
+    <key>q60318001_00_3018</key>
+    <original>依頼者の&lt;NPC 595&gt;に報告する</original>
+  </message>
+</resource>

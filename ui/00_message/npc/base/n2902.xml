@@ -1,0 +1,61 @@
+﻿<resource>
+  <message>
+    <original>ようこそおいでくださいました
+さぁ、ゆっくり休んでいってくださいね</original>
+  </message>
+  <message>
+    <original>ご宿泊は&lt;VAL PRICE_INN&gt;です
+ロスギル名物、翡翠湖で採れた魚を使った
+お粥もサービスしますよ！
+きっと身も心も癒されるはずです</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ええ、どうぞこのロスギルで
+長旅の疲れを癒してください
+干し魚を使ったお粥、この辺りの名物なんです
+こちらも、よかったら食べていってくださいね！</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>《弱化の治療》ですね！
+はい、もちろん承っていますとも
+&lt;VAL PRICE_WEAK&gt;ですが、よろしいですか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>あら、弱化していらっしゃいませんよ？
+弱化していないものを治療しろとは――
+謎かけみたいですね、フフフ</original>
+  </message>
+  <message>
+    <original>ロスギルの見どころ、ですか？
+それはもちろん、翡翠湖です！
+美しい滝もご覧いただけますよ</original>
+  </message>
+  <message>
+    <original>翡翠湖で採れる魚は
+ロスギルの食生活を支えてくれています
+煮てよし、焼いてよし、干してよし、なんです</original>
+  </message>
+  <message>
+    <original>こうしてお仕事をし始めたのも
+最近のことなんです
+今はどこも大変ですからね</original>
+  </message>
+</resource>

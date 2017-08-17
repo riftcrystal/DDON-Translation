@@ -1,0 +1,103 @@
+﻿<resource>
+  <message>
+    <original>お前ら――なんだぁ、その装備は？
+そんな装備であのオークどもに
+立ち向かう気でいるのか？</original>
+  </message>
+  <message>
+    <original>悪いことは言わない、この国で
+もっと良い装備を手に入れていけ
+それをどこで手に入れたかは知らんが――
+この国で産出される素材は、丈夫で特に熱に強い</original>
+  </message>
+  <message>
+    <original>悪しき竜軍に立ち向かうには、必須と言えるだろう
+――とはいえ、よそから来たお前たちに
+手を借りている以上、こちらも指を咥えて
+見ている訳にはいくまい</original>
+  </message>
+  <message>
+    <original>よし、上質な素材を得るための情報を分けてやろう
+本当は解放軍の機密事項なのだが――
+まぁ大きな問題にはならないだろう</original>
+  </message>
+  <message>
+    <original>そういうことで、信用のおける奴にしか
+話せない情報なんでな
+＜18時から4時＞の＜夜間＞に
+ここに仲間を全員集めてくれ</original>
+  </message>
+  <message>
+    <original>――老婆心で言っているんだが、まさか本当に
+その装備で奴らに挑むつもりじゃないだろうな
+せめてもう少し、上質な火山植物を使った装備を
+身に着けた方が良いぞ</original>
+  </message>
+  <message>
+    <original>素材なら、俺が採るのにいい場所を教えてやるから
+その前にまず、仲間をここに集めるんだ
+＜18時から4時＞の＜夜間＞の間にな
+根性のある奴らか、ツラを見てやるよ</original>
+  </message>
+  <message>
+    <original>――昔、口の軽い馬鹿がいてな
+運悪くオークに捕まって、手酷い尋問を受けた挙句
+重要な奇襲情報を漏らしやがった
+結果――ほぼ全滅、悲惨なモンだったぜ</original>
+  </message>
+  <message>
+    <original>ま、そんな馬鹿はもういない
+お前もそんなくだらん茶番を見たくなけりゃ
+根性のある奴を連れて来るんだな</original>
+  </message>
+  <message>
+    <original>集まったか――手間ぁかけて悪いな
+それじゃ、詳しく説明しようと思うんだが――</original>
+  </message>
+  <message>
+    <original>今、地図に描いてやった場所が採取地だ
+――気付いているかもしれんが、オーク共が特に
+たむろしている危険な地点ばかりだ
+ハイリスク、ハイリターンが嫌ならやめちまいな</original>
+  </message>
+  <message>
+    <original>それから、《&lt;ITEM 17885&gt;》を
+採取できるのは、オークの活動が鈍くなる
+＜18時から４時＞の＜夜間＞の時間帯だけだ
+朝になったら、危険なだけだから戻ってこい</original>
+  </message>
+  <message>
+    <original>採取が終わったら、俺に＜5＞個納品してくれ
+採取にも行く人手が足りなくてな――
+まぁ、情報料だと思ってくれや</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17885&gt;》を
+採取できるのは、オークの活動が鈍くなる
+＜18時から４時＞の＜夜間＞の時間帯だけだ
+朝になったら、危険なだけだから戻ってこい</original>
+  </message>
+  <message>
+    <original>採取が終わったら、俺に＜5＞個納品してくれ
+採取にも行く人手が足りなくてな――
+機密情報を与える情報料だと思ってくれや</original>
+  </message>
+  <message>
+    <original>ほう、なかなかよく採ってきたじゃないか
+物資不足も苦しくなってきたからな
+少しでも納品してもらえると助かるんだ</original>
+  </message>
+  <message>
+    <original>またオークが少ない時にでも声をかけてくれ
+喜んで案内してやろう</original>
+  </message>
+  <message>
+    <original>&lt;AREA 18&gt;フィールドの《&lt;ITEM 17885&gt;》を採取できる採取ポイントの数が増えました
+＜夜間＞の間にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜夜間＞が終了したため、&lt;AREA 18&gt;フィールドの
+《&lt;ITEM 17885&gt;》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう</original>
+  </message>
+</resource>

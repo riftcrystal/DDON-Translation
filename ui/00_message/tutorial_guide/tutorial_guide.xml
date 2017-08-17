@@ -225,11 +225,6 @@
     <translation>Acquiring Combat Skills</translation>
   </message>
   <message>
-    <key>TUTORIAL_103</key>
-    <original>グランドミッション</original>
-    <translation>Grand Missions</translation>
-  </message>
-  <message>
     <key>TUTORIAL_107</key>
     <original>エクストリームミッション</original>
     <translation>Extreme Missions</translation>
@@ -343,11 +338,6 @@
     <key>TUTORIAL_153</key>
     <original>覚者とは</original>
     <translation>The Arisen</translation>
-  </message>
-  <message>
-    <key>TUTORIAL_154</key>
-    <original>レイドボス戦</original>
-    <translation>Raid Boss Combat</translation>
   </message>
   <message>
     <key>TUTORIAL_155</key>
@@ -854,5 +844,125 @@
   <message>
     <key>TUTORIAL_337</key>
     <original>メールの確認</original>
+  </message>
+  <message>
+    <key>TUTORIAL_339</key>
+    <original>使命の達成度とサブストーリーログ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_340</key>
+    <original>NPCの護衛（食料ゲージ）</original>
+  </message>
+  <message>
+    <key>TUTORIAL_341</key>
+    <original>大食堂の復旧</original>
+  </message>
+  <message>
+    <key>TUTORIAL_342</key>
+    <original>拠点への食料運搬</original>
+  </message>
+  <message>
+    <key>TUTORIAL_348</key>
+    <original>ドミニオンポイントショップ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_349</key>
+    <original>ダクレイム砦奪還戦</original>
+  </message>
+  <message>
+    <key>TUTORIAL_350</key>
+    <original>絶望と惨劇の砲声 限界域</original>
+  </message>
+  <message>
+    <key>TUTORIAL_351</key>
+    <original>戦況ゲージ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_352</key>
+    <original>覚者のさらなる成長・絶技の継承</original>
+  </message>
+  <message>
+    <key>TUTORIAL_353</key>
+    <original>カスタムスキルEX　剛/技の切替え</original>
+  </message>
+  <message>
+    <key>TUTORIAL_354</key>
+    <original>ポーン戦術育成</original>
+  </message>
+  <message>
+    <key>TUTORIAL_355</key>
+    <original>魔物集結スポット</original>
+  </message>
+  <message>
+    <key>TUTORIAL_356</key>
+    <original>期間解放スポット</original>
+  </message>
+  <message>
+    <key>TUTORIAL_357</key>
+    <original>エピタフロード</original>
+  </message>
+  <message>
+    <key>TUTORIAL_358</key>
+    <original>ハイオーブ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_359</key>
+    <original>カスタムメイド工房について</original>
+  </message>
+  <message>
+    <key>TUTORIAL_362</key>
+    <original>絶望の大陸 序節　到達</original>
+  </message>
+  <message>
+    <key>TUTORIAL_364</key>
+    <original>マンドラゴラ・ガーデニング</original>
+  </message>
+  <message>
+    <key>TUTORIAL_365</key>
+    <original>ボーナスダンジョン</original>
+  </message>
+  <message>
+    <key>TUTORIAL_366</key>
+    <original>アチーブメント：王家再興</original>
+  </message>
+  <message>
+    <key>TUTORIAL_367</key>
+    <original>エンブレムストーン</original>
+  </message>
+  <message>
+    <key>TUTORIAL_369</key>
+    <original>戦甲種について：小型敵</original>
+  </message>
+  <message>
+    <key>TUTORIAL_370</key>
+    <original>戦甲種について：大型敵</original>
+  </message>
+  <message>
+    <key>TUTORIAL_371</key>
+    <original>フォトモード</original>
+  </message>
+  <message>
+    <key>TUTORIAL_372</key>
+    <original>ドワーフオークについて</original>
+  </message>
+  <message>
+    <key>TUTORIAL_381</key>
+    <original>ウォーミッション</original>
+  </message>
+  <message>
+    <key>TUTORIAL_382</key>
+    <original>エンブレムストーンの入手方法</original>
+  </message>
+  <message>
+    <key>TUTORIAL_383</key>
+    <original>戦甲種について：追記</original>
+  </message>
+  <message>
+    <key>TUTORIAL_384</key>
+    <original>武具のリミット解除</original>
+  </message>
+  <message>
+    <key>TUTORIAL_385</key>
+    <original>武具の極限合成</original>
   </message>
 </resource>

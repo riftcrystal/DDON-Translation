@@ -11,18 +11,6 @@
 ダンジョン付近にて起きている問題を調査する</original>
   </message>
   <message>
-    <key>q21014002_00_542</key>
-    <original>&lt;NAME AREA&gt;のエリアマスターが
-ダンジョン付近の不穏な空気を警戒しているようだ</original>
-  </message>
-  <message>
-    <key>q21014002_00_542</key>
-    <original>あんなに美しい森だったのに
-いつから人が居なくなり、魔物が我が物顔で
-そこかしこを闊歩するようになってしまったのか――
-とにかく今は少しでも魔物の数を減らさなければ</original>
-  </message>
-  <message>
     <key>q21014002_00_1161</key>
     <original>指定された場所を調べる</original>
     <translation>Investigate the specified location</translation>

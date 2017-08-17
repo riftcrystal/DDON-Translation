@@ -1,5 +1,24 @@
 ﻿<resource>
   <message>
+    <original>戦闘中の懸念？
+考慮に値する問題は無いが</original>
+  </message>
+  <message>
+    <original>戦闘中の懸念？
+――報告すべき問題は、発生していない</original>
+  </message>
+  <message>
+    <original>戦闘中の懸念？
+支障を来たす問題は発生していないが――
+戦徒しての振る舞いには一考の余地が見受けられる</original>
+  </message>
+  <message>
+    <original>我が振る舞い――
+主の目からは如何様に映っているだろうか
+貴殿が望む戦徒の姿――可能なら伺いたい
+冒険後の自室にて、呼鈴の音で馳せ参じよう</original>
+  </message>
+  <message>
     <original>主に従い共に目的を成すことこそ
 我が務め――
 そして、何よりの喜び</original>

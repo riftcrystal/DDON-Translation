@@ -1,0 +1,23 @@
+﻿<resource>
+  <message>
+    <key>q60300413_00_276</key>
+    <original>エンブレムストーンの行方</original>
+  </message>
+  <message>
+    <key>q60300413_00_276</key>
+    <original>白竜よりエンブレムストーンの
+調査を依頼される</original>
+  </message>
+  <message>
+    <key>q60300413_00_3408</key>
+    <original>&lt;NPC 4&gt;からエンブレムストーンについて確認する</original>
+  </message>
+  <message>
+    <key>q60300413_00_3409</key>
+    <original>&lt;STG 200&gt;の&lt;NPC 1029&gt;からエンブレムストーンの行方を確認する</original>
+  </message>
+  <message>
+    <key>q60300413_00_3412</key>
+    <original>&lt;STG 510&gt;に向かい&lt;NPC 2000&gt;から詳細を聞く</original>
+  </message>
+</resource>

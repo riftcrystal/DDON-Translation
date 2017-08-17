@@ -1,0 +1,53 @@
+﻿<resource>
+  <message>
+    <key>q22018008_00_648</key>
+    <original>騒乱の野獣たち</original>
+  </message>
+  <message>
+    <key>q22018008_00_648</key>
+    <original>【敵群討伐クエスト】
+依頼者から話を聞き
+敵の群れを討伐する</original>
+  </message>
+  <message>
+    <key>q22018008_00_648</key>
+    <original>&lt;NAME AREA&gt;からの報告によると
+魔物の勢力が一時的に増し、危険な状況にあるという</original>
+  </message>
+  <message>
+    <key>q22018008_00_648</key>
+    <original>わたしのお父さんが、ロスギルに逃げようとしたの
+だけど、門を開けてもらえなかった
+人が集まりすぎると、暮らせないからだって
+それから大砲の大きな音がして
+お父さんは帰ってこない</original>
+  </message>
+  <message>
+    <key>q22018008_00_1222</key>
+    <original>指定された場所で魔物の群れを探す(残り３)</original>
+  </message>
+  <message>
+    <key>q22018008_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q22018008_00_1223</key>
+    <original>残る魔物の群れを探す(残り２)</original>
+  </message>
+  <message>
+    <key>q22018008_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q22018008_00_1224</key>
+    <original>残る魔物の群れを探す(残り１)</original>
+  </message>
+  <message>
+    <key>q22018008_00_1225</key>
+    <original>遭遇した魔物群を討伐する</original>
+  </message>
+  <message>
+    <key>q22018008_00_1169</key>
+    <original>依頼者に報告する</original>
+  </message>
+</resource>

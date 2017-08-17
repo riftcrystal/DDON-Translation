@@ -1,0 +1,59 @@
+﻿<resource>
+  <message>
+    <original>休みたいのか？　ああ、いいとも！
+&lt;VAL PRICE_INN&gt;だよ
+すまないな、色々と苦しくてさ――</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>皆疲れてるから
+あまり長くは休んでもらえないが――
+よかったら、少し休憩していくかい</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>あんたも大変みたいだな――
+《弱化の治療》なら
+&lt;VAL PRICE_WEAK&gt;だけど、いいかい</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>弱化してないみたいだな
+――つらい気持ちは分かるぜ
+身体が重く沈んで、何にもしたくなくなる
+そんな時は素直に休んだ方がいい</original>
+  </message>
+  <message>
+    <original>調子はどうだ？
+良くはなくても、悪くなきゃいいんだが</original>
+  </message>
+  <message>
+    <original>皆辛いのはわかるけど
+沈んでたって仕方ないからな</original>
+  </message>
+  <message>
+    <original>ほら、気持ちの持ち方ってところも
+絶対あるはずだから――
+せっかく生きてるんだ
+前を向くふりだけでもしないと</original>
+  </message>
+  <message>
+    <original>こうして命があること自体を喜ばないと――
+そう、昨日してた心配は杞憂だったってね</original>
+  </message>
+</resource>

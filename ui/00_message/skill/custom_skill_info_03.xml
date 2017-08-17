@@ -128,11 +128,17 @@ LV.6: Increases attack speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_43</key>
-    <original>全霊の力で弓を引き、絶大な威力の矢を放つ
-溜め満了の瞬間に放つと威力が大幅に上昇し、
-残り体力が低い敵ほど効果が高い
+    <original>絶大な威力の矢を放つ。溜め満了の瞬間に放つと
+威力が大幅に上昇し、残り体力が低い敵ほど
+効果が高い。&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め時間短縮&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--全霊の力で弓を引き、絶大な威力の矢を放つ
+溜め満了の瞬間に放つと威力が大幅に上昇し、
+残り体力が低い敵ほど効果が高い
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で溜め時間短縮</COL>-->
     <translation>Draw the bow back with all your might and loose an arrow
 of extraordinary power. When fired right as the charge completes, the damage
 increases significantly.
@@ -166,5 +172,18 @@ Can be activated while climbing an enemy.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases maximum charge (2→3) and reduces number of button presses
 needed to advance to the next level of charge.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_03_162</key>
+    <original>【ＥＸ追加効果】
+発射数が増加（５→６）
+連なり射ち 剛に付与した紅蓮爆矢の攻撃威力が上昇</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_03_163</key>
+    <original>【ＥＸ追加効果】
+構え中の移動速度が上昇
+最適距離の範囲が拡張
+射程距離が延長</original>
   </message>
 </resource>

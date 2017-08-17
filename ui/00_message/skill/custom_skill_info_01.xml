@@ -65,8 +65,13 @@ When an attack is evaded, increases number of hits.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_01_9</key>
     <original>跳躍し、鋭い一撃を放って下方に突き立てる
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--跳躍し、鋭い一撃を放って下方に突き立てる
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加</COL>-->
     <translation>Leap forward and stab your sword into the ground.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of hits.&lt;/COL&gt;</translation>
@@ -170,5 +175,21 @@ After ascending, invert the direction of the slash with an additional button pre
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increase altitude of the launch, and number of hits of the inverted
 slash.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_154</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+攻撃ヒット数が増加
+チャンス攻力と疲労攻力がやや増加
+&lt;COL ff7878&gt;人間／竜族／錬金系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_155</key>
+    <original>【ＥＸ追加効果】
+前方への攻撃範囲が大幅に拡張
+吹き飛ばし力が増加
+ダメージ量がやや増加
+チャンス攻力と疲労攻力がやや増加</original>
   </message>
 </resource>

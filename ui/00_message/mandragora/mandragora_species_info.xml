@@ -1,0 +1,666 @@
+﻿<resource>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_1</key>
+    <original>産まれたばかりのマンドラゴラ
+頭部は柔らかく様々な植物の種が付着しており
+吸収する養分によって異なる植物が発芽する
+同様に個体の性格や特性も変化することがあり
+養分と進化の関係は未だ未解明の部分が多い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_2</key>
+    <original>最も基本的な成長を遂げたマンドラゴラ
+古代文献によると祖先は危険性の高い植物
+だったが、古代人が長い年月と多くの犠牲を
+払い改良した結果、狂気の叫喚と引き換えに
+活動的な手足と人懐こさを得たのだという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_3</key>
+    <original>栄養の偏りにより
+花を咲かせず成長したマンドラゴラ
+この生育状態の個体は丈夫で世話もしやすく
+エランの村では親が子供の遊び相手として
+与えることも多かったという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_4</key>
+    <original>固有種の花を咲かせたマンドラゴラ
+フィンダムの大地を離れた場所で成長すると
+本来の花色である白が強く発色される
+かつてエランにいたマンドラゴラ愛好家たちは
+この状態から様々な花色の栽培を始めていた</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_5</key>
+    <original>フィンダム固有種の花を咲かせたマンドラゴラ
+野生のマンドラゴラは、大地に染み込んだ
+“芯なる樹”の樹液により青い花が
+咲きやすいが、原生地以外の土地で
+育った個体に青色の花が咲くことは非常に稀</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_6</key>
+    <original>フィンダム固有種の花を咲かせたマンドラゴラ
+マンドラゴラの赤い花は、恋の花として知られ
+フィンダムの若者たちの間で特に人気があった
+赤色の花は自然界にはほぼ存在しないため
+養根家というブリーダーにより栽培されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_7</key>
+    <original>フィンダム固有種の花を咲かせたマンドラゴラ
+追肥の微かな偏りによって咲くことが多い
+一部の地域では黄色は陽の加護色とされ
+本種を飼ったり黄マンドラフラワーを髪飾りに
+するなどの、お守り植物として愛されていた</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_8</key>
+    <original>フィンダム固有種の花を咲かせたマンドラゴラ
+花としては育ちきっているため、この段階から
+花色が変化する可能性は無いとされる
+フィンダムでの価値は低いが、白竜の治める
+レスタニアにおいては最も注目度が高い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_9</key>
+    <original>フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラの花の青色はフィンドブルーと
+呼ばれ、格別に重宝されていた
+“芯なる樹”の特に濃厚な樹液を吸収した
+個体のみが、青く美しい花を群生させる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_10</key>
+    <original>フィンダム固有種の花が群生したマンドラゴラ
+養分豊富でなければ進化の難しい希少種
+婚前の娘の家でマンドラゴラがこの種に
+進化すると、精霊の祝福を受けたことになり
+一族は末永く幸福を得るという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_11</key>
+    <original>フィンダム固有種の花が群生したマンドラゴラ
+有機成分の多い土で進化することの多い種
+黄花はモスが集まるため、衣類素材には適さず
+粗悪な養根家が誤って進化させた本種を
+エラン水林に大量遺棄する事件もあった</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_12</key>
+    <original>フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラフラワー属の最成長した姿で
+花が枯れると、根部に新たな種が４つ作られる
+古い種の落ちる瞬間を見ると眼病を患うという
+伝承もあるが実際は不気味なだけで無害である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_13</key>
+    <original>胞子が付着し、キノコを成したマンドラゴラ
+マンドラゴラの頭皮はクッション状で厚く
+侵食胞子の根が脳まで届くことはない
+菌を青く発色させるための肥料は希少なため
+同系種の中でも特に価値が高い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_14</key>
+    <original>胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分は猛毒が含まれているが
+適切に処理することで、精力剤の原料にもなる
+鮮やかな赤い傘は、観賞用として残す愛好家も
+いるが、多くの場合は切り取って処分される</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_15</key>
+    <original>胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分には、強力な幻覚作用があり
+病気などの鎮痛用ハーブに混ぜて使用される
+比較的容易に育てられるため
+狩りで使用する毒餌に入れることもある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_16</key>
+    <original>胞子が付着し、キノコを成したマンドラゴラ
+モスの幼虫にキノコが寄生したものは
+滋養強壮に良いハーブとして重宝されているが
+生きたマンドラゴラに寄生することもある
+与えた肥料の成分はキノコ部分に蓄えられる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_17</key>
+    <original>侵食胞子によるキノコが群生したマンドラゴラ
+フィンダーエントの足元で発生することが
+観測されており、成長には樹液が関係している
+凝縮された竜力とエランの天然水成分は
+生物が摂取するには強過ぎるため、毒である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_18</key>
+    <original>侵食胞子によるキノコが群生したマンドラゴラ
+赤いキノコは“ゲキリンタケ”と呼ばれており
+竜の逆鱗のように触れてはいけないものとされ
+素手で触れば燃えるような痛みに襲われる
+地温の高い、火山地帯に発生しやすいという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_19</key>
+    <original>侵食胞子によるキノコが群生したマンドラゴラ
+頭部のキノコは、水浴び場や調理場にも発生し
+フィンダムの一般家庭では駆除対象である
+基本的な養分さえあればどこでも育つため
+マンドラゴラ栽培により収穫されることが多い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_20</key>
+    <original>侵食胞子によるキノコが群生したマンドラゴラ
+マンドラゴラの頭皮は菌の温床にもなりやすく
+その性質を利用したキノコ栽培法も存在する
+マンドラゴラキノコを上手く群生させるには、
+豊富な原菌と十分な湿度が不可欠である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_101</key>
+    <original>チリマンドラゴラ科の幼生体
+マンドラゴラがフィンダム外に持ち出され
+急速に多様なマンドラゴラ系植物が創られた
+マンドラゴラを高温肥料で育てることにより
+捕食者に灼熱感を与える毒を有するようになる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_102</key>
+    <original>チリマンドラゴラ科の成体
+チリマンドラゴラの毒は赤色の元となっており
+冷却により、その毒性が弱まる特性がある
+また、毒液は防虫や食品加工、染色などへの
+有用性が現在期待されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_103</key>
+    <original>チリマンドラゴラの観葉体
+チリマンドラゴラはフィンダム原生種より
+気性が荒いが、中でも花を咲かせず成長した
+観葉体は特に凶暴であることが分かっている
+子どものいる家庭での育成は推奨できない</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_104</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+チリマンドラゴラは恒温であり寒さに強いため
+冬場の栽培植物として注目されている
+特にマンドラフラワーの咲く種は丈夫だが
+冷やし過ぎると花が白くなり枯死してしまう</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_105</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+チリマンドラゴラに水分は必須ではないため
+水を与えすぎると変色することがある
+仕組みは明らかとなっていないが
+目の錯覚説と肥料の成分原因説が有力である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_106</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+赤い花には根部と同様の熱毒を持っており
+花の色は健康のバロメータにもなっている
+濃く鮮やかな色であるほど健康な状態であり
+花色調整のための冷却は個体に負荷がかかる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_107</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+熱を奪う水分を与えられ花色が薄くなった種で
+毒が和らげられた花弁部は生食できるため
+一部の物好きで裕福なレスタニアン達の間では
+高値で取引されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_108</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+冷えて花が白くなったチリマンドラゴラは本来
+すぐに死んでしまうほど弱っている状態だが
+人間用栄養剤を与えることで生存を保っている
+花は特別美しく、50万Gの値がついたことも</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_109</key>
+    <original>固有種の花を群生させたチリマンドラゴラ
+チリマンドラゴラ種は人工配合した種のため
+様々な花色を育てるには熟練度が必要であり
+近年発足したマンドラゴラ・ブリーダー資格の
+テストとして定められている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_110</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+マンドラゴラという植物は雌雄同体であるため
+基本的には一個体のみで繁殖が可能だが
+チリマンドラゴラは開花しても結実できない
+度重なる人工栽培による弊害と考えられている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_111</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+花は香辛料のような刺激と豊かな香りを持ち
+滋養強壮に効果があることが分かっている
+雑味のない風味を持つ黄花を育てるためには
+自然由来の水資源で生命力を与えることが重要</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_112</key>
+    <original>固有種の花を咲かせたチリマンドラゴラ
+魔力の高い低温肥料によって根温度を極限まで
+下げながら、栄養剤によって基幹増強をすると
+低温でも枯死せずに純白の花が咲くことがある
+高い肥料配合技術が成せる奇跡の品種である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_113</key>
+    <original>胞子によってキノコを成したチリマンドラゴラ
+赤い根部と青く光沢あるキノコの組み合わせは
+観賞用に人気で、剥製化の研究も進んでいる
+キノコ部分は鉱質であり、根部と切り離しても
+500年は痛み始めないことが分かっている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_114</key>
+    <original>胞子によってキノコを成したチリマンドラゴラ
+固有毒にも耐えうるこのキノコの成体は珍しく
+自然下では、地中の鉱石に根を張り成長する
+特に宝石の原石に宿ったものは貴重とされ
+その石の色を映した美しい姿になるという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_115</key>
+    <original>胞子によってキノコを成したチリマンドラゴラ
+黄石英などに発生したキノコは黄味がかった
+色合いになることが多い
+レスタニアの伝承では、このような茸石は
+特別な魔力を持っていると信じられている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_116</key>
+    <original>胞子によってキノコを成したチリマンドラゴラ
+最も強力な魔石である水晶から出来た茸石は
+ピュアホワイトの美を誇り、高い価値を持つ
+キノコを食すことで水晶の魔力を取り込めると
+謳われているが、科学的には未検証である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_117</key>
+    <original>キノコが群生したチリマンドラゴラ
+自然下では、茸石は湿度と温度の適した
+鍾乳洞などで発生することが確認されている
+チリマンドラゴラの頭部は生育環境として優れ
+湿度を保たせることで突鉱のように群生する</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_118</key>
+    <original>キノコが群生したチリマンドラゴラ
+茸石は、キノコが均等な大きさで群生した頃に
+頭部にはめ込んだ宝石ごと収穫する
+生育湿度が不十分だと菌糸が根部にまで及び
+収穫時に脳を傷つけてしまうことがある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_119</key>
+    <original>キノコが群生したチリマンドラゴラ
+連なる黄金の傘が金貨の山に見えることから
+別名「金茸石」とも呼ばれ、商人に人気がある
+トパーズは直射日光により脱色しやすいため
+布や紙などで覆いを作って育てる必要がある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_120</key>
+    <original>キノコが群生したチリマンドラゴラ
+水晶には自浄作用があるためそのままでは
+キノコが成長しにくい環境になってしまう
+群生させるためには継続的な植菌と培養が必要
+茸石の中では最も価値の高い種とされている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_501</key>
+    <original>産まれたばかりの鎧亜種マンドラゴラ
+亜種はレスタニアで相次いで発見されているが
+警戒心の強い個体が遺棄物を身に纏ったもので
+生態自体に既存種との明確な差は見られない
+鎧亜種の他にも亜種は多数存在すると思われる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_502</key>
+    <original>最も基本的な成長を遂げた鎧亜種マンドラゴラ
+銅は一般鉱石の中でも特に堅固で武具に
+適しているが、腐食しやすいのが難点である
+住処を定めず放浪する姿が観測されているが
+より良い貴金属鎧を探すためという見方もある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_503</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+鎧亜種は体を鎧で覆っているため成長度合いに
+合わせて補強用金属を与えてやる必要がある
+また、通常種への肥料に金属を混ぜることで
+突如鎧亜種化する事例も確認されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_504</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+鎧亜種の身体構造は原種と差異がないため
+新米養根家でも育てやすく新種発見しやすい
+しかし芯なる樹の樹液を強く受けた本種は
+個体差はあるが野性が強くあまり人に慣れない</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_505</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+花を摘もうと不用意に近づいた男女が
+地中から現れたマンドラゴラの被害を受ける
+という事件はフィンダムでも少なくない
+特に警戒心が強く硬い鎧亜種は危険性が高い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_506</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+マンドラゴラは一般的な植物同様暑さに弱いが
+鎧亜種は特に熱を持ちやすい性質があるため
+原種などに比べると寿命は短い
+特に黄花種は日光を好むため致死事故も多い</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_507</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+与える養分を絞ることで、小さく成長する
+また与える肥料を工夫することで鎧亜種以外の
+様々な亜種へ派生することがあり
+愛玩用として注目されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_508</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+銅系の鎧亜種への進化は比較的難度が低いが
+育成中に衣替えを行い上位種へ進化したり
+熱により枯死することが多い
+結実まで生存する事例はあまり多くない</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_509</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+頭部が発達した個体は鎧の着脱ができないため
+鎧を破壊して鎧替えを行うことになる
+鎧亜種は根部が鎧に適応しているため
+鎧の無い状態では非常に脆弱で生存できない</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_510</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+金属の鎧を負う鎧亜種はマンドラゴラ科の中で
+特に動きが鈍いとされている
+マンドラゴラの黄花は野生の魔物も好んで食し
+捕食者の気を逸らすため自らむしることもある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_511</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+亜種は知能が高いことが判明しており
+どの素材の外衣がより頑強で腐食しづらいのか
+自ら学習できると考えられているため
+鎧替えにはより上位の鉱石を与える必要がある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_512</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+フィンドブルーのマッシュルームを育てるには
+フィンダム産肥料投与と適切な水分管理が必須
+だが、鎧亜種の頭部は天然の温室になっており
+原種より育てやすいため栽培に利用されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_513</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+鎧を纏ったマンドラゴラの愛くるしい姿と
+鮮やかな赤いキノコの組み合わせがまるで
+おとぎ話のようだと、レスタニアの女性の間で
+密かに人気が上昇し始めている種である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_514</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+マンドラゴラは環境によりストレスが溜まると
+自らの頭部をむしって口にすることがある
+黄キノコを食したマンドラゴラは幻覚により
+凶暴化するが、白キノコで鎮静化できる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_515</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+菌の付着した個体が鎧亜化し、成長した個体
+鎧亜種の頭部は鎧により非常に蒸れるため
+菌類が育ちやすい環境となっている
+観賞用に飼育する場合はこまめな換気が必須</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_516</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+銅鎧の鎧亜種はキノコ奇病に罹らないため
+マンドラマッシュルーム栽培に利用されやすい
+既に覚者輸送によるフィンダム肥料の輸入網も
+整備されているため、市場は拡大必至である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_517</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+マンドラゴラは近年発見された生物であるため
+はっきりした寿命は判明していない
+根部を輪切りにすると、断面には年輪があり
+その数が生存年数とされているが未検証である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_518</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+マンドラゴラは種子を持つことから
+一般植物同様に種から生育すると考えられるが
+レスタニアでは種子育成の成功例は未だに無く
+フィンダムからの輸入幼生体が流通の主である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_519</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+弱ったマンドラゴラに菌が付着し成長すると
+急激にキノコが根部まで覆う病にかかりやすい
+しかし銅鎧の鎧亜種にはその病が発見されない
+ことから、銅の殺菌作用に注目が集まっている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_531</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+銀鎧の鎧亜種は非常に熱を持ちやすいため
+こまめな世話が必要となるが
+青花の個体だけは熱の自己排出が見られる
+原因不明だが芯なる樹に関係があると思われる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_532</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+鎧亜種の縄張り争いは、お互い体当たりして
+鎧の硬度で序列をつけることが分かっているが
+人間の飼育下では基本的には新参が下位となり
+年功序列制へと変化することが観察されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_533</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+マンドラゴラは徘徊した地を縄張りとするが
+縄張り争いに敗れても追い出されることはなく
+そもそも正確な縄張りをどの個体も
+覚えていないのではないかという見解もある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_534</key>
+    <original>固有種の花を咲かせた鎧亜種マンドラゴラ
+銀鎧は熱が伝わりやすく熱くなりやすいため
+水などをこまめに与え冷ましてやる必要がある
+また、銀鎧は銅鎧よりも重く、銀の鎧亜種が
+成長するためには有機エネルギーが多く必要</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_535</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+原生地フィンダムにも銀系鉱物は存在し
+霊的な美しさからお守りとして用いられていた
+芯なる樹の樹液の力を併せ持つこの種は
+将来的には侵食浄化の効果も期待されている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_536</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+銀鎧は磨くと強い光沢を発するため反射により
+まるで花柄の鎧を纏っているかのように見える
+しかし、花の群生も鎧の手入れも非常に手間が
+かかるため容易に見ることはかなわない</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_537</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+銀鎧は数分でも日光に当たると熱が集まり
+湯気を発し始めるほど熱されてしまうため
+暑さに弱い植物の特性を持つマンドラゴラとは
+相性が悪く、非常に高い致死率となっている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_538</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+白い花は日照時間が短くても咲くため
+銀鎧特有の育て辛さもあまり無い
+銀鎧と白い花は気高い純潔さの象徴として
+発見後すぐ、神殿にて飼育されることとなった</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_539</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+マンドラマッシュルームは冷暗所を好み
+特に青はフィンダムの涼しい気候を好むため
+銀鎧は最も相性の悪い鎧亜種の一つである
+非常に乾きやすいので水分補給が重要</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_540</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+鎧亜種のマンドラマッシュルームは根元が割け
+複数に枝分かれすることで群生体になるが
+これは集まる光熱を逃がすためであり布や草で
+遮光すれば太い一本キノコに成長する例もある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_541</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+銀鎧マンドラゴラは冷暗所を好むマンドラ
+マッシュルームとの相性が非常に悪く
+直射日光を布や草などで遮ってやらなければ
+根部に籠った熱でキノコは色褪せ乾いてしまう</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_542</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+銀鎧は大人しく繊細な性格の傾向があるが
+マンドラマッシュルーム種は特に内気とされ
+日陰を好み、草木の陰からあまり動かない
+野生下での生態に関係していると思われる</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_543</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+銀鎧の群生種は野生下では未発見である
+そもそも青キノコは、生育する環境として本来
+マンドラゴラの頭部はあまり良いとは言えず
+人の手がなければ存在していなかった種である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_544</key>
+    <original>キノコを成した鎧亜種マンドラゴラ
+マンドラマッシュルームは多くに毒があり
+無毒のものも食用としては一般的ではないが
+ある美食家が鎧亜種の赤キノコを口にした
+ところ、ガラキノコの味がしたという話もある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_545</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+マンドラマッシュルームの自生はどの地でも
+未発見であり、人工栽培も未だ成功していない
+吸収した水が頭部に循環する際、キノコが好む
+形への成分変化が起こるのだと考えられている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_546</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+銀鎧の鎧亜種は日光による養分自給の能力が
+他種と比べて弱く、キノコが大きく育つ際には
+根部の養分まで吸収されてしまうため
+有機肥料で補ってやる必要がある</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_561</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+野生下では生息が確認されていない
+金鎧の中でも飛びぬけて珍しく価値があり
+気まぐれかつ我儘で個人では飼育の難しい種
+エランの純水しか口にしない個体もいるという</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_562</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+鎧亜種は人間などの生物が落とした既成の鎧を
+転用する場合が多いため、金鎧は合金である
+それを知らない盗賊の手で盗難マンドラゴラが
+大量に鎧を剥がされ死んだ凄惨な事件もあった</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_563</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+金鎧の鎧亜種は非常に発育が良いため
+生育途中で金属質を補強する必要がある
+小さい鎧のまま育つと発育不良を起こしたり
+むき出しになった根部が乾燥してしまうことも</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_564</key>
+    <original>固有種の花が群生した鎧亜種マンドラゴラ
+金鎧のマンドラゴラは非常にプライドが高い
+また鎧の反射により日光を何倍も浴びており
+体格は大柄で頭部に育つ植物も格段に美しい
+美術品・工芸品としての価値が高い品種</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_565</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+キノコは暗所を好むため金鎧とは相性が悪く
+さらに青いキノコは環境を保つためにも
+フィンダム産高濃度純水が必要となり
+飼育費用が倍以上かかることも分かっている</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_566</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+金鎧は元来活動的で縄張り意識が強いが
+本種は赤キノコの精強作用により特に我が強い
+2匹以上の生育時には喧嘩の際に
+鎧を剥がし合わないよう注意が必要である</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_567</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+マンドラゴラの姿は度々祀る対象となるが
+なかでもこの種の黄金の輝きには多くの商人が
+魅了され豪商の新しいステータスとなっている
+剥製が作られ高額で取引されている唯一の種</original>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_INFO_568</key>
+    <original>キノコを群生させた鎧亜種マンドラゴラ
+金鎧は鎧亜種の中で最も強く希少な種であり
+頂点であるため縄張り争いになることが少ない
+しかし、希少故に人の欲望に振り回されやすく
+いま最も保護が叫ばれている種の一つである</original>
+  </message>
+</resource>

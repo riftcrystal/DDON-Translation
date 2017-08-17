@@ -1,0 +1,206 @@
+﻿<resource>
+  <message>
+    <original>ああ、覚者さま
+お客様がいらっしゃっています
+自室にお通ししてもよろしいですか？</original>
+  </message>
+  <message>
+    <original>面会しよう</original>
+  </message>
+  <message>
+    <original>――少し待ってほしい</original>
+  </message>
+  <message>
+    <original>お客様ならもう自室に向かわれましたよ
+覚者さまをお待ちになっているはずです</original>
+  </message>
+  <message>
+    <original>君がこの素敵な部屋の主だね
+僕はエイダス――
+お初にお目にかかるよ</original>
+  </message>
+  <message>
+    <original>今日は、テラスを造った君に
+素敵な家族を連れて来たんだ！
+きっと気に入ってくれるはずだよ</original>
+  </message>
+  <message>
+    <original>素敵な家族って？</original>
+  </message>
+  <message>
+    <original>あなたは誰？</original>
+  </message>
+  <message>
+    <original>フフフ――
+よくぞ聞いてくれたね</original>
+  </message>
+  <message>
+    <original>君は、《マンドラゴラ》って知ってるかい？
+一部の覚者がフィンダムから持ち帰ったことで
+レスタニアの植物学会・動物学会を
+大震撼させたあのキュートな根っこのことさ！</original>
+  </message>
+  <message>
+    <original>僕、あの子たちを研究しているんだけど
+やっぱり一人じゃ限界があるだろう？
+日当たり良くのびのびと育てられる環境――
+そんな所を探していたら、君の噂を聞いたのさ</original>
+  </message>
+  <message>
+    <original>だから、ぜひ君に育ててみてもらいたくて
+今日は連れて来たんだよ！
+ほら、ここに――</original>
+  </message>
+  <message>
+    <original>――あれ
+ちょっとちょっと、どこ行ったんだい！？</original>
+  </message>
+  <message>
+    <original>――信じられないよ！
+君、マンドラゴラを見なかった！？</original>
+  </message>
+  <message>
+    <original>もしかして――
+神殿の周りの動物を調べているときに
+はぐれちゃったのかも</original>
+  </message>
+  <message>
+    <original>ねぇ君、この辺りは詳しいんだろう？
+悪いんだけど――探してきてくれよ！
+きっとまだ、そう遠くへは行ってないはずだ</original>
+  </message>
+  <message>
+    <original>マンドラゴラは普段、地中に隠れているけど
+周りの茂みなんかに痕跡を残すことが多いんだ
+怪しい場所は片っ端から調べてみてね
+驚いて出てくるはずだよ！</original>
+  </message>
+  <message>
+    <original>え、僕のことかい――
+僕は、プロフェッサー・エイダス
+皆にはそう呼ばれているけど、ただのマニアさ</original>
+  </message>
+  <message>
+    <original>とはいえ一応、元・動物学者でね
+今は“あるもの”に魅了されて
+もっぱらその研究をしているんだよ</original>
+  </message>
+  <message>
+    <original>それが《マンドラゴラ》！
+植物なのに手足があって、人のように二足で歩き
+猫のように愛嬌があって、木のように生えてくる――
+なんて不思議で、奇妙で、可愛いんだ！</original>
+  </message>
+  <message>
+    <original>とにかく、素敵なテラスを持ってる君に
+ぜひ、マンドラゴラを育ててもらいたくて
+今日は連れて来たんだよ！
+ほら、ここに――</original>
+  </message>
+  <message>
+    <original>――あれ
+ちょっとちょっと、どこ行ったんだい！？</original>
+  </message>
+  <message>
+    <original>――信じられないよ！
+君、マンドラゴラを見なかった！？</original>
+  </message>
+  <message>
+    <original>もしかして――
+神殿の周りの動物を調べているときに
+はぐれちゃったのかも</original>
+  </message>
+  <message>
+    <original>ねぇ君、この辺りは詳しいんだろう？
+悪いんだけど――探してきてくれよ！
+きっとまだ、そう遠くへは行ってないはずだ</original>
+  </message>
+  <message>
+    <original>マンドラゴラは普段、地中に隠れているけど
+周りの茂みなんかに痕跡を残すことが多いんだ
+怪しい場所は片っ端から調べてみてね
+驚いて出てくるはずだよ！</original>
+  </message>
+  <message>
+    <original>ギィ！　ギギギ！
+ニギャギャー！</original>
+  </message>
+  <message>
+    <original>（マンドラゴラは反抗的な態度を見せている）</original>
+  </message>
+  <message>
+    <original>ニィ――ニィィ――
+ニギギ？</original>
+  </message>
+  <message>
+    <original>（マンドラゴラは怯えている
+　心を開くには安心させる必要がありそうだ）</original>
+  </message>
+  <message>
+    <original>うそ――本当に捕まえたの！？
+しかも、もうずいぶんと懐いているみたいだよ
+すごいね、君は！</original>
+  </message>
+  <message>
+    <original>君を選んだ僕の目に
+狂いはなかったんだね
+お祝いに、&lt;COL ff2600&gt;≪マンドラゴラ用鉢植え≫&lt;/COL&gt;を
+プレゼントさせていただくよ！</original>
+  </message>
+  <message>
+    <original>それからこれ――&lt;COL ff2600&gt;《マンドラゴラ図鑑》&lt;/COL&gt;
+マンドラゴラくんが別種に進化したら
+生態が記録されていく優れものさ！
+まだ僕が知らない種もあるんだけど――</original>
+  </message>
+  <message>
+    <original>さっそく育成を始めるなら
+君のパートナーポーンと話してみるがいい
+それじゃあ――マンドラゴラくんを
+可愛がってあげてね！</original>
+  </message>
+  <message>
+    <original>ニィ――？
+――ニィニィィー！</original>
+  </message>
+  <message>
+    <original>（マンドラゴラは不安そうだったが
+　ついには心を決めたようだ）</original>
+  </message>
+  <message>
+    <original>ねぇ君、この辺りは詳しいよね？
+悪いんだけど――探してきてくれよ！
+きっとまだ、そう遠くへは行ってないはず</original>
+  </message>
+  <message>
+    <original>マンドラゴラは普段、地中に隠れているけど
+周りの茂みなんかに痕跡を残すことが多いんだ
+怪しい場所は片っ端から調べてみて！
+驚いて出てくるはずだよ！</original>
+  </message>
+  <message>
+    <original>それからマンドラゴラって
+本当はすごく寂しがり屋な、優しい益獣なんだ
+だから様子を見て、穏やかに接すれば
+きっと気持ちは通じるはずだよ！</original>
+  </message>
+  <message>
+    <original>かしこまりました
+――覚者さまも、どうぞお部屋へ</original>
+  </message>
+  <message>
+    <original>かしこまりました
+とはいえ――
+上げてもらうまで帰らない、という口ぶりでしたぞ</original>
+  </message>
+  <message>
+    <original>覚者さま、改築したお部屋はいかがです
+うちは動物厳禁ですが、植物くらいなら構いません
+あのテラスで育ててみたらいかがです？</original>
+  </message>
+  <message>
+    <original>ところで、先ほどお客様がお見えでしてね
+覚者さまが戻られるまで
+お待ちいただいていたんです</original>
+  </message>
+</resource>

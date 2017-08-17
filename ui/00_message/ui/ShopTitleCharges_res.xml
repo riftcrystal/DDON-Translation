@@ -219,7 +219,9 @@
   </message>
   <message>
     <key>msg_ShopTitle_Charges46</key>
-    <original>格納チェストの拡張枠が使用可能！</original>
+    <original>格納チェストの引出し%dが使用可能！</original>
+    <!-- NEEDS REVIEW -->
+    <!--格納チェストの拡張枠が使用可能！-->
     <translation>Expanded Storage Chest is usable!</translation>
   </message>
   <message>
@@ -246,5 +248,17 @@
     <key>msg_ShopTitle_Charges52</key>
     <original>必要素材が格納チェストからも参照可能！</original>
     <translation>You can also use required materials from Storage Chest!</translation>
+  </message>
+  <message>
+    <key>msg_ShopTitle_Charges53</key>
+    <original>「&lt;OPCS&gt;」専用ロットが利用可能！</original>
+  </message>
+  <message>
+    <key>msg_ShopTitle_Charges54</key>
+    <original>&lt;UNTN TP&gt;加算中！</original>
+  </message>
+  <message>
+    <key>msg_ShopTitle_Charges55</key>
+    <original>&lt;OPCS&gt;用マンドラゴラが育成可能！</original>
   </message>
 </resource>

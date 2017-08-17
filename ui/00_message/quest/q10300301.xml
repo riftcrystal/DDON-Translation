@@ -1,0 +1,323 @@
+﻿<resource>
+  <message>
+    <original>輸送隊のおかげで、ティネス砦の
+食料事情はしばらく安心！
+解放軍の人たちに体力付けてもらわないとね！</original>
+  </message>
+  <message>
+    <original>でも、ティネス砦は安心でも
+《隠れ村ピレモス》では未だに食料不足なんだって</original>
+  </message>
+  <message>
+    <original>ピレモスに残ってる人たちだって
+みんな事情があってのことなのに
+怖い思いをしてる上に、食料も無いなんて――</original>
+  </message>
+  <message>
+    <original>輸送隊が運んできてくれた食料を
+分けてあげたいけど
+“ティネス砦の料理番”として
+それはできないんだよね</original>
+  </message>
+  <message>
+    <original>ねぇ、前みたいに私が食料を集めるから
+それをピレモスに届けられないかな
+あなたが手を貸してくれるなら、だけど――</original>
+  </message>
+  <message>
+    <original>食料集めとピレモスへの運搬に
+手を貸してくれるの？</original>
+  </message>
+  <message>
+    <original>ありがとう！
+――あなたなら
+きっとそう言ってくれると思ってたわ！</original>
+  </message>
+  <message>
+    <original>それじゃあ、さっそく出発してもいい？</original>
+  </message>
+  <message>
+    <original>出発する</original>
+  </message>
+  <message>
+    <original>――少し待ってくれ</original>
+  </message>
+  <message>
+    <original>ピレモスへは山道を抜けなきゃいけないんだ
+その分、山の幸が手に入るだろうから
+食料を集めつつピレモスに向かえば効率もいいはず！</original>
+  </message>
+  <message>
+    <original>山の魔物が出るとは思うけど――
+ううん、こんなこと言ってちゃ何もできないよね！
+さあ、行こう！</original>
+  </message>
+  <message>
+    <original>ピレモスの人たちが
+お腹を空かせてるだろうから
+なるべく早めにお願いね</original>
+  </message>
+  <message>
+    <original>それじゃあ、いつも通り食料を探すね
+――魔物が出た時は、よろしく！</original>
+  </message>
+  <message>
+    <original>よーし、この辺りで食べられそうなものは
+大体集め終わったはず――
+次は野営地まで行ってみようか</original>
+  </message>
+  <message>
+    <original>あのさ――さっきから誰かに
+後をつけられてる気がするんだけど
+これってアタシの気のせいじゃないよね？</original>
+  </message>
+  <message>
+    <original>魔物ならとっくに襲ってきてそうだし――
+もしかして、道に迷った人とか？</original>
+  </message>
+  <message>
+    <original>ちょっと気になるよね
+この辺りを探してみない？</original>
+  </message>
+  <message>
+    <original>フゴゴ――</original>
+  </message>
+  <message>
+    <original>（ゴブリンは元気が無いようだ）</original>
+  </message>
+  <message>
+    <original>（キャリーはゴブリンに
+　食料を差し出そうとしている）</original>
+  </message>
+  <message>
+    <original>キャリーを見守る</original>
+  </message>
+  <message>
+    <original>キャリーを止める</original>
+  </message>
+  <message>
+    <original>フガ！　――食ベモノ！
+フグググ――！</original>
+  </message>
+  <message>
+    <original>（見知らぬゴブリンは食料を受けと取った）</original>
+  </message>
+  <message>
+    <original>（しかし――食料に手を付ける様子はない）</original>
+  </message>
+  <message>
+    <original>グガ！？　タ、食ベモノ――</original>
+  </message>
+  <message>
+    <original>（がっかりしたようだ）</original>
+  </message>
+  <message>
+    <original>ググ――ヨカッタ、食ベモノ！</original>
+  </message>
+  <message>
+    <original>（喜んでいるようだが
+　食料には手を付けないようだ）</original>
+  </message>
+  <message>
+    <original>さっきのゴブリン――
+おなか――すいてたんだよね？</original>
+  </message>
+  <message>
+    <original>あんなにうれしそうに受け取ったのに
+全然食べなかったね</original>
+  </message>
+  <message>
+    <original>それにどこかおびえてるような感じだった
+アタシたちが怖かったのかな？
+その割に、食料は受け取ってたけど――</original>
+  </message>
+  <message>
+    <original>何か事情でもあるのかなぁ</original>
+  </message>
+  <message>
+    <original>変わったゴブリンのことは気になるけど
+アタシたちを待ってる人がいるもんね
+先、行こっか</original>
+  </message>
+  <message>
+    <original>ここら辺、魔物多いのかな
+けど、何かありそうな気がするんだ――
+ちょっと掘ってみる間、そばにいてね</original>
+  </message>
+  <message>
+    <original>ピレモスの人たちにちょっとでも多く
+食料を届けてあげたいから――</original>
+  </message>
+  <message>
+    <original>食料、そこそこ集まったかなぁ
+これだけあればピレモスの人たち
+みんなで分けられると思う</original>
+  </message>
+  <message>
+    <original>まぁ、魔物もたくさん出たけどね！
+あなたがいなかったら
+今頃アタシなんて魔物のえじきになってたかも――</original>
+  </message>
+  <message>
+    <original>あのね――
+ちょっと気になってたんだけど
+“覚者”って何する人なの？</original>
+  </message>
+  <message>
+    <original>砦にも兵隊さんはたくさんいるけど
+みんなこの大陸の人達だし
+あなたはどうして戦ってるのかなって思って――</original>
+  </message>
+  <message>
+    <original>白竜や仲間、この世界の人々のため</original>
+  </message>
+  <message>
+    <original>戦うのが好きだから</original>
+  </message>
+  <message>
+    <original>報酬がもらえるから</original>
+  </message>
+  <message>
+    <original>そうなんだ――
+じゃあいつも
+誰かのために戦ってるのね</original>
+  </message>
+  <message>
+    <original>あなたが強い理由――
+分かった気がするな</original>
+  </message>
+  <message>
+    <original>アタシもおんなじように
+誰かのために
+何かできる人になりたいんだ</original>
+  </message>
+  <message>
+    <original>おっと――
+こうしちゃいられない！
+ピレモスの人達のところへ行かなきゃ！</original>
+  </message>
+  <message>
+    <original>うーん――
+アタシは戦えないから
+よくわからないけどさ</original>
+  </message>
+  <message>
+    <original>一見魔物と戦ってるように見えて
+なんていうか――
+“自分”と戦ってる気がするんだ、あなたは</original>
+  </message>
+  <message>
+    <original>“誰よりも強くなりたい”
+“もっと強い敵を倒したい”
+って思う自分とさ</original>
+  </message>
+  <message>
+    <original>まぁ――
+“戦う理由”は人それぞれだと思うけどね！</original>
+  </message>
+  <message>
+    <original>こうやってでっかい袋背負って
+必死に食料集めてみんなに届けるのが
+アタシの“戦い”なのかも！</original>
+  </message>
+  <message>
+    <original>そして――
+目指す目的地はもう目の前！
+さぁ――ピレモスへ行くよっ！</original>
+  </message>
+  <message>
+    <original>報酬――かぁ
+思ってたより結構現実的なのね
+あなたって</original>
+  </message>
+  <message>
+    <original>アタシ――
+料理くらいしか
+作ってあげられないけど</original>
+  </message>
+  <message>
+    <original>明日から来なくなったり
+しないよね？</original>
+  </message>
+  <message>
+    <original>おっと――
+あんまりここで話込んでると
+ピレモスへ行くのが遅くなっちゃうね！</original>
+  </message>
+  <message>
+    <original>さ、もう目と鼻の先！
+みんな待ってるはずだから、行こっか！</original>
+  </message>
+  <message>
+    <original>やったぁ！
+ピレモスの人に渡す食料の調達と
+ここまで無事運んでくること、両方できたね！</original>
+  </message>
+  <message>
+    <original>ピレモスの物資管理は&lt;NPC 2802&gt;さん
+っていう人が担当してるらしいんだ</original>
+  </message>
+  <message>
+    <original>アタシは荷ほどきをしておくから
+&lt;NPC 2802&gt;さんに
+声をかけてきてくれない？</original>
+  </message>
+  <message>
+    <original>アタシは荷ほどきをしておくから
+物資管理担当の&lt;NPC 2802&gt;さんに
+声をかけてきてくれない？</original>
+  </message>
+  <message>
+    <original>ええっ、食料の支援に来てくれたの！？</original>
+  </message>
+  <message>
+    <original>――助かったわ
+毎日ギリギリの生活で
+もう食料が底を尽きかけてたの</original>
+  </message>
+  <message>
+    <original>あそこに置いてある荷物を
+こっちで分ければいいのね？
+みんなも大喜びするわ――ありがとう！</original>
+  </message>
+  <message>
+    <original>あそこに置いてある荷物を
+こっちで分ければいいのね？
+みんなも大喜びするわ――ありがとう</original>
+  </message>
+  <message>
+    <original>それじゃあ、あとは&lt;NPC 2802&gt;さんに
+お任せすることにして
+アタシたちはティネス砦に戻ろうか！</original>
+  </message>
+  <message>
+    <original>ピレモスの人たち、きっと喜んでくれたよね！
+アタシもなんかこう――達成感というか
+自信？　みたいなものが湧いてきちゃった！</original>
+  </message>
+  <message>
+    <original>人の力になれるって嬉しいね！
+これからピレモスにも十分な量の食料を
+備蓄できたらいいな――</original>
+  </message>
+  <message>
+    <original>そうだ、ピレモスまで往復して
+あなたもおなか減ったんじゃない？
+これ――よかったら後で食べて！</original>
+  </message>
+  <message>
+    <original>こっち、魔物が出たわ！　助けて！</original>
+  </message>
+  <message>
+    <original>この辺り、何かありそう――</original>
+  </message>
+  <message>
+    <original>あそこ――誰か倒れてる！？</original>
+  </message>
+  <message>
+    <original>食料探しに戻っても大丈夫だよね？</original>
+  </message>
+  <message>
+    <original>うん、この辺りの食料は取り終わったかな！</original>
+  </message>
+</resource>

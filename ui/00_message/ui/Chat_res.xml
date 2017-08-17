@@ -112,4 +112,8 @@
     <original>発言できません あと&lt;VAL&gt;秒</original>
     <translation>Cannot speak for &lt;VAL&gt; seconds.</translation>
   </message>
+  <message>
+    <key>MSG_ADDRESS_MEMO</key>
+    <original>Memo</original>
+  </message>
 </resource>

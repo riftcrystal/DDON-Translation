@@ -34,4 +34,12 @@
     <original>無制限</original>
     <translation>Unlimited</translation>
   </message>
+  <message>
+    <key>time_event_msg_06</key>
+    <original>開始まで</original>
+  </message>
+  <message>
+    <key>time_event_msg_07</key>
+    <original>終了しました</original>
+  </message>
 </resource>

@@ -111,4 +111,12 @@ charge to finish.
     <original>セットボタンを押す</original>
     <translation>Press the assigned button.</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_05_170</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_05_171</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
 </resource>

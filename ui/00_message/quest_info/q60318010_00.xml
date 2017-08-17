@@ -1,0 +1,51 @@
+﻿<resource>
+  <message>
+    <key>q60318010_00_230</key>
+    <original>ラスニテ山麓　試練：魔軍襲撃探知</original>
+  </message>
+  <message>
+    <key>q60318010_00_230</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318010_00_2947</key>
+    <original>エンデールの伝達を確認する</original>
+  </message>
+  <message>
+    <key>q60318010_00_3242</key>
+    <original>魔軍の新たな動きについて確認する</original>
+  </message>
+  <message>
+    <key>q60318010_00_2948</key>
+    <original>&lt;STG 1001&gt;に向かい魔軍についての情報を集める</original>
+  </message>
+  <message>
+    <key>q60318010_00_3235</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 2953&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+  <message>
+    <key>q60318010_00_3236</key>
+    <original>&lt;NPC 2953&gt;から魔軍の襲撃計画について聞く</original>
+  </message>
+  <message>
+    <key>q60318010_00_3237</key>
+    <original>指定された場所の中から魔軍の伝令兵を探す</original>
+  </message>
+  <message>
+    <key>q60318010_00_3238</key>
+    <original>魔軍の伝令兵を討伐する</original>
+  </message>
+  <message>
+    <key>q60318010_00_3239</key>
+    <original>伝令兵が落とした指令書を手に入れる</original>
+  </message>
+  <message>
+    <key>q60318010_00_3240</key>
+    <original>&lt;NPC 2953&gt;に指令書を見せる</original>
+  </message>
+  <message>
+    <key>q60318010_00_3241</key>
+    <original>&lt;NPC 2900&gt;に魔軍の襲撃計画を伝える</original>
+  </message>
+</resource>

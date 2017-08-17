@@ -1,0 +1,454 @@
+﻿<resource>
+  <message>
+    <original>順当に行けばアッカーシェランでは
+ネド王子のベルタ救出作戦が始まることだろう</original>
+  </message>
+  <message>
+    <original>存分に力を発揮して
+白竜の覚者の力を見せつけてこい
+味方で良かったと思わせるのだ</original>
+  </message>
+  <message>
+    <original>ネド王子はまだまだ子供だが――</original>
+  </message>
+  <message>
+    <original>話を聞く限り、義理堅く
+人情にも篤い人物のようだ</original>
+  </message>
+  <message>
+    <original>わかるな？
+なんとかして、貸しを作ってくるのだ</original>
+  </message>
+  <message>
+    <original>いかにしてアッカーシェランの王家に
+恩を売るか――</original>
+  </message>
+  <message>
+    <original>ジョゼフ様は近頃そんなことばかり
+考えているみたいなんだ</original>
+  </message>
+  <message>
+    <original>わたしの子供じみた振る舞いは忘れて欲しい
+将軍にもたっぷり説教されたからね</original>
+  </message>
+  <message>
+    <original>さて、ネド王子の行き先はダクレイム砦
+でも、その前に、ロスギル村へ行ってほしいんだ</original>
+  </message>
+  <message>
+    <original>ダクレイム突入準備のために、イェルハルドを訪ねた
+メイロワ将軍からの連絡が来ない</original>
+  </message>
+  <message>
+    <original>行って、状況を確認して、必要であれば
+将軍の力になってほしい</original>
+  </message>
+  <message>
+    <original>わたしはここで連絡を待つよ</original>
+  </message>
+  <message>
+    <original>ネド王子は――そうだね</original>
+  </message>
+  <message>
+    <original>年の割にはしっかりした子供だ
+物事の道理をわきまえ、おごることなく
+民たちにも平等に接してくれる――</original>
+  </message>
+  <message>
+    <original>頼りないという声もあるけど
+そこはわたしたちが補えばいい</original>
+  </message>
+  <message>
+    <original>王子は幼い頃、わしのことをメロジイ、メロジイと
+慕ってくださってな――
+ほどなく会えるのかと思うとわしはもう――</original>
+  </message>
+  <message>
+    <original>さあ、頼むぞ、白竜の覚者たちよ</original>
+  </message>
+  <message>
+    <original>どうやら、この大陸じゃあ、盗賊どもも
+けっこう大きな勢力らしいな</original>
+  </message>
+  <message>
+    <original>となれば、両方に恩を売っておくのは
+悪くねえぞ</original>
+  </message>
+  <message>
+    <original>ここの連中、少々気風が荒いようだけど
+悪人ではなさそうですよね</original>
+  </message>
+  <message>
+    <original>職業には目をつぶる必要がありますけど
+戦力として期待してもいいんじゃないですかね</original>
+  </message>
+  <message>
+    <original>こんなことを気にしているのは
+わたしだけかもしれないけど――</original>
+  </message>
+  <message>
+    <original>ネド王子、結構美形なんだって！</original>
+  </message>
+  <message>
+    <original>アッカーシェランは遠からず
+悪しき竜に踏みにじられて滅んでしまう
+この運命はもう変えられないのだろう</original>
+  </message>
+  <message>
+    <original>だから最後の日々くらいは善人になろうとして
+お頭は、王子を助けたんだろうよ
+その王子が今度はお頭を助けようと
+しているってわけだ</original>
+  </message>
+  <message>
+    <original>メイロワ将軍はネド王子が希望だというが――
+俺たちに必要なのは希望じゃなくて
+奇跡じゃねえのか？</original>
+  </message>
+  <message>
+    <original>メイロワ将軍の様子？</original>
+  </message>
+  <message>
+    <original>ああ、ジリアンが心配したわけですね
+将軍ならほら、そこに</original>
+  </message>
+  <message>
+    <original>おお、来てくれたのか
+思いのほか時間をくってしまったが
+突撃の手はずは整ったぞ</original>
+  </message>
+  <message>
+    <original>ダクレイム砦の前には、敵が増築した
+柵があってな――その柵を解放する下準備に
+少々手間取ったというわけだ
+もう、問題はない</original>
+  </message>
+  <message>
+    <original>突撃を妨げる柵のことはもう気にしなくてもいい
+王子のことだけ考えよう</original>
+  </message>
+  <message>
+    <original>まもなく伝令に走るはずだったんだ
+来てくれて助かったよ</original>
+  </message>
+  <message>
+    <original>ダクレイム砦は久しぶりだ
+もう二度と行くことはないと思っていたが――
+先のことなどわからないものだな</original>
+  </message>
+  <message>
+    <original>ひとつ忠告をさせて下さい</original>
+  </message>
+  <message>
+    <original>このダクレイムを奪い、支配しているのは
+獣の将と呼ばれるオークです
+これまでのオークとはまるで違う化け物です</original>
+  </message>
+  <message>
+    <original>ですが、砦の中ではすでに
+ネド王子と盗賊たちが動いているとのことです</original>
+  </message>
+  <message>
+    <original>今や一刻を争います
+ジリアンとイェルハルド様には伝令を
+走らせました――</original>
+  </message>
+  <message>
+    <original>みなさんはどうか急ぎ砦の中へ
+王子をよろしくお願いします！</original>
+  </message>
+  <message>
+    <original>ジリアンは一緒じゃないのか？
+解放軍本隊は！？</original>
+  </message>
+  <message>
+    <original>わたしは早々に負傷してしまいました
+無念です――王子をよろしくお願いします――</original>
+  </message>
+  <message>
+    <original>忠義面下げて死にに来たか</original>
+  </message>
+  <message>
+    <original>いいだろう――王子と一緒に死ね</original>
+  </message>
+  <message>
+    <original>もろとも魔物に喰われてしまえ</original>
+  </message>
+  <message>
+    <original>我がしもべたちよ！　焦るな！　じっくりとなぶれ！</original>
+  </message>
+  <message>
+    <original>なかなかやるな――人間にしてはな</original>
+  </message>
+  <message>
+    <original>我がしもべたちよ！　こやつらを引き裂いてしまえ！</original>
+  </message>
+  <message>
+    <original>ふん――面白い！</original>
+  </message>
+  <message>
+    <original>わははは！　愉快愉快！</original>
+  </message>
+  <message>
+    <original>人間め！　戦士というなら最期の戦いを楽しめ！</original>
+  </message>
+  <message>
+    <original>なんと――劣勢？</original>
+  </message>
+  <message>
+    <original>まだまだ！</original>
+  </message>
+  <message>
+    <original>くそう――力が入らぬ！　血肉をすすらせろ！</original>
+  </message>
+  <message>
+    <original>みんな気をつけて！</original>
+  </message>
+  <message>
+    <original>王子、安全な場所に隠れて！</original>
+  </message>
+  <message>
+    <original>ベルタ、聞こえるか！　身を潜めて！</original>
+  </message>
+  <message>
+    <original>隊長、こいつは強いよ</original>
+  </message>
+  <message>
+    <original>オーク四将軍、獣の将！</original>
+  </message>
+  <message>
+    <original>いける！　いけるよ！</original>
+  </message>
+  <message>
+    <original>へへ、いかにも大将だな</original>
+  </message>
+  <message>
+    <original>ほーら、予想どおり手強いぜ</original>
+  </message>
+  <message>
+    <original>どんなに強くても俺にとっちゃ、オークはオークよ</original>
+  </message>
+  <message>
+    <original>攻めろ攻めろ</original>
+  </message>
+  <message>
+    <original>くそ、強ええな</original>
+  </message>
+  <message>
+    <original>おらおら！</original>
+  </message>
+  <message>
+    <original>凄い臭い！　さすがオークの大将！</original>
+  </message>
+  <message>
+    <original>隊長、見た？　王子、想像より子供！</original>
+  </message>
+  <message>
+    <original>盗賊のお婆さんはどこ？</original>
+  </message>
+  <message>
+    <original>ジリアン、王子は無事なの？</original>
+  </message>
+  <message>
+    <original>もう！　オーク嫌い！</original>
+  </message>
+  <message>
+    <original>エリオット、もっと動け～！</original>
+  </message>
+  <message>
+    <original>王子救出に参加できるとは光栄！</original>
+  </message>
+  <message>
+    <original>凄い武装ですね――</original>
+  </message>
+  <message>
+    <original>ああ、強いや――こいつは強い！</original>
+  </message>
+  <message>
+    <original>ネド王子、見てくれてますか～！</original>
+  </message>
+  <message>
+    <original>俺、そろそろ余裕ないかもです</original>
+  </message>
+  <message>
+    <original>なんのこれしき！</original>
+  </message>
+  <message>
+    <original>異国の覚者の皆さん――</original>
+  </message>
+  <message>
+    <original>僕は、覚者のことを何も知りません
+その自覚もなかったほどです</original>
+  </message>
+  <message>
+    <original>それに、戦士としての力もありません
+ですから、皆さんに教えて頂きたいことが
+山ほどあるのです</original>
+  </message>
+  <message>
+    <original>皆さんの武運をお借りして
+解放軍はティネス砦を
+取り戻すことができたと聞いています</original>
+  </message>
+  <message>
+    <original>そのティネス砦で、じっくりお話を
+聞かせていただけませんか？
+よろしくお願いします</original>
+  </message>
+  <message>
+    <original>こうして王子と再会できたのも
+おぬしらの尽力があったからこそ
+いくら感謝しても、し足りない</original>
+  </message>
+  <message>
+    <original>しかし、わしらの戦いはこれが始まりだ
+これからもよろしく頼むぞ</original>
+  </message>
+  <message>
+    <original>これだけ世話になっておいて厚かましいけど
+ネド王子の手本になってほしい</original>
+  </message>
+  <message>
+    <original>覚者のことは、覚者にしかわからない
+わたしたちでは限界があるからね</original>
+  </message>
+  <message>
+    <original>あんたたちの噂はちゃーんと
+届いていたよ
+よその大陸から来た覚者たちが
+解放軍に参加しているってさ</original>
+  </message>
+  <message>
+    <original>ここへ来た目的はなんだい？
+まさか、あたしのお宝を狙ってるんじゃ
+ないだろうねえ</original>
+  </message>
+  <message>
+    <original>こう言っちゃ悪いけど――</original>
+  </message>
+  <message>
+    <original>王子と言っても、普通の子供ですよね
+正直、なーんだと思ったんですけど――</original>
+  </message>
+  <message>
+    <original>普通の子供だとしたら、この状況って
+すごい重圧だと思うんですよ
+支えてあげなくてはって使命感みたいな――</original>
+  </message>
+  <message>
+    <original>この感覚――新鮮です</original>
+  </message>
+  <message>
+    <original>まあ、王子なんてお飾りみたいなもんだ
+覚者とは言え、まだガキだからな</original>
+  </message>
+  <message>
+    <original>となれば、俺の出る幕じゃねえ
+リズかエリオットに相手させとけ</original>
+  </message>
+  <message>
+    <original>メイロワ将軍、見た？</original>
+  </message>
+  <message>
+    <original>孫でも見るみたいに目を細ーくするのかと思って
+観察していたらね――
+時々、寂しそうな悲しそうな顔するんだよね</original>
+  </message>
+  <message>
+    <original>それ見てさあ――
+ああ、これはまだ始まりなんだ
+本当の苦労はこれからなんだって
+思ったよ</original>
+  </message>
+  <message>
+    <original>ここまで、おつかれさまでした
+色々お話を――と思っていましたが
+戻ってみると、対処しなくてはならない問題が
+山積みのようです</original>
+  </message>
+  <message>
+    <original>虫のいいお願いで心苦しいのですが――</original>
+  </message>
+  <message>
+    <original>僕と共に、ここから全てを始めさせてください
+この未熟な覚者のご指導を
+どうかよろしくお願いいたします</original>
+  </message>
+  <message>
+    <original>ふーむ
+まずはどこから手をつけるべきか――
+じっくりと思案しなくてはな</original>
+  </message>
+  <message>
+    <original>ネド王子が戻ったら戻ったで
+色々と急がないとね
+敵も黙ってはいないだろうし</original>
+  </message>
+  <message>
+    <original>ネド王子――</original>
+  </message>
+  <message>
+    <original>あの年頃の少年は、少し見ないと
+ずいぶん顔つきが変わるな</original>
+  </message>
+  <message>
+    <original>少しの間に、実にたくましくなられた</original>
+  </message>
+  <message>
+    <original>一度戻って少し骨休めといかねえか？
+けっこう連戦してるぜ</original>
+  </message>
+  <message>
+    <original>ネド王子ったら――
+あんな風に頼られると
+張り切っちゃうよね</original>
+  </message>
+  <message>
+    <original>いい雰囲気に水を差すわけじゃありませんけど
+これからですよね
+ジリアンの言うとおりです</original>
+  </message>
+  <message>
+    <original>ネド王子を無事に保護したんだろう？
+まずは、おめでとう――だね</original>
+  </message>
+  <message>
+    <original>希望が、グッと身近になったんだ
+解放軍のひとたちは
+これからは、希望とともに行動できる
+さぞ、勢い付くことだろうね</original>
+  </message>
+  <message>
+    <original>ご苦労だったな
+解放軍はついにネド王子をみこしに乗せることが
+できるようになった</original>
+  </message>
+  <message>
+    <original>これが物語なら、さしずめ、第１章の
+終わりというところだろうか――</original>
+  </message>
+  <message>
+    <original>アッカーシェランにも覚者がいたというわけか</original>
+  </message>
+  <message>
+    <original>しかしその幼い覚者に力を継承すべきと
+目される竜は、悪しき竜と呼ばれるほどに
+憎まれている</original>
+  </message>
+  <message>
+    <original>竜力の状態によっては――</original>
+  </message>
+  <message>
+    <original>その覚者も悪しき心に呑み込まれてしまうやもしれず</original>
+  </message>
+  <message>
+    <original>覚者たちよ――
+目を凝らし、成り行きを見極めよ</original>
+  </message>
+  <message>
+    <original>→エリアミッション解放
+→王家の協力者解放
+→アチーブ報酬官解放
+→時間経過スポット②（経験値？）解放</original>
+  </message>
+</resource>

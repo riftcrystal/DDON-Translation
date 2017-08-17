@@ -169,4 +169,8 @@
     <original>(長押し)スキル切替</original>
     <translation>(Hold) Switch Skills</translation>
   </message>
+  <message>
+    <key>button_guide_Auto_Run</key>
+    <original>オートラン切り替え</original>
+  </message>
 </resource>

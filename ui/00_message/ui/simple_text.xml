@@ -1,782 +1,1094 @@
 ﻿<resource>
   <message>
     <key>simple_text_2388</key>
-    <original>初めまして</original>
+    <original>/d additem 14256 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--初めまして-->
     <translation>How do you do</translation>
   </message>
   <message>
     <key>simple_text_2389</key>
-    <original>よろしくお願いします</original>
+    <original>/d additem 14248 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--よろしくお願いします-->
     <translation>Nice to meet you</translation>
   </message>
   <message>
     <key>simple_text_2390</key>
-    <original>おはよう</original>
+    <original>/d additem 16112 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--おはよう-->
     <translation>Good morning</translation>
   </message>
   <message>
     <key>simple_text_2391</key>
-    <original>こんにちは</original>
+    <original>/d additem 16747 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--こんにちは-->
     <translation>Hello</translation>
   </message>
   <message>
     <key>simple_text_2392</key>
-    <original>こんばんは</original>
+    <original>/d additem 16748 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--こんばんは-->
     <translation>Good evening</translation>
   </message>
   <message>
     <key>simple_text_2393</key>
-    <original>おやすみなさい</original>
+    <original>/d additem 16167 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--おやすみなさい-->
     <translation>Good night</translation>
   </message>
   <message>
     <key>simple_text_2394</key>
-    <original>さようなら</original>
+    <original>/d additem 16168 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--さようなら-->
     <translation>Goodbye</translation>
   </message>
   <message>
     <key>simple_text_2395</key>
-    <original>今日は楽しかったです</original>
+    <original>/d additem 16169 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--今日は楽しかったです-->
     <translation>I had fun today</translation>
   </message>
   <message>
     <key>simple_text_2396</key>
-    <original>お疲れさまでした！</original>
+    <original>/d additem 11760 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--お疲れさまでした！-->
     <translation>Good work!</translation>
   </message>
   <message>
     <key>simple_text_2397</key>
-    <original>また遊びましょう</original>
+    <original>/d additem 16174 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--また遊びましょう-->
     <translation>Let's play together again sometime</translation>
   </message>
   <message>
     <key>simple_text_2398</key>
-    <original>ただいま</original>
+    <original>/d additem 17069 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ただいま-->
     <translation>I'm back</translation>
   </message>
   <message>
     <key>simple_text_2399</key>
-    <original>おかえり</original>
+    <original>/d additem 17070 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--おかえり-->
     <translation>Welcome back</translation>
   </message>
   <message>
     <key>simple_text_2400</key>
-    <original>おめでとう！</original>
+    <original>/d additem 17071 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--おめでとう！-->
     <translation>Congratulations!</translation>
   </message>
   <message>
     <key>simple_text_2401</key>
-    <original>よくやった！</original>
+    <original>/d additem 17072 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--よくやった！-->
     <translation>Good job!</translation>
   </message>
   <message>
     <key>simple_text_2402</key>
-    <original>がんばって！</original>
+    <original>/d additem 17073 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--がんばって！-->
     <translation>Good luck!</translation>
   </message>
   <message>
     <key>simple_text_2403</key>
-    <original>やったー！！！</original>
+    <original>/d additem 17074 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--やったー！！！-->
     <translation>All right!!!</translation>
   </message>
   <message>
     <key>simple_text_2404</key>
-    <original>ありがとう</original>
+    <original>/d additem 13226 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ありがとう-->
     <translation>Thank you</translation>
   </message>
   <message>
     <key>simple_text_2405</key>
-    <original>どういたしまして</original>
+    <original>/d additem 16134 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どういたしまして-->
     <translation>You're welcome</translation>
   </message>
   <message>
     <key>simple_text_2406</key>
-    <original>気を付けてください</original>
+    <original>/d additem 13227 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--気を付けてください-->
     <translation>Take care</translation>
   </message>
   <message>
     <key>simple_text_2407</key>
-    <original>ごめんなさい</original>
+    <original>/d additem 14252 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ごめんなさい-->
     <translation>I'm sorry</translation>
   </message>
   <message>
     <key>simple_text_2408</key>
-    <original>許してください</original>
+    <original>/d additem 16170 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--許してください-->
     <translation>Please forgive me</translation>
   </message>
   <message>
     <key>simple_text_2409</key>
-    <original>残念です</original>
+    <original>/d additem 16171 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--残念です-->
     <translation>That's too bad</translation>
   </message>
   <message>
     <key>simple_text_2411</key>
-    <original>ちょっといいですか？</original>
+    <original>/d additem 16172 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ちょっといいですか？-->
     <translation>Excuse me...</translation>
   </message>
   <message>
     <key>simple_text_2412</key>
-    <original>誰ですか？</original>
+    <original>/d additem 16173 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--誰ですか？-->
     <translation>Who?</translation>
   </message>
   <message>
     <key>simple_text_2413</key>
-    <original>どちらですか？</original>
+    <original>/d additem 16745 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どちらですか？-->
     <translation>Which?</translation>
   </message>
   <message>
     <key>simple_text_2414</key>
-    <original>どうすればいいですか？</original>
+    <original>/d additem 16746 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どうすればいいですか？-->
     <translation>How?</translation>
   </message>
   <message>
     <key>simple_text_2415</key>
-    <original>何ですか？</original>
+    <original>/d additem 17115 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--何ですか？-->
     <translation>What?</translation>
   </message>
   <message>
     <key>simple_text_2416</key>
-    <original>いつですか？</original>
+    <original>/d additem 17116 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いつですか？-->
     <translation>When?</translation>
   </message>
   <message>
     <key>simple_text_2417</key>
-    <original>いくつですか？</original>
+    <original>/d additem 17117 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いくつですか？-->
     <translation>How many?</translation>
   </message>
   <message>
     <key>simple_text_2419</key>
-    <original>どこにですか？</original>
+    <original>/d additem 17118 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どこにですか？-->
     <translation>Where to?</translation>
   </message>
   <message>
     <key>simple_text_2420</key>
-    <original>どこに行きますか？</original>
+    <original>/d additem 17119 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どこに行きますか？-->
     <translation>Where shall we go?</translation>
   </message>
   <message>
     <key>simple_text_2421</key>
-    <original>持っていますか？</original>
+    <original>/d additem 13225 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--持っていますか？-->
     <translation>Do you have it?</translation>
   </message>
   <message>
     <key>simple_text_2422</key>
-    <original>今どんな武器を持っていますか？</original>
+    <original>/d additem 13228 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--今どんな武器を持っていますか？-->
     <translation>What weapons can you use?</translation>
   </message>
   <message>
     <key>simple_text_2424</key>
-    <original>できますか？</original>
+    <original>/d additem 13229 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--できますか？-->
     <translation>Can you do it?</translation>
   </message>
   <message>
     <key>simple_text_2425</key>
-    <original>フレンドになってくれませんか？</original>
+    <original>/d additem 17134 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--フレンドになってくれませんか？-->
     <translation>Can I add you to my friend list?</translation>
   </message>
   <message>
     <key>simple_text_2426</key>
-    <original>休憩しませんか？</original>
+    <original>/d additem 17135 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--休憩しませんか？-->
     <translation>Shall we take a break?</translation>
   </message>
   <message>
     <key>simple_text_2427</key>
-    <original>助けはいりますか？</original>
+    <original>/d additem 17136 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--助けはいりますか？-->
     <translation>Do you need any help?</translation>
   </message>
   <message>
     <key>simple_text_2428</key>
-    <original>なぜですか？</original>
+    <original>/d additem 17137 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--なぜですか？-->
     <translation>Why?</translation>
   </message>
   <message>
     <key>simple_text_2429</key>
-    <original>どうしてですか？</original>
+    <original>/d additem 17138 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どうしてですか？-->
     <translation>How come?</translation>
   </message>
   <message>
     <key>simple_text_2430</key>
-    <original>クランに入りませんか？</original>
+    <original>/d additem 17139 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--クランに入りませんか？-->
     <translation>Do you want to join my clan?</translation>
   </message>
   <message>
     <key>simple_text_2433</key>
-    <original>クランに入れてくれませんか？</original>
+    <original>/d additem 17140 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--クランに入れてくれませんか？-->
     <translation>Can I join your clan?</translation>
   </message>
   <message>
     <key>simple_text_2434</key>
-    <original>グループチャットに入りませんか？</original>
+    <original>/d additem 17141 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--グループチャットに入りませんか？-->
     <translation>Do you want to join group chat?</translation>
   </message>
   <message>
     <key>simple_text_2435</key>
-    <original>グループチャットに入れてくれませんか？</original>
+    <original>/d additem 17142 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--グループチャットに入れてくれませんか？-->
     <translation>Can I join your group chat?</translation>
   </message>
   <message>
     <key>simple_text_2436</key>
-    <original>どのジョブを持っていますか？</original>
+    <original>/d additem 17143 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--どのジョブを持っていますか？-->
     <translation>Which job do you have?</translation>
   </message>
   <message>
     <key>simple_text_2437</key>
-    <original>他にどのジョブができますか？</original>
+    <original>/d additem 17144 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--他にどのジョブができますか？-->
     <translation>What other jobs can you do?</translation>
   </message>
   <message>
     <key>simple_text_2438</key>
-    <original>準備はできていますか？</original>
+    <original>/d additem 17133 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--準備はできていますか？-->
     <translation>Are you prepared?</translation>
   </message>
   <message>
     <key>simple_text_2439</key>
-    <original>わかりません</original>
+    <original>/d additem 13230 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--わかりません-->
     <translation>I don't understand</translation>
   </message>
   <message>
     <key>simple_text_2441</key>
-    <original>いりません</original>
+    <original>/d additem 16175 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いりません-->
     <translation>No thanks</translation>
   </message>
   <message>
     <key>simple_text_2442</key>
-    <original>はい、お願いします</original>
+    <original>/d additem 16176 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--はい、お願いします-->
     <translation>Yes, please</translation>
   </message>
   <message>
     <key>simple_text_2443</key>
-    <original>お願いします</original>
+    <original>/d additem 16749 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--お願いします-->
     <translation>If you would be so kind</translation>
   </message>
   <message>
     <key>simple_text_2444</key>
-    <original>わかりました</original>
+    <original>/d additem 16750 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--わかりました-->
     <translation>Understood</translation>
   </message>
   <message>
     <key>simple_text_2445</key>
-    <original>後でまたお話ししてください</original>
+    <original>/d additem 16857 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--後でまたお話ししてください-->
     <translation>Please tell me the story later</translation>
   </message>
   <message>
     <key>simple_text_2447</key>
-    <original>今は個人行動を優先中です</original>
+    <original>/d additem 17059 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--今は個人行動を優先中です-->
     <translation>Every man for themselves</translation>
   </message>
   <message>
     <key>simple_text_2448</key>
-    <original>答えたいですが、表現がわかりません</original>
+    <original>/d additem 17060 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--答えたいですが、表現がわかりません-->
     <translation>I want to answer, but I don't understand the expression.</translation>
   </message>
   <message>
     <key>simple_text_2449</key>
-    <original>なるほど</original>
+    <original>/d additem 17061 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--なるほど-->
     <translation>I see</translation>
   </message>
   <message>
     <key>simple_text_2450</key>
-    <original>せっかくですが遠慮します</original>
+    <original>/d additem 17062 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--せっかくですが遠慮します-->
     <translation>It's rare but I'll hold back</translation>
   </message>
   <message>
     <key>simple_text_2451</key>
-    <original>へぇー</original>
+    <original>/d additem 16177 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--へぇー-->
     <translation>That's interesting</translation>
   </message>
   <message>
     <key>simple_text_2454</key>
-    <original>えーっと――</original>
+    <original>/d additem 13232 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--えーっと――-->
     <translation>Um...</translation>
   </message>
   <message>
     <key>simple_text_2455</key>
-    <original>えっ！？</original>
+    <original>/d additem 13233 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--えっ！？-->
     <translation>Huh!?</translation>
   </message>
   <message>
     <key>simple_text_2456</key>
-    <original>本当に？</original>
+    <original>/d additem  1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--本当に？-->
     <translation>Really?</translation>
   </message>
   <message>
     <key>simple_text_2457</key>
-    <original>ＯＫ！</original>
+    <original>/d additem 13234 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ＯＫ！-->
     <translation>OK!</translation>
   </message>
   <message>
     <key>simple_text_2463</key>
-    <original>むむむ</original>
+    <original>/d additem  1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--むむむ-->
     <translation>Hmmm</translation>
   </message>
   <message>
     <key>simple_text_2464</key>
-    <original>もうすぐ別の予定があります</original>
+    <original>/d additem 13231 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--もうすぐ別の予定があります-->
     <translation>I don't have any other plans yet</translation>
   </message>
   <message>
     <key>simple_text_2466</key>
-    <original>はい</original>
+    <original>/d additem 13235 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--はい-->
     <translation>Yes</translation>
   </message>
   <message>
     <key>simple_text_2467</key>
-    <original>いいえ</original>
+    <original>/d additem 13236 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いいえ-->
     <translation>No</translation>
   </message>
   <message>
     <key>simple_text_2470</key>
-    <original>説明します</original>
+    <original>/d additem 13237 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--説明します-->
     <translation>I will explain</translation>
   </message>
   <message>
     <key>simple_text_2471</key>
-    <original>問題ないです</original>
+    <original>/d additem 13238 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--問題ないです-->
     <translation>I have no questions</translation>
   </message>
   <message>
     <key>simple_text_2472</key>
-    <original>できません</original>
+    <original>/d additem 16178 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--できません-->
     <translation>I can't</translation>
   </message>
   <message>
     <key>simple_text_2473</key>
-    <original>しないでください</original>
+    <original>/d additem 16179 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--しないでください-->
     <translation>Please don't do that</translation>
   </message>
   <message>
     <key>simple_text_2477</key>
-    <original>お任せします</original>
+    <original>/d additem 16180 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--お任せします-->
     <translation>I'll rely on you</translation>
   </message>
   <message>
     <key>simple_text_2478</key>
-    <original>仕事の時間です</original>
+    <original>/d additem 13239 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--仕事の時間です-->
     <translation>Time for work</translation>
   </message>
   <message>
     <key>simple_text_2479</key>
-    <original>約束があります</original>
+    <original>/d additem 14251 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--約束があります-->
     <translation>I have an appointment</translation>
   </message>
   <message>
     <key>simple_text_2482</key>
-    <original>眠くなりました</original>
+    <original>/d additem 16181 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--眠くなりました-->
     <translation>I'm sleepy</translation>
   </message>
   <message>
     <key>simple_text_2483</key>
-    <original>疲れました</original>
+    <original>/d additem 16751 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--疲れました-->
     <translation>I'm tired</translation>
   </message>
   <message>
     <key>simple_text_2484</key>
-    <original>用事があります</original>
+    <original>/d additem 16752 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--用事があります-->
     <translation>I have things to do</translation>
   </message>
   <message>
     <key>simple_text_2486</key>
-    <original>体調が悪いです</original>
+    <original>/d additem 13241 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--体調が悪いです-->
     <translation>I'm not feeling well</translation>
   </message>
   <message>
     <key>simple_text_2488</key>
-    <original>気が向きません</original>
+    <original>/d additem 13242 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--気が向きません-->
     <translation>I'm not up for it</translation>
   </message>
   <message>
     <key>simple_text_2489</key>
-    <original>興味があります</original>
+    <original>/d additem 13243 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--興味があります-->
     <translation>I'm interested</translation>
   </message>
   <message>
     <key>simple_text_2490</key>
-    <original>戦闘中です</original>
+    <original>/d additem 16186 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--戦闘中です-->
     <translation>I'm in the middle of a fight</translation>
   </message>
   <message>
     <key>simple_text_2491</key>
-    <original>お金を稼ぎたいです</original>
+    <original>/d additem 14249 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--お金を稼ぎたいです-->
     <translation>I want to make money</translation>
   </message>
   <message>
     <key>simple_text_2492</key>
-    <original>覚えていません</original>
+    <original>/d additem 14254 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--覚えていません-->
     <translation>I don't remember</translation>
   </message>
   <message>
     <key>simple_text_2493</key>
-    <original>知りません</original>
+    <original>/d additem 16753 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--知りません-->
     <translation>I don't know</translation>
   </message>
   <message>
     <key>simple_text_2495</key>
-    <original>使ったばかりです</original>
+    <original>/d additem 16754 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--使ったばかりです-->
     <translation>Just used it</translation>
   </message>
   <message>
     <key>simple_text_2496</key>
-    <original>経験値が欲しいです</original>
+    <original>/d additem 13244 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--経験値が欲しいです-->
     <translation>I want experience points</translation>
   </message>
   <message>
     <key>simple_text_2497</key>
-    <original>間違えました</original>
+    <original>/d additem 16187 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--間違えました-->
     <translation>Oops</translation>
   </message>
   <message>
     <key>simple_text_2498</key>
-    <original>すでに誘われています</original>
+    <original>/d additem 16188 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--すでに誘われています-->
     <translation>I already have an invite</translation>
   </message>
   <message>
     <key>simple_text_2499</key>
-    <original>すでに持っています</original>
+    <original>/d additem 17063 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--すでに持っています-->
     <translation>I already have one</translation>
   </message>
   <message>
     <key>simple_text_2501</key>
-    <original>募集が終わりました</original>
+    <original>/d additem 17064 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--募集が終わりました-->
     <translation>No longer recruiting</translation>
   </message>
   <message>
     <key>simple_text_2502</key>
-    <original>募集中です</original>
+    <original>/d additem 17065 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--募集中です-->
     <translation>Looking for members</translation>
   </message>
   <message>
     <key>simple_text_2504</key>
-    <original>集まってください</original>
+    <original>/d additem 17066 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--集まってください-->
     <translation>Gather together</translation>
   </message>
   <message>
     <key>simple_text_2505</key>
-    <original>一緒にやりませんか？</original>
+    <original>/d additem 17067 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--一緒にやりませんか？-->
     <translation>Team up?</translation>
   </message>
   <message>
     <key>simple_text_2507</key>
-    <original>１人ですか？</original>
+    <original>/d additem 16190 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--１人ですか？-->
     <translation>Are you alone?</translation>
   </message>
   <message>
     <key>simple_text_2509</key>
-    <original>空きはありますか？</original>
+    <original>/d additem 13245 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--空きはありますか？-->
     <translation>Any vacancies?</translation>
   </message>
   <message>
     <key>simple_text_2510</key>
-    <original>誘ってください</original>
+    <original>/d additem 14255 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--誘ってください-->
     <translation>Please invite me</translation>
   </message>
   <message>
     <key>simple_text_2512</key>
-    <original>入れてください</original>
+    <original>/d additem 16755 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--入れてください-->
     <translation>Please let me join</translation>
   </message>
   <message>
     <key>simple_text_2513</key>
-    <original>リーダーは誰ですか？</original>
+    <original>/d additem 16756 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--リーダーは誰ですか？-->
     <translation>Who is the leader?</translation>
   </message>
   <message>
     <key>simple_text_2515</key>
-    <original>こちらは短期間でもＯＫです</original>
+    <original>/d additem 13247 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--こちらは短期間でもＯＫです-->
     <translation>I only have a little time but OK.</translation>
   </message>
   <message>
     <key>simple_text_2516</key>
-    <original>フルパーティーです</original>
+    <original>/d additem 14250 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--フルパーティーです-->
     <translation>Party is full</translation>
   </message>
   <message>
     <key>simple_text_2518</key>
-    <original>手伝ってください</original>
+    <original>/d additem 16182 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--手伝ってください-->
     <translation>Please assist</translation>
   </message>
   <message>
     <key>simple_text_2522</key>
-    <original>解散します</original>
+    <original>/d additem 16183 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--解散します-->
     <translation>Disbanding</translation>
   </message>
   <message>
     <key>simple_text_2523</key>
-    <original>席を外します</original>
+    <original>/d additem 13246 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--席を外します-->
     <translation>Taking a break</translation>
   </message>
   <message>
     <key>simple_text_2527</key>
-    <original>レベル差が少ないほうがいいですね</original>
+    <original>/d additem 13248 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--レベル差が少ないほうがいいですね-->
     <translation>It's better to be within a few levels</translation>
   </message>
   <message>
     <key>simple_text_2529</key>
-    <original>タンク</original>
+    <original>/d additem 17145 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--タンク-->
     <translation>Tank</translation>
   </message>
   <message>
     <key>simple_text_2530</key>
-    <original>近距離アタッカー</original>
+    <original>/d additem 17146 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--近距離アタッカー-->
     <translation>Short distance attacks</translation>
   </message>
   <message>
     <key>simple_text_2533</key>
-    <original>遠距離アタッカー</original>
+    <original>/d additem 17147 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--遠距離アタッカー-->
     <translation>Long distance attacks</translation>
   </message>
   <message>
     <key>simple_text_2534</key>
-    <original>ヒーラー</original>
+    <original>/d additem 17148 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ヒーラー-->
     <translation>Healer</translation>
   </message>
   <message>
     <key>simple_text_2537</key>
-    <original>強化役</original>
+    <original>/d additem 17149 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--強化役-->
     <translation>Buffer</translation>
   </message>
   <message>
     <key>simple_text_2538</key>
-    <original>魔法攻撃役</original>
+    <original>/d additem 17150 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--魔法攻撃役-->
     <translation>Caster</translation>
   </message>
   <message>
     <key>simple_text_2539</key>
-    <original>参加を希望します</original>
+    <original>/d additem 17151 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--参加を希望します-->
     <translation>I hope I can participate</translation>
   </message>
   <message>
     <key>simple_text_2540</key>
-    <original>ソロ</original>
+    <original>/d additem 17152 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ソロ-->
     <translation>Solo</translation>
   </message>
   <message>
     <key>simple_text_9069</key>
-    <original>リーダー</original>
+    <original>/d additem 13251 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--リーダー-->
     <translation>Leader</translation>
   </message>
   <message>
     <key>simple_text_9070</key>
-    <original>ポーンを参加させます</original>
+    <original>/d additem 13252 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ポーンを参加させます-->
     <translation>Pawns can participate</translation>
   </message>
   <message>
     <key>simple_text_9071</key>
-    <original>引きつける！</original>
+    <original>/d additem 13253 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--引きつける！-->
     <translation>Attract!</translation>
   </message>
   <message>
     <key>simple_text_9072</key>
-    <original>助けてくれ！</original>
+    <original>/d additem 13792 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--助けてくれ！-->
     <translation>Help me!</translation>
   </message>
   <message>
     <key>simple_text_9073</key>
-    <original>回復を頼む</original>
+    <original>/d additem 17086 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--回復を頼む-->
     <translation>Requesting healing</translation>
   </message>
   <message>
     <key>simple_text_9074</key>
-    <original>回復する！</original>
+    <original>/d additem 17087 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--回復する！-->
     <translation>Healing!</translation>
   </message>
   <message>
     <key>simple_text_9075</key>
-    <original>跳ね上げる！</original>
+    <original>/d additem 17088 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--跳ね上げる！-->
     <translation>Leap!</translation>
   </message>
   <message>
     <key>simple_text_9076</key>
-    <original>こっちだ</original>
+    <original>/d additem 17089 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--こっちだ-->
     <translation>Here</translation>
   </message>
   <message>
     <key>simple_text_9077</key>
-    <original>いまだ、攻撃を！</original>
+    <original>/d additem 17090 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いまだ、攻撃を！-->
     <translation>Once more, attack!</translation>
   </message>
   <message>
     <key>simple_text_9078</key>
-    <original>退くぞ！</original>
+    <original>/d additem 17091 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--退くぞ！-->
     <translation>Get back!</translation>
   </message>
   <message>
     <key>simple_text_9079</key>
-    <original>引きつける！</original>
+    <original>/d additem 17092 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--引きつける！-->
     <translation>Attract!</translation>
   </message>
   <message>
     <key>simple_text_9080</key>
-    <original>助けて！</original>
+    <original>/d additem 17093 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--助けて！-->
     <translation>Help me out!</translation>
   </message>
   <message>
     <key>simple_text_9081</key>
-    <original>回復をお願い</original>
+    <original>/d additem 17094 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--回復をお願い-->
     <translation>Please heal me</translation>
   </message>
   <message>
     <key>simple_text_9082</key>
-    <original>回復します！</original>
+    <original>/d additem 17095 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--回復します！-->
     <translation>I'll heal!</translation>
   </message>
   <message>
     <key>simple_text_9083</key>
-    <original>跳ね上げます！</original>
+    <original>/d additem 17096 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--跳ね上げます！-->
     <translation>Jump!</translation>
   </message>
   <message>
     <key>simple_text_9084</key>
-    <original>こっちです</original>
+    <original>/d additem 16113 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--こっちです-->
     <translation>This way</translation>
   </message>
   <message>
     <key>simple_text_9085</key>
-    <original>いまこそ、攻撃を！</original>
+    <original>/d additem 16184 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--いまこそ、攻撃を！-->
     <translation>Now, attack!</translation>
   </message>
   <message>
     <key>simple_text_9086</key>
-    <original>退きましょう！</original>
+    <original>/d additem 16185 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--退きましょう！-->
     <translation>Withdraw!</translation>
   </message>
   <message>
     <key>simple_text_9087</key>
-    <original>ついてきてください</original>
+    <original>/d additem 17105 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ついてきてください-->
     <translation>Please follow</translation>
   </message>
   <message>
     <key>simple_text_9088</key>
-    <original>ついていきます</original>
+    <original>/d additem 13240 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ついていきます-->
     <translation>I'll follow you</translation>
   </message>
   <message>
     <key>simple_text_9089</key>
-    <original>調べてみてください</original>
+    <original>/d additem 16114 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--調べてみてください-->
     <translation>Please check it</translation>
   </message>
   <message>
     <key>simple_text_9090</key>
-    <original>見つけました</original>
+    <original>/d additem 16727 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--見つけました-->
     <translation>Found it</translation>
   </message>
   <message>
     <key>simple_text_9091</key>
-    <original>全力で攻撃！</original>
+    <original>/d additem 17370 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--全力で攻撃！-->
     <translation>Full attack!</translation>
   </message>
   <message>
     <key>simple_text_9092</key>
-    <original>少し下がってください</original>
+    <original>/d additem 17371 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--少し下がってください-->
     <translation>Please move down a bit and give me a little distance</translation>
   </message>
   <message>
     <key>simple_text_9093</key>
-    <original>敵に注視されぬよう気をつけてください</original>
+    <original>/d additem 17372 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵に注視されぬよう気をつけてください-->
     <translation>Please be careful and keep an eye out for enemies</translation>
   </message>
   <message>
     <key>simple_text_9094</key>
-    <original>これを先にやっつけて！</original>
+    <original>/d additem 16122 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--これを先にやっつけて！-->
     <translation>Defeat this one first!</translation>
   </message>
   <message>
     <key>simple_text_9095</key>
-    <original>攻撃しないでください</original>
+    <original>/d additem 16123 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--攻撃しないでください-->
     <translation>Please don't attack</translation>
   </message>
   <message>
     <key>simple_text_9096</key>
-    <original>無効化してください</original>
+    <original>/d additem 16124 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--無効化してください-->
     <translation>Please deactivate it</translation>
   </message>
   <message>
     <key>simple_text_9097</key>
-    <original>支援行動をお願いします！</original>
+    <original>/d additem 16125 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--支援行動をお願いします！-->
     <translation>Please give me aid!</translation>
   </message>
   <message>
     <key>simple_text_9098</key>
-    <original>逃げて！</original>
+    <original>/d additem 16126 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--逃げて！-->
     <translation>Run away!</translation>
   </message>
   <message>
     <key>simple_text_9099</key>
-    <original>行動不能！　助けて！！！</original>
+    <original>/d additem 16127 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--行動不能！　助けて！！！-->
     <translation>Down! Help me out!!!</translation>
   </message>
   <message>
     <key>simple_text_9100</key>
-    <original>待機します</original>
+    <original>/d additem 16128 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--待機します-->
     <translation>Standing by</translation>
   </message>
   <message>
     <key>simple_text_9101</key>
-    <original>なくなりました</original>
+    <original>/d additem 16129 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--なくなりました-->
     <translation>None left</translation>
   </message>
   <message>
     <key>simple_text_9102</key>
-    <original>ありません</original>
+    <original>/d additem 16130 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--ありません-->
     <translation>Don't have it</translation>
   </message>
   <message>
     <key>simple_text_9103</key>
-    <original>準備完了！</original>
+    <original>/d additem 16131 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--準備完了！-->
     <translation>Ready!</translation>
   </message>
   <message>
     <key>simple_text_9104</key>
-    <original>使ってください</original>
+    <original>/d additem 16132 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--使ってください-->
     <translation>Please use it</translation>
   </message>
   <message>
     <key>simple_text_9105</key>
-    <original>休憩しましょう</original>
+    <original>/d additem 16133 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--休憩しましょう-->
     <translation>Let's rest for a while</translation>
   </message>
   <message>
     <key>simple_text_9106</key>
-    <original>しがみつきます</original>
+    <original>/d additem 17097 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--しがみつきます-->
     <translation>Hang onto it</translation>
   </message>
   <message>
     <key>simple_text_9107</key>
-    <original>敵を引きつけます</original>
+    <original>/d additem 17098 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵を引きつけます-->
     <translation>Drawing enemy over</translation>
   </message>
   <message>
     <key>simple_text_9108</key>
-    <original>待ってください</original>
+    <original>/d additem 17099 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--待ってください-->
     <translation>Wait, please</translation>
   </message>
   <message>
     <key>simple_text_9109</key>
-    <original>現地に集合しましょう</original>
+    <original>/d additem 17100 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--現地に集合しましょう-->
     <translation>Let's meet there</translation>
   </message>
   <message>
     <key>simple_text_9110</key>
-    <original>そこにいてください</original>
+    <original>/d additem 17101 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--そこにいてください-->
     <translation>Stay there</translation>
   </message>
   <message>
     <key>simple_text_9111</key>
-    <original>これから向かいます</original>
+    <original>/d additem 17102 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--これから向かいます-->
     <translation>On my way</translation>
   </message>
   <message>
     <key>simple_text_9112</key>
-    <original>すぐ戻ります</original>
+    <original>/d additem 17103 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--すぐ戻ります-->
     <translation>Will be right back</translation>
   </message>
   <message>
     <key>simple_text_9113</key>
-    <original>がんばりましょう！</original>
+    <original>/d additem 17104 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--がんばりましょう！-->
     <translation>Let's do our best!</translation>
   </message>
   <message>
     <key>simple_text_9114</key>
-    <original>がんばります！</original>
+    <original>/d additem 17153 1 1</original>
+    <!-- NEEDS REVIEW -->
+    <!--がんばります！-->
     <translation>I'll do my best!</translation>
   </message>
   <message>

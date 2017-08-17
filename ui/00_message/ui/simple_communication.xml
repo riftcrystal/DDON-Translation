@@ -97,4 +97,17 @@
     <original>コミュニケーション</original>
     <translation>Communication</translation>
   </message>
+  <message>
+    <key>SC_MSG_DIALOG_TOLL</key>
+    <original>選択したボイス定型文は未購入の定型文です
+オンラインショップで購入できます</original>
+  </message>
+  <message>
+    <key>SC_MSG_DIALOG_TOLL_ITEM1</key>
+    <original>オンラインショップで購入する</original>
+  </message>
+  <message>
+    <key>SC_MSG_GUIDE_AUDITION</key>
+    <original>試聴</original>
+  </message>
 </resource>

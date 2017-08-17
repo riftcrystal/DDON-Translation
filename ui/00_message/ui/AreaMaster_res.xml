@@ -315,4 +315,32 @@ Let's use it to confirm spot information.</translation>
     <original>派遣数</original>
     <translation>Dispatch Num</translation>
   </message>
+  <message>
+    <key>areamaster_msg_spot_open</key>
+    <original>&lt;COL ffdc78&gt;現在開放中！&lt;/COL&gt;閉鎖まで</original>
+  </message>
+  <message>
+    <key>areamaster_msg_spot_close</key>
+    <original>現在は開放されていません。開放まで</original>
+  </message>
+  <message>
+    <key>areamaster_msg_release_condition</key>
+    <original>解放条件</original>
+  </message>
+  <message>
+    <key>areamaster_msg_release_rank</key>
+    <original>エリアランク&lt;VAL&gt;に到達</original>
+  </message>
+  <message>
+    <key>areamaster_msg_release_personal_quest</key>
+    <original>クエスト＜&lt;VAL&gt;＞を進行、またはクリア</original>
+  </message>
+  <message>
+    <key>areamaster_msg_release_limited</key>
+    <original>特定の時間帯にのみ開放</original>
+  </message>
+  <message>
+    <key>areamaster_msg_hot_growth_spot</key>
+    <original>&lt;COL ffdc78&gt;スポットボス&lt;/COL&gt;出現中！</original>
+  </message>
 </resource>

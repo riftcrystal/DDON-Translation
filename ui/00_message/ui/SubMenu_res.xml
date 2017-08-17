@@ -314,4 +314,12 @@
     <original>クランの権限設定</original>
     <translation>Clan Permissions</translation>
   </message>
+  <message>
+    <key>msg_SUB_MENU_CHAT_ADDRESS_MEMO</key>
+    <original>メモする</original>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_CHECK_GROWTH</key>
+    <original>調子をたずねる</original>
+  </message>
 </resource>

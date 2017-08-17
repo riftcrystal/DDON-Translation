@@ -1,0 +1,66 @@
+﻿<resource>
+  <message>
+    <original>あら――旅のお方、私に何かご用です？
+私は&lt;NPC 605&gt;と申します
+どうぞお見知りおきを</original>
+  </message>
+  <message>
+    <original>まぁ、随分とご立派な装備――
+さぞ腕が立つのでしょうね
+貴方も奉仕活動のためにこの村へ？
+せっかく訪れられたのに残念ですわ</original>
+  </message>
+  <message>
+    <original>あら、ご存じない？
+物資輸送部隊が出先で事故にあったようで
+この村の医療活動は滞っている状態なの
+魔法で繋いでいるけれど、状態は良くない様子――</original>
+  </message>
+  <message>
+    <original>――ねえ貴方、もし問題がなければ
+様子を見に行って下さらない？
+彼らは《&lt;SPOT 1107&gt;》へ向かったそうよ
+オーク軍に遭遇していたら、戦士の手が必要だもの</original>
+  </message>
+  <message>
+    <original>護衛兵は数人いるそうだけれど、オーク軍に遭ったら
+ひとたまりもないでしょうね――
+私がもう少し早く訪れていれば
+同行して差し上げられたのだけれど</original>
+  </message>
+  <message>
+    <original>ねえ貴方、様子を見に行ってくださらないかしら？
+彼らは《&lt;SPOT 1107&gt;》の方へ向かったそう
+オーク軍に遭遇していたら、戦士の手が必要だもの</original>
+  </message>
+  <message>
+    <original>無事お帰りになられたのね
+それで、輸送部隊の方たちは――？</original>
+  </message>
+  <message>
+    <original>――そんな
+まさか、本当にオーク軍と？
+私が――私がもう少し、早く訪れていたら</original>
+  </message>
+  <message>
+    <original>その――戦士さん
+彼らの仇を討ってくださって、感謝いたします
+私は、ここでもう少し力を尽くします
+出来る限りのことを、せめて――</original>
+  </message>
+  <message>
+    <original>無事お帰りになられたのね
+それで、輸送部隊の方たちは――？</original>
+  </message>
+  <message>
+    <original>――なんですって
+そんなに恐ろしい魔物たちが？
+あぁ、私が同行さえしていたら――！</original>
+  </message>
+  <message>
+    <original>戦士さん、危険な魔物たちを討伐してくださって
+本当に感謝致しますわ
+やはり、悪しき竜力の影響なのでしょうか――
+敵はオークだけじゃないなんて、前途多難ですわね</original>
+  </message>
+</resource>

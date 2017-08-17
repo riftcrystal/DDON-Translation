@@ -192,4 +192,8 @@ the Pawn Expedition Corps normally?</translation>
     <original>ポーン遠征隊が解放されていません
 ポーン遠征隊は拠点拡張から購入できます</original>
   </message>
+  <message>
+    <key>pop_buff_bonus_title</key>
+    <original>Special Bonus Buff</original>
+  </message>
 </resource>

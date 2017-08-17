@@ -535,4 +535,49 @@
 エントリーボード招待やパーティー招待などの機能を
 使用して、他のプレイヤーを募集することが可能です</original>
   </message>
+  <message>
+    <key>entry_board_mission_pb_type01_info</key>
+    <original>インフォメーション</original>
+  </message>
+  <message>
+    <key>entry_board_mission_pb_type01_info_txt</key>
+    <original>パーティー募集掲示板で集合したパーティーは
+特定コンテンツ用パーティーではなく
+通常のパーティーとなります
+特定コンテンツに参加するには、
+対象のコンテンツNPCのエントリーボードを
+使用してください</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_dp_pos</key>
+    <original>&lt;UNTN DP&gt;</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_dp_acc</key>
+    <original>ウォーミッション累積ポイント</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_info</key>
+    <original>ランク詳細（指定&lt;UNIT DP&gt;以上）</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_s</key>
+    <original>Ｓランク ： &lt;VAL DP&gt;</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_a</key>
+    <original>Ａランク ： &lt;VAL DP&gt;</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_b</key>
+    <original>Ｂランク ： &lt;VAL DP&gt;</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_c</key>
+    <original>Ｃランク ： &lt;VAL DP&gt;</original>
+  </message>
+  <message>
+    <key>entry_board_wm_rank_d</key>
+    <original>Ｄランク ： &lt;VAL DP&gt;</original>
+  </message>
 </resource>

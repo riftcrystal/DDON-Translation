@@ -1,0 +1,63 @@
+﻿<resource>
+  <message>
+    <key>MandraBook_msg001</key>
+    <original>Mandragora Dictionary</original>
+  </message>
+  <message>
+    <key>MandraBook_msg002</key>
+    <original>マンドラゴラ生態図鑑</original>
+  </message>
+  <message>
+    <key>MandraBook_msg003</key>
+    <original>Category</original>
+  </message>
+  <message>
+    <key>MandraBook_msg004</key>
+    <original>リスト</original>
+  </message>
+  <message>
+    <key>MandraBook_msg005</key>
+    <original>No.</original>
+  </message>
+  <message>
+    <key>MandraBook_msg006</key>
+    <original>NEW</original>
+  </message>
+  <message>
+    <key>MandraBook_msg007</key>
+    <original>項目はありません</original>
+  </message>
+  <message>
+    <key>MandraBook_msg008</key>
+    <original>Rarity</original>
+  </message>
+  <message>
+    <key>MandraBook_msg009</key>
+    <original>Details</original>
+  </message>
+  <message>
+    <key>MandraBook_msg010</key>
+    <original>First Discovery</original>
+  </message>
+  <message>
+    <key>MandraBook_msg011</key>
+    <original>見た目を変更する</original>
+  </message>
+  <message>
+    <key>MandraBook_msg012</key>
+    <original>&lt;VAL&gt;に
+見た目を変更しますか？</original>
+  </message>
+  <message>
+    <key>MandraBook_msg013</key>
+    <original>&lt;VAL&gt;の見た目を変更しました</original>
+  </message>
+  <message>
+    <key>MandraBook_msg014</key>
+    <original>生態を確認する</original>
+  </message>
+  <message>
+    <key>MandraBook_msg015</key>
+    <original>設定中</original>
+  </message>
+</resource>

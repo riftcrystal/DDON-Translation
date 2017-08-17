@@ -1,0 +1,396 @@
+﻿<resource>
+  <message>
+    <original>《ベルタ盗賊団のアジト》への食料支援も順調だね！
+さて、荷物の準備もできたから
+今日もまた行きたいな！</original>
+  </message>
+  <message>
+    <original>よーし！
+そうこなくっちゃね！</original>
+  </message>
+  <message>
+    <original>アタシはいつでも大丈夫だから
+準備できたら声かけてね！</original>
+  </message>
+  <message>
+    <original>あ、もう準備できた？
+それじゃあさっそく出発しよう
+盗賊さんのアジトまでの道だけど――</original>
+  </message>
+  <message>
+    <original>《大きな街道》は、
+野営地との間にある一番大きい道で、安全安心！
+食料はあんまりたくさんは見つからないけどね</original>
+  </message>
+  <message>
+    <original>《外れにある関所》は、めったに人も通らないし
+手強い魔物がいてもおかしくなさそう――
+でも、手付かずの食料はたくさん見つかるかも！</original>
+  </message>
+  <message>
+    <original>今回はどっちの道で行く？</original>
+  </message>
+  <message>
+    <original>《大きな街道》（ふつう）</original>
+  </message>
+  <message>
+    <original>《外れにある関所》（危険）</original>
+  </message>
+  <message>
+    <original>わかった！
+街道は砦からそんなに離れてないし
+食料を運ぶのにも慣れてきたから大丈夫</original>
+  </message>
+  <message>
+    <original>それじゃあ
+早速出発しよう！</original>
+  </message>
+  <message>
+    <original>やっぱり、苦労しないと
+いいものは得られないよね！</original>
+  </message>
+  <message>
+    <original>魔物が出たら――その時はその時！
+討伐の方はよろしくね</original>
+  </message>
+  <message>
+    <original>食料を探すなら、この辺が良さそうかな
+よし！　あっちに行ってみよう</original>
+  </message>
+  <message>
+    <original>ここはもう何もなさそうだね
+次にここから近い場所は――と</original>
+  </message>
+  <message>
+    <original>《見通しのいい森》は、魔物が出たとしても
+あなたならきっと軽く倒せるんじゃないかな
+食料はそんなに無い場所だけど</original>
+  </message>
+  <message>
+    <original>《嫌な思い出の湖畔》は――
+前に“アイツ”がいたよね？
+食料があるとか、そういう問題じゃなく――！</original>
+  </message>
+  <message>
+    <original>今、手持ちの食料はこれだけあるけど――
+アタシの気持ちも考えたうえで決めてね
+進路はあなたに託すよ！</original>
+  </message>
+  <message>
+    <original>《見通しのいい森》（ふつう）</original>
+  </message>
+  <message>
+    <original>《嫌な思い出の湖畔》（難しい）</original>
+  </message>
+  <message>
+    <original>うんうん、実に“賢明な判断”！
+気軽にお散歩しながら食料確保できるからね
+最高のルートだと思うな</original>
+  </message>
+  <message>
+    <original>ほら、あなたの気が変わらないうちに行くよ！</original>
+  </message>
+  <message>
+    <original>うっ――
+食料の量に目がくらんで
+この案を出したアタシの負けだわ――</original>
+  </message>
+  <message>
+    <original>いや、この案を出したってことは
+アタシも食料確保に行きたかったの、かも――
+そ、それじゃ、行こうか</original>
+  </message>
+  <message>
+    <original>アタシの“ダッシュ食料探し”も
+もはや職人の域だね！</original>
+  </message>
+  <message>
+    <original>あ、そうそう！
+ローナが罠を仕掛けてくれてるからさ
+盗賊のアジトに行く前に
+様子、見に行こうよ！</original>
+  </message>
+  <message>
+    <original>今の所、魔物なしっと――
+さて、ちょっと食料探して来るね！</original>
+  </message>
+  <message>
+    <original>もし、魔物が現れたら――
+そのときはいつもみたいにお願い</original>
+  </message>
+  <message>
+    <original>うーん、こんなもんかな？
+今回は魔物出なくて良かったね！</original>
+  </message>
+  <message>
+    <original>おんなじ場所でも
+いたりいなかったりするよね
+どの場所から来たかで、変わったりするのかな？</original>
+  </message>
+  <message>
+    <original>そう言えば――檻に入ってる動物も
+大変な思いした時の方が
+いい結果な気がするのは気のせいかなぁ</original>
+  </message>
+  <message>
+    <original>そう思うと、ちょっと気になるよね？
+よし！　さっそく檻の様子見に行こっか！</original>
+  </message>
+  <message>
+    <original>よーし！
+今回は食料十分！</original>
+  </message>
+  <message>
+    <original>そうだ！
+盗賊のスニーカーさんが教えてくれた
+“秘密のスポット”行っちゃわない？</original>
+  </message>
+  <message>
+    <original>行く</original>
+  </message>
+  <message>
+    <original>行かない</original>
+  </message>
+  <message>
+    <original>この辺りのことはよく知らないから
+気合い入れてくよ！</original>
+  </message>
+  <message>
+    <original>え――
+なんか、つまんないなぁ</original>
+  </message>
+  <message>
+    <original>じゃあ、このまま
+盗賊のアジトに行こっか</original>
+  </message>
+  <message>
+    <original>うーん――
+あまり食料はとれなかったけど
+そろそろ盗賊のアジトへ向かおうか</original>
+  </message>
+  <message>
+    <original>次は、別のルートも通ってみたいな！
+色んなところで食料探しするの
+ちょっとした楽しみなんだ</original>
+  </message>
+  <message>
+    <original>魔物に追いかけ回されたけど
+隙を見て食料集めといたよ！
+さて、ここから先だけど――</original>
+  </message>
+  <message>
+    <original>《見通しのいい森》は、魔物が出たとしても
+あなたならきっと軽く倒せるんじゃないかな
+食料はそんなに無い場所だけど</original>
+  </message>
+  <message>
+    <original>《嫌な思い出の湖畔》は――
+前に“アイツ”がいたよね？
+食料があるとか、そういう問題じゃなく――！</original>
+  </message>
+  <message>
+    <original>今、手持ちの食料はこれだけあるけど――
+アタシの気持ちも考えたうえで決めてね
+進路はあなたに託すよ！</original>
+  </message>
+  <message>
+    <original>《見通しのいい森》（ふつう）</original>
+  </message>
+  <message>
+    <original>《嫌な思い出の湖畔》（危険）</original>
+  </message>
+  <message>
+    <original>うんうん、実に“賢明な判断”！
+気軽にお散歩しながら食料確保できるからね
+最高のルートだと思うな</original>
+  </message>
+  <message>
+    <original>ほら、あなたの気が変わらないうちに行くよ！</original>
+  </message>
+  <message>
+    <original>うっ――
+食料の量に目がくらんで
+この案を出したアタシの負けだわ――</original>
+  </message>
+  <message>
+    <original>いや、この案を出したってことは
+アタシも食料確保に行きたかったの、かも――
+そ、それじゃ、行こうか</original>
+  </message>
+  <message>
+    <original>ほら！　ほら！
+やっぱり“アイツ”が出たじゃない！</original>
+  </message>
+  <message>
+    <original>もう訳わかんなくなって
+そこら中に埋めまくっちゃったから
+食料どこにいったかわかんないよ！</original>
+  </message>
+  <message>
+    <original>――て、あれ？
+なんか重たい気がするな、この袋</original>
+  </message>
+  <message>
+    <original>ヒッ――入ってる――
+なんか、“尻尾”みたいなものが――</original>
+  </message>
+  <message>
+    <original>ねぇ！
+これって“アイツ”のだよね！？
+アタシ、混乱のあまり――
+食料埋めた手で“アイツ”の尻尾を！？</original>
+  </message>
+  <message>
+    <original>イヤよ！！
+アタシこんなの食料だなんて認めな――</original>
+  </message>
+  <message>
+    <original>ん――？　いない！
+“アイツ”らがいない！　やったぁ！</original>
+  </message>
+  <message>
+    <original>しょ、食料探すけど
+アタシから絶対離れないでね！</original>
+  </message>
+  <message>
+    <original>よ、よし――
+最後まで出なかった、“アイツ”
+よかった――</original>
+  </message>
+  <message>
+    <original>こんなとこ、さっさとおさらばして
+檻のところに行こう！
+盗賊さんも待ってるし、急ごう！</original>
+  </message>
+  <message>
+    <original>“秘密のスポット”に到着！
+危険と食料が隣り合わせのこの匂い――
+何が起きるか分かんないから、全力で行くよ！</original>
+  </message>
+  <message>
+    <original>もし魔物が出たら――
+限界までは食料探しに粘るけど
+危なくなったらここを脱出するからよろしく！</original>
+  </message>
+  <message>
+    <original>盗賊のアジト方面に逃げたいから
+アタシとブラッドを
+そこまで連れてってね！</original>
+  </message>
+  <message>
+    <original>では――
+“食料大量大作戦”開始！</original>
+  </message>
+  <message>
+    <original>キャリーが“盗賊からの変な情報”で
+興奮気味だったと聞いたから
+嫌な予感がして追いかけてきたんだ</original>
+  </message>
+  <message>
+    <original>盗賊のいうような胡散臭い話で
+危険な目に合わせるわけにいかないからな</original>
+  </message>
+  <message>
+    <original>見たところ、ここはどう考えてもやばい場所だ――
+俺と、覚者さんでキャリーのこと守らないとな</original>
+  </message>
+  <message>
+    <original>脱出するときは、覚者さんが先導してくれ
+後ろは俺が引き受ける</original>
+  </message>
+  <message>
+    <original>エクストラ頑張った（仮）</original>
+  </message>
+  <message>
+    <original>みんな、無事か！
+予感が的中したな――
+いや、考えていた以上の有様だった</original>
+  </message>
+  <message>
+    <original>やっぱり、盗賊の話なんて真に受けても
+ロクなことにならないな</original>
+  </message>
+  <message>
+    <original>まぁ、当のキャリーは
+目を輝かせて食料探しまくってたみたいだが</original>
+  </message>
+  <message>
+    <original>とにかく――なんとかなって良かった
+覚者さん、ありがとうな</original>
+  </message>
+  <message>
+    <original>あー、危ないところだったね
+ここってば魔物だらけじゃない！</original>
+  </message>
+  <message>
+    <original>確かに食料はたくさんあったけど
+命がけになっちゃうね――</original>
+  </message>
+  <message>
+    <original>さて、なんとか食料は守りきったし
+盗賊のアジトへ行こっか！</original>
+  </message>
+  <message>
+    <original>ふぅ！
+なんとか盗賊のアジトまでたどり着いたね</original>
+  </message>
+  <message>
+    <original>運んできた食料を整理しておくから
+スニーカーさんに一声かけてきて！</original>
+  </message>
+  <message>
+    <original>本当に、俺ら盗賊に
+ここまでしてくださるなんて――
+その優しさに視界がぼやけちまいます</original>
+  </message>
+  <message>
+    <original>キャリーの姐さんに
+「ありがとうございやした！」
+と、お伝えくだせぇ！</original>
+  </message>
+  <message>
+    <original>え――
+スニーカーさんってば
+そんなによろこんでくれてたの？</original>
+  </message>
+  <message>
+    <original>苦労して運んできた甲斐があったね！
+それじゃあ、アタシたちは砦に帰ろっか！</original>
+  </message>
+  <message>
+    <original>今回は食料を無事運べてよかったね！</original>
+  </message>
+  <message>
+    <original>でも、余裕のある状況じゃないから
+また食料運搬、手伝ってね！</original>
+  </message>
+  <message>
+    <original>うーん、一番安全なルートで来たけど
+やっぱり食料はそんなに集まらなかったね――</original>
+  </message>
+  <message>
+    <original>檻の中もネズミばっかり！
+さすがにこれは食べられないよ――</original>
+  </message>
+  <message>
+    <original>うん！　そこそこ頑張ったよね！</original>
+  </message>
+  <message>
+    <original>檻にも食べられる動物かかってるし！
+でかいネズミもいるけどさ――</original>
+  </message>
+  <message>
+    <original>見て！　ほら、檻の中！
+大好きなブタさんと、でっかい牛まで入ってるよ！</original>
+  </message>
+  <message>
+    <original>これはかなりの食料になるね！
+困難を乗り越えたアタシたちへのご褒美かな！</original>
+  </message>
+  <message>
+    <original>あと！　あともうちょっとだけ待って！</original>
+  </message>
+  <message>
+    <original>よし――いける！　すぐに脱出するよ！</original>
+  </message>
+</resource>

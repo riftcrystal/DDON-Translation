@@ -69,4 +69,12 @@
     <original>穿ち接射</original>
     <translation>Combined Pierce Shot</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_162</key>
+    <original>連なり射ち 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_163</key>
+    <original>連なり射ち 技</original>
+  </message>
 </resource>

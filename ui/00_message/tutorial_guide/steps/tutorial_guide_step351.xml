@@ -1,0 +1,28 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_605</key>
+    <original>ウォーミッションでは、敵軍と自軍の戦況を表す
+&lt;COL ffdc78&gt;《戦況ゲージ》&lt;/COL&gt;が表示されます
+
+時間経過や、パーティーメンバーの死亡など、
+敵軍に有利な状態になると戦況ゲージの赤い部分が
+自軍を示す青い部分を押しやり
+戦況が悪化していることを表します</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_606</key>
+    <original>逆に、敵軍を討伐したり、砦内に攻め入るなど
+自軍に有利な状態になると戦況ゲージの青い部分が
+敵軍を示す赤い部分を押しやり
+戦況が好転したことを表します</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_607</key>
+    <original>戦況の悪化と好転により
+ミッション中様々なことが起こります
+
+臨機応変にその場の状況を読み
+戦況の好転を続けてミッションを進め
+より素早く敵軍を殲滅していきましょう</original>
+  </message>
+</resource>

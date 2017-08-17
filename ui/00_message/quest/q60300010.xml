@@ -1,0 +1,144 @@
+﻿<resource>
+  <message>
+    <original>まあ、自室を改築されたんですね
+ちょうど良かった――
+実は、ポーン郷からあなたに
+贈り物が届いているんです</original>
+  </message>
+  <message>
+    <original>なんでも、“ポーンの叡智を強化する
+不思議なベル”とのことですよ
+お部屋が広くなったのなら、ベルの１つや２つ
+置いても大丈夫そうですね！</original>
+  </message>
+  <message>
+    <original>ただ――このベル、神殿で調べたところ
+ずいぶん古いものらしくて
+このままではただの置物も同然――
+本来の用途に使えないようなんです</original>
+  </message>
+  <message>
+    <original>そこで、多少この手の知識がある私が
+配達を請け負ったというわけです
+私なら、鉱石から力を引き出して
+このベルを目覚めさせることができますから</original>
+  </message>
+  <message>
+    <original>ベルを目覚めさせるには
+希少な鉱石が必要なんです
+鉱石の種類によって、必要な個数が異なるのですが
+どちらが集めやすいですか？</original>
+  </message>
+  <message>
+    <original>&lt;QDEL NAME 1 1&gt;の納品（多め）</original>
+  </message>
+  <message>
+    <original>&lt;QDEL NAME 2 1&gt;の納品（少）</original>
+  </message>
+  <message>
+    <original>――少し考えさせてほしい</original>
+  </message>
+  <message>
+    <original>&lt;QDEL NAME 1 1&gt;を
+集めていただけるのですね
+では――鉱石が集まるまでお待ちしていますね</original>
+  </message>
+  <message>
+    <original>&lt;QDEL NAME 2 1&gt;を
+集めていただけるのですね
+では――鉱石が集まるまでお待ちしていますね</original>
+  </message>
+  <message>
+    <original>ええ、もちろんです
+今後どこに冒険に行かれるかの予定もあわせて
+どちらの鉱石が集めやすいか、検討してみて
+ください</original>
+  </message>
+  <message>
+    <original>鉱石が集まりましたね！
+これでベルを目覚めさせることができそうです</original>
+  </message>
+  <message>
+    <original>それでは、しばらく儀式のために
+お時間をいただきますね</original>
+  </message>
+  <message>
+    <original>あのベルは長い間使われず
+その能力は休眠状態にあります
+目覚めさせるために必要な鉱石の調達を
+お願いいたします</original>
+  </message>
+  <message>
+    <original>鉱石が集まりましたね！
+これでベルを目覚めさせることができそうです</original>
+  </message>
+  <message>
+    <original>それでは、しばらく儀式のために
+お時間をいただきますね</original>
+  </message>
+  <message>
+    <original>あのベルは長い間使われず
+その能力は休眠状態にあります
+目覚めさせるために必要な鉱石の調達を
+お願いいたします</original>
+  </message>
+  <message>
+    <original>無事、ベルが使えるようになりましたよ！
+まったく、ポーン郷も贈り物をするなら
+状態を確認してからにしてほしいものですね</original>
+  </message>
+  <message>
+    <original>では、《語らいのベル》は確かにお届けしましたよ
+《報酬》から受け取った後は
+家具としてお部屋に設置してくださいね</original>
+  </message>
+  <message>
+    <original>ベルを目覚めさせるための
+儀式を執り行います</original>
+  </message>
+  <message>
+    <original>少し時間がかかりますから
+その間、お気遣い無く――</original>
+  </message>
+  <message>
+    <original>儀式が無事完了しました</original>
+  </message>
+  <message>
+    <original>覚者様に面会を求める方がいらしています
+自室にお迎えするかどうか
+検討してもらえないでしょうか？</original>
+  </message>
+  <message>
+    <original>何やら荷物を抱えた方が
+覚者さまを訪ねていらっしゃいましたぞ</original>
+  </message>
+  <message>
+    <original>ポーン郷から神殿に届いた荷物の中に
+覚者さま宛ての贈り物があったとのことで
+配達に来てくださったそうです
+自室にお通ししてもよろしいですかな？</original>
+  </message>
+  <message>
+    <original>面会する</original>
+  </message>
+  <message>
+    <original>――少し考えさせてほしい</original>
+  </message>
+  <message>
+    <original>それでは、自室にお通ししておきます
+覚者さまもどうぞ、二階へ</original>
+  </message>
+  <message>
+    <original>わかりました
+それでは、しばらく待っていていただきましょう</original>
+  </message>
+  <message>
+    <original>覚者さま、自室でお客人がお待ちですぞ
+ポーン郷から神殿に届いた荷物の中に
+覚者さま宛ての贈り物があったとのことで
+配達に来てくださったそうです</original>
+  </message>
+  <message>
+    <original>＜語らいのベル＞をクエストクリア報酬として手に入れました</original>
+  </message>
+</resource>

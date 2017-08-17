@@ -1,7 +1,9 @@
 ﻿<resource>
   <message>
     <key>update_time</key>
-    <original>（毎日%s%d:%02d頃更新予定）</original>
+    <original>（%s%d:%02d時点集計）</original>
+    <!-- NEEDS REVIEW -->
+    <!--（毎日%s%d:%02d頃更新予定）-->
     <translation>(Updated daily around %s%d:%02d)</translation>
   </message>
   <message>
@@ -21,7 +23,9 @@
   </message>
   <message>
     <key>now_delivery_num</key>
-    <original>現在の自分の納品数</original>
+    <original>現在の自分のあげたチョコの数</original>
+    <!-- NEEDS REVIEW -->
+    <!--現在の自分の納品数-->
     <translation>Number of delivered items</translation>
   </message>
   <message>

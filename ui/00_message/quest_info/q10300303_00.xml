@@ -1,0 +1,59 @@
+﻿<resource>
+  <message>
+    <key>q10300303_00_18</key>
+    <original>追跡の果てに―</original>
+  </message>
+  <message>
+    <key>q10300303_00_18</key>
+    <original>キャリーと共に
+ピレモスへ最後の食料を運ぶ</original>
+  </message>
+  <message>
+    <key>q10300303_00_3432</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300303_00_3433</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300303_00_3434</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300303_00_3435</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300303_00_3437</key>
+    <original>&lt;NPC 677&gt;たちを探す</original>
+  </message>
+  <message>
+    <key>q10300303_00_3440</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300303_00_3539</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300303_00_3441</key>
+    <original>&lt;NPC 2802&gt;に支援完了を報告する</original>
+  </message>
+  <message>
+    <key>q10300303_00_3442</key>
+    <original>&lt;NPC 580&gt;に話しかけて砦に戻る</original>
+  </message>
+  <message>
+    <key>q10300303_00_3443</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300303_00_3444</key>
+    <original>大食堂にあやしいやつがいないか探す</original>
+  </message>
+  <message>
+    <key>q10300303_00_3445</key>
+    <original>&lt;NPC 580&gt;に事情を話す</original>
+  </message>
+</resource>

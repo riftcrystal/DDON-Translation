@@ -91,4 +91,12 @@ Pressing &lt;KC TOUCH&gt; will release the ice.</translation>
 magickal stake upon completion of the chant, and press the assigned button again
 to start discharging it.</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_176</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_177</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
 </resource>

@@ -72,4 +72,12 @@ button.</translation>
     <translation>Hold the assigned button.
 Press the assigned button while in the air.</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_180</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_181</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

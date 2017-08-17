@@ -69,4 +69,12 @@
     <original>地衝牙</original>
     <translation>Earthquake Fang</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_07_180</key>
+    <original>魔人駆け 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_07_181</key>
+    <original>魔人駆け 技</original>
+  </message>
 </resource>

@@ -1,0 +1,39 @@
+﻿<resource>
+  <message>
+    <key>q60300060_00_279</key>
+    <original>【参謀日課】展望城　任務指示</original>
+  </message>
+  <message>
+    <key>q60300060_00_279</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60300060_00_3543</key>
+    <original>&lt;STG 451&gt;に向かい&lt;NPC 582&gt;の用事を聞く</original>
+  </message>
+  <message>
+    <key>q60300060_00_3544</key>
+    <original>&lt;NPC 582&gt;を手伝うか決める</original>
+  </message>
+  <message>
+    <key>q60300060_00_3545</key>
+    <original>&lt;STG 451&gt;で&lt;NPC 582&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q60300060_00_3546</key>
+    <original>&lt;STG 451&gt;で兵士を探し指示を伝える（残り３）</original>
+  </message>
+  <message>
+    <key>q60300060_00_3547</key>
+    <original>&lt;STG 451&gt;で兵士を探し指示を伝える（残り２）</original>
+  </message>
+  <message>
+    <key>q60300060_00_3548</key>
+    <original>&lt;STG 451&gt;で兵士を探し指示を伝える（残り１）</original>
+  </message>
+  <message>
+    <key>q60300060_00_3549</key>
+    <original>&lt;STG 451&gt;に戻って休憩する</original>
+  </message>
+</resource>

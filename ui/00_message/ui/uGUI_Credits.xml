@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>uGUI_Credits_9728</key>
-    <original>Season 2 Staff Credits</original>
+    <original>Season 3 Staff Credits</original>
   </message>
   <message>
     <key>uGUI_Credits_9729</key>
@@ -29,1910 +29,1290 @@
   </message>
   <message>
     <key>uGUI_Credits_9733</key>
-    <original>Project Integration Managers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9734</key>
     <original>RYO UNO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9735</key>
-    <original>KENICHI SUZUKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9736</key>
+    <key>uGUI_Credits_9734</key>
     <original>YOSHIYUKI FUJIKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9737</key>
+    <key>uGUI_Credits_9735</key>
     <original>Lead Game Design</original>
   </message>
   <message>
-    <key>uGUI_Credits_9738</key>
+    <key>uGUI_Credits_9736</key>
     <original>DAISUKE YANASE</original>
   </message>
   <message>
-    <key>uGUI_Credits_9739</key>
+    <key>uGUI_Credits_9737</key>
     <original>Lead Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9740</key>
+    <key>uGUI_Credits_9738</key>
     <original>KEIJI SAKAMOTO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9741</key>
-    <original>Technical Director</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9742</key>
-    <original>KOHETSU MATSUDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9743</key>
+    <key>uGUI_Credits_9739</key>
     <original>Lead Server Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9744</key>
-    <original>MASAKI NISHIMASU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9745</key>
-    <original>Lead Web Production</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9746</key>
-    <original>AYAKO HIGASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9747</key>
-    <original>Lead Environment</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9748</key>
-    <original>HIROSHI HASHIMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9749</key>
-    <original>Lead Modeling</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9750</key>
-    <original>FUMINORI SATOU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9751</key>
-    <original>Lead Animation</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9752</key>
-    <original>KOTA FUKAMACHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9753</key>
-    <original>Lead VFX</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9754</key>
-    <original>TOMOHISA KAWAGUCHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9755</key>
-    <original>Lead UI Design</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9756</key>
-    <original>NOBUHIRO TATSUMI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9757</key>
-    <original>Lead Cinematics</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9758</key>
-    <original>HIROKI TAKEDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9759</key>
-    <original>Audio Director</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9760</key>
-    <original>RYO YOSHII</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9761</key>
-    <original>@ Scenario @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9762</key>
-    <original>KAZUSHIGE NOJIMA (Stellavista Ltd.)</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9763</key>
-    <original>@ Game Design @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9764</key>
-    <original>Lead Action Designer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9765</key>
-    <original>MASAYOSHI FUJIWARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9766</key>
-    <original>Action Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9767</key>
-    <original>RYOTA SUZUKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9768</key>
-    <original>NORIMASA SANKODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9769</key>
-    <original>CHIAKI KAMIMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9770</key>
-    <original>YUSAKU KITAGAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9771</key>
-    <original>YOSHITATSU MORI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9772</key>
-    <original>RYO YASUKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9773</key>
-    <original>Lead Quest and Content Designer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9774</key>
-    <original>KOJI KAKAE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9775</key>
-    <original>Quest and Content Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9776</key>
-    <original>NOZOMI SAITO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9777</key>
-    <original>KOICHI OKADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9778</key>
-    <original>RYUHEI ANDOH</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9779</key>
-    <original>HIYUKI SUDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9780</key>
-    <original>TOMOYUKI OURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9781</key>
-    <original>Lead Level Designer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9782</key>
-    <original>TAKASHI ICHIKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9783</key>
-    <original>Level Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9784</key>
-    <original>MASAAKI NAMIKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9785</key>
-    <original>HIROMU UEDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9786</key>
-    <original>KIJUN TOSHIKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9787</key>
-    <original>TOMOHIRO TAKIZAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9788</key>
-    <original>MISUZU WATANABE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9789</key>
-    <original>LEE JUNYEOL</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9790</key>
-    <original>REIKO SAKATA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9791</key>
-    <original>Lead System and UI Designer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9792</key>
-    <original>KOICHI SHIMIZU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9793</key>
-    <original>@ Programming @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9794</key>
-    <original>Lead Network Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9795</key>
-    <original>HIROKI MUKAI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9796</key>
-    <original>Lead Action Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9797</key>
-    <original>KEITA KONNO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9798</key>
-    <original>Action Programmers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9799</key>
-    <original>Tsutomu DNA Urago</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9800</key>
-    <original>LONG WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9801</key>
-    <original>KOICHI MAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9802</key>
-    <original>Lead Quest Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9803</key>
-    <original>SEIJI HAMAJIMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9804</key>
-    <original>Quest Programmers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9805</key>
-    <original>TATSUMU ICHIKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9806</key>
-    <original>YUKI MATSUURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9807</key>
-    <original>Lead UI Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9808</key>
-    <original>YOSHITAKA NAKATANI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9809</key>
-    <original>UI Programmers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9810</key>
-    <original>KAZUHITO NARITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9811</key>
-    <original>YOSHINOBU KOBAYASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9812</key>
-    <original>NOBUHITO SHIMIZU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9813</key>
-    <original>YUTA KAWAMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9814</key>
-    <original>Lead System Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9815</key>
-    <original>AKIHIRO KASHIMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9816</key>
-    <original>System Programmers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9817</key>
-    <original>KIYOKO KITAGAITO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9818</key>
-    <original>KAZUCHIKA SHINAGAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9819</key>
-    <original>JUNWEI NG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9820</key>
-    <original>TAKESHI ENOMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9821</key>
-    <original>YUKI KAJIWARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9822</key>
-    <original>Sound Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9823</key>
-    <original>MIKIO UEDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9824</key>
-    <original>Web Programmer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9825</key>
-    <original>YUYA MATSUI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9826</key>
-    <original>@ Server Programming @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9827</key>
-    <original>Server Programmers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9828</key>
-    <original>MINAMI.O</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9829</key>
-    <original>Masahito Oh!Ya!</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9830</key>
-    <original>MITSUNORI SAKANO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9831</key>
-    <original>TAKAHIRO YAMAMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9832</key>
-    <original>AKIRA TAMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9833</key>
+    <key>uGUI_Credits_9740</key>
     <original>TAKUYA ISHIBASHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9834</key>
-    <original>TATSUYA TANIUCHI</original>
+    <key>uGUI_Credits_9741</key>
+    <original>Lead Environment</original>
   </message>
   <message>
-    <key>uGUI_Credits_9835</key>
-    <original>TAKANORI UEHARA</original>
+    <key>uGUI_Credits_9742</key>
+    <original>HIROSHI HASHIMOTO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9836</key>
-    <original>YUMA YOSHIDA</original>
+    <key>uGUI_Credits_9743</key>
+    <original>Lead Modeling</original>
   </message>
   <message>
-    <key>uGUI_Credits_9837</key>
-    <original>HITOSHI YOKOTA</original>
+    <key>uGUI_Credits_9744</key>
+    <original>FUMINORI SATOU</original>
   </message>
   <message>
-    <key>uGUI_Credits_9838</key>
-    <original>KOTA MORIYA</original>
+    <key>uGUI_Credits_9745</key>
+    <original>Lead Animation</original>
   </message>
   <message>
-    <key>uGUI_Credits_9839</key>
-    <original>@ Art Design @</original>
+    <key>uGUI_Credits_9746</key>
+    <original>KOTA FUKAMACHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9840</key>
-    <original>Lead Equipment Designer</original>
+    <key>uGUI_Credits_9747</key>
+    <original>Lead VFX</original>
   </message>
   <message>
-    <key>uGUI_Credits_9841</key>
-    <original>HARUKI SUETSUGU</original>
+    <key>uGUI_Credits_9748</key>
+    <original>TOMOHISA KAWAGUCHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9842</key>
-    <original>Lead Monster Designer</original>
+    <key>uGUI_Credits_9749</key>
+    <original>Lead UI Design</original>
   </message>
   <message>
-    <key>uGUI_Credits_9843</key>
-    <original>YOSHINORI MATSUSHITA</original>
+    <key>uGUI_Credits_9750</key>
+    <original>NOBUHIRO TATSUMI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9844</key>
-    <original>Lead Weapon Designer</original>
+    <key>uGUI_Credits_9751</key>
+    <original>Lead Cinematics</original>
   </message>
   <message>
-    <key>uGUI_Credits_9845</key>
-    <original>KAORU ARAKI</original>
+    <key>uGUI_Credits_9752</key>
+    <original>HIROKI TAKEDA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9846</key>
-    <original>Designers</original>
+    <key>uGUI_Credits_9753</key>
+    <original>Audio Director</original>
   </message>
   <message>
-    <key>uGUI_Credits_9847</key>
-    <original>RYOHEI MURO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9848</key>
-    <original>YUJI ISHIHARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9849</key>
-    <original>SHINICHI SHIOHARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9850</key>
-    <original>MANAMI YOSHINO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9851</key>
-    <original>TOHRU KANASEKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9852</key>
-    <original>TAKAMASA YAMADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9853</key>
-    <original>SASA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9854</key>
-    <original>Concept Artist</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9855</key>
-    <original>MARTHE JONKERS</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9856</key>
-    <original>@ Modeling @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9857</key>
-    <original>Lead Character Modeler</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9858</key>
-    <original>YOSHIKAZU KOZONO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9859</key>
-    <original>Lead Monster Modeler</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9860</key>
-    <original>TOMOKAZU KADOUE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9861</key>
-    <original>Modelers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9862</key>
-    <original>YURIE SAKAUE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9863</key>
-    <original>MANAE MORI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9864</key>
-    <original>RYO HANAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9865</key>
-    <original>TOMOMI KOBAYASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9866</key>
-    <original>SAYAKA KEMBE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9867</key>
-    <original>NOBUHIKO HONDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9868</key>
-    <original>@ Animation @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9869</key>
-    <original>Lead Player Animator</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9870</key>
-    <original>YO-HE-</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9871</key>
-    <original>Animators</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9872</key>
-    <original>TSUYOSHI FUJISAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9873</key>
-    <original>YUKINOBU KINOSHITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9874</key>
-    <original>KEN YAMAZAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9875</key>
-    <original>MIZUE MORIMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9876</key>
-    <original>RYOTA NAMAI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9877</key>
-    <original>LEE TAEHUN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9878</key>
-    <original>@ Environments @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9879</key>
-    <original>Environment Modelers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9880</key>
-    <original>NODOKA KEMBE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9881</key>
-    <original>MIWAKO GODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9882</key>
-    <original>HIDETO NAKATA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9883</key>
-    <original>MASATOSHI MATSUSHITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9884</key>
-    <original>AYAKA KAWAJIRI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9885</key>
-    <original>KANA KIOI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9886</key>
-    <original>KEIKO HIGASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9887</key>
-    <original>@ VFX @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9888</key>
-    <original>In-game VFX Artists</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9889</key>
-    <original>TOSHIHIRO YOKOTA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9890</key>
-    <original>KOJI SUGIMINE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9891</key>
-    <original>ATSUSHI TAKAI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9892</key>
-    <original>Cinematics VFX Artist</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9893</key>
-    <original>GORO TOKUDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9894</key>
-    <original>@ UI Design @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9895</key>
-    <original>UI Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9896</key>
-    <original>YASUKO SHIMODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9897</key>
-    <original>MARI SUZUKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9898</key>
-    <original>@ Cinematics @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9899</key>
-    <original>Lead In-game Cinematics Artist</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9900</key>
-    <original>IZUMI OBATA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9901</key>
-    <original>In-game Cinematics Artists</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9902</key>
-    <original>EIJI KURATANI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9903</key>
-    <original>KUMIKO FUJIWARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9904</key>
-    <original>@ Audio @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9905</key>
-    <original>Lead Composer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9906</key>
-    <original>AZUSA KATO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9907</key>
-    <original>Composer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9908</key>
-    <original>YOSHIYA TERAYAMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9909</key>
-    <original>Sound Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9910</key>
-    <original>ATSUKO FUJITANI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9911</key>
+    <key>uGUI_Credits_9754</key>
     <original>MITSUTOSHI KODAMA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9912</key>
-    <original>Cinematic Sound Designer</original>
+    <key>uGUI_Credits_9755</key>
+    <original>@ Scenario @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9913</key>
-    <original>ARATA IWASHINA</original>
+    <key>uGUI_Credits_9756</key>
+    <original>KAZUSHIGE NOJIMA (Stellavista Ltd.)</original>
   </message>
   <message>
-    <key>uGUI_Credits_9914</key>
-    <original>Sound Manager</original>
+    <key>uGUI_Credits_9757</key>
+    <original>@ Game Design @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9915</key>
-    <original>RYO KANAYA</original>
+    <key>uGUI_Credits_9758</key>
+    <original>Lead Action Designer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9916</key>
-    <original>@ Project Managers @</original>
+    <key>uGUI_Credits_9759</key>
+    <original>MASAYOSHI FUJIWARA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9917</key>
-    <original>MASARU SAKUSABE</original>
+    <key>uGUI_Credits_9760</key>
+    <original>Action Designers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9918</key>
-    <original>HIROSHI SHIMOYAMA</original>
+    <key>uGUI_Credits_9761</key>
+    <original>RYOTA SUZUKI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9919</key>
-    <original>@ Submission Section Staff @</original>
+    <key>uGUI_Credits_9762</key>
+    <original>YUSAKU KITAGAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9920</key>
-    <original>Release Manager</original>
+    <key>uGUI_Credits_9763</key>
+    <original>SATORU NIHEI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9921</key>
-    <original>MOTOTAKA IDO</original>
+    <key>uGUI_Credits_9764</key>
+    <original>RYO YASUKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9922</key>
-    <original>Submission Coordinators</original>
+    <key>uGUI_Credits_9765</key>
+    <original>Lead Quest and Content Designer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9923</key>
-    <original>NOBUYA YOSHIZUMI</original>
+    <key>uGUI_Credits_9766</key>
+    <original>RYUHEI ANDOH</original>
   </message>
   <message>
-    <key>uGUI_Credits_9924</key>
-    <original>KOTARO FUJIOKA</original>
+    <key>uGUI_Credits_9767</key>
+    <original>Quest and Content Designers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9925</key>
-    <original>@ Motion Capture @</original>
+    <key>uGUI_Credits_9768</key>
+    <original>KOJI KAKAE</original>
   </message>
   <message>
-    <key>uGUI_Credits_9926</key>
-    <original>Mo-cap Operators</original>
+    <key>uGUI_Credits_9769</key>
+    <original>NOZOMI SAITO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9927</key>
-    <original>IKUO NAKAYAMA</original>
+    <key>uGUI_Credits_9770</key>
+    <original>HIYUKI SUDA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9928</key>
-    <original>TSUNENORI SHIRAHAMA</original>
+    <key>uGUI_Credits_9771</key>
+    <original>JUNSHI JODAI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9929</key>
-    <original>NAOKI FUJISAWA</original>
+    <key>uGUI_Credits_9772</key>
+    <original>Lead Level Designer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9930</key>
-    <original>MASAHIRO NAKANO</original>
+    <key>uGUI_Credits_9773</key>
+    <original>TAKASHI ICHIKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9931</key>
-    <original>TAKESHI NOSE</original>
+    <key>uGUI_Credits_9774</key>
+    <original>Level Designers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9932</key>
-    <original>Actors</original>
+    <key>uGUI_Credits_9775</key>
+    <original>KIJUN TOSHIKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9933</key>
-    <original>YOSHIAKI YUASA</original>
+    <key>uGUI_Credits_9776</key>
+    <original>HIROMU UEDA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9934</key>
-    <original>MASATOSHI FUKIDOME</original>
+    <key>uGUI_Credits_9777</key>
+    <original>LEE JUNYEOL</original>
   </message>
   <message>
-    <key>uGUI_Credits_9935</key>
-    <original>MARIE ARAKAWA</original>
+    <key>uGUI_Credits_9778</key>
+    <original>Lead System and UI Designer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9936</key>
-    <original>HIROMI SARUWATARI</original>
+    <key>uGUI_Credits_9779</key>
+    <original>KOICHI SHIMIZU</original>
   </message>
   <message>
-    <key>uGUI_Credits_9937</key>
-    <original>@ MT FRAMEWORK Development Team @</original>
+    <key>uGUI_Credits_9780</key>
+    <original>Companion App Designer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9938</key>
-    <original>miss</original>
+    <key>uGUI_Credits_9781</key>
+    <original>SHOUHEI KAWAMURA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9939</key>
-    <original>KAZUHITO NAKAI</original>
+    <key>uGUI_Credits_9782</key>
+    <original>@ Programming @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9940</key>
-    <original>HIROYUKI IKENAGA</original>
+    <key>uGUI_Credits_9783</key>
+    <original>Lead Action Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9941</key>
-    <original>JUHUI WU</original>
+    <key>uGUI_Credits_9784</key>
+    <original>KEITA KONNO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9942</key>
-    <original>KOICHI KUBO</original>
+    <key>uGUI_Credits_9785</key>
+    <original>Action Programmers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9943</key>
-    <original>KOTARO MIYABE</original>
+    <key>uGUI_Credits_9786</key>
+    <original>Tsutomu DNA Urago</original>
   </message>
   <message>
-    <key>uGUI_Credits_9944</key>
-    <original>CHESTER LEE</original>
+    <key>uGUI_Credits_9787</key>
+    <original>LONG WANG</original>
   </message>
   <message>
-    <key>uGUI_Credits_9945</key>
-    <original>MOTOKI NISHIKURA</original>
+    <key>uGUI_Credits_9788</key>
+    <original>KOICHI MAKI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9946</key>
-    <original>HIDEKI SHIOJIRI</original>
+    <key>uGUI_Credits_9789</key>
+    <original>YASUHARU TAKAHASHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9947</key>
-    <original>ISAO HIGASHINO</original>
+    <key>uGUI_Credits_9790</key>
+    <original>Lead Quest Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9948</key>
-    <original>SHINICHI YASUKI</original>
+    <key>uGUI_Credits_9791</key>
+    <original>SEIJI HAMAJIMA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9949</key>
-    <original>TOMOHIRO AGO</original>
+    <key>uGUI_Credits_9792</key>
+    <original>Quest Programmers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9950</key>
-    <original>YUKI SEKINO</original>
+    <key>uGUI_Credits_9793</key>
+    <original>TATSUMU ICHIKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9951</key>
-    <original>SHIGENOBU KOMORI</original>
+    <key>uGUI_Credits_9794</key>
+    <original>YUKI MATSUURA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9952</key>
-    <original>KENJI KOJIMA</original>
+    <key>uGUI_Credits_9795</key>
+    <original>NAOKI UEMATSU</original>
   </message>
   <message>
-    <key>uGUI_Credits_9953</key>
-    <original>YUSUKE KINOSHITA</original>
+    <key>uGUI_Credits_9796</key>
+    <original>Lead UI Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9954</key>
-    <original>YUKI IGARASHI</original>
+    <key>uGUI_Credits_9797</key>
+    <original>YOSHITAKA NAKATANI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9955</key>
-    <original>MASAHIKO MINAMI</original>
+    <key>uGUI_Credits_9798</key>
+    <original>UI Programmers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9956</key>
-    <original>YOSHIHIRO KIMURA</original>
+    <key>uGUI_Credits_9799</key>
+    <original>KAZUHITO NARITA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9957</key>
-    <original>KAZUSHI SANO</original>
+    <key>uGUI_Credits_9800</key>
+    <original>NOBUHITO SHIMIZU</original>
   </message>
   <message>
-    <key>uGUI_Credits_9958</key>
-    <original>@ Music Recording Staff @</original>
+    <key>uGUI_Credits_9801</key>
+    <original>YUTA KAWAMURA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9959</key>
-    <original>Lead Recording Mixer</original>
+    <key>uGUI_Credits_9802</key>
+    <original>Lead System Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9960</key>
-    <original>KAZUYA TAKIMOTO</original>
+    <key>uGUI_Credits_9803</key>
+    <original>TAKESHI ENOMOTO</original>
   </message>
   <message>
-    <key>uGUI_Credits_9961</key>
-    <original>Recording Mixers</original>
+    <key>uGUI_Credits_9804</key>
+    <original>System Programmers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9962</key>
-    <original>TAKASHI MORIGUCHI</original>
+    <key>uGUI_Credits_9805</key>
+    <original>YUKI KAJIWARA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9963</key>
-    <original>RYOTA TAKEI</original>
+    <key>uGUI_Credits_9806</key>
+    <original>KAZUCHIKA SHINAGAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9964</key>
-    <original>Studio Manager</original>
+    <key>uGUI_Credits_9807</key>
+    <original>JUNWEI NG</original>
   </message>
   <message>
-    <key>uGUI_Credits_9965</key>
-    <original>SETSUO YAMAMOTO</original>
+    <key>uGUI_Credits_9808</key>
+    <original>Sound Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9966</key>
-    <original>@ Special Thanks @</original>
+    <key>uGUI_Credits_9809</key>
+    <original>MIKIO UEDA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9967</key>
-    <original>YOSHIHIRO KURA</original>
+    <key>uGUI_Credits_9810</key>
+    <original>Web Programmer</original>
   </message>
   <message>
-    <key>uGUI_Credits_9968</key>
-    <original>YASUSHI SHIBATA</original>
+    <key>uGUI_Credits_9811</key>
+    <original>YUYA MATSUI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9969</key>
-    <original>AKIHIKO NARITA</original>
+    <key>uGUI_Credits_9812</key>
+    <original>@ Server Programming @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9970</key>
-    <original>TOYOHISA AGETA</original>
+    <key>uGUI_Credits_9813</key>
+    <original>Server Programmers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9971</key>
-    <original>@ NEURON・AGE CO., LTD. @</original>
+    <key>uGUI_Credits_9814</key>
+    <original>MINAMI.O</original>
   </message>
   <message>
-    <key>uGUI_Credits_9972</key>
+    <key>uGUI_Credits_9815</key>
+    <original>Masahito Oh!Ya!</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9816</key>
+    <original>MASAKI NISHIMASU</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9817</key>
+    <original>MITSUNORI SAKANO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9818</key>
+    <original>TAKAHIRO YAMAMOTO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9819</key>
+    <original>AKIRA TAMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9820</key>
+    <original>TATSUYA TANIUCHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9821</key>
+    <original>TAKANORI UEHARA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9822</key>
+    <original>YUMA YOSHIDA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9823</key>
+    <original>HITOSHI YOKOTA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9824</key>
+    <original>@ Art Design @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9825</key>
+    <original>Lead Monster Designer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9826</key>
+    <original>YOSHINORI MATSUSHITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9827</key>
+    <original>Lead Weapon Designer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9828</key>
+    <original>KAORU ARAKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9829</key>
+    <original>Lead Character Designer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9830</key>
+    <original>RYOHEI MURO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9831</key>
+    <original>Designer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9832</key>
+    <original>HARUKI SUETSUGU</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9833</key>
+    <original>@ Modeling @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9834</key>
+    <original>Lead Character Modeler</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9835</key>
+    <original>YOSHIKAZU KOZONO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9836</key>
+    <original>Lead Monster Modeler</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9837</key>
+    <original>TOMOKAZU KADOUE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9838</key>
     <original>Modelers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9973</key>
-    <original>KEIKO SHIOTSUKI</original>
+    <key>uGUI_Credits_9839</key>
+    <original>YURIE SAKAUE</original>
   </message>
   <message>
-    <key>uGUI_Credits_9974</key>
-    <original>RYUJI SHIMATANI</original>
+    <key>uGUI_Credits_9840</key>
+    <original>MANAE MORI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9975</key>
-    <original>JUNICHI FUJIMOTO</original>
+    <key>uGUI_Credits_9841</key>
+    <original>RYO HANAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9976</key>
-    <original>TOMOYA INAGAKI</original>
+    <key>uGUI_Credits_9842</key>
+    <original>@ Animation @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9977</key>
-    <original>Designers</original>
+    <key>uGUI_Credits_9843</key>
+    <original>Lead Player Animator</original>
   </message>
   <message>
-    <key>uGUI_Credits_9978</key>
-    <original>ARISA SHINOHARA</original>
+    <key>uGUI_Credits_9844</key>
+    <original>YO-HE-</original>
   </message>
   <message>
-    <key>uGUI_Credits_9979</key>
-    <original>SHIN FUKAHORI</original>
+    <key>uGUI_Credits_9845</key>
+    <original>Animator</original>
   </message>
   <message>
-    <key>uGUI_Credits_9980</key>
-    <original>KOJI AOKI</original>
+    <key>uGUI_Credits_9846</key>
+    <original>LEE TAEHUN</original>
   </message>
   <message>
-    <key>uGUI_Credits_9981</key>
-    <original>MASAYA ETO</original>
+    <key>uGUI_Credits_9847</key>
+    <original>@ Environments @</original>
   </message>
   <message>
-    <key>uGUI_Credits_9982</key>
-    <original>Animators</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9983</key>
-    <original>TETSUYA TATEISHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9984</key>
-    <original>TATSUYA TAKEDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9985</key>
-    <original>MANA IKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9986</key>
-    <original>YOHEI KOUNO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9987</key>
-    <original>MIZUKI KOYAMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_9988</key>
+    <key>uGUI_Credits_9848</key>
     <original>Environment Modelers</original>
   </message>
   <message>
-    <key>uGUI_Credits_9989</key>
-    <original>MASAKI YASUMITSU</original>
+    <key>uGUI_Credits_9849</key>
+    <original>MIWAKO GODA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9990</key>
-    <original>TAKAMASA YASUGAKI</original>
+    <key>uGUI_Credits_9850</key>
+    <original>HIDETO NAKATA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9991</key>
-    <original>DAIJIRO SHIBASAKI</original>
+    <key>uGUI_Credits_9851</key>
+    <original>MASATOSHI MATSUSHITA</original>
   </message>
   <message>
-    <key>uGUI_Credits_9992</key>
-    <original>ATSUSHI FUKUSHIMA</original>
+    <key>uGUI_Credits_9852</key>
+    <original>AYAKA KAWAJIRI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9993</key>
-    <original>DAISUKE KOJIMA</original>
+    <key>uGUI_Credits_9853</key>
+    <original>KANA KIOI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9994</key>
-    <original>KEIJI NISHINO</original>
+    <key>uGUI_Credits_9854</key>
+    <original>KEIKO HIGASHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9995</key>
-    <original>KAZUO TASHIMA</original>
+    <key>uGUI_Credits_9855</key>
+    <original>CHIMING LIN</original>
   </message>
   <message>
-    <key>uGUI_Credits_9996</key>
+    <key>uGUI_Credits_9856</key>
+    <original>@ VFX @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9857</key>
     <original>VFX Artists</original>
   </message>
   <message>
-    <key>uGUI_Credits_9997</key>
-    <original>TATSUMI HARADA</original>
+    <key>uGUI_Credits_9858</key>
+    <original>KOJI SUGIMINE</original>
   </message>
   <message>
-    <key>uGUI_Credits_9998</key>
-    <original>RUMIKO YOSHIDA</original>
+    <key>uGUI_Credits_9859</key>
+    <original>ATSUSHI TAKAI</original>
   </message>
   <message>
-    <key>uGUI_Credits_9999</key>
-    <original>SACHIKO MAEDA</original>
+    <key>uGUI_Credits_9860</key>
+    <original>@ UI Design @</original>
   </message>
   <message>
-    <key>uGUI_Credits_10000</key>
-    <original>KEIKO HOSOO</original>
+    <key>uGUI_Credits_9861</key>
+    <original>UI Designers</original>
   </message>
   <message>
-    <key>uGUI_Credits_10001</key>
+    <key>uGUI_Credits_9862</key>
+    <original>YASUKO SHIMODA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9863</key>
+    <original>MARI SUZUKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9864</key>
+    <original>Companion App UI Designer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9865</key>
+    <original>DAISUKE OKADA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9866</key>
+    <original>@ Cinematics @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9867</key>
+    <original>Lead In-game Cinematics Artist</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9868</key>
+    <original>IZUMI OBATA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9869</key>
+    <original>In-game Cinematics Artist</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9870</key>
+    <original>EIJI KURATANI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9871</key>
+    <original>@ Audio @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9872</key>
+    <original>Lead Composer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9873</key>
+    <original>AZUSA KATO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9874</key>
+    <original>Composer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9875</key>
+    <original>SATOSHI HORI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9876</key>
+    <original>Sound Designers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9877</key>
+    <original>ATSUKO FUJITANI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9878</key>
+    <original>RYO YOSHII</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9879</key>
+    <original>Cinematic Sound Designers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9880</key>
+    <original>ARATA IWASHINA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9881</key>
+    <original>SAYAKA YAEGASHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9882</key>
+    <original>Sound Manager</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9883</key>
+    <original>RYO KANAYA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9884</key>
+    <original>@ Project Managers @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9885</key>
+    <original>MASARU SAKUSABE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9886</key>
+    <original>HIROSHI SHIMOYAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9887</key>
+    <original>@ Submission Section Staff @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9888</key>
+    <original>Release Manager</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9889</key>
+    <original>MOTOTAKA IDO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9890</key>
+    <original>Submission Coordinators</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9891</key>
+    <original>NOBUYA YOSHIZUMI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9892</key>
+    <original>KOTARO FUJIOKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9893</key>
+    <original>@ Motion Capture @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9894</key>
+    <original>Mo-cap Operators</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9895</key>
+    <original>IKUO NAKAYAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9896</key>
+    <original>TSUNENORI SHIRAHAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9897</key>
+    <original>NAOKI FUJISAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9898</key>
+    <original>MASAHIRO NAKANO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9899</key>
+    <original>TAKESHI NOSE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9900</key>
+    <original>Actors</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9901</key>
+    <original>YOSHIAKI YUASA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9902</key>
+    <original>MASATOSHI FUKIDOME</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9903</key>
+    <original>HIROMI SARUWATARI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9904</key>
+    <original>@ MT FRAMEWORK Development Team @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9905</key>
+    <original>MOTOKI NISHIKURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9906</key>
+    <original>CHESTER LEE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9907</key>
+    <original>HIDEYUKI SAKANE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9908</key>
+    <original>JUNJI OZEKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9909</key>
+    <original>KOICHI KUBO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9910</key>
+    <original>LI MUZHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9911</key>
+    <original>TAKAKIMI HASHIMOTO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9912</key>
+    <original>TOMOHISA MARUTANI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9913</key>
+    <original>YOSHIHIRO KIMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9914</key>
+    <original>KAZUSHI SANO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9915</key>
+    <original>@ Special Thanks @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9916</key>
+    <original>YOSHIHIRO KURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9917</key>
+    <original>GORO TOKUDA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9918</key>
+    <original>YUTAKA TOMOSADA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9919</key>
+    <original>TAKAYUKI SHINOHARA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9920</key>
+    <original>KENJI GOTO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9921</key>
+    <original>@ NEURON・AGE CO., LTD. @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9922</key>
+    <original>Modelers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9923</key>
+    <original>KEIKO SHIOTSUKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9924</key>
+    <original>ARISA SHINOHARA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9925</key>
+    <original>KOJI AOKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9926</key>
+    <original>RYUJI SHIMATANI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9927</key>
+    <original>Animators</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9928</key>
+    <original>SHINJI ISHII</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9929</key>
+    <original>TAKAYUKI NAKAMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9930</key>
+    <original>MIZUKI KOYAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9931</key>
     <original>Cinematics Artists</original>
   </message>
   <message>
-    <key>uGUI_Credits_10002</key>
-    <original>TAKESHI OTAKI</original>
+    <key>uGUI_Credits_9932</key>
+    <original>KANAE ONISHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_10003</key>
-    <original>TAKUYA IRIGUCHI</original>
+    <key>uGUI_Credits_9933</key>
+    <original>YUI KADA</original>
   </message>
   <message>
-    <key>uGUI_Credits_10004</key>
-    <original>TSUYOSHI MIYAZAKI</original>
+    <key>uGUI_Credits_9934</key>
+    <original>@ Himawari Theatre Group Inc. @</original>
   </message>
   <message>
-    <key>uGUI_Credits_10005</key>
-    <original>System Engineers</original>
+    <key>uGUI_Credits_9935</key>
+    <original>Motion capture Actor</original>
   </message>
   <message>
-    <key>uGUI_Credits_10006</key>
-    <original>YUTAKA IWANO</original>
+    <key>uGUI_Credits_9936</key>
+    <original>SAHO TANAKA</original>
   </message>
   <message>
-    <key>uGUI_Credits_10007</key>
-    <original>YOSHIYUKI IZU</original>
+    <key>uGUI_Credits_9937</key>
+    <original>@ Baca the Bacca Co. Ltd. @</original>
   </message>
   <message>
-    <key>uGUI_Credits_10008</key>
-    <original>@ XPEC Art Center Inc. @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10009</key>
-    <original>Chief Executive Officer</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10010</key>
-    <original>WONDER LIN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10011</key>
-    <original>Senior Sales Manager</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10012</key>
-    <original>SALLY HUANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10013</key>
-    <original>Senior Project Manager</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10014</key>
-    <original>JOE SHU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10015</key>
-    <original>Project Managers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10016</key>
-    <original>JESSICA GAO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10017</key>
-    <original>CARRIE ZHOU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10018</key>
-    <original>SEKI SHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10019</key>
-    <original>Art Director</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10020</key>
-    <original>JIAQIANG LI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10021</key>
-    <original>Art Leaders</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10022</key>
-    <original>BING HE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10023</key>
-    <original>HUALI SONG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10024</key>
-    <original>ZHENGXIA ZHU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10025</key>
-    <original>QINWEI LI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10026</key>
-    <original>CHAO XIANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10027</key>
-    <original>Character Artists</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10028</key>
-    <original>XIAOYAN BAO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10029</key>
-    <original>YONG CHEN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10030</key>
-    <original>QI CUI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10031</key>
-    <original>XINGWANG GU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10032</key>
-    <original>XIAO JIANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10033</key>
-    <original>WENYU JIANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10034</key>
-    <original>JUNHONG LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10035</key>
-    <original>NA LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10036</key>
-    <original>PENG LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10037</key>
-    <original>YAN LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10038</key>
-    <original>YONGQIANG LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10039</key>
-    <original>YONG LIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10040</key>
-    <original>HUI WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10041</key>
-    <original>LINGLIN WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10042</key>
-    <original>MENGYANG WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10043</key>
-    <original>XIANNA WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10044</key>
-    <original>JING WU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10045</key>
-    <original>CHAO XIANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10046</key>
-    <original>DAWEI YANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10047</key>
-    <original>YUANJING YU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10048</key>
-    <original>XIRU YUAN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10049</key>
-    <original>BO ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10050</key>
-    <original>DANDAN ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10051</key>
-    <original>JING ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10052</key>
-    <original>MIN ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10053</key>
-    <original>YINLING ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10054</key>
-    <original>LIHE ZHOU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10055</key>
-    <original>QIFENG ZHOU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10056</key>
-    <original>Props Artists</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10057</key>
-    <original>TING CAI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10058</key>
-    <original>JUN LUAN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10059</key>
-    <original>YANNI QIU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10060</key>
-    <original>BINGBING WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10061</key>
-    <original>JUANJUAN WANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10062</key>
-    <original>MINGYU WU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10063</key>
-    <original>DAZHENG YAO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10064</key>
-    <original>RUI ZHOU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10065</key>
-    <original>JING WU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10066</key>
-    <original>JING ZHANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10067</key>
-    <original>LI FU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10068</key>
-    <original>JING ZHU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10069</key>
-    <original>XIAOYAN HAN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10070</key>
-    <original>LINGYUN LI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10071</key>
-    <original>KE DING</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10072</key>
-    <original>HAOTIAN LI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10073</key>
-    <original>GAOHUI LI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10074</key>
-    <original>FENGQIN WU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10075</key>
-    <original>JIAN BAO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10076</key>
-    <original>MINGHUA JIANG</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10077</key>
-    <original>ZIJUN SHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10078</key>
-    <original>@ T's MUSIC Co., Ltd. @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10079</key>
-    <original>Voice Director</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10080</key>
-    <original>CHIHARU KAMIO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10081</key>
-    <original>Recording Engineers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10082</key>
-    <original>HIROHITO MORIOCA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10083</key>
-    <original>SHINOBU NEMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10084</key>
-    <original>Editors</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10085</key>
-    <original>TOMOMITSU MATSUSHITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10086</key>
-    <original>MASAKO ISHII</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10087</key>
-    <original>Coordinator</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10088</key>
-    <original>HIROYUKI HAMADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10089</key>
-    <original>Studio</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10090</key>
-    <original>InPlan Inc.</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10091</key>
-    <original>@ Tonic Function Co., Ltd. @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10092</key>
-    <original>Violinists</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10093</key>
-    <original>KAZUKO HORIGUCHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10094</key>
-    <original>MASAE SASAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10095</key>
-    <original>Cellist</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10096</key>
-    <original>SHOHEI UWAMORI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10097</key>
-    <original>Coordinators</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10098</key>
-    <original>TAKEAKI MORIHARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10099</key>
-    <original>TAKAYASU SODEOKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10100</key>
-    <original>@ Quality Assurance @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10101</key>
-    <original>Lead Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10102</key>
-    <original>TOMOKAZU KUDO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10103</key>
-    <original>RYUJI IWASAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10104</key>
-    <original>Assistant Lead Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10105</key>
-    <original>HITOSHI ARATA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10106</key>
-    <original>MAKO FUJIMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10107</key>
-    <original>ISSEI UEDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10108</key>
-    <original>YUKI KITAJIMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10109</key>
-    <original>CHIHIRO SAKAKIBARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10110</key>
-    <original>MASAAKI MURANAKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10111</key>
-    <original>ERI NAKAGAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10112</key>
-    <original>Senior Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10113</key>
-    <original>YUSUKE HISAHORI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10114</key>
-    <original>HIDEKI TANAKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10115</key>
-    <original>KOKI KOJIMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10116</key>
-    <original>TETSUNORI MATSUOKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10117</key>
-    <original>MASAMITSU KUSABA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10118</key>
-    <original>Compliance Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10119</key>
-    <original>SHIRO HIWATASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10120</key>
-    <original>YUSUKE NAKAZAWA </original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10121</key>
-    <original>Network Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10122</key>
-    <original>MASAKI KONDO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10123</key>
-    <original>MANABU KIYOMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10124</key>
-    <original>Testers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10125</key>
-    <original>MAYUMI NISHIDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10126</key>
-    <original>KOUICHI NAKAJI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10127</key>
-    <original>AYANO FUKUMOTO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10128</key>
-    <original>ERI KAJINO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10129</key>
-    <original>HIROKI MORISHIMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10130</key>
-    <original>RYO OKADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10131</key>
-    <original>MIYUKI NOMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10132</key>
-    <original>RUI FUMITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10133</key>
-    <original>@ Operations @</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10134</key>
-    <original>Game Service Designers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10135</key>
-    <original>KEIICHI SUZUKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10136</key>
-    <original>TOSHIAKI MATSUDA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10137</key>
-    <original>SADATAKA INOUE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10138</key>
-    <original>TERUHISA NAMBA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10139</key>
-    <original>TAKASHI NOMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10140</key>
-    <original>MASAYUKI HAYAKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10141</key>
-    <original>MAIKO KOGA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10142</key>
-    <original>DAI HASEGAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10143</key>
-    <original>YUKI NAKADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10144</key>
-    <original>AIKO SHIMOZAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10145</key>
-    <original>NOBUHITO SHINODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10146</key>
-    <original>TETSUTO TAKIZAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10147</key>
-    <original>TAKAHIKO UMEZAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10148</key>
-    <original>YOUKO NAKAZAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10149</key>
-    <original>KAZUKI MORI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10150</key>
-    <original>ARATA UMEMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10151</key>
-    <original>DAI WATANABE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10152</key>
-    <original>KEITA ISHIGAMI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10153</key>
-    <original>HARUKA YAMADA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10154</key>
-    <original>JAEWON BAE</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10155</key>
-    <original>JUNICHI ICHIKURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10156</key>
-    <original>YUSUKE TSUCHIYA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10157</key>
-    <original>SATOSHI KOBAYASHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10158</key>
-    <original>YUKO TAGATA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10159</key>
-    <original>SHINJIRO YASHIKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10160</key>
-    <original>KOKI ZEN</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10161</key>
-    <original>GEN OTSUKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10162</key>
-    <original>HIDEAKI KOMINAMI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10163</key>
-    <original>SUGURU MAESAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10164</key>
-    <original>TADASHI TSUKAHARA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10165</key>
-    <original>MASASHI NAKAMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10166</key>
-    <original>JUNICHI ONO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10167</key>
-    <original>SHOTA INAGAKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10168</key>
-    <original>TAKESHI KOSHIZUKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10169</key>
-    <original>MASAHIRO YOSHITACHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10170</key>
-    <original>YUYA ONIZUKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10171</key>
-    <original>MEGUMU MEGURO</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10172</key>
-    <original>SATOSHI HIRAYAMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10173</key>
-    <original>HIROKO UMETSU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10174</key>
-    <original>KAORI OHSHIMA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10175</key>
-    <original>Event Planners</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10176</key>
-    <original>SHUNSUKE SHINODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10177</key>
-    <original>SHINTARO HOSOKAWA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10178</key>
-    <original>HIROAKI NUMAGUCHI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10179</key>
-    <original>NORIYASU SHODA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10180</key>
-    <original>SHUHEI SHIOMITSU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10182</key>
-    <original>SATORU SAKAI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10183</key>
-    <original>Publicity</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10219</key>
-    <original>TERU FUJITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10220</key>
-    <original>TAKASHI YAMANAKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10221</key>
-    <original>Promotion</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10222</key>
-    <original>KAZUO CHOYA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10223</key>
-    <original>SATOSHI TANAKA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10998</key>
-    <original>YUKA YAMASHITA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_10999</key>
-    <original>Assistant Producers</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11000</key>
-    <original>AKIHISA KITAMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11001</key>
-    <original>AKIHIRO TAIRA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11002</key>
-    <original>TAKESHI KANEYASU</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11003</key>
-    <original>KENTARO NOMURA</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11004</key>
-    <original>SHINJI WASEKI</original>
-  </message>
-  <message>
-    <key>uGUI_Credits_11005</key>
+    <key>uGUI_Credits_9938</key>
     <original>Director</original>
   </message>
   <message>
-    <key>uGUI_Credits_11006</key>
-    <original>YUICHI TAKEUCHI</original>
+    <key>uGUI_Credits_9939</key>
+    <original>DAISUKE KOUCHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_11007</key>
+    <key>uGUI_Credits_9940</key>
+    <original>Producer</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9941</key>
+    <original>YUKO SHIMIZU</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9942</key>
+    <original>@ T's MUSIC Co., Ltd. @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9943</key>
+    <original>Voice Director</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9944</key>
+    <original>CHIHARU KAMIO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9945</key>
+    <original>Recording Engineers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9946</key>
+    <original>HIROHITO MORIOCA (InPlan Inc.) </original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9947</key>
+    <original>NOZOMI AOKI (studio GONG)</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9948</key>
+    <original>Editors</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9949</key>
+    <original>TOMOMITSU MATSUSHITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9950</key>
+    <original>MASAKO ISHII</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9951</key>
+    <original>Coordinator</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9952</key>
+    <original>HIROYUKI HAMADA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9953</key>
+    <original>Studio</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9954</key>
+    <original>InPlan Inc.</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9955</key>
+    <original>studio GONG</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9956</key>
+    <original>@ Quality Assurance @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9957</key>
+    <original>Lead Tester</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9958</key>
+    <original>RYUJI IWASAKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9959</key>
+    <original>Assistant Lead Testers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9960</key>
+    <original>MAKO FUJIMOTO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9961</key>
+    <original>ISSEI UEDA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9962</key>
+    <original>YUKI KITAJIMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9963</key>
+    <original>CHIHIRO SAKAKIBARA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9964</key>
+    <original>ERI NAKAGAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9965</key>
+    <original>Network Tester</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9966</key>
+    <original>KONOMI SHICHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9967</key>
+    <original>Compliance Tester</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9968</key>
+    <original>YUSUKE NAKAZAWA </original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9969</key>
+    <original>Senior Testers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9970</key>
+    <original>NOBUHIKO UEMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9971</key>
+    <original>TETSUNORI MATSUOKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9972</key>
+    <original>Testers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9973</key>
+    <original>MASAAKI MURANAKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9974</key>
+    <original>MIYUKI NOMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9975</key>
+    <original>QA Manager</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9976</key>
+    <original>FUMIHIKO BANNO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9977</key>
     <original>@ Pole To Win Co., Ltd. @</original>
   </message>
   <message>
-    <key>uGUI_Credits_11008</key>
+    <key>uGUI_Credits_9978</key>
+    <original>@ Operations @</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9979</key>
+    <original>Game Service Designers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9980</key>
+    <original>KEIICHI SUZUKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9981</key>
+    <original>TOSHIAKI MATSUDA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9982</key>
+    <original>HIDEAKI KOMINAMI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9983</key>
+    <original>SUGURU MAESAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9984</key>
+    <original>MASASHI NAKAMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9985</key>
+    <original>SHISUMI KAGEYAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9986</key>
+    <original>HIROAKI OSHIRO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9987</key>
+    <original>SADATAKA INOUE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9988</key>
+    <original>KAZUKI MORI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9989</key>
+    <original>TAKASHI NOMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9990</key>
+    <original>MAIKO KOGA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9991</key>
+    <original>DAI WATANABE</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9992</key>
+    <original>TERUHISA NAMBA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9993</key>
+    <original>MASAYUKI HAYAKAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9994</key>
+    <original>ARATA UMEMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9995</key>
+    <original>DAI HASEGAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9996</key>
+    <original>REIKO KITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9997</key>
+    <original>ATSUSHI TOBITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9998</key>
+    <original>MEGUMI SHIMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_9999</key>
+    <original>HARUKA YAMADA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10000</key>
+    <original>JUNICHI ICHIKURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10001</key>
+    <original>YUSUKE TSUCHIYA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10002</key>
+    <original>SATOSHI KOBAYASHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10003</key>
+    <original>YUKO TAGATA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10004</key>
+    <original>TAKAKO ITO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10005</key>
+    <original>SHINJIRO YASHIKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10006</key>
+    <original>GEN OTSUKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10007</key>
+    <original>KOKI ZEN</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10008</key>
+    <original>YUKI NAKADA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10009</key>
+    <original>NOBUHITO SHINODA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10010</key>
+    <original>AIKO SHIMOZAKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10011</key>
+    <original>TETSUTO TAKIZAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10012</key>
+    <original>TAKAHIKO UMEZAKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10013</key>
+    <original>HIROSHI TAMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10014</key>
+    <original>Service infrastructure Engineers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10015</key>
+    <original>MEGUMU MEGURO</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10016</key>
+    <original>SATOSHI HIRAYAMA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10017</key>
+    <original>SUNGTAE RIM</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10018</key>
+    <original>HANAKI HIROKAZU</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10019</key>
+    <original>TAKESHI KOSHIZUKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10020</key>
+    <original>YUICHI CHIAKI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10021</key>
+    <original>HITOMI MASANORI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10022</key>
+    <original>YUYA ONIZUKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10023</key>
+    <original>MIHO NIHEI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10024</key>
+    <original>Event Planners</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10025</key>
+    <original>SHUNSUKE SHINODA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10026</key>
+    <original>SHINTARO HOSOKAWA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10027</key>
+    <original>HIROAKI NUMAGUCHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10028</key>
+    <original>NORIYASU SHODA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10029</key>
+    <original>SATORU SAKAI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10030</key>
+    <original>Publicity</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10031</key>
+    <original>TAKASHI YAMANAKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10032</key>
+    <original>Promotion</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10033</key>
+    <original>KAZUO CHOYA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10034</key>
+    <original>SATOSHI TANAKA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10035</key>
+    <original>YUKA YAMASHITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10036</key>
+    <original>Assistant Producers</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10037</key>
+    <original>AKIHISA KITAMURA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10038</key>
+    <original>TAKESHI KANEYASU</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10039</key>
+    <original>AKIHIRO TAIRA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10040</key>
+    <original>Director</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10041</key>
+    <original>YUICHI TAKEUCHI</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10042</key>
     <original>Sound Design by Soundelux Design Music Group</original>
   </message>
   <message>
-    <key>uGUI_Credits_11009</key>
+    <key>uGUI_Credits_10043</key>
     <original>Font Design by Fontworks Inc.</original>
   </message>
   <message>
-    <key>uGUI_Credits_11010</key>
+    <key>uGUI_Credits_10044</key>
     <original>Artbeats Digital Film Library</original>
   </message>
   <message>
-    <key>uGUI_Credits_11011</key>
+    <key>uGUI_Credits_10045</key>
     <original>Getty Images</original>
   </message>
   <message>
-    <key>uGUI_Credits_11012</key>
+    <key>uGUI_Credits_10046</key>
     <original>@ Executive @</original>
   </message>
   <message>
-    <key>uGUI_Credits_11013</key>
-    <original>YOSHINORI ONO</original>
+    <key>uGUI_Credits_10047</key>
+    <original>TERUKI MIYASHITA</original>
   </message>
   <message>
-    <key>uGUI_Credits_11014</key>
+    <key>uGUI_Credits_10048</key>
     <original>@ Executive Producer @</original>
   </message>
   <message>
-    <key>uGUI_Credits_11015</key>
+    <key>uGUI_Credits_10049</key>
     <original>HIROYUKI KOBAYASHI</original>
   </message>
   <message>
-    <key>uGUI_Credits_11016</key>
+    <key>uGUI_Credits_10050</key>
     <original>@ Producer @</original>
   </message>
   <message>
-    <key>uGUI_Credits_11017</key>
+    <key>uGUI_Credits_10051</key>
     <original>MINAE MATSUKAWA</original>
   </message>
   <message>
-    <key>uGUI_Credits_11018</key>
+    <key>uGUI_Credits_10052</key>
     <original>@ Director @</original>
   </message>
   <message>
-    <key>uGUI_Credits_11019</key>
+    <key>uGUI_Credits_10053</key>
     <original>KENT KINOSHITA</original>
+  </message>
+  <message>
+    <key>uGUI_Credits_10054</key>
+    <original>World Lore Consistency Lead</original>
   </message>
 </resource>

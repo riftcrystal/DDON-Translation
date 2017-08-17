@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q60318004_00_229</key>
+    <original>ラスニテ山麓　敵襲撃阻止</original>
+  </message>
+  <message>
+    <key>q60318004_00_229</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318004_00_2945</key>
+    <original>転戦中の仲間の居場所を確認する</original>
+  </message>
+  <message>
+    <key>q60318004_00_2946</key>
+    <original>転戦中の仲間から敵情報を聞く</original>
+  </message>
+  <message>
+    <key>q60318004_00_3162</key>
+    <original>入手した敵情報の居場所へ向かう</original>
+  </message>
+  <message>
+    <key>q60318004_00_3163</key>
+    <original>敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60318004_00_3161</key>
+    <original>依頼者の&lt;NPC 600&gt;に報告する</original>
+  </message>
+</resource>

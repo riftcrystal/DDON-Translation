@@ -46,4 +46,80 @@
     <key>pop_detail_target</key>
     <original>目玉報酬</original>
   </message>
+  <message>
+    <key>pop_detail_eq_crest_slot</key>
+    <original>装着クレスト：スロット</original>
+  </message>
+  <message>
+    <key>pop_detail_1stack_bag</key>
+    <original>アイテムバッグ1枠スタック数：</original>
+  </message>
+  <message>
+    <key>pop_detail_comparison_eq</key>
+    <original>比較装備：</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_stock</key>
+    <original>ショップ残り在庫数：</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_conditions</key>
+    <original>購入条件</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_deadline</key>
+    <original>販売終了まであと</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_aggregate1</key>
+    <original>集計開始まであと</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_aggregate2</key>
+    <original>集計終了まであと</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_aggregate3</key>
+    <original>集計終了しました</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_unlock_condition_3_1</key>
+    <original>(まだランキングは確定していません)</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_unlock_condition_3_2</key>
+    <original>(参加者はランキングボードを確認してください)</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_unlock_condition_3_3</key>
+    <original>(最終結果%d位)</original>
+  </message>
+  <message>
+    <key>pop_detail_add_status_1</key>
+    <original>Add Status</original>
+  </message>
+  <message>
+    <key>pop_detail_add_status_2</key>
+    <original>Limit Bonus</original>
+  </message>
+  <message>
+    <key>pop_detail_add_status_34</key>
+    <original>Fusion Bonus</original>
+  </message>
+  <message>
+    <key>pop_detail_add_status_5</key>
+    <original>Special Bonus</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_deadline_01</key>
+    <original>販売開始まであと</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_deadline_02</key>
+    <original>販売終了</original>
+  </message>
+  <message>
+    <key>pop_detail_shop_deadline_03</key>
+    <original>販売中</original>
+  </message>
 </resource>

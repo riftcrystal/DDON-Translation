@@ -19,4 +19,12 @@
     <original>冒険スポット</original>
     <translation>Adventure Spots</translation>
   </message>
+  <message>
+    <key>SPOT_CATEGORY_5</key>
+    <original>魔物集結スポット</original>
+  </message>
+  <message>
+    <key>SPOT_CATEGORY_6</key>
+    <original>期間解放スポット</original>
+  </message>
 </resource>

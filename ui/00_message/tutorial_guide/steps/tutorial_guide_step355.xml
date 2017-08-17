@@ -1,0 +1,24 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_616</key>
+    <original>&lt;COL 78f5ff&gt;《魔物集結スポット》が追加されました！&lt;/COL&gt;
+
+《魔物集結スポット》には日数が経過するごとに
+魔物が集まり、魔軍の拠点が発展していきます
+
+魔軍拠点が発展すると、より強力な敵が
+出現するようになります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_617</key>
+    <original>魔軍拠点が最大限まで発展すると
+&lt;COL ffdc78&gt;《スポットボス》&lt;/COL&gt;と呼ばれる特殊な敵が出現します
+
+スポットボスを討伐すると、その他の敵よりも
+莫大な量の経験値を獲得することができます
+
+
+※スポットボスを討伐した状態で日数が経過すると
+　魔軍拠点の発展段階は最初期の状態に戻ります</original>
+  </message>
+</resource>

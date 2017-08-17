@@ -166,4 +166,16 @@ when hit by Blast Bit, will generate additional Blast Bits from itself.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the magickal orb.
 LV.6: Increases the damage of the magickal orb, and the amount that are placed (1→2)&lt;/COL&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_166</key>
+    <original>【ＥＸ追加効果】
+魔法エリア内にいる味方の
+治癒上限値を徐々に回復する</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_167</key>
+    <original>【ＥＸ追加効果】
+敵にダメージを与えた時、体力が回復する効果を付与
+離脱後の効果時間大幅延長</original>
+  </message>
 </resource>

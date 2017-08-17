@@ -1,0 +1,22 @@
+﻿<resource>
+  <message>
+    <original>敵陣を制圧完了！（残り３ヶ所）</original>
+  </message>
+  <message>
+    <original>敵陣を制圧完了！（残り２ヶ所）</original>
+  </message>
+  <message>
+    <original>敵陣を制圧完了！（残り１ヶ所）</original>
+  </message>
+  <message>
+    <original>砦２階を塞ぐ扉が開いた！</original>
+  </message>
+  <message>
+    <original>覚者を狙う大砲が増強された！
+戦況が悪化していく――</original>
+  </message>
+  <message>
+    <original>敵軍設備増強を防いだ――
+戦況ゲージが回復した！</original>
+  </message>
+</resource>

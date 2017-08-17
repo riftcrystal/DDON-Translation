@@ -1,0 +1,51 @@
+﻿<resource>
+  <message>
+    <key>q10300103_00_8</key>
+    <original>食料調達への道</original>
+  </message>
+  <message>
+    <key>q10300103_00_8</key>
+    <original>元気を取り戻したキャリーと
+再び砦の外へ行き食料を探す</original>
+  </message>
+  <message>
+    <key>q10300103_00_3390</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300103_00_3458</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300103_00_3464</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300103_00_3459</key>
+    <original>&lt;NPC 580&gt;の探索に付き添う</original>
+  </message>
+  <message>
+    <key>q10300103_00_3460</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300103_00_3461</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300103_00_3462</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300103_00_3463</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300103_00_3456</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300103_00_3705</key>
+    <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に話しかける</original>
+  </message>
+</resource>

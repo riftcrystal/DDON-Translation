@@ -14524,9 +14524,6 @@ Bestows various buffs upon eating</translation>
     <original>クラフト昇格試験アイテム</original>
     <translation>Craft promotion test item</translation>
   </item>
-  <item id="7526">
-    <original>key - lte_竜の巣</original>
-  </item>
   <item id="7540">
     <original></original>
   </item>
@@ -14573,12 +14570,6 @@ Bestows various buffs upon eating</translation>
   <item id="7555">
     <original>使用者の体力を回復する</original>
     <translation>Recovers a portion of the user's health.</translation>
-  </item>
-  <item id="7556">
-    <original>ギミックチェック用テストアイテム</original>
-  </item>
-  <item id="7557">
-    <original>ギミックチェック用テストアイテム</original>
   </item>
   <item id="7559">
     <original>グリッテン砦補強のため準備された資材
@@ -15785,7 +15776,8 @@ Bestows various buffs upon eating</translation>
   <item id="8035">
     <original>メイン武器の品質を高める精錬材
 アイテム生産時に合成することで
-クレスト装着数が１（大成功時は２）増える</original>
+クレスト装着数が１（大成功時は２）増える
+※装備の品質変更時は大成功しない</original>
   </item>
   <item id="8036">
     <original>メイン武器の品質を高める良質の精錬材
@@ -15798,10 +15790,10 @@ Bestows various buffs upon eating</translation>
 クレスト装着数が２（大成功時は３）増える</original>
   </item>
   <item id="8067">
-    <original>頭/胴アーマー/腕/脚アーマー用
-防具の品質を高める精錬材
+    <original>防具の品質を高める精錬材
 アイテム生産時に合成することで
-クレスト装着数が１（大成功時は２）増える</original>
+クレスト装着数が１（大成功時は２）増える
+※装備の品質変更時は大成功しない</original>
   </item>
   <item id="8068">
     <original>頭/胴アーマー/腕/脚アーマー用
@@ -31250,25 +31242,25 @@ Moss which shines faintly in silver</translation>
     <original>魔赤島のAPを取得できます</original>
   </item>
   <item id="13341">
-    <original></original>
+    <original>エラン水林のAPを取得できます</original>
   </item>
   <item id="13342">
-    <original></original>
+    <original>ファーラナ平原のAPを取得できます</original>
   </item>
   <item id="13343">
-    <original></original>
+    <original>モロー樹林のAPを取得できます</original>
   </item>
   <item id="13344">
-    <original></original>
+    <original>キンガル峡谷のAPを取得できます</original>
   </item>
   <item id="13345">
-    <original></original>
+    <original>ラスニテ山麓のAPを取得できます</original>
   </item>
   <item id="13346">
-    <original></original>
+    <original>フェルヤナ荒原のAPを取得できます</original>
   </item>
   <item id="13347">
-    <original></original>
+    <original>◆エリア3.2のAPを取得できます</original>
   </item>
   <item id="13348">
     <original></original>
@@ -41685,14 +41677,80 @@ Just the right size to be put on the bed</translation>
   <item id="16800">
     <original>2017年新春に豪華賞品が当たる抽選券</original>
   </item>
+  <item id="16804">
+    <original></original>
+  </item>
+  <item id="16805">
+    <original></original>
+  </item>
+  <item id="16806">
+    <original></original>
+  </item>
+  <item id="16807">
+    <original></original>
+  </item>
+  <item id="16808">
+    <original></original>
+  </item>
+  <item id="16809">
+    <original></original>
+  </item>
+  <item id="16810">
+    <original></original>
+  </item>
+  <item id="16811">
+    <original></original>
+  </item>
+  <item id="16812">
+    <original></original>
+  </item>
+  <item id="16813">
+    <original></original>
+  </item>
+  <item id="16814">
+    <original></original>
+  </item>
+  <item id="16815">
+    <original></original>
+  </item>
+  <item id="16816">
+    <original></original>
+  </item>
+  <item id="16817">
+    <original></original>
+  </item>
+  <item id="16818">
+    <original></original>
+  </item>
+  <item id="16819">
+    <original></original>
+  </item>
+  <item id="16820">
+    <original></original>
+  </item>
+  <item id="16821">
+    <original></original>
+  </item>
   <item id="16822">
-    <original>経験値の欠片</original>
+    <original>鍛練の記憶が込められた結晶</original>
+  </item>
+  <item id="16823">
+    <original></original>
+  </item>
+  <item id="16824">
+    <original></original>
+  </item>
+  <item id="16825">
+    <original></original>
+  </item>
+  <item id="16826">
+    <original></original>
   </item>
   <item id="16831">
-    <original>経験値の塊</original>
+    <original>鍛練の記憶が込められた結晶</original>
   </item>
   <item id="16832">
-    <original>経験値の結晶</original>
+    <original>鍛練の記憶が込められた結晶</original>
   </item>
   <item id="16833">
     <original>美しい彫刻の施された銀の宝珠
@@ -41701,6 +41759,63 @@ Just the right size to be put on the bed</translation>
   <item id="16834">
     <original>美しい彫刻の施された金の宝珠
 《鑑定交換》で利用できる</original>
+  </item>
+  <item id="16835">
+    <original></original>
+  </item>
+  <item id="16836">
+    <original></original>
+  </item>
+  <item id="16837">
+    <original></original>
+  </item>
+  <item id="16838">
+    <original></original>
+  </item>
+  <item id="16839">
+    <original></original>
+  </item>
+  <item id="16840">
+    <original></original>
+  </item>
+  <item id="16841">
+    <original></original>
+  </item>
+  <item id="16842">
+    <original></original>
+  </item>
+  <item id="16843">
+    <original></original>
+  </item>
+  <item id="16844">
+    <original></original>
+  </item>
+  <item id="16845">
+    <original></original>
+  </item>
+  <item id="16846">
+    <original></original>
+  </item>
+  <item id="16847">
+    <original></original>
+  </item>
+  <item id="16848">
+    <original></original>
+  </item>
+  <item id="16849">
+    <original></original>
+  </item>
+  <item id="16850">
+    <original></original>
+  </item>
+  <item id="16851">
+    <original></original>
+  </item>
+  <item id="16852">
+    <original></original>
+  </item>
+  <item id="16858">
+    <original></original>
   </item>
   <item id="16859">
     <original></original>
@@ -42302,6 +42417,70 @@ Just the right size to be put on the bed</translation>
   <item id="17058">
     <original></original>
   </item>
+  <item id="17061">
+    <original>エレガントなクロスがかけられたダイニングテーブル
+共布を張った椅子のセット</original>
+  </item>
+  <item id="17062">
+    <original>エレガントなクロスがかけられたダイニングテーブル
+共布を張った椅子のセット</original>
+  </item>
+  <item id="17063">
+    <original>リビングに設置できる
+クロスがかかったテーブル</original>
+  </item>
+  <item id="17066">
+    <original>リビングに設置できる
+クロスがかかったテーブル</original>
+  </item>
+  <item id="17067">
+    <original>リビングに設置できる
+クロスがかかったテーブル</original>
+  </item>
+  <item id="17069">
+    <original>書斎に設置できる
+アンティークの机</original>
+  </item>
+  <item id="17070">
+    <original>書斎に設置できる
+アンティークの机</original>
+  </item>
+  <item id="17071">
+    <original>書斎に設置できる
+アンティークの机</original>
+  </item>
+  <item id="17086">
+    <original>お風呂に設置できる
+優雅な気分にひたれるキメラ型の湯口</original>
+  </item>
+  <item id="17088">
+    <original>お風呂に設置できる
+優雅な気分にひたれるグリフィン型の湯口</original>
+  </item>
+  <item id="17090">
+    <original>お風呂に設置できる
+優雅な気分にひたれるコカトリス型の湯口</original>
+  </item>
+  <item id="17093">
+    <original>お風呂に設置できる
+優雅な気分にひたれるウィルム型の湯口</original>
+  </item>
+  <item id="17094">
+    <original>お風呂に設置できる
+優雅な気分にひたれるドレイク型の湯口</original>
+  </item>
+  <item id="17097">
+    <original>自室の壁を白色に塗り替えることができる</original>
+  </item>
+  <item id="17098">
+    <original>自室の壁を黒色に塗り替えることができる</original>
+  </item>
+  <item id="17102">
+    <original>自室の壁をレンガ風に塗り替えることができる</original>
+  </item>
+  <item id="17103">
+    <original>自室の壁をレスタニア風に塗り替えることができる</original>
+  </item>
   <item id="17105">
     <original>DDONが受賞された
 記念のトロフィー</original>
@@ -42319,8 +42498,2319 @@ a commemorative trophy.</translation>
   <item id="17108">
     <original>特製チョコレートのレシピ</original>
   </item>
+  <item id="17115">
+    <original>書斎に設置できる
+白色の毛織りカーペット</original>
+  </item>
+  <item id="17116">
+    <original>書斎に設置できる
+黒色の毛織りカーペット</original>
+  </item>
+  <item id="17134">
+    <original>書斎に設置できる本棚（左）</original>
+  </item>
+  <item id="17135">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17136">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17137">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17138">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17139">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17140">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17141">
+    <original>書斎に設置できるタペストリー（左）</original>
+  </item>
+  <item id="17142">
+    <original>書斎に設置できる本棚（右）</original>
+  </item>
+  <item id="17143">
+    <original>書斎に設置できるタペストリー（右）</original>
+  </item>
+  <item id="17146">
+    <original>リビングに設置できる
+毛織りのカーペット</original>
+  </item>
+  <item id="17147">
+    <original>リビングに設置できる
+毛織りのカーペット</original>
+  </item>
+  <item id="17151">
+    <original>リビングに設置できる
+ベーシックなカーペット</original>
+  </item>
+  <item id="17152">
+    <original>ポーンに戦術を指南する時に
+使う呼び鈴</original>
+  </item>
+  <item id="17153">
+    <original>時を知らせる仕掛け時計</original>
+  </item>
   <item id="17154">
     <original></original>
+  </item>
+  <item id="17155">
+    <original></original>
+  </item>
+  <item id="17156">
+    <original></original>
+  </item>
+  <item id="17157">
+    <original></original>
+  </item>
+  <item id="17158">
+    <original></original>
+  </item>
+  <item id="17159">
+    <original></original>
+  </item>
+  <item id="17160">
+    <original></original>
+  </item>
+  <item id="17161">
+    <original></original>
+  </item>
+  <item id="17162">
+    <original></original>
+  </item>
+  <item id="17163">
+    <original></original>
+  </item>
+  <item id="17164">
+    <original></original>
+  </item>
+  <item id="17165">
+    <original></original>
+  </item>
+  <item id="17166">
+    <original></original>
+  </item>
+  <item id="17167">
+    <original></original>
+  </item>
+  <item id="17168">
+    <original></original>
+  </item>
+  <item id="17169">
+    <original></original>
+  </item>
+  <item id="17170">
+    <original></original>
+  </item>
+  <item id="17171">
+    <original></original>
+  </item>
+  <item id="17172">
+    <original></original>
+  </item>
+  <item id="17173">
+    <original></original>
+  </item>
+  <item id="17174">
+    <original></original>
+  </item>
+  <item id="17175">
+    <original></original>
+  </item>
+  <item id="17176">
+    <original></original>
+  </item>
+  <item id="17177">
+    <original></original>
+  </item>
+  <item id="17178">
+    <original></original>
+  </item>
+  <item id="17179">
+    <original></original>
+  </item>
+  <item id="17180">
+    <original></original>
+  </item>
+  <item id="17181">
+    <original></original>
+  </item>
+  <item id="17182">
+    <original></original>
+  </item>
+  <item id="17183">
+    <original></original>
+  </item>
+  <item id="17184">
+    <original></original>
+  </item>
+  <item id="17185">
+    <original></original>
+  </item>
+  <item id="17186">
+    <original></original>
+  </item>
+  <item id="17187">
+    <original></original>
+  </item>
+  <item id="17188">
+    <original></original>
+  </item>
+  <item id="17189">
+    <original></original>
+  </item>
+  <item id="17190">
+    <original></original>
+  </item>
+  <item id="17191">
+    <original></original>
+  </item>
+  <item id="17192">
+    <original></original>
+  </item>
+  <item id="17193">
+    <original></original>
+  </item>
+  <item id="17194">
+    <original></original>
+  </item>
+  <item id="17195">
+    <original></original>
+  </item>
+  <item id="17196">
+    <original></original>
+  </item>
+  <item id="17197">
+    <original></original>
+  </item>
+  <item id="17198">
+    <original></original>
+  </item>
+  <item id="17199">
+    <original></original>
+  </item>
+  <item id="17200">
+    <original></original>
+  </item>
+  <item id="17201">
+    <original></original>
+  </item>
+  <item id="17202">
+    <original></original>
+  </item>
+  <item id="17203">
+    <original></original>
+  </item>
+  <item id="17204">
+    <original></original>
+  </item>
+  <item id="17205">
+    <original></original>
+  </item>
+  <item id="17206">
+    <original></original>
+  </item>
+  <item id="17207">
+    <original></original>
+  </item>
+  <item id="17208">
+    <original></original>
+  </item>
+  <item id="17209">
+    <original></original>
+  </item>
+  <item id="17210">
+    <original></original>
+  </item>
+  <item id="17211">
+    <original></original>
+  </item>
+  <item id="17212">
+    <original></original>
+  </item>
+  <item id="17213">
+    <original></original>
+  </item>
+  <item id="17214">
+    <original></original>
+  </item>
+  <item id="17215">
+    <original></original>
+  </item>
+  <item id="17216">
+    <original></original>
+  </item>
+  <item id="17217">
+    <original></original>
+  </item>
+  <item id="17218">
+    <original></original>
+  </item>
+  <item id="17219">
+    <original></original>
+  </item>
+  <item id="17220">
+    <original></original>
+  </item>
+  <item id="17221">
+    <original></original>
+  </item>
+  <item id="17222">
+    <original></original>
+  </item>
+  <item id="17223">
+    <original></original>
+  </item>
+  <item id="17224">
+    <original></original>
+  </item>
+  <item id="17225">
+    <original></original>
+  </item>
+  <item id="17226">
+    <original></original>
+  </item>
+  <item id="17227">
+    <original></original>
+  </item>
+  <item id="17228">
+    <original></original>
+  </item>
+  <item id="17229">
+    <original></original>
+  </item>
+  <item id="17230">
+    <original></original>
+  </item>
+  <item id="17231">
+    <original></original>
+  </item>
+  <item id="17232">
+    <original></original>
+  </item>
+  <item id="17233">
+    <original></original>
+  </item>
+  <item id="17234">
+    <original></original>
+  </item>
+  <item id="17235">
+    <original></original>
+  </item>
+  <item id="17236">
+    <original></original>
+  </item>
+  <item id="17237">
+    <original></original>
+  </item>
+  <item id="17238">
+    <original></original>
+  </item>
+  <item id="17239">
+    <original></original>
+  </item>
+  <item id="17240">
+    <original></original>
+  </item>
+  <item id="17241">
+    <original></original>
+  </item>
+  <item id="17242">
+    <original></original>
+  </item>
+  <item id="17243">
+    <original></original>
+  </item>
+  <item id="17244">
+    <original></original>
+  </item>
+  <item id="17245">
+    <original></original>
+  </item>
+  <item id="17246">
+    <original></original>
+  </item>
+  <item id="17247">
+    <original></original>
+  </item>
+  <item id="17248">
+    <original></original>
+  </item>
+  <item id="17249">
+    <original></original>
+  </item>
+  <item id="17250">
+    <original></original>
+  </item>
+  <item id="17251">
+    <original></original>
+  </item>
+  <item id="17252">
+    <original></original>
+  </item>
+  <item id="17253">
+    <original></original>
+  </item>
+  <item id="17254">
+    <original></original>
+  </item>
+  <item id="17255">
+    <original></original>
+  </item>
+  <item id="17256">
+    <original></original>
+  </item>
+  <item id="17257">
+    <original></original>
+  </item>
+  <item id="17258">
+    <original></original>
+  </item>
+  <item id="17259">
+    <original></original>
+  </item>
+  <item id="17260">
+    <original></original>
+  </item>
+  <item id="17261">
+    <original></original>
+  </item>
+  <item id="17262">
+    <original></original>
+  </item>
+  <item id="17263">
+    <original></original>
+  </item>
+  <item id="17264">
+    <original></original>
+  </item>
+  <item id="17265">
+    <original></original>
+  </item>
+  <item id="17266">
+    <original></original>
+  </item>
+  <item id="17267">
+    <original></original>
+  </item>
+  <item id="17268">
+    <original></original>
+  </item>
+  <item id="17269">
+    <original></original>
+  </item>
+  <item id="17270">
+    <original></original>
+  </item>
+  <item id="17271">
+    <original></original>
+  </item>
+  <item id="17272">
+    <original></original>
+  </item>
+  <item id="17273">
+    <original></original>
+  </item>
+  <item id="17274">
+    <original></original>
+  </item>
+  <item id="17275">
+    <original></original>
+  </item>
+  <item id="17276">
+    <original></original>
+  </item>
+  <item id="17277">
+    <original></original>
+  </item>
+  <item id="17278">
+    <original></original>
+  </item>
+  <item id="17279">
+    <original></original>
+  </item>
+  <item id="17280">
+    <original></original>
+  </item>
+  <item id="17281">
+    <original></original>
+  </item>
+  <item id="17282">
+    <original></original>
+  </item>
+  <item id="17283">
+    <original></original>
+  </item>
+  <item id="17284">
+    <original></original>
+  </item>
+  <item id="17285">
+    <original></original>
+  </item>
+  <item id="17286">
+    <original></original>
+  </item>
+  <item id="17287">
+    <original></original>
+  </item>
+  <item id="17288">
+    <original></original>
+  </item>
+  <item id="17289">
+    <original></original>
+  </item>
+  <item id="17290">
+    <original></original>
+  </item>
+  <item id="17291">
+    <original></original>
+  </item>
+  <item id="17292">
+    <original></original>
+  </item>
+  <item id="17293">
+    <original></original>
+  </item>
+  <item id="17294">
+    <original></original>
+  </item>
+  <item id="17295">
+    <original></original>
+  </item>
+  <item id="17296">
+    <original></original>
+  </item>
+  <item id="17297">
+    <original></original>
+  </item>
+  <item id="17298">
+    <original></original>
+  </item>
+  <item id="17299">
+    <original></original>
+  </item>
+  <item id="17300">
+    <original></original>
+  </item>
+  <item id="17301">
+    <original></original>
+  </item>
+  <item id="17302">
+    <original></original>
+  </item>
+  <item id="17303">
+    <original></original>
+  </item>
+  <item id="17304">
+    <original></original>
+  </item>
+  <item id="17305">
+    <original></original>
+  </item>
+  <item id="17306">
+    <original></original>
+  </item>
+  <item id="17307">
+    <original></original>
+  </item>
+  <item id="17308">
+    <original></original>
+  </item>
+  <item id="17309">
+    <original></original>
+  </item>
+  <item id="17310">
+    <original></original>
+  </item>
+  <item id="17311">
+    <original></original>
+  </item>
+  <item id="17312">
+    <original></original>
+  </item>
+  <item id="17313">
+    <original></original>
+  </item>
+  <item id="17314">
+    <original></original>
+  </item>
+  <item id="17315">
+    <original></original>
+  </item>
+  <item id="17316">
+    <original></original>
+  </item>
+  <item id="17317">
+    <original></original>
+  </item>
+  <item id="17318">
+    <original></original>
+  </item>
+  <item id="17319">
+    <original></original>
+  </item>
+  <item id="17320">
+    <original></original>
+  </item>
+  <item id="17321">
+    <original></original>
+  </item>
+  <item id="17322">
+    <original></original>
+  </item>
+  <item id="17323">
+    <original></original>
+  </item>
+  <item id="17324">
+    <original></original>
+  </item>
+  <item id="17325">
+    <original></original>
+  </item>
+  <item id="17326">
+    <original></original>
+  </item>
+  <item id="17327">
+    <original></original>
+  </item>
+  <item id="17328">
+    <original></original>
+  </item>
+  <item id="17329">
+    <original></original>
+  </item>
+  <item id="17330">
+    <original></original>
+  </item>
+  <item id="17331">
+    <original></original>
+  </item>
+  <item id="17332">
+    <original></original>
+  </item>
+  <item id="17333">
+    <original></original>
+  </item>
+  <item id="17334">
+    <original></original>
+  </item>
+  <item id="17335">
+    <original></original>
+  </item>
+  <item id="17336">
+    <original></original>
+  </item>
+  <item id="17337">
+    <original></original>
+  </item>
+  <item id="17338">
+    <original></original>
+  </item>
+  <item id="17339">
+    <original></original>
+  </item>
+  <item id="17340">
+    <original></original>
+  </item>
+  <item id="17341">
+    <original></original>
+  </item>
+  <item id="17342">
+    <original></original>
+  </item>
+  <item id="17343">
+    <original></original>
+  </item>
+  <item id="17344">
+    <original></original>
+  </item>
+  <item id="17345">
+    <original></original>
+  </item>
+  <item id="17346">
+    <original></original>
+  </item>
+  <item id="17347">
+    <original></original>
+  </item>
+  <item id="17348">
+    <original></original>
+  </item>
+  <item id="17349">
+    <original></original>
+  </item>
+  <item id="17350">
+    <original></original>
+  </item>
+  <item id="17351">
+    <original></original>
+  </item>
+  <item id="17352">
+    <original></original>
+  </item>
+  <item id="17353">
+    <original></original>
+  </item>
+  <item id="17354">
+    <original></original>
+  </item>
+  <item id="17355">
+    <original></original>
+  </item>
+  <item id="17356">
+    <original></original>
+  </item>
+  <item id="17357">
+    <original></original>
+  </item>
+  <item id="17358">
+    <original></original>
+  </item>
+  <item id="17359">
+    <original></original>
+  </item>
+  <item id="17360">
+    <original></original>
+  </item>
+  <item id="17361">
+    <original></original>
+  </item>
+  <item id="17362">
+    <original></original>
+  </item>
+  <item id="17363">
+    <original></original>
+  </item>
+  <item id="17364">
+    <original></original>
+  </item>
+  <item id="17365">
+    <original></original>
+  </item>
+  <item id="17366">
+    <original></original>
+  </item>
+  <item id="17367">
+    <original></original>
+  </item>
+  <item id="17368">
+    <original></original>
+  </item>
+  <item id="17369">
+    <original></original>
+  </item>
+  <item id="17370">
+    <original>マンドラゴラ鉢植え①ノーマル</original>
+  </item>
+  <item id="17371">
+    <original>マンドラゴラ鉢植え②パスポート</original>
+  </item>
+  <item id="17372">
+    <original>マンドラゴラ鉢植え③パスポート</original>
+  </item>
+  <item id="17391">
+    <original></original>
+  </item>
+  <item id="17392">
+    <original></original>
+  </item>
+  <item id="17393">
+    <original></original>
+  </item>
+  <item id="17394">
+    <original></original>
+  </item>
+  <item id="17395">
+    <original></original>
+  </item>
+  <item id="17396">
+    <original></original>
+  </item>
+  <item id="17397">
+    <original></original>
+  </item>
+  <item id="17398">
+    <original></original>
+  </item>
+  <item id="17399">
+    <original></original>
+  </item>
+  <item id="17400">
+    <original></original>
+  </item>
+  <item id="17401">
+    <original></original>
+  </item>
+  <item id="17402">
+    <original></original>
+  </item>
+  <item id="17403">
+    <original></original>
+  </item>
+  <item id="17404">
+    <original></original>
+  </item>
+  <item id="17405">
+    <original></original>
+  </item>
+  <item id="17406">
+    <original></original>
+  </item>
+  <item id="17407">
+    <original></original>
+  </item>
+  <item id="17408">
+    <original></original>
+  </item>
+  <item id="17409">
+    <original></original>
+  </item>
+  <item id="17410">
+    <original></original>
+  </item>
+  <item id="17411">
+    <original></original>
+  </item>
+  <item id="17412">
+    <original></original>
+  </item>
+  <item id="17413">
+    <original></original>
+  </item>
+  <item id="17414">
+    <original></original>
+  </item>
+  <item id="17415">
+    <original></original>
+  </item>
+  <item id="17416">
+    <original></original>
+  </item>
+  <item id="17417">
+    <original></original>
+  </item>
+  <item id="17418">
+    <original></original>
+  </item>
+  <item id="17419">
+    <original></original>
+  </item>
+  <item id="17420">
+    <original></original>
+  </item>
+  <item id="17421">
+    <original></original>
+  </item>
+  <item id="17422">
+    <original></original>
+  </item>
+  <item id="17423">
+    <original></original>
+  </item>
+  <item id="17424">
+    <original></original>
+  </item>
+  <item id="17425">
+    <original></original>
+  </item>
+  <item id="17426">
+    <original></original>
+  </item>
+  <item id="17427">
+    <original></original>
+  </item>
+  <item id="17428">
+    <original></original>
+  </item>
+  <item id="17429">
+    <original></original>
+  </item>
+  <item id="17430">
+    <original></original>
+  </item>
+  <item id="17431">
+    <original></original>
+  </item>
+  <item id="17432">
+    <original></original>
+  </item>
+  <item id="17433">
+    <original></original>
+  </item>
+  <item id="17434">
+    <original></original>
+  </item>
+  <item id="17435">
+    <original></original>
+  </item>
+  <item id="17436">
+    <original></original>
+  </item>
+  <item id="17437">
+    <original></original>
+  </item>
+  <item id="17438">
+    <original></original>
+  </item>
+  <item id="17439">
+    <original></original>
+  </item>
+  <item id="17440">
+    <original></original>
+  </item>
+  <item id="17441">
+    <original></original>
+  </item>
+  <item id="17442">
+    <original></original>
+  </item>
+  <item id="17443">
+    <original></original>
+  </item>
+  <item id="17444">
+    <original></original>
+  </item>
+  <item id="17445">
+    <original></original>
+  </item>
+  <item id="17446">
+    <original></original>
+  </item>
+  <item id="17447">
+    <original></original>
+  </item>
+  <item id="17448">
+    <original></original>
+  </item>
+  <item id="17449">
+    <original></original>
+  </item>
+  <item id="17450">
+    <original></original>
+  </item>
+  <item id="17451">
+    <original></original>
+  </item>
+  <item id="17452">
+    <original></original>
+  </item>
+  <item id="17453">
+    <original></original>
+  </item>
+  <item id="17454">
+    <original></original>
+  </item>
+  <item id="17455">
+    <original></original>
+  </item>
+  <item id="17456">
+    <original></original>
+  </item>
+  <item id="17457">
+    <original></original>
+  </item>
+  <item id="17458">
+    <original></original>
+  </item>
+  <item id="17459">
+    <original></original>
+  </item>
+  <item id="17460">
+    <original></original>
+  </item>
+  <item id="17461">
+    <original></original>
+  </item>
+  <item id="17462">
+    <original></original>
+  </item>
+  <item id="17463">
+    <original></original>
+  </item>
+  <item id="17464">
+    <original></original>
+  </item>
+  <item id="17465">
+    <original></original>
+  </item>
+  <item id="17466">
+    <original></original>
+  </item>
+  <item id="17467">
+    <original></original>
+  </item>
+  <item id="17468">
+    <original></original>
+  </item>
+  <item id="17469">
+    <original></original>
+  </item>
+  <item id="17470">
+    <original></original>
+  </item>
+  <item id="17471">
+    <original></original>
+  </item>
+  <item id="17472">
+    <original></original>
+  </item>
+  <item id="17473">
+    <original></original>
+  </item>
+  <item id="17474">
+    <original></original>
+  </item>
+  <item id="17475">
+    <original></original>
+  </item>
+  <item id="17476">
+    <original></original>
+  </item>
+  <item id="17477">
+    <original></original>
+  </item>
+  <item id="17478">
+    <original></original>
+  </item>
+  <item id="17479">
+    <original></original>
+  </item>
+  <item id="17480">
+    <original></original>
+  </item>
+  <item id="17481">
+    <original></original>
+  </item>
+  <item id="17482">
+    <original></original>
+  </item>
+  <item id="17483">
+    <original></original>
+  </item>
+  <item id="17484">
+    <original></original>
+  </item>
+  <item id="17485">
+    <original></original>
+  </item>
+  <item id="17486">
+    <original></original>
+  </item>
+  <item id="17487">
+    <original></original>
+  </item>
+  <item id="17488">
+    <original></original>
+  </item>
+  <item id="17489">
+    <original></original>
+  </item>
+  <item id="17490">
+    <original></original>
+  </item>
+  <item id="17491">
+    <original></original>
+  </item>
+  <item id="17492">
+    <original></original>
+  </item>
+  <item id="17493">
+    <original></original>
+  </item>
+  <item id="17494">
+    <original></original>
+  </item>
+  <item id="17495">
+    <original></original>
+  </item>
+  <item id="17496">
+    <original></original>
+  </item>
+  <item id="17497">
+    <original></original>
+  </item>
+  <item id="17498">
+    <original></original>
+  </item>
+  <item id="17499">
+    <original></original>
+  </item>
+  <item id="17500">
+    <original></original>
+  </item>
+  <item id="17501">
+    <original></original>
+  </item>
+  <item id="17502">
+    <original></original>
+  </item>
+  <item id="17503">
+    <original></original>
+  </item>
+  <item id="17504">
+    <original></original>
+  </item>
+  <item id="17505">
+    <original></original>
+  </item>
+  <item id="17506">
+    <original></original>
+  </item>
+  <item id="17507">
+    <original></original>
+  </item>
+  <item id="17508">
+    <original></original>
+  </item>
+  <item id="17509">
+    <original></original>
+  </item>
+  <item id="17510">
+    <original></original>
+  </item>
+  <item id="17511">
+    <original></original>
+  </item>
+  <item id="17512">
+    <original></original>
+  </item>
+  <item id="17513">
+    <original></original>
+  </item>
+  <item id="17514">
+    <original></original>
+  </item>
+  <item id="17515">
+    <original></original>
+  </item>
+  <item id="17516">
+    <original></original>
+  </item>
+  <item id="17517">
+    <original></original>
+  </item>
+  <item id="17518">
+    <original></original>
+  </item>
+  <item id="17519">
+    <original></original>
+  </item>
+  <item id="17520">
+    <original></original>
+  </item>
+  <item id="17521">
+    <original></original>
+  </item>
+  <item id="17522">
+    <original></original>
+  </item>
+  <item id="17523">
+    <original></original>
+  </item>
+  <item id="17524">
+    <original></original>
+  </item>
+  <item id="17525">
+    <original></original>
+  </item>
+  <item id="17526">
+    <original></original>
+  </item>
+  <item id="17527">
+    <original></original>
+  </item>
+  <item id="17528">
+    <original></original>
+  </item>
+  <item id="17529">
+    <original></original>
+  </item>
+  <item id="17530">
+    <original></original>
+  </item>
+  <item id="17531">
+    <original></original>
+  </item>
+  <item id="17532">
+    <original></original>
+  </item>
+  <item id="17533">
+    <original></original>
+  </item>
+  <item id="17534">
+    <original></original>
+  </item>
+  <item id="17535">
+    <original></original>
+  </item>
+  <item id="17536">
+    <original></original>
+  </item>
+  <item id="17537">
+    <original></original>
+  </item>
+  <item id="17538">
+    <original></original>
+  </item>
+  <item id="17539">
+    <original></original>
+  </item>
+  <item id="17540">
+    <original></original>
+  </item>
+  <item id="17541">
+    <original></original>
+  </item>
+  <item id="17542">
+    <original></original>
+  </item>
+  <item id="17543">
+    <original></original>
+  </item>
+  <item id="17544">
+    <original></original>
+  </item>
+  <item id="17545">
+    <original></original>
+  </item>
+  <item id="17546">
+    <original></original>
+  </item>
+  <item id="17547">
+    <original></original>
+  </item>
+  <item id="17548">
+    <original></original>
+  </item>
+  <item id="17549">
+    <original></original>
+  </item>
+  <item id="17550">
+    <original></original>
+  </item>
+  <item id="17551">
+    <original></original>
+  </item>
+  <item id="17552">
+    <original></original>
+  </item>
+  <item id="17553">
+    <original></original>
+  </item>
+  <item id="17554">
+    <original></original>
+  </item>
+  <item id="17555">
+    <original></original>
+  </item>
+  <item id="17556">
+    <original></original>
+  </item>
+  <item id="17557">
+    <original></original>
+  </item>
+  <item id="17558">
+    <original></original>
+  </item>
+  <item id="17559">
+    <original></original>
+  </item>
+  <item id="17560">
+    <original></original>
+  </item>
+  <item id="17561">
+    <original></original>
+  </item>
+  <item id="17562">
+    <original></original>
+  </item>
+  <item id="17563">
+    <original></original>
+  </item>
+  <item id="17564">
+    <original></original>
+  </item>
+  <item id="17565">
+    <original></original>
+  </item>
+  <item id="17566">
+    <original></original>
+  </item>
+  <item id="17567">
+    <original></original>
+  </item>
+  <item id="17568">
+    <original></original>
+  </item>
+  <item id="17569">
+    <original></original>
+  </item>
+  <item id="17570">
+    <original></original>
+  </item>
+  <item id="17571">
+    <original></original>
+  </item>
+  <item id="17572">
+    <original></original>
+  </item>
+  <item id="17573">
+    <original></original>
+  </item>
+  <item id="17574">
+    <original></original>
+  </item>
+  <item id="17575">
+    <original></original>
+  </item>
+  <item id="17576">
+    <original></original>
+  </item>
+  <item id="17577">
+    <original></original>
+  </item>
+  <item id="17578">
+    <original></original>
+  </item>
+  <item id="17579">
+    <original></original>
+  </item>
+  <item id="17580">
+    <original></original>
+  </item>
+  <item id="17581">
+    <original></original>
+  </item>
+  <item id="17582">
+    <original></original>
+  </item>
+  <item id="17583">
+    <original></original>
+  </item>
+  <item id="17584">
+    <original></original>
+  </item>
+  <item id="17585">
+    <original></original>
+  </item>
+  <item id="17586">
+    <original></original>
+  </item>
+  <item id="17587">
+    <original></original>
+  </item>
+  <item id="17588">
+    <original></original>
+  </item>
+  <item id="17589">
+    <original></original>
+  </item>
+  <item id="17590">
+    <original></original>
+  </item>
+  <item id="17591">
+    <original></original>
+  </item>
+  <item id="17592">
+    <original></original>
+  </item>
+  <item id="17593">
+    <original></original>
+  </item>
+  <item id="17594">
+    <original></original>
+  </item>
+  <item id="17595">
+    <original></original>
+  </item>
+  <item id="17596">
+    <original></original>
+  </item>
+  <item id="17597">
+    <original></original>
+  </item>
+  <item id="17598">
+    <original></original>
+  </item>
+  <item id="17599">
+    <original></original>
+  </item>
+  <item id="17600">
+    <original></original>
+  </item>
+  <item id="17601">
+    <original></original>
+  </item>
+  <item id="17602">
+    <original></original>
+  </item>
+  <item id="17603">
+    <original></original>
+  </item>
+  <item id="17604">
+    <original></original>
+  </item>
+  <item id="17605">
+    <original></original>
+  </item>
+  <item id="17606">
+    <original></original>
+  </item>
+  <item id="17607">
+    <original></original>
+  </item>
+  <item id="17608">
+    <original></original>
+  </item>
+  <item id="17609">
+    <original></original>
+  </item>
+  <item id="17610">
+    <original></original>
+  </item>
+  <item id="17611">
+    <original></original>
+  </item>
+  <item id="17612">
+    <original></original>
+  </item>
+  <item id="17613">
+    <original></original>
+  </item>
+  <item id="17614">
+    <original></original>
+  </item>
+  <item id="17615">
+    <original></original>
+  </item>
+  <item id="17616">
+    <original></original>
+  </item>
+  <item id="17617">
+    <original></original>
+  </item>
+  <item id="17618">
+    <original></original>
+  </item>
+  <item id="17619">
+    <original></original>
+  </item>
+  <item id="17620">
+    <original></original>
+  </item>
+  <item id="17621">
+    <original></original>
+  </item>
+  <item id="17622">
+    <original></original>
+  </item>
+  <item id="17623">
+    <original></original>
+  </item>
+  <item id="17624">
+    <original></original>
+  </item>
+  <item id="17625">
+    <original></original>
+  </item>
+  <item id="17626">
+    <original></original>
+  </item>
+  <item id="17627">
+    <original></original>
+  </item>
+  <item id="17628">
+    <original></original>
+  </item>
+  <item id="17629">
+    <original></original>
+  </item>
+  <item id="17630">
+    <original></original>
+  </item>
+  <item id="17631">
+    <original></original>
+  </item>
+  <item id="17632">
+    <original></original>
+  </item>
+  <item id="17633">
+    <original></original>
+  </item>
+  <item id="17634">
+    <original></original>
+  </item>
+  <item id="17635">
+    <original></original>
+  </item>
+  <item id="17636">
+    <original></original>
+  </item>
+  <item id="17637">
+    <original></original>
+  </item>
+  <item id="17638">
+    <original></original>
+  </item>
+  <item id="17639">
+    <original></original>
+  </item>
+  <item id="17640">
+    <original></original>
+  </item>
+  <item id="17641">
+    <original></original>
+  </item>
+  <item id="17642">
+    <original></original>
+  </item>
+  <item id="17643">
+    <original></original>
+  </item>
+  <item id="17644">
+    <original></original>
+  </item>
+  <item id="17645">
+    <original></original>
+  </item>
+  <item id="17646">
+    <original></original>
+  </item>
+  <item id="17647">
+    <original></original>
+  </item>
+  <item id="17648">
+    <original></original>
+  </item>
+  <item id="17649">
+    <original></original>
+  </item>
+  <item id="17650">
+    <original></original>
+  </item>
+  <item id="17651">
+    <original></original>
+  </item>
+  <item id="17652">
+    <original></original>
+  </item>
+  <item id="17653">
+    <original></original>
+  </item>
+  <item id="17654">
+    <original></original>
+  </item>
+  <item id="17655">
+    <original></original>
+  </item>
+  <item id="17656">
+    <original></original>
+  </item>
+  <item id="17657">
+    <original></original>
+  </item>
+  <item id="17658">
+    <original></original>
+  </item>
+  <item id="17659">
+    <original></original>
+  </item>
+  <item id="17660">
+    <original></original>
+  </item>
+  <item id="17661">
+    <original></original>
+  </item>
+  <item id="17662">
+    <original></original>
+  </item>
+  <item id="17663">
+    <original></original>
+  </item>
+  <item id="17664">
+    <original></original>
+  </item>
+  <item id="17665">
+    <original></original>
+  </item>
+  <item id="17666">
+    <original></original>
+  </item>
+  <item id="17667">
+    <original></original>
+  </item>
+  <item id="17668">
+    <original></original>
+  </item>
+  <item id="17669">
+    <original></original>
+  </item>
+  <item id="17670">
+    <original></original>
+  </item>
+  <item id="17671">
+    <original></original>
+  </item>
+  <item id="17672">
+    <original></original>
+  </item>
+  <item id="17673">
+    <original></original>
+  </item>
+  <item id="17674">
+    <original></original>
+  </item>
+  <item id="17675">
+    <original></original>
+  </item>
+  <item id="17676">
+    <original></original>
+  </item>
+  <item id="17677">
+    <original></original>
+  </item>
+  <item id="17678">
+    <original></original>
+  </item>
+  <item id="17679">
+    <original></original>
+  </item>
+  <item id="17680">
+    <original></original>
+  </item>
+  <item id="17681">
+    <original></original>
+  </item>
+  <item id="17682">
+    <original></original>
+  </item>
+  <item id="17683">
+    <original></original>
+  </item>
+  <item id="17684">
+    <original></original>
+  </item>
+  <item id="17685">
+    <original></original>
+  </item>
+  <item id="17686">
+    <original></original>
+  </item>
+  <item id="17687">
+    <original></original>
+  </item>
+  <item id="17688">
+    <original></original>
+  </item>
+  <item id="17689">
+    <original></original>
+  </item>
+  <item id="17690">
+    <original></original>
+  </item>
+  <item id="17691">
+    <original></original>
+  </item>
+  <item id="17692">
+    <original></original>
+  </item>
+  <item id="17693">
+    <original></original>
+  </item>
+  <item id="17694">
+    <original></original>
+  </item>
+  <item id="17695">
+    <original></original>
+  </item>
+  <item id="17696">
+    <original></original>
+  </item>
+  <item id="17697">
+    <original></original>
+  </item>
+  <item id="17698">
+    <original></original>
+  </item>
+  <item id="17699">
+    <original></original>
+  </item>
+  <item id="17700">
+    <original></original>
+  </item>
+  <item id="17701">
+    <original></original>
+  </item>
+  <item id="17702">
+    <original></original>
+  </item>
+  <item id="17703">
+    <original></original>
+  </item>
+  <item id="17704">
+    <original></original>
+  </item>
+  <item id="17705">
+    <original></original>
+  </item>
+  <item id="17706">
+    <original></original>
+  </item>
+  <item id="17707">
+    <original></original>
+  </item>
+  <item id="17708">
+    <original></original>
+  </item>
+  <item id="17709">
+    <original></original>
+  </item>
+  <item id="17710">
+    <original></original>
+  </item>
+  <item id="17711">
+    <original></original>
+  </item>
+  <item id="17712">
+    <original></original>
+  </item>
+  <item id="17713">
+    <original></original>
+  </item>
+  <item id="17714">
+    <original></original>
+  </item>
+  <item id="17715">
+    <original></original>
+  </item>
+  <item id="17716">
+    <original></original>
+  </item>
+  <item id="17717">
+    <original></original>
+  </item>
+  <item id="17718">
+    <original></original>
+  </item>
+  <item id="17719">
+    <original></original>
+  </item>
+  <item id="17720">
+    <original></original>
+  </item>
+  <item id="17721">
+    <original></original>
+  </item>
+  <item id="17722">
+    <original></original>
+  </item>
+  <item id="17723">
+    <original></original>
+  </item>
+  <item id="17724">
+    <original></original>
+  </item>
+  <item id="17725">
+    <original></original>
+  </item>
+  <item id="17726">
+    <original></original>
+  </item>
+  <item id="17727">
+    <original></original>
+  </item>
+  <item id="17728">
+    <original></original>
+  </item>
+  <item id="17729">
+    <original></original>
+  </item>
+  <item id="17730">
+    <original></original>
+  </item>
+  <item id="17731">
+    <original></original>
+  </item>
+  <item id="17732">
+    <original></original>
+  </item>
+  <item id="17733">
+    <original></original>
+  </item>
+  <item id="17734">
+    <original></original>
+  </item>
+  <item id="17735">
+    <original></original>
+  </item>
+  <item id="17736">
+    <original></original>
+  </item>
+  <item id="17737">
+    <original></original>
+  </item>
+  <item id="17738">
+    <original></original>
+  </item>
+  <item id="17739">
+    <original></original>
+  </item>
+  <item id="17740">
+    <original></original>
+  </item>
+  <item id="17741">
+    <original></original>
+  </item>
+  <item id="17742">
+    <original></original>
+  </item>
+  <item id="17743">
+    <original></original>
+  </item>
+  <item id="17744">
+    <original></original>
+  </item>
+  <item id="17745">
+    <original></original>
+  </item>
+  <item id="17746">
+    <original></original>
+  </item>
+  <item id="17747">
+    <original></original>
+  </item>
+  <item id="17748">
+    <original></original>
+  </item>
+  <item id="17749">
+    <original></original>
+  </item>
+  <item id="17750">
+    <original></original>
+  </item>
+  <item id="17751">
+    <original></original>
+  </item>
+  <item id="17752">
+    <original></original>
+  </item>
+  <item id="17753">
+    <original></original>
+  </item>
+  <item id="17754">
+    <original></original>
+  </item>
+  <item id="17755">
+    <original></original>
+  </item>
+  <item id="17756">
+    <original></original>
+  </item>
+  <item id="17757">
+    <original></original>
+  </item>
+  <item id="17758">
+    <original></original>
+  </item>
+  <item id="17759">
+    <original></original>
+  </item>
+  <item id="17760">
+    <original></original>
+  </item>
+  <item id="17761">
+    <original></original>
+  </item>
+  <item id="17762">
+    <original></original>
+  </item>
+  <item id="17763">
+    <original></original>
+  </item>
+  <item id="17764">
+    <original></original>
+  </item>
+  <item id="17765">
+    <original></original>
+  </item>
+  <item id="17766">
+    <original></original>
+  </item>
+  <item id="17767">
+    <original></original>
+  </item>
+  <item id="17768">
+    <original></original>
+  </item>
+  <item id="17769">
+    <original></original>
+  </item>
+  <item id="17770">
+    <original></original>
+  </item>
+  <item id="17771">
+    <original></original>
+  </item>
+  <item id="17772">
+    <original></original>
+  </item>
+  <item id="17773">
+    <original></original>
+  </item>
+  <item id="17774">
+    <original></original>
+  </item>
+  <item id="17775">
+    <original></original>
+  </item>
+  <item id="17776">
+    <original></original>
+  </item>
+  <item id="17777">
+    <original></original>
+  </item>
+  <item id="17778">
+    <original></original>
+  </item>
+  <item id="17779">
+    <original></original>
+  </item>
+  <item id="17780">
+    <original></original>
+  </item>
+  <item id="17781">
+    <original></original>
+  </item>
+  <item id="17782">
+    <original></original>
+  </item>
+  <item id="17783">
+    <original></original>
+  </item>
+  <item id="17784">
+    <original></original>
+  </item>
+  <item id="17785">
+    <original></original>
+  </item>
+  <item id="17786">
+    <original></original>
+  </item>
+  <item id="17787">
+    <original></original>
+  </item>
+  <item id="17788">
+    <original></original>
+  </item>
+  <item id="17789">
+    <original></original>
+  </item>
+  <item id="17790">
+    <original></original>
+  </item>
+  <item id="17791">
+    <original></original>
+  </item>
+  <item id="17792">
+    <original></original>
+  </item>
+  <item id="17793">
+    <original></original>
+  </item>
+  <item id="17794">
+    <original></original>
+  </item>
+  <item id="17795">
+    <original></original>
+  </item>
+  <item id="17796">
+    <original></original>
+  </item>
+  <item id="17797">
+    <original></original>
+  </item>
+  <item id="17798">
+    <original></original>
+  </item>
+  <item id="17799">
+    <original></original>
+  </item>
+  <item id="17800">
+    <original></original>
+  </item>
+  <item id="17801">
+    <original></original>
+  </item>
+  <item id="17802">
+    <original></original>
+  </item>
+  <item id="17803">
+    <original></original>
+  </item>
+  <item id="17804">
+    <original></original>
+  </item>
+  <item id="17805">
+    <original></original>
+  </item>
+  <item id="17806">
+    <original></original>
+  </item>
+  <item id="17807">
+    <original></original>
+  </item>
+  <item id="17808">
+    <original></original>
+  </item>
+  <item id="17809">
+    <original></original>
+  </item>
+  <item id="17810">
+    <original></original>
+  </item>
+  <item id="17811">
+    <original></original>
+  </item>
+  <item id="17812">
+    <original></original>
+  </item>
+  <item id="17813">
+    <original></original>
+  </item>
+  <item id="17814">
+    <original></original>
+  </item>
+  <item id="17815">
+    <original></original>
+  </item>
+  <item id="17816">
+    <original></original>
+  </item>
+  <item id="17817">
+    <original></original>
+  </item>
+  <item id="17818">
+    <original></original>
+  </item>
+  <item id="17819">
+    <original></original>
+  </item>
+  <item id="17820">
+    <original></original>
+  </item>
+  <item id="17821">
+    <original></original>
+  </item>
+  <item id="17822">
+    <original></original>
+  </item>
+  <item id="17823">
+    <original></original>
+  </item>
+  <item id="17824">
+    <original></original>
+  </item>
+  <item id="17825">
+    <original></original>
+  </item>
+  <item id="17826">
+    <original></original>
+  </item>
+  <item id="17827">
+    <original></original>
+  </item>
+  <item id="17828">
+    <original></original>
+  </item>
+  <item id="17829">
+    <original></original>
+  </item>
+  <item id="17830">
+    <original></original>
+  </item>
+  <item id="17831">
+    <original></original>
+  </item>
+  <item id="17832">
+    <original></original>
+  </item>
+  <item id="17833">
+    <original></original>
+  </item>
+  <item id="17834">
+    <original></original>
+  </item>
+  <item id="17835">
+    <original></original>
+  </item>
+  <item id="17836">
+    <original></original>
+  </item>
+  <item id="17837">
+    <original></original>
+  </item>
+  <item id="17838">
+    <original></original>
+  </item>
+  <item id="17839">
+    <original></original>
+  </item>
+  <item id="17840">
+    <original></original>
+  </item>
+  <item id="17841">
+    <original></original>
+  </item>
+  <item id="17842">
+    <original></original>
+  </item>
+  <item id="17843">
+    <original></original>
+  </item>
+  <item id="17844">
+    <original></original>
+  </item>
+  <item id="17845">
+    <original></original>
+  </item>
+  <item id="17846">
+    <original></original>
+  </item>
+  <item id="17847">
+    <original></original>
+  </item>
+  <item id="17848">
+    <original></original>
+  </item>
+  <item id="17849">
+    <original></original>
+  </item>
+  <item id="17850">
+    <original></original>
+  </item>
+  <item id="17851">
+    <original></original>
+  </item>
+  <item id="17852">
+    <original></original>
+  </item>
+  <item id="17853">
+    <original></original>
+  </item>
+  <item id="17854">
+    <original></original>
+  </item>
+  <item id="17855">
+    <original></original>
+  </item>
+  <item id="17856">
+    <original>液体系のクラフト用素材
+石化の呪いが凝縮されたカトブレパスの涙
+取扱い注意</original>
+  </item>
+  <item id="17857">
+    <original>皮革系のクラフト用素材
+強力なキメラ族（ＬＶ．80～）から剥いだ
+上質な蛇皮</original>
+  </item>
+  <item id="17858">
+    <original>爪牙系のクラフト用素材
+強力な巨人族（ＬＶ．80～）の
+黄色く濁った巨大な臼歯</original>
+  </item>
+  <item id="17859">
+    <original>雑多なクラフト用素材
+力あるドワーフオークであることを
+たたえる魔軍の印</original>
+  </item>
+  <item id="17860">
+    <original>雑多なクラフト用素材
+歴戦のドワーフオークであることを
+たたえる魔軍の印</original>
+  </item>
+  <item id="17861">
+    <original>雑多なクラフト用素材
+グリムゴブリンが持っていた黒く鋭い破片</original>
+  </item>
+  <item id="17866">
+    <original>皮革系のクラフト用素材
+強力なマンティコア種（ＬＶ．80～）の無毛部分の皮
+人間のものに似ているが、より硬く厚い</original>
+  </item>
+  <item id="17867">
+    <original>雑多なクラフト用素材
+ゴブリンシャーマンが祈祷に使う細い杖</original>
+  </item>
+  <item id="17870">
+    <original>皮革系のクラフト用素材
+リトルクラッグ特有の、まだ加工可能な硬さのゴツゴツした皮</original>
+  </item>
+  <item id="17871">
+    <original>爪牙系のクラフト用素材
+岩をも切り裂くクラッガーの鋭い爪</original>
+  </item>
+  <item id="17872">
+    <original>鉱石系のクラフト用素材
+強力なリザード族（ＬＶ．80～）の
+体内で長年にわたって形成された蒼石</original>
+  </item>
+  <item id="17873">
+    <original>雑多なクラフト用素材
+家に帰ろうと土を掻き、すり減った亡者の爪</original>
+  </item>
+  <item id="17876">
+    <original>雑多なクラフト用素材
+激しい戦いによって砕けた戦甲の残片</original>
+  </item>
+  <item id="17878">
+    <original>魔道書系のクラフト用素材
+強力なウィッチ（ＬＶ．80～）による
+呪いの言葉がしたためられた、魔力を帯びた手紙</original>
+  </item>
+  <item id="17879">
+    <original>皮革系のクラフト用素材
+強力な竜（ＬＶ．80～）の鱗の中で
+一枚だけ逆に生えた鱗</original>
+  </item>
+  <item id="17880">
+    <original>液体系のクラフト用素材
+強力なスライム種（ＬＶ．80～）の粘液</original>
+  </item>
+  <item id="17881">
+    <original>雑多なクラフト用素材
+強力なマンイーター（ＬＶ．80～）の体内から
+発見される真珠のような光沢をもった物質</original>
+  </item>
+  <item id="17882">
+    <original>鉱石系のクラフト用素材
+もろく、細かく砕けやすい小石</original>
+  </item>
+  <item id="17883">
+    <original>鉱石系のクラフト用素材
+火山から吹き出たマグマが冷え固まった岩</original>
+  </item>
+  <item id="17884">
+    <original>草花系のクラフト用素材
+表面が白っぽく、灰をかぶったように見える草</original>
+  </item>
+  <item id="17885">
+    <original>草花系のクラフト用素材
+非常に燃えやすい性質を持つため、
+火を発する草といわれていたこともある</original>
+  </item>
+  <item id="17886">
+    <original>フィールド採取
+水中微生物が多く含まれた液体</original>
+  </item>
+  <item id="17888">
+    <original>雑多なクラフト用素材
+竜の頭が描かれたタイル片</original>
+  </item>
+  <item id="17889">
+    <original>雑多なクラフト用素材
+竜の尾が描かれたタイル片</original>
+  </item>
+  <item id="17891">
+    <original>布系のクラフト用素材
+豊穣を祈願された幅広のリボン</original>
+  </item>
+  <item id="17892">
+    <original>金属系のクラフト用素材
+磁気を帯び、高い耐食性を持つ金属塊</original>
+  </item>
+  <item id="17897">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器に吹き飛ばし力を付加する</original>
+  </item>
+  <item id="17898">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器にチャンス攻力を付加する</original>
+  </item>
+  <item id="17899">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器に気絶攻力を付加する</original>
+  </item>
+  <item id="17900">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器に対敵特効【獣】を付加する</original>
+  </item>
+  <item id="17901">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器に対敵特効【亜人】を付加する</original>
+  </item>
+  <item id="17902">
+    <original>追加ステータスを付加するクラフト用素材
+特別な材質で作られた錬石
+武器に対敵特効【鬼人】を付加する</original>
+  </item>
+  <item id="17907">
+    <original>雑多なクラフト用素材
+乾いて固形になった物体
+何らかの実験に用いられていた形跡がある</original>
+  </item>
+  <item id="17908">
+    <original>雑多なクラフト用素材
+何らかの実験用に加工された魔物の肉片</original>
+  </item>
+  <item id="17909">
+    <original>雑多なクラフト用素材
+群れで肉を食い荒らす肉食性の巻貝</original>
+  </item>
+  <item id="17910">
+    <original>雑多なクラフト用素材
+肉の中で育ち、殻が血の色に染まった巻貝</original>
+  </item>
+  <item id="17911">
+    <original>雑多なクラフト用素材
+繊細な彫刻が施された美術品</original>
+  </item>
+  <item id="17912">
+    <original>雑多なクラフト用素材
+アッカー王家の家紋と火竜の姿が
+沈み彫りで繊細に刻まれた美術品</original>
+  </item>
+  <item id="17923">
+    <original>鍛錬の小部屋の奥にある
+ボーナスダンジョンロビーにて
+各ダンジョンへ入るために必要なチケット
+突入時に消費する</original>
+  </item>
+  <item id="17924">
+    <original>鍛錬の小部屋の奥にある
+ボーナスダンジョンロビーにて
+各ダンジョンへ入るために必要なチケット
+突入時に消費する</original>
+  </item>
+  <item id="17925">
+    <original>鍛錬の小部屋の奥にある
+ボーナスダンジョンロビーにて
+各ダンジョンへ入るために必要なチケット
+突入時に消費する</original>
+  </item>
+  <item id="17926">
+    <original>鍛錬の小部屋の奥にある
+ボーナスダンジョンロビーにて
+各ダンジョンへ入るために必要なチケット
+突入時に消費する</original>
+  </item>
+  <item id="17928">
+    <original>肉系のクラフト用素材
+強力なハーピー種（ＬＶ．80～）の
+見かけによらず、ぎっちりとした筋肉質の硬い肉</original>
+  </item>
+  <item id="17930">
+    <original>肉系のクラフト用素材
+強力な有翼系の魔物（ＬＶ．80～）が持つ
+巨体の飛行を支える強靭な心臓</original>
   </item>
   <item id="17931">
     <original>パペット・ミカサ</original>
@@ -42329,6 +44819,27 @@ a commemorative trophy.</translation>
   <item id="17932">
     <original>レスタニアンパペット・リヴァイ</original>
     <translation>Lestanian Puppet - Levi</translation>
+  </item>
+  <item id="17935">
+    <original>2周年を祝うルームランプ</original>
+  </item>
+  <item id="17936">
+    <original>2周年を祝う豪華なケーキ</original>
+  </item>
+  <item id="17937">
+    <original>2周年を祝う飾り</original>
+  </item>
+  <item id="17938">
+    <original>2周年を祝う可愛いパペット
+チェストの上に置ける大きめサイズ</original>
+  </item>
+  <item id="17939">
+    <original>書斎に設置できる
+2周年を祝うタペストリー（右）</original>
+  </item>
+  <item id="17940">
+    <original>書斎に設置できる
+2周年を祝うタペストリー（左）</original>
   </item>
   <item id="17941">
     <original></original>
@@ -42340,6 +44851,12 @@ a commemorative trophy.</translation>
     <original></original>
   </item>
   <item id="17944">
+    <original></original>
+  </item>
+  <item id="17952">
+    <original></original>
+  </item>
+  <item id="17953">
     <original></original>
   </item>
   <item id="17954">
@@ -42357,6 +44874,242 @@ a commemorative trophy.</translation>
   <item id="17958">
     <original></original>
   </item>
+  <item id="17959">
+    <original>マンドラゴラの育成に欠かせない
+栄養たっぷりの土</original>
+  </item>
+  <item id="18143">
+    <original></original>
+  </item>
+  <item id="18144">
+    <original></original>
+  </item>
+  <item id="18145">
+    <original></original>
+  </item>
+  <item id="18146">
+    <original></original>
+  </item>
+  <item id="18147">
+    <original></original>
+  </item>
+  <item id="18148">
+    <original></original>
+  </item>
+  <item id="18149">
+    <original></original>
+  </item>
+  <item id="18150">
+    <original></original>
+  </item>
+  <item id="18151">
+    <original></original>
+  </item>
+  <item id="18152">
+    <original></original>
+  </item>
+  <item id="18506">
+    <original>キノザ鉱泉の≪豊穣の泉≫と
+≪活力の泉≫を超える効能が
+一度に楽しめる特別なお風呂</original>
+  </item>
+  <item id="18507">
+    <original>木材系のクラフト用素材
+ラスニテ山麓地方特産の
+まっすぐに伸びた質の良い木材</original>
+  </item>
+  <item id="18508">
+    <original>木材系のクラフト用素材
+地熱でゆっくりと焼かれてできた木炭</original>
+  </item>
+  <item id="18513">
+    <original>ウォーミッション《ダクレイム砦奪還戦》
+で高い戦果を上げた者に送られる勲章</original>
+  </item>
+  <item id="18514">
+    <original>ウォーミッション《ジフール砦奪還戦》
+で高い戦果を上げた者に送られる勲章</original>
+  </item>
+  <item id="18515">
+    <original></original>
+  </item>
+  <item id="18516">
+    <original></original>
+  </item>
+  <item id="18517">
+    <original></original>
+  </item>
+  <item id="18518">
+    <original></original>
+  </item>
+  <item id="18519">
+    <original></original>
+  </item>
+  <item id="18520">
+    <original></original>
+  </item>
+  <item id="18521">
+    <original></original>
+  </item>
+  <item id="18522">
+    <original></original>
+  </item>
+  <item id="18523">
+    <original></original>
+  </item>
+  <item id="18524">
+    <original></original>
+  </item>
+  <item id="18525">
+    <original></original>
+  </item>
+  <item id="18526">
+    <original></original>
+  </item>
+  <item id="18527">
+    <original></original>
+  </item>
+  <item id="18528">
+    <original></original>
+  </item>
+  <item id="18529">
+    <original></original>
+  </item>
+  <item id="18530">
+    <original></original>
+  </item>
+  <item id="18531">
+    <original></original>
+  </item>
+  <item id="18532">
+    <original></original>
+  </item>
+  <item id="18533">
+    <original></original>
+  </item>
+  <item id="18534">
+    <original></original>
+  </item>
+  <item id="18535">
+    <original></original>
+  </item>
+  <item id="18536">
+    <original></original>
+  </item>
+  <item id="18537">
+    <original></original>
+  </item>
+  <item id="18538">
+    <original></original>
+  </item>
+  <item id="18539">
+    <original></original>
+  </item>
+  <item id="18540">
+    <original></original>
+  </item>
+  <item id="18541">
+    <original></original>
+  </item>
+  <item id="18542">
+    <original></original>
+  </item>
+  <item id="18543">
+    <original></original>
+  </item>
+  <item id="18544">
+    <original></original>
+  </item>
+  <item id="18545">
+    <original></original>
+  </item>
+  <item id="18546">
+    <original></original>
+  </item>
+  <item id="18547">
+    <original></original>
+  </item>
+  <item id="18548">
+    <original></original>
+  </item>
+  <item id="18549">
+    <original></original>
+  </item>
+  <item id="18550">
+    <original></original>
+  </item>
+  <item id="18551">
+    <original></original>
+  </item>
+  <item id="18552">
+    <original></original>
+  </item>
+  <item id="18553">
+    <original></original>
+  </item>
+  <item id="18554">
+    <original></original>
+  </item>
+  <item id="18555">
+    <original></original>
+  </item>
+  <item id="18556">
+    <original></original>
+  </item>
+  <item id="18557">
+    <original></original>
+  </item>
+  <item id="18558">
+    <original></original>
+  </item>
+  <item id="18559">
+    <original></original>
+  </item>
+  <item id="18560">
+    <original></original>
+  </item>
+  <item id="18561">
+    <original></original>
+  </item>
+  <item id="18562">
+    <original></original>
+  </item>
+  <item id="18563">
+    <original></original>
+  </item>
+  <item id="18564">
+    <original></original>
+  </item>
+  <item id="18565">
+    <original></original>
+  </item>
+  <item id="18566">
+    <original></original>
+  </item>
+  <item id="18567">
+    <original></original>
+  </item>
+  <item id="18568">
+    <original></original>
+  </item>
+  <item id="18569">
+    <original></original>
+  </item>
+  <item id="18570">
+    <original></original>
+  </item>
+  <item id="18571">
+    <original></original>
+  </item>
+  <item id="18572">
+    <original></original>
+  </item>
+  <item id="18573">
+    <original></original>
+  </item>
+  <item id="18574">
+    <original></original>
+  </item>
   <item id="18575">
     <original></original>
   </item>
@@ -42367,6 +45120,66 @@ a commemorative trophy.</translation>
     <original></original>
   </item>
   <item id="18578">
+    <original></original>
+  </item>
+  <item id="18579">
+    <original></original>
+  </item>
+  <item id="18580">
+    <original></original>
+  </item>
+  <item id="18581">
+    <original></original>
+  </item>
+  <item id="18582">
+    <original></original>
+  </item>
+  <item id="18583">
+    <original></original>
+  </item>
+  <item id="18584">
+    <original></original>
+  </item>
+  <item id="18585">
+    <original></original>
+  </item>
+  <item id="18586">
+    <original></original>
+  </item>
+  <item id="18587">
+    <original></original>
+  </item>
+  <item id="18588">
+    <original></original>
+  </item>
+  <item id="18589">
+    <original></original>
+  </item>
+  <item id="18590">
+    <original></original>
+  </item>
+  <item id="18591">
+    <original></original>
+  </item>
+  <item id="18592">
+    <original></original>
+  </item>
+  <item id="18593">
+    <original></original>
+  </item>
+  <item id="18594">
+    <original></original>
+  </item>
+  <item id="18595">
+    <original></original>
+  </item>
+  <item id="18596">
+    <original></original>
+  </item>
+  <item id="18597">
+    <original></original>
+  </item>
+  <item id="18598">
     <original></original>
   </item>
   <item id="18599">
@@ -42499,6 +45312,455 @@ a commemorative trophy.</translation>
   <item id="18635">
     <original></original>
   </item>
+  <item id="18640">
+    <original>キャリーの力作サンドイッチ
+食べると様々な良い効果がある</original>
+  </item>
+  <item id="18641">
+    <original>キャリーが作った渾身の弁当
+食べると様々な良い効果がある</original>
+  </item>
+  <item id="18643">
+    <original>ドミニオンポイントショップにて
+使用できる通貨(DP)</original>
+  </item>
+  <item id="18644">
+    <original>ドミニオンポイントショップにて
+使用できる通貨(DP)</original>
+  </item>
+  <item id="18645">
+    <original>ドミニオンポイントショップにて
+使用できる通貨(DP)</original>
+  </item>
+  <item id="18646">
+    <original>キノコ系のクラフト用素材
+薄暗闇の色をし、夕暮れ時に傘が開くキノコ</original>
+  </item>
+  <item id="18647">
+    <original>キノコ系のクラフト用素材
+マンドラゴラがくれたキノコ</original>
+  </item>
+  <item id="18648">
+    <original>砂系のクラフト用素材
+火山由来の様々な鉱物が含まれている砂粒</original>
+  </item>
+  <item id="18649">
+    <original>砂系のクラフト用素材
+火山から降り注いだ細かなガラスの粒</original>
+  </item>
+  <item id="18650">
+    <original>宝石系のクラフト用素材
+深みのある赤色が美しい宝石</original>
+  </item>
+  <item id="18655">
+    <original>肉系のクラフト用素材
+強力なオオカミ種（ＬＶ．80～）の臓器</original>
+  </item>
+  <item id="18656">
+    <original>エピタフロードに眠る魂
+英霊眠りし道 ラスニテ山麓の
+深部へ踏み入れるための力となる</original>
+  </item>
+  <item id="18661">
+    <original>肉系のクラフト用素材
+獣を引き寄せるために強い臭いを
+放つよう加工された肉塊</original>
+  </item>
+  <item id="18663">
+    <original>草花系のクラフト用素材
+マンドラゴラがくれた葉っぱ</original>
+  </item>
+  <item id="18664">
+    <original>木材系のクラフト用素材
+マンドラゴラがくれた小枝</original>
+  </item>
+  <item id="18665">
+    <original></original>
+  </item>
+  <item id="18666">
+    <original></original>
+  </item>
+  <item id="18667">
+    <original></original>
+  </item>
+  <item id="18668">
+    <original></original>
+  </item>
+  <item id="18669">
+    <original></original>
+  </item>
+  <item id="18670">
+    <original></original>
+  </item>
+  <item id="18671">
+    <original></original>
+  </item>
+  <item id="18672">
+    <original></original>
+  </item>
+  <item id="18673">
+    <original></original>
+  </item>
+  <item id="18674">
+    <original></original>
+  </item>
+  <item id="18675">
+    <original></original>
+  </item>
+  <item id="18676">
+    <original></original>
+  </item>
+  <item id="18677">
+    <original></original>
+  </item>
+  <item id="18678">
+    <original></original>
+  </item>
+  <item id="18679">
+    <original></original>
+  </item>
+  <item id="18680">
+    <original></original>
+  </item>
+  <item id="18681">
+    <original></original>
+  </item>
+  <item id="18682">
+    <original></original>
+  </item>
+  <item id="18683">
+    <original></original>
+  </item>
+  <item id="18684">
+    <original></original>
+  </item>
+  <item id="18685">
+    <original></original>
+  </item>
+  <item id="18686">
+    <original></original>
+  </item>
+  <item id="18687">
+    <original></original>
+  </item>
+  <item id="18688">
+    <original></original>
+  </item>
+  <item id="18689">
+    <original></original>
+  </item>
+  <item id="18690">
+    <original></original>
+  </item>
+  <item id="18691">
+    <original></original>
+  </item>
+  <item id="18692">
+    <original></original>
+  </item>
+  <item id="18693">
+    <original></original>
+  </item>
+  <item id="18694">
+    <original></original>
+  </item>
+  <item id="18695">
+    <original></original>
+  </item>
+  <item id="18696">
+    <original></original>
+  </item>
+  <item id="18697">
+    <original></original>
+  </item>
+  <item id="18698">
+    <original></original>
+  </item>
+  <item id="18699">
+    <original></original>
+  </item>
+  <item id="18700">
+    <original></original>
+  </item>
+  <item id="18701">
+    <original></original>
+  </item>
+  <item id="18702">
+    <original></original>
+  </item>
+  <item id="18703">
+    <original></original>
+  </item>
+  <item id="18704">
+    <original></original>
+  </item>
+  <item id="18705">
+    <original></original>
+  </item>
+  <item id="18706">
+    <original></original>
+  </item>
+  <item id="18707">
+    <original></original>
+  </item>
+  <item id="18708">
+    <original></original>
+  </item>
+  <item id="18709">
+    <original></original>
+  </item>
+  <item id="18710">
+    <original></original>
+  </item>
+  <item id="18711">
+    <original></original>
+  </item>
+  <item id="18712">
+    <original></original>
+  </item>
+  <item id="18713">
+    <original></original>
+  </item>
+  <item id="18714">
+    <original></original>
+  </item>
+  <item id="18715">
+    <original></original>
+  </item>
+  <item id="18716">
+    <original></original>
+  </item>
+  <item id="18717">
+    <original></original>
+  </item>
+  <item id="18718">
+    <original></original>
+  </item>
+  <item id="18719">
+    <original></original>
+  </item>
+  <item id="18720">
+    <original></original>
+  </item>
+  <item id="18721">
+    <original></original>
+  </item>
+  <item id="18722">
+    <original></original>
+  </item>
+  <item id="18723">
+    <original></original>
+  </item>
+  <item id="18724">
+    <original></original>
+  </item>
+  <item id="18725">
+    <original>宝石系のクラフト用素材
+ボーンパールの中でも特に稀少な逸品
+色のつく理由は解明されていない</original>
+  </item>
+  <item id="18729">
+    <original>雑多なクラフト用素材
+魔軍が使役する魔物に
+装備させている特殊な鎧</original>
+  </item>
+  <item id="18730">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="18731">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="18732">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="18733">
+    <original>《鑑定交換》で利用できるジュエリー
+どんな効果を持つジュエリーになるかは
+現時点では不明</original>
+  </item>
+  <item id="18735">
+    <original>羽根系のクラフト用素材
+古くから伝わる羽のような形の逸品。
+何らかの生物によるものか、工芸品なのか
+判別がつかない</original>
+  </item>
+  <item id="18736">
+    <original></original>
+  </item>
+  <item id="18738">
+    <original>雑多なクラフト用素材
+目玉のように見える模様が浮かぶ鉱石</original>
+  </item>
+  <item id="18739">
+    <original></original>
+  </item>
+  <item id="18740">
+    <original></original>
+  </item>
+  <item id="18742">
+    <original>従来のブラッドオーブよりも
+さらに強い竜力を秘めた結晶</original>
+  </item>
+  <item id="18743">
+    <original>従来のブラッドオーブよりも
+さらに強い竜力を秘めた結晶</original>
+  </item>
+  <item id="18744">
+    <original>従来のブラッドオーブよりも
+さらに強い竜力を秘めた結晶</original>
+  </item>
+  <item id="18750">
+    <original>白い壁紙のレシピ</original>
+  </item>
+  <item id="18751">
+    <original>黒い壁紙のレシピ</original>
+  </item>
+  <item id="18755">
+    <original>レンガ柄の壁紙のレシピ</original>
+  </item>
+  <item id="18756">
+    <original>レスタニアの壁紙のレシピ</original>
+  </item>
+  <item id="18758">
+    <original>デコレーション・2周年のレシピ</original>
+  </item>
+  <item id="18759">
+    <original>鳩時計のレシピ</original>
+  </item>
+  <item id="18760">
+    <original>アンティークの机・ナチュラルのレシピ</original>
+  </item>
+  <item id="18761">
+    <original>アンティークの机・スノウのレシピ</original>
+  </item>
+  <item id="18762">
+    <original>アンティークの机・チャコールのレシピ</original>
+  </item>
+  <item id="18766">
+    <original>山羊毛織のカーペット・ホワイトのレシピ</original>
+  </item>
+  <item id="18767">
+    <original>山羊毛織のカーペット・ブラックのレシピ</original>
+  </item>
+  <item id="18771">
+    <original>タペストリー・レスタニアのレシピ</original>
+  </item>
+  <item id="18772">
+    <original>タペストリー・プライドのレシピ</original>
+  </item>
+  <item id="18773">
+    <original>タペストリー・ドラゴンのレシピ</original>
+  </item>
+  <item id="18774">
+    <original>タペストリー・ディスコードのレシピ</original>
+  </item>
+  <item id="18775">
+    <original>タペストリー・ジェネシスのレシピ</original>
+  </item>
+  <item id="18776">
+    <original>タペストリー・アルケムのレシピ</original>
+  </item>
+  <item id="18777">
+    <original>タペストリー・ルインズのレシピ</original>
+  </item>
+  <item id="18778">
+    <original>タペストリー・2周年Aのレシピ</original>
+  </item>
+  <item id="18779">
+    <original>タペストリー・フィンダムのレシピ</original>
+  </item>
+  <item id="18782">
+    <original>タペストリー・2周年Bのレシピ</original>
+  </item>
+  <item id="18783">
+    <original>クロステーブル・フォレストのレシピ</original>
+  </item>
+  <item id="18787">
+    <original>クロステーブル・チャコールのレシピ</original>
+  </item>
+  <item id="18788">
+    <original>アニバーサリーケーキ・2周年のレシピ</original>
+  </item>
+  <item id="18789">
+    <original>アニバーサリーパペット・2周年のレシピ</original>
+  </item>
+  <item id="18791">
+    <original>毛織のリビングカーペット・ホワイトのレシピ</original>
+  </item>
+  <item id="18792">
+    <original>毛織のリビングカーペット・ブラックのレシピ</original>
+  </item>
+  <item id="18796">
+    <original>お風呂・楽園の湯のレシピ</original>
+  </item>
+  <item id="18797">
+    <original>アリストクラットバス・キメラのレシピ</original>
+  </item>
+  <item id="18799">
+    <original>アリストクラットバス・グリフィンのレシピ</original>
+  </item>
+  <item id="18801">
+    <original>アリストクラットバス・コカトリスのレシピ</original>
+  </item>
+  <item id="18804">
+    <original>アリストクラットバス・ウィルムのレシピ</original>
+  </item>
+  <item id="18805">
+    <original>アリストクラットバス・ドレイクのレシピ</original>
+  </item>
+  <item id="18811">
+    <original>ダイニングテーブル・スノウのレシピ</original>
+  </item>
+  <item id="18812">
+    <original>ダイニングテーブル・チャコールのレシピ</original>
+  </item>
+  <item id="18815">
+    <original>ラスニテ山麓でのみ流通するコイン
+他の地方では手に入らず、ある意味稀少品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="18816">
+    <original>ジョブ1種のレベルをLV.80にすると同時に
+スキルをLV.6、アビリティをLV.4までアップ
+&lt;COL ffdc78&gt;※NPC「ジョゼフ」のメニューに追加されます&lt;/COL&gt;</original>
+  </item>
+  <item id="18817">
+    <original>覚者の竜力の継承4ページを
+全て習得した状態にする
+&lt;COL ffdc78&gt;※NPC「ジョゼフ」のメニューに追加されます&lt;/COL&gt;</original>
+  </item>
+  <item id="18818">
+    <original>シーズン2までのエリア「レスタニア」「魔赤島」
+「フィンダム」にある全拠点の礎の解放と
+各エリアランクを10までアップさせる
+&lt;COL ffdc78&gt;※NPC「ジョゼフ」のメニューに追加されます&lt;/COL&gt;</original>
+  </item>
+  <item id="18827">
+    <original>冒パスショップにて使用できる通貨(BP)</original>
+  </item>
+  <item id="18828">
+    <original>金貨(Ｇ)の入った袋</original>
+  </item>
+  <item id="18829">
+    <original>リムが結晶化したもの</original>
+  </item>
+  <item id="18830">
+    <original>かつての戦いで白竜の
+流した血液が結晶化したもの</original>
+  </item>
+  <item id="18831">
+    <original>鍛練の記憶が込められた結晶</original>
+  </item>
+  <item id="18832">
+    <original>各ジョブのさらなる成長に関わる
+要素にて使用できる通貨(PP)</original>
+  </item>
   <item id="18833">
     <original></original>
   </item>
@@ -42510,8 +45772,164 @@ a commemorative trophy.</translation>
 調査兵団の証
 《鑑定交換》で利用できる</original>
   </item>
+  <item id="18836">
+    <original></original>
+  </item>
+  <item id="18837">
+    <original></original>
+  </item>
+  <item id="18838">
+    <original></original>
+  </item>
+  <item id="18839">
+    <original></original>
+  </item>
+  <item id="18840">
+    <original></original>
+  </item>
+  <item id="18841">
+    <original></original>
+  </item>
+  <item id="18842">
+    <original></original>
+  </item>
+  <item id="18843">
+    <original></original>
+  </item>
+  <item id="18844">
+    <original></original>
+  </item>
+  <item id="18845">
+    <original></original>
+  </item>
+  <item id="18846">
+    <original></original>
+  </item>
+  <item id="18847">
+    <original></original>
+  </item>
+  <item id="18848">
+    <original></original>
+  </item>
+  <item id="18849">
+    <original></original>
+  </item>
+  <item id="18850">
+    <original></original>
+  </item>
+  <item id="18851">
+    <original></original>
+  </item>
+  <item id="18852">
+    <original></original>
+  </item>
+  <item id="18853">
+    <original></original>
+  </item>
+  <item id="18854">
+    <original></original>
+  </item>
+  <item id="18855">
+    <original></original>
+  </item>
+  <item id="18856">
+    <original></original>
+  </item>
+  <item id="18857">
+    <original></original>
+  </item>
+  <item id="18858">
+    <original></original>
+  </item>
+  <item id="18859">
+    <original></original>
+  </item>
+  <item id="18860">
+    <original></original>
+  </item>
+  <item id="18861">
+    <original></original>
+  </item>
+  <item id="18862">
+    <original></original>
+  </item>
+  <item id="18863">
+    <original></original>
+  </item>
+  <item id="18864">
+    <original></original>
+  </item>
+  <item id="18865">
+    <original></original>
+  </item>
+  <item id="18866">
+    <original></original>
+  </item>
+  <item id="18867">
+    <original></original>
+  </item>
+  <item id="18868">
+    <original></original>
+  </item>
+  <item id="18869">
+    <original></original>
+  </item>
+  <item id="18870">
+    <original></original>
+  </item>
+  <item id="18871">
+    <original></original>
+  </item>
+  <item id="18872">
+    <original></original>
+  </item>
+  <item id="18873">
+    <original></original>
+  </item>
+  <item id="18874">
+    <original></original>
+  </item>
+  <item id="18875">
+    <original></original>
+  </item>
+  <item id="18876">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18877">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18878">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18879">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18880">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18881">
+    <original>特別な材質で作られた錬石の欠片
+アイテム生産で組み合わせると
+追加ステータスを付加するクラフト用素材となる</original>
+  </item>
+  <item id="18885">
+    <original></original>
+  </item>
+  <item id="18886">
+    <original></original>
+  </item>
   <item id="18893">
-    <original>雑多なクラフト用素材
+    <original>鑑定交換用素材
 黄金に輝くヤシの実からとれる繊維
 華やかな色に加え、しなやかで丈夫</original>
   </item>
@@ -42528,6 +45946,129 @@ a commemorative trophy.</translation>
     <original></original>
   </item>
   <item id="18898">
+    <original></original>
+  </item>
+  <item id="18899">
+    <original></original>
+  </item>
+  <item id="18900">
+    <original></original>
+  </item>
+  <item id="18905">
+    <original></original>
+  </item>
+  <item id="18910">
+    <original></original>
+  </item>
+  <item id="18915">
+    <original></original>
+  </item>
+  <item id="18920">
+    <original></original>
+  </item>
+  <item id="18925">
+    <original></original>
+  </item>
+  <item id="18930">
+    <original></original>
+  </item>
+  <item id="18935">
+    <original></original>
+  </item>
+  <item id="18940">
+    <original></original>
+  </item>
+  <item id="18945">
+    <original></original>
+  </item>
+  <item id="18950">
+    <original></original>
+  </item>
+  <item id="18955">
+    <original></original>
+  </item>
+  <item id="18960">
+    <original></original>
+  </item>
+  <item id="18965">
+    <original></original>
+  </item>
+  <item id="18970">
+    <original></original>
+  </item>
+  <item id="18975">
+    <original></original>
+  </item>
+  <item id="18980">
+    <original></original>
+  </item>
+  <item id="18985">
+    <original></original>
+  </item>
+  <item id="18990">
+    <original></original>
+  </item>
+  <item id="18995">
+    <original></original>
+  </item>
+  <item id="19000">
+    <original></original>
+  </item>
+  <item id="19005">
+    <original></original>
+  </item>
+  <item id="19010">
+    <original></original>
+  </item>
+  <item id="19015">
+    <original></original>
+  </item>
+  <item id="19020">
+    <original></original>
+  </item>
+  <item id="19025">
+    <original></original>
+  </item>
+  <item id="19030">
+    <original></original>
+  </item>
+  <item id="19035">
+    <original></original>
+  </item>
+  <item id="19040">
+    <original></original>
+  </item>
+  <item id="19045">
+    <original></original>
+  </item>
+  <item id="19050">
+    <original></original>
+  </item>
+  <item id="19055">
+    <original></original>
+  </item>
+  <item id="19060">
+    <original></original>
+  </item>
+  <item id="19065">
+    <original></original>
+  </item>
+  <item id="19070">
+    <original></original>
+  </item>
+  <item id="19075">
+    <original></original>
+  </item>
+  <item id="19080">
+    <original></original>
+  </item>
+  <item id="19085">
+    <original></original>
+  </item>
+  <item id="19090">
+    <original></original>
+  </item>
+  <item id="19095">
     <original></original>
   </item>
   <item id="19100">
@@ -42672,8 +46213,12 @@ a commemorative trophy.</translation>
     <original></original>
   </item>
   <item id="19147">
-    <original>特定の場所でのみ入手できるクラフト用素材
-芯なる樹の内部を巡っていた明るい青色に輝く雫</original>
+    <original>鑑定交換用でもあり、クラフト用素材でもある
+芯なる樹の内部を巡っていた明るい青色に輝く雫
+特定の場所でのみ入手できる</original>
+  </item>
+  <item id="19148">
+    <original>サイクロランタンのレシピ</original>
   </item>
   <item id="19149">
     <original></original>
@@ -42936,6 +46481,152 @@ a commemorative trophy.</translation>
   <item id="19235">
     <original>シークレットアビリティ「縮金」を習得する。</original>
   </item>
+  <item id="19236">
+    <original></original>
+  </item>
+  <item id="19246">
+    <original></original>
+  </item>
+  <item id="19258">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19259">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19260">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19261">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19262">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19263">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19264">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19265">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19266">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19267">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19268">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19269">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19270">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19271">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19272">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19273">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19274">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19275">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19276">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19277">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19278">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19279">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19280">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19281">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19282">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19283">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19284">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19285">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19286">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19287">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19288">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19289">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19290">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19291">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
+  <item id="19292">
+    <original>対象のアビリティと同等の効果を得る
+効果は重複しない</original>
+  </item>
   <item id="19293">
     <original>布系のクラフト用素材
 闘気に満ち溢れた布</original>
@@ -43016,6 +46707,194 @@ a commemorative trophy.</translation>
   <item id="19318">
     <original></original>
   </item>
+  <item id="19319">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19320">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19321">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19322">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19323">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19324">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19325">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19326">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19327">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19328">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19329">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19330">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19331">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19332">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19333">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19334">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19335">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19336">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19337">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19338">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19339">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19340">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19341">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19343">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19344">
+    <original>細密なレリーフの刻まれたコイン</original>
+  </item>
+  <item id="19345">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19346">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19347">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19348">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19349">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19350">
+    <original>戦場を駆ける者へと作られたリング状プレート
+さまざまな素材を合成し鍛えた貴重品
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19351">
+    <original></original>
+  </item>
+  <item id="19352">
+    <original></original>
+  </item>
+  <item id="19353">
+    <original></original>
+  </item>
+  <item id="19354">
+    <original></original>
+  </item>
+  <item id="19355">
+    <original></original>
+  </item>
+  <item id="19356">
+    <original></original>
+  </item>
+  <item id="19357">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19358">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19359">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19360">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19361">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19362">
+    <original>対象のアビリティと同等の効果を得る</original>
+  </item>
+  <item id="19363">
+    <original>装着した武器に対敵特効を付与するクレスト</original>
+  </item>
+  <item id="19364">
+    <original>装着した武器に対敵特効を付与するクレスト</original>
+  </item>
+  <item id="19365">
+    <original>装着した武器に対敵特効を付与するクレスト</original>
+  </item>
+  <item id="19366">
+    <original>装着した武器に対敵特効を付与するクレスト</original>
+  </item>
+  <item id="19367">
+    <original>カスタムメイド工房にて使用できる通貨</original>
+  </item>
+  <item id="19372">
+    <original></original>
+  </item>
+  <item id="19373">
+    <original></original>
+  </item>
+  <item id="19374">
+    <original></original>
+  </item>
+  <item id="19375">
+    <original></original>
+  </item>
+  <item id="19376">
+    <original>ダッシュ時に消費するスタミナ量が
+さらに軽減され、速度がアップする</original>
+  </item>
+  <item id="19377">
+    <original>クライム時の移動速度がより上昇する</original>
+  </item>
+  <item id="19378">
+    <original>ジャンプ時、一層より高く跳びあがれる</original>
+  </item>
+  <item id="19379">
+    <original>装備した武器/防具の重量が
+さらに軽減される</original>
+  </item>
+  <item id="19380">
+    <original></original>
+  </item>
+  <item id="19381">
+    <original></original>
+  </item>
   <item id="19382">
     <original>レスタニアワインに果物を漬け込んだ飲み物
 様々な良い効果がある</original>
@@ -43027,5 +46906,460 @@ a commemorative trophy.</translation>
   <item id="19384">
     <original>肉を使った精力満点の料理
 食べると様々な良い効果がある </original>
+  </item>
+  <item id="19385">
+    <original>翼を模した紋章入りのプレート片
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19386">
+    <original>掌を模した紋章入りのプレート片
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19387">
+    <original>風を模した紋章入りのプレート片
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19388">
+    <original>まるで重さを感じないプレート片
+《鑑定交換》の取引対象になるようだ</original>
+  </item>
+  <item id="19389">
+    <original></original>
+  </item>
+  <item id="19390">
+    <original></original>
+  </item>
+  <item id="19391">
+    <original></original>
+  </item>
+  <item id="19392">
+    <original></original>
+  </item>
+  <item id="19393">
+    <original></original>
+  </item>
+  <item id="19394">
+    <original></original>
+  </item>
+  <item id="19395">
+    <original></original>
+  </item>
+  <item id="19396">
+    <original></original>
+  </item>
+  <item id="19397">
+    <original></original>
+  </item>
+  <item id="19398">
+    <original></original>
+  </item>
+  <item id="19399">
+    <original></original>
+  </item>
+  <item id="19400">
+    <original></original>
+  </item>
+  <item id="19401">
+    <original></original>
+  </item>
+  <item id="19402">
+    <original></original>
+  </item>
+  <item id="19403">
+    <original></original>
+  </item>
+  <item id="19404">
+    <original></original>
+  </item>
+  <item id="19405">
+    <original></original>
+  </item>
+  <item id="19406">
+    <original></original>
+  </item>
+  <item id="19407">
+    <original></original>
+  </item>
+  <item id="19408">
+    <original></original>
+  </item>
+  <item id="19409">
+    <original></original>
+  </item>
+  <item id="19410">
+    <original></original>
+  </item>
+  <item id="19411">
+    <original></original>
+  </item>
+  <item id="19412">
+    <original></original>
+  </item>
+  <item id="19413">
+    <original></original>
+  </item>
+  <item id="19414">
+    <original></original>
+  </item>
+  <item id="19415">
+    <original></original>
+  </item>
+  <item id="19416">
+    <original></original>
+  </item>
+  <item id="19417">
+    <original></original>
+  </item>
+  <item id="19418">
+    <original></original>
+  </item>
+  <item id="19419">
+    <original></original>
+  </item>
+  <item id="19420">
+    <original></original>
+  </item>
+  <item id="19421">
+    <original></original>
+  </item>
+  <item id="19422">
+    <original></original>
+  </item>
+  <item id="19423">
+    <original></original>
+  </item>
+  <item id="19424">
+    <original></original>
+  </item>
+  <item id="19425">
+    <original></original>
+  </item>
+  <item id="19426">
+    <original></original>
+  </item>
+  <item id="19427">
+    <original></original>
+  </item>
+  <item id="19428">
+    <original></original>
+  </item>
+  <item id="19429">
+    <original></original>
+  </item>
+  <item id="19450">
+    <original></original>
+  </item>
+  <item id="19451">
+    <original></original>
+  </item>
+  <item id="19454">
+    <original></original>
+  </item>
+  <item id="19455">
+    <original></original>
+  </item>
+  <item id="19456">
+    <original></original>
+  </item>
+  <item id="19457">
+    <original></original>
+  </item>
+  <item id="19458">
+    <original></original>
+  </item>
+  <item id="19459">
+    <original></original>
+  </item>
+  <item id="19460">
+    <original></original>
+  </item>
+  <item id="19461">
+    <original></original>
+  </item>
+  <item id="19462">
+    <original></original>
+  </item>
+  <item id="19463">
+    <original></original>
+  </item>
+  <item id="19464">
+    <original></original>
+  </item>
+  <item id="19465">
+    <original></original>
+  </item>
+  <item id="19466">
+    <original></original>
+  </item>
+  <item id="19467">
+    <original></original>
+  </item>
+  <item id="19468">
+    <original></original>
+  </item>
+  <item id="19469">
+    <original></original>
+  </item>
+  <item id="19470">
+    <original></original>
+  </item>
+  <item id="19471">
+    <original></original>
+  </item>
+  <item id="19472">
+    <original></original>
+  </item>
+  <item id="19473">
+    <original></original>
+  </item>
+  <item id="19474">
+    <original></original>
+  </item>
+  <item id="19475">
+    <original></original>
+  </item>
+  <item id="19476">
+    <original></original>
+  </item>
+  <item id="19477">
+    <original></original>
+  </item>
+  <item id="19478">
+    <original></original>
+  </item>
+  <item id="19479">
+    <original></original>
+  </item>
+  <item id="19480">
+    <original></original>
+  </item>
+  <item id="19481">
+    <original></original>
+  </item>
+  <item id="19482">
+    <original></original>
+  </item>
+  <item id="19483">
+    <original></original>
+  </item>
+  <item id="19484">
+    <original></original>
+  </item>
+  <item id="19485">
+    <original></original>
+  </item>
+  <item id="19486">
+    <original></original>
+  </item>
+  <item id="19487">
+    <original></original>
+  </item>
+  <item id="19488">
+    <original></original>
+  </item>
+  <item id="19489">
+    <original></original>
+  </item>
+  <item id="19490">
+    <original></original>
+  </item>
+  <item id="19491">
+    <original></original>
+  </item>
+  <item id="19492">
+    <original></original>
+  </item>
+  <item id="19493">
+    <original></original>
+  </item>
+  <item id="19494">
+    <original></original>
+  </item>
+  <item id="19495">
+    <original></original>
+  </item>
+  <item id="19496">
+    <original></original>
+  </item>
+  <item id="19497">
+    <original></original>
+  </item>
+  <item id="19498">
+    <original></original>
+  </item>
+  <item id="19499">
+    <original></original>
+  </item>
+  <item id="19500">
+    <original></original>
+  </item>
+  <item id="19501">
+    <original></original>
+  </item>
+  <item id="19502">
+    <original></original>
+  </item>
+  <item id="19503">
+    <original></original>
+  </item>
+  <item id="19504">
+    <original></original>
+  </item>
+  <item id="19508">
+    <original>金貨(Ｇ)の入った袋</original>
+  </item>
+  <item id="19509">
+    <original>金貨(Ｇ)の入った袋</original>
+  </item>
+  <item id="19510">
+    <original>リムが結晶化したもの</original>
+  </item>
+  <item id="19511">
+    <original>かつての戦いで白竜の
+流した血液が結晶化したもの</original>
+  </item>
+  <item id="19512">
+    <original></original>
+  </item>
+  <item id="19513">
+    <original></original>
+  </item>
+  <item id="19514">
+    <original></original>
+  </item>
+  <item id="19517">
+    <original></original>
+  </item>
+  <item id="19518">
+    <original></original>
+  </item>
+  <item id="19521">
+    <original></original>
+  </item>
+  <item id="19522">
+    <original></original>
+  </item>
+  <item id="19562">
+    <original></original>
+  </item>
+  <item id="19564">
+    <original></original>
+  </item>
+  <item id="19565">
+    <original></original>
+  </item>
+  <item id="19566">
+    <original></original>
+  </item>
+  <item id="19567">
+    <original></original>
+  </item>
+  <item id="19594">
+    <original></original>
+  </item>
+  <item id="19595">
+    <original></original>
+  </item>
+  <item id="19596">
+    <original></original>
+  </item>
+  <item id="19597">
+    <original></original>
+  </item>
+  <item id="19598">
+    <original></original>
+  </item>
+  <item id="19599">
+    <original></original>
+  </item>
+  <item id="19600">
+    <original></original>
+  </item>
+  <item id="19601">
+    <original></original>
+  </item>
+  <item id="19602">
+    <original></original>
+  </item>
+  <item id="19603">
+    <original></original>
+  </item>
+  <item id="19604">
+    <original></original>
+  </item>
+  <item id="19605">
+    <original></original>
+  </item>
+  <item id="19606">
+    <original></original>
+  </item>
+  <item id="19607">
+    <original></original>
+  </item>
+  <item id="19608">
+    <original></original>
+  </item>
+  <item id="19609">
+    <original></original>
+  </item>
+  <item id="19610">
+    <original></original>
+  </item>
+  <item id="19611">
+    <original></original>
+  </item>
+  <item id="19612">
+    <original></original>
+  </item>
+  <item id="19613">
+    <original></original>
+  </item>
+  <item id="19614">
+    <original></original>
+  </item>
+  <item id="19615">
+    <original></original>
+  </item>
+  <item id="19616">
+    <original></original>
+  </item>
+  <item id="19617">
+    <original></original>
+  </item>
+  <item id="19618">
+    <original></original>
+  </item>
+  <item id="19619">
+    <original></original>
+  </item>
+  <item id="19622">
+    <original></original>
+  </item>
+  <item id="19623">
+    <original></original>
+  </item>
+  <item id="19624">
+    <original></original>
+  </item>
+  <item id="19625">
+    <original></original>
+  </item>
+  <item id="19631">
+    <original>自室3.0ハロウィン・キッチン料理</original>
+  </item>
+  <item id="19632">
+    <original>自室3.0ハロウィン・調理器具</original>
+  </item>
+  <item id="19633">
+    <original>自室3.0ハロウィン・ぬいぐるみ</original>
+  </item>
+  <item id="19634">
+    <original>自室3.0ハロウィン・庭具</original>
+  </item>
+  <item id="19635">
+    <original>自室3.0ハロウィン・壁紙</original>
+  </item>
+  <item id="19636">
+    <original>自室3.0ハロウィン・リビング料理</original>
   </item>
 </item_data>

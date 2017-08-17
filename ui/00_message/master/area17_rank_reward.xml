@@ -50,7 +50,9 @@ New collectable item "Kingalite" appears</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_315</key>
-    <original>支援品の向上</original>
+    <original>支援品のランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支援品の向上-->
     <translation>Support goods rank up</translation>
   </message>
   <message>
@@ -81,7 +83,9 @@ Unblock area "&lt;SPOT 915&gt;"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_320</key>
-    <original>支援品の向上</original>
+    <original>支援品のランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支援品の向上-->
     <translation>Support goods rank up</translation>
   </message>
 </resource>

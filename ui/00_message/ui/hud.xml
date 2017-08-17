@@ -358,4 +358,44 @@
     <original>新たなクランダンジョンが解放されました</original>
     <translation>A new Clan Dungeon has been unlocked</translation>
   </message>
+  <message>
+    <key>hud_announce_first_discovered</key>
+    <original>おめでとうございます！ この新種の第一発見者になりました！</original>
+  </message>
+  <message>
+    <key>hud_announce_new_species_discovered</key>
+    <original>お見事！ 新種のマンドラゴラを発見しました！</original>
+  </message>
+  <message>
+    <key>hud_get_announce_dp</key>
+    <original>&lt;VAL&gt; &lt;UNIT DP&gt;</original>
+  </message>
+  <message>
+    <key>hud_get_announce_dp_ex</key>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT DP&gt;</original>
+  </message>
+  <message>
+    <key>hud_get_announce_hb</key>
+    <original>&lt;VAL&gt; &lt;UNIT HB&gt;</original>
+  </message>
+  <message>
+    <key>hud_get_announce_hb_ex</key>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT HB&gt;</original>
+  </message>
+  <message>
+    <key>hud_ordeal_ann_start</key>
+    <original>特殊条件を満たし、英霊の試練を攻略せよ</original>
+  </message>
+  <message>
+    <key>hud_ordeal_ann_clear</key>
+    <original>特殊条件を満たし、英霊の試練を突破した</original>
+  </message>
+  <message>
+    <key>hud_ordeal_ann_failed</key>
+    <original>特殊条件を満たせず、英霊の試練に失敗した</original>
+  </message>
+  <message>
+    <key>hud_get_announce_ms</key>
+    <original>&lt;VAL&gt; =*</original>
+  </message>
 </resource>

@@ -1,7 +1,9 @@
 ﻿<resource>
   <message>
     <key>q21000047_00_359</key>
-    <original>【高難度】滴る気配</original>
+    <!-- NEEDS REVIEW -->
+    <!--【高難度】滴る気配-->
+    <original>【高難度】崩壊への狂宴</original>
     <translation>High Difficulty: 滴る気配</translation>
   </message>
   <message>
@@ -17,11 +19,11 @@
   </message>
   <message>
     <key>q21000047_00_359</key>
-    <original>探索をしていたら、古びた井戸を見つけたんです
-駐屯隊の飲水に使えないか、と思って中を見たら――
-いたんです、恐ろしい魔物が――
-あと少しで引きずり込まれるところでした
-あんな危険な場所、近づかない方が得策ですよ</original>
+    <original>侵食魔の巣窟の、さらに奥の方での調査任務に
+ついていたんです。最近ここら辺も慣れてきたな――
+なんて思ったらですよ、突然大型の侵食魔が洞窟の
+あちこちに現れたんです！　生きて帰ってこられた
+のは奇跡だと思ってますよ、ええ！</original>
   </message>
   <message>
     <key>q21000047_00_1161</key>

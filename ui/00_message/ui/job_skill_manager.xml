@@ -368,4 +368,20 @@ to level it up?</translation>
     <original>以下</original>
     <translation>Maximum</translation>
   </message>
+  <message>
+    <key>set_enable_condition</key>
+    <original>セット可能条件</original>
+  </message>
+  <message>
+    <key>skill_default</key>
+    <original>デフォルト</original>
+  </message>
+  <message>
+    <key>error_not_reach_condition</key>
+    <original>使用条件を満たしていません</original>
+  </message>
+  <message>
+    <key>guide_change_ex_custom_skill</key>
+    <original>EXスキル切り替え</original>
+  </message>
 </resource>

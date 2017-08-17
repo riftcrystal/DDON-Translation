@@ -1,0 +1,22 @@
+﻿<resource>
+  <message>
+    <key>pq_history_001</key>
+    <original>Log Select</original>
+  </message>
+  <message>
+    <key>pq_history_002</key>
+    <original>依頼人</original>
+  </message>
+  <message>
+    <key>pq_history_003</key>
+    <original>使命：%s</original>
+  </message>
+  <message>
+    <key>pq_history_004</key>
+    <original>あらすじ</original>
+  </message>
+  <message>
+    <key>pq_history_005</key>
+    <original>次の受注まであと</original>
+  </message>
+</resource>

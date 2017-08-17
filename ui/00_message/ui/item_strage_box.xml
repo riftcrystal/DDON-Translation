@@ -395,4 +395,62 @@ open the Online Shop?</translation>
     <original>アイテムバッグ</original>
     <translation>Item Bag</translation>
   </message>
+  <message>
+    <key>title_allbox_e</key>
+    <original>All Box</original>
+  </message>
+  <message>
+    <key>title_allbox_j</key>
+    <original>全てのボックス</original>
+  </message>
+  <message>
+    <key>title_fertilizer_e</key>
+    <original>Fertilizer</original>
+  </message>
+  <message>
+    <key>title_fertilizer_j</key>
+    <original>肥料</original>
+  </message>
+  <message>
+    <key>title_fertilizer_message_0</key>
+    <original>肥料は最大２０個まで自由に選んでください
+(装備を肥料にすると付加情報は破棄されます)</original>
+  </message>
+  <message>
+    <key>title_fertilizer_message_1</key>
+    <original>肥料に選んだアイテムは以下の通りです
+(装備を肥料にすると付加情報は破棄されます)</original>
+  </message>
+  <message>
+    <key>option_send_allbox</key>
+    <original>元に戻す</original>
+  </message>
+  <message>
+    <key>option_send_fertilizer_0</key>
+    <original>肥料に送る</original>
+  </message>
+  <message>
+    <key>option_send_fertilizer_1</key>
+    <original>肥料に送る（一個ずつ）</original>
+  </message>
+  <message>
+    <key>item_msg_guid_toallbox</key>
+    <original>全てのボックスに移動</original>
+  </message>
+  <message>
+    <key>item_msg_guid_tofertilizer</key>
+    <original>肥料に移動</original>
+  </message>
+  <message>
+    <key>item_msg_pop_ng_sameitem</key>
+    <original>同じアイテムは送れません（元に戻します）</original>
+  </message>
+  <message>
+    <key>pulldown_deposit_ex_0</key>
+    <original>&lt;COL DAEEF3&gt;格納チェスト引出し%s&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>option_targeting_deposit_ex_0</key>
+    <original>格納チェスト引出し</original>
+  </message>
 </resource>

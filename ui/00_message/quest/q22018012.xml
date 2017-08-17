@@ -1,0 +1,259 @@
+﻿<resource>
+  <message>
+    <original>正直、よそ者のお前がここまで尽力してくれるとは
+思っていなかったぞ
+このレベルの覚者がゴロゴロいるとは――
+全く、レスタニアが妬ましいわ</original>
+  </message>
+  <message>
+    <original>ところでお前の装備――随分くたびれているな
+そうだ、とっておきの情報を教えてやろう
+そいつで装備を新調しておくといい
+少々危険な方法ではあるが――</original>
+  </message>
+  <message>
+    <original>今はオーク軍に占領されてしまったが
+＜&lt;SPOT 1081&gt;＞と＜&lt;SPOT 1082&gt;＞では、
+《&lt;ITEM 17883&gt;》がたっぷり採掘できたんだ</original>
+  </message>
+  <message>
+    <original>ポーンというのは素材さえあれば
+装備を仕立ててくれる器用なやつなんだろう
+しかしそれには、素材がいるのではないか？</original>
+  </message>
+  <message>
+    <original>よし、まずはここに仲間を全員集めてくれ
+危険を冒す覚悟のある奴らか、わしが見てやるからな
+敵前で尻尾を巻いて逃げだすような奴がいれば
+ここで叩っ斬ってやるわ！</original>
+  </message>
+  <message>
+    <original>今はオーク軍に占領されてしまったが
+＜&lt;SPOT 1081&gt;＞と＜&lt;SPOT 1082&gt;＞では
+《&lt;ITEM 17883&gt;》がたっぷり採掘できたんだ</original>
+  </message>
+  <message>
+    <original>行きたければ、まずはここに仲間を全員集めてくれ
+危険を冒す覚悟のある奴らか、わしが見てやるからな
+敵前で尻尾を巻いて逃げだすような奴がいれば
+ここで叩っ斬ってやるわ！</original>
+  </message>
+  <message>
+    <original>あの地には、鉱夫なんかがこっそり忍び込んで
+盗掘していた時期もあったが
+見つかっては次々に命を奪われていった――
+お前、行くなら掘り尽くしちまってくれ</original>
+  </message>
+  <message>
+    <original>おう、集まったか
+――うん、全員良い顔つきをしているな
+これなら情報を漏らす馬鹿が出ることもないだろう</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17883&gt;》が掘れるのは
+&lt;SPOT 1081&gt;と&lt;SPOT 1082&gt;だ
+ただし、一つ大事なことを伝えておく</original>
+  </message>
+  <message>
+    <original>オークの奴らも、この素材のことは気付いているはずだ
+つまり、オークが増えるほど
+&lt;COL ff2600&gt;お前らが掘れる量は少なくなる&lt;/COL&gt;ということだ</original>
+  </message>
+  <message>
+    <original>恐らく、長く見積もっても採掘できるのは
+&lt;COL ff2600&gt;スポットボスが現れるまで&lt;/COL&gt;だろうな
+枯れちまったら、戻ってこいよ
+だらだら掘ってても、危険が増すばかりだからな</original>
+  </message>
+  <message>
+    <original>よし、それじゃあまず
+それぞれの採掘場の傍にいる、斥候たちに話を聞け
+現在の採掘可能量を、大まかに教えてくれるだろう
+奴らは常に、オーク共の動向を見張っているからな</original>
+  </message>
+  <message>
+    <original>おっと、すまんすまん
+いつもの約束ごとを忘れちまってた
+&lt;COL ff2600&gt;採掘が終わったら、俺に＜５＞つ納品してくれ&lt;/COL&gt;
+生きて帰る奴も少ないんだ、お前くらいは頼んだぞ</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17883&gt;》が掘れるのは、長く見積もっても
+&lt;COL ff2600&gt;スポットボスが現れるまで&lt;/COL&gt;だろうな
+それ以上長く留まっていても意味がないからな
+終わったら戻ってこいよ</original>
+  </message>
+  <message>
+    <original>オーク共が増えるほど
+&lt;COL ff2600&gt;お前らが掘れる量は少なくなる&lt;/COL&gt;
+逆に言えば、オークが少ない時はラッキーだ
+例えば、将を倒し軍が撤退した後――とかだな</original>
+  </message>
+  <message>
+    <original>掘りに行くなら、まずは採掘場の傍にいる
+斥候たちに話を聞くと良い
+現在の採掘可能量を、大まかに教えてくれるだろう
+迷うことがあれば、奴らに話を聞いてみろ</original>
+  </message>
+  <message>
+    <original>おう、物資は貴重だから助かるぜ
+その顔は、随分とたくさん採れたみてえだな？</original>
+  </message>
+  <message>
+    <original>アッカーシェランの大地から作った剣で
+アッカーシェランを取り戻してくれれば
+俺も教えた甲斐があるってもんだ――</original>
+  </message>
+  <message>
+    <original>また掘りに行きたくなったら、わしに言えよ
+喜んで案内させてもらうからな</original>
+  </message>
+  <message>
+    <original>&lt;SPOT 1081&gt;で《&lt;ITEM 17883&gt;》を採取できる採取ポイントの数が増えています
+＜オークの将が出現していない間＞にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>＜オークの将が出現していない間＞が終了したため、《&lt;ITEM 17883&gt;》の採取ポイント数が通常に戻りました
+エリアマスターに納品し、クエストを終了しましょう</original>
+  </message>
+  <message>
+    <original>――なに？
+あぁ、《&lt;ITEM 17883&gt;》を掘りに行くんだね
+今なら狙い目だね、殆ど掘り起こされてない</original>
+  </message>
+  <message>
+    <original>あ――それから、採掘が終わったら
+&lt;NPC 2800&gt;さんに
+ちゃんと＜５＞個納品するんだよ</original>
+  </message>
+  <message>
+    <original>え――&lt;NPC 2800&gt;さんから聞いてないの？
+おっかしいな――ま、きっと忘れてただけだよ
+今頃思い出してるさ</original>
+  </message>
+  <message>
+    <original>シッ――静かに、なに？
+《&lt;ITEM 17883&gt;》を掘りに行くの？
+オークの援軍が来ているみたいだけど、本気かい
+まぁ、一応掘れば少しは出て来るんじゃないかな</original>
+  </message>
+  <message>
+    <original>あ――それから、採掘が終わったら
+&lt;NPC 2800&gt;さんに
+ちゃんと＜５＞個納品するんだよ</original>
+  </message>
+  <message>
+    <original>――本人から聞いていなくても
+ここで盗掘する人のルールなの！
+今頃、&lt;NPC 2800&gt;さんも言い忘れに気付いてるさ</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17883&gt;》を掘りに行くの？
+オークが多すぎて、もう欠片も掘れないと思うよ
+将を倒さないといけないんだろうけどね――</original>
+  </message>
+  <message>
+    <original>もしかして君、スポットボスを倒すつもりなの？
+それなら、スポットボスがいない状態になったら
+僕に教えてよ
+改めて状況を教えてあげるから</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17883&gt;》を掘りに行くのか？
+今はオークも少ない
+たくさん掘れるはずだぞ</original>
+  </message>
+  <message>
+    <original>採掘がおわったら&lt;NPC 2800&gt;殿に
+＜５＞個納品するのは聞いているよな
+――なに？　聞いていないのか？</original>
+  </message>
+  <message>
+    <original>そうか――だとしても、ルールはルールだ
+生きて帰れたら、＜５＞個納品する
+&lt;NPC 2800&gt;殿も、伝え忘れに気付いた頃じゃないか？</original>
+  </message>
+  <message>
+    <original>――《&lt;ITEM 17883&gt;》の盗掘か？
+若干オークが増えてきたみたいだけど――
+まぁ、まだいくらかは掘れるんじゃないか？</original>
+  </message>
+  <message>
+    <original>採掘後、&lt;NPC 2800&gt;殿に
+＜5＞個納品するのは聞いているよな？
+聞いていない――そうか</original>
+  </message>
+  <message>
+    <original>普段は、こう伝えていたよ
+“&lt;NPC 2800&gt;殿に＜５＞個納品するように”
+――あの方も、緊張が解けて緩んでいたのかな
+今頃は過ちにも気付いているはずだぞ</original>
+  </message>
+  <message>
+    <original>《&lt;ITEM 17883&gt;》を掘りに来たのか？
+オークがあらかた掘り尽くしてしまったようだ
+誰かがスポットボスを倒して
+オークが減るまで待つしかないかもな</original>
+  </message>
+  <message>
+    <original>え――お前が行くって？
+それじゃ、スポットボスがいない状態になったら
+私に声をかけてくれよ
+改めて状況を教えてやるからさ</original>
+  </message>
+  <message>
+    <original>&lt;SPOT 1082&gt;で《&lt;ITEM 17883&gt;》を採取できる採取ポイントの数が増えています
+＜オークの将が現れるまで＞にたくさん採取し、納品しましょう</original>
+  </message>
+  <message>
+    <original>あれ、また来たの？
+《&lt;ITEM 17883&gt;》なら、オークが
+ぜーんぶ、掘り尽くしちゃったじゃん</original>
+  </message>
+  <message>
+    <original>諦めて、&lt;NPC 2800&gt;さんに報告して来たら？</original>
+  </message>
+  <message>
+    <original>またお前か
+《&lt;ITEM 17883&gt;》なら
+全てオーク共の手に渡ってしまったよ――
+もう欠片も残されていないんじゃないか</original>
+  </message>
+  <message>
+    <original>&lt;NPC 2800&gt;殿に報告して
+次の機会を待つのが一番だよ</original>
+  </message>
+  <message>
+    <original>君がスポットボスと戦った衝撃で
+岩壁が崩れたみたいだ
+新たに掘れる《&lt;ITEM 17883&gt;》が
+たくさん増えたかもしれないね！</original>
+  </message>
+  <message>
+    <original>あ――それから、採掘が終わったら
+&lt;NPC 2800&gt;さんに
+ちゃんと＜5＞個納品するんだよ</original>
+  </message>
+  <message>
+    <original>――本人から聞いていなくても
+ここで盗掘する人のルールなの！
+今頃、&lt;NPC 2800&gt;さんも言い忘れに気付いてるさ</original>
+  </message>
+  <message>
+    <original>どうやら、お前がスポットボスと交戦したときに
+衝撃で岩壁が崩れたようだな
+新たに掘れる《&lt;ITEM 17883&gt;》が
+かなり増えたようだよ――幸運な奴だな</original>
+  </message>
+  <message>
+    <original>採掘後、&lt;NPC 2800&gt;殿に
+＜５＞個納品するのは聞いているか？
+聞いていない――そうか</original>
+  </message>
+  <message>
+    <original>普段は、こう伝えていたんだがな
+“&lt;NPC 2800&gt;殿に＜５＞個納品するように”
+――あの方も、緊張が解けて緩んでいたのかな
+今頃は過ちにも気付いているはずだろう</original>
+  </message>
+</resource>

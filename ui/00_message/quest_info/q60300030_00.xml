@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q60300030_00_271</key>
+    <original>王家を救いし料理番</original>
+  </message>
+  <message>
+    <key>q60300030_00_271</key>
+    <original>依頼者からティネス砦の大食堂の様子
+について情報を得る</original>
+  </message>
+  <message>
+    <key>q60300030_00_3357</key>
+    <original>&lt;STG 448&gt;に向かい状況を確認する</original>
+  </message>
+  <message>
+    <key>q60300030_00_3358</key>
+    <original>&lt;NPC 580&gt;から詳しい事情を聞く</original>
+  </message>
+  <message>
+    <key>q60300030_00_3788</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q60300030_00_3359</key>
+    <original>心配していた&lt;NPC 2857&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q60300030_00_3406</key>
+    <original>&lt;STG 448&gt;へ行き&lt;NPC 580&gt;の力になる</original>
+  </message>
+</resource>

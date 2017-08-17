@@ -1037,7 +1037,7 @@
   </message>
   <message>
     <key>STAGE_NAME_213</key>
-    <original>st0040 テスト部屋（市川）</original>
+    <original>st0040 テスト部屋（クエスト班）</original>
   </message>
   <message>
     <key>STAGE_NAME_214</key>
@@ -1101,7 +1101,7 @@
   </message>
   <message>
     <key>STAGE_NAME_229</key>
-    <original>st0059 企画検証部屋 09</original>
+    <original>st0059 企画検証部屋 （ステージ班用）</original>
   </message>
   <message>
     <key>STAGE_NAME_230</key>
@@ -1806,6 +1806,26 @@
     <translation>Clan Hall Board Quest Verification Room</translation>
   </message>
   <message>
+    <key>STAGE_NAME_461</key>
+    <original>ラスニテ山麓</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_462</key>
+    <original>ラスニテ山麓　湖畔部</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_466</key>
+    <original>ティネス砦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_467</key>
+    <original>ティネス砦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_468</key>
+    <original>ダクレイム砦</original>
+  </message>
+  <message>
     <key>STAGE_NAME_469</key>
     <original>異人の塔</original>
     <translation>The Foreigner's Tower</translation>
@@ -1819,5 +1839,129 @@
     <key>STAGE_NAME_472</key>
     <original>始まりの洞</original>
     <translation>Hollow of Beginnings</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_479</key>
+    <original>湖畔の洞窟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_480</key>
+    <original>ベルタ盗賊団のアジト</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_493</key>
+    <original>ラスニテ地下水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_494</key>
+    <original>水源へ続く地下道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_495</key>
+    <original>冥府下りの洞穴</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_496</key>
+    <original>イミズディット遺跡</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_497</key>
+    <original>ウルタ古水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_498</key>
+    <original>ラスニテ納骨廟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_511</key>
+    <original>ピレモス旅人宿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_512</key>
+    <original>ロスギル旅人宿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_513</key>
+    <original>エルセン商会</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_514</key>
+    <original>民家</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_515</key>
+    <original>民家</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_521</key>
+    <original>OM検証部屋ver3.0（機能ありOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_522</key>
+    <original>OM検証部屋ver3.0（機能なしOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_523</key>
+    <original>ボーナスダンジョン【XP】</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_524</key>
+    <original>ボーナスダンジョン【リム】</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_525</key>
+    <original>ボーナスダンジョン【BO】</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_526</key>
+    <original>ボーナスダンジョン【ゴールド】</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_549</key>
+    <original>英霊眠りし道 ラスニテ山麓</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_550</key>
+    <original>英霊眠りし道 祠</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_551</key>
+    <original>英霊眠りし道 洞窟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_553</key>
+    <original>英霊眠りし道 水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_569</key>
+    <original>冥府下りの洞穴 深層部</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_572</key>
+    <original>ダクレイム砦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_573</key>
+    <original>ダクレイム砦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_575</key>
+    <original>ラスニテ山麓　湖畔部</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_576</key>
+    <original>ティネス砦　大食堂</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_578</key>
+    <original>ボーナスダンジョンロビー</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_586</key>
+    <original>イフリート戦闘部屋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_587</key>
+    <original>魔界村地下墓地</original>
   </message>
 </resource>

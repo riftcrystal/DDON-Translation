@@ -1,0 +1,20 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_618</key>
+    <original>&lt;COL 78f5ff&gt;《期間解放スポット》が追加されました！&lt;/COL&gt;
+
+《期間解放スポット》は限られた
+一定期間にのみ入場することができるダンジョンです</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_619</key>
+    <original>期間解放スポットに入場可能なタイミングは
+&lt;COL ffdc78&gt;スポット情報&lt;/COL&gt;に記載されています
+
+また、ダンジョンの入り口付近の見た目にも
+変化が起こるので、よく観察してみましょう
+
+期間解放スポットでは、他の場所では手に入らない
+ハイオーブをたくさん入手することができます</original>
+  </message>
+</resource>

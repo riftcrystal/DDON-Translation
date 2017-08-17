@@ -20,7 +20,7 @@
   </message>
   <message>
     <original>我々は常に己を律し、不測の事態に備えねばならん
-わかっていはいるが――なかなか、なぁ</original>
+わかってはいるが――なかなか、なぁ</original>
   </message>
   <message>
     <original>覚者よ、頼んだぞ
@@ -37,6 +37,21 @@
   <message>
     <original>悠々と、ただそこにある世界を前に――
 我々はなんと小さく、稚拙な存在なのだろうな</original>
+  </message>
+  <message>
+    <original>わしほどの激動を生きた神官はいないだろうが
+はて、喜ぶべきか嘆くべきか――</original>
+  </message>
+  <message>
+    <original>日がな一日ここに立ち、竜を思い、政を思う
+おまえたちを思う時間はほとんどないが、まあ許せ</original>
+  </message>
+  <message>
+    <original>理の外の世界――</original>
+  </message>
+  <message>
+    <original>そんな世界があるとして、そこでは
+どんな道理がはたらくのか――想像もつかんわ</original>
   </message>
   <message>
     <original>ああ、すまない
@@ -392,5 +407,232 @@
     <original>フィンダムの完全な復興には
 まだまだ時間がかかるだろう
 時々訪ねて、経過を報告しておくれ</original>
+  </message>
+  <message>
+    <original>これは吉兆だ――良きことが始まる――</original>
+  </message>
+  <message>
+    <original>自分に言い聞かせようとしているが
+なかなか――な</original>
+  </message>
+  <message>
+    <original>異郷の地にひとり残るとは
+エリオットの評価を改めねばならんな</original>
+  </message>
+  <message>
+    <original>指示や助言をしようにも情報が足りんわ</original>
+  </message>
+  <message>
+    <original>しばらくは、おまえたちの判断で
+臨機応変に対応してくれ</original>
+  </message>
+  <message>
+    <original>メイロワ将軍とはうまくやれそうか？</original>
+  </message>
+  <message>
+    <original>まずは王子が戻らないことには
+どうにも動きようがないな</original>
+  </message>
+  <message>
+    <original>聞こえてくる話から想像するに
+ネド王子の性根は悪くなさそうだ
+友好的な関係を築いてくれよ</original>
+  </message>
+  <message>
+    <original>敵の砦に乗り込むと聞いている
+くれぐれも気をつけてな</original>
+  </message>
+  <message>
+    <original>当面の目的であったネド王子の救出は
+思惑通りに終わったわけだが――</original>
+  </message>
+  <message>
+    <original>次の動きが気になるところだな</original>
+  </message>
+  <message>
+    <original>ほう、《「LV.80」成長の宝珠》を持ってきたのか
+これはまた貴重な物を手に入れたものだ</original>
+  </message>
+  <message>
+    <original>これを使えば、今のジョブをＬＶ．80に上げ
+スキルやアビリティに関しても、特殊なもの以外
+上限まで引き上げることができる
+――もちろん、ジョブポイントも上限まで貯まる</original>
+  </message>
+  <message>
+    <original>これを持ってきたということは、今のジョブで
+《「LV.80」成長の宝珠》を使うのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>そうか
+貴重な物だからな
+じっくり考えて使うといい</original>
+  </message>
+  <message>
+    <original>――これはすまぬ
+そのジョブには《「LV.80」成長の宝珠》は
+効果が無いのだ
+別のジョブで考え直してみてくれ</original>
+  </message>
+  <message>
+    <original>それでは宝珠の力を解放しよう
+――心を静かに、目を閉じるがよい</original>
+  </message>
+  <message>
+    <original>無事ＬＶ．80になったようだぞ
+さて、次はスキルだな
+――もう一度目を閉じるがよい</original>
+  </message>
+  <message>
+    <original>スキルの確認は落ち着いてからにしなさい
+よし、最後はアビリティか
+――目を閉じて集中するのだ</original>
+  </message>
+  <message>
+    <original>これでこのジョブのアビリティも
+特殊なもの以外は全ておまえのものとなったぞ</original>
+  </message>
+  <message>
+    <original>どのように成長したかは
+見た目ではわからないからな
+アーチボルトのところへ行って
+確認してみることをすすめるよ</original>
+  </message>
+  <message>
+    <original>宝珠の力を解放するには少し時間がかかる
+パーティーは一度解散してきた方がよかろう
+パーティーメンバーを無暗に
+待たせてしまうかもしれん</original>
+  </message>
+  <message>
+    <original>――気付いているだろうが
+このジョブはすでにＬＶ．80に達しているな
+レベルアップの効果が無駄になってしまうが
+それでも宝珠を使うのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ふむ――このジョブで《「LV.80」成長の宝珠》を
+使っても、上げられるスキルが無いようだ
+スキルに関する効果が無駄になってしまうが
+宝珠を使ってもよいのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>これは――このまま《「LV.80」成長の宝珠》を
+使っても、効果のあるアビリティは無いようだぞ
+今のジョブで宝珠を使うのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>そうか
+おまえが納得しているのなら
+わたしからこれ以上言うことはない</original>
+  </message>
+  <message>
+    <original>それでは、宝珠の力を解放しよう
+――心を静かに、目を閉じるがよい</original>
+  </message>
+  <message>
+    <original>これは強い竜力が篭められた宝珠だな
+この宝珠の力を解放して白竜に捧げれば
+おまえの《竜力の継承》は完全なものとなるだろう</original>
+  </message>
+  <message>
+    <original>ここに持ってきたということは
+今、この宝珠の竜力を解放してもよいのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ほう――
+すでにすべての《竜力の継承》を
+終えているのだな</original>
+  </message>
+  <message>
+    <original>この宝珠は自らの力で腕を磨いたおまえには
+不要なものだったようだ
+まさに覚者の鑑よ</original>
+  </message>
+  <message>
+    <original>《竜力の継承》には何の影響もないが
+前途を祝して、宝珠の力を解放しておくか
+力は大地を巡り、またいつの日か
+おまえの元へ戻ろう</original>
+  </message>
+  <message>
+    <original>すべての《竜力の継承》が終わったぞ
+どのような力を得たのか、確認してみなさい</original>
+  </message>
+  <message>
+    <original>おまえが持ってきたこの宝珠
+篭められた力を解放することで
+より冒険がしやすくなるというものだ</original>
+  </message>
+  <message>
+    <original>たとえば、各エリアランクが上昇したり
+リム転移先とできる礎が解放されるといった
+働きだな</original>
+  </message>
+  <message>
+    <original>――さて、この宝珠の力を解放するか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>そういえば、おまえはすでに
+かなりの礎に触れ、エリアに貢献して
+きたのではないか？</original>
+  </message>
+  <message>
+    <original>この宝珠の力を解放したところで
+さしたる効果は得られないかもしれぬ
+それでも、この宝珠の力を解放してもよいか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>宝珠の力を解放することで
+各地とおまえの結び付きは
+より強固なものとなるだろう</original>
+  </message>
+  <message>
+    <original>宝珠の力を解放したぞ
+本来の効果は得られずとも
+解放した力は大地を巡り
+またいつの日かおまえの元へ戻るだろう</original>
   </message>
 </resource>

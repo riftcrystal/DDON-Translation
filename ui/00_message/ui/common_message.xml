@@ -201,7 +201,9 @@
   </message>
   <message>
     <key>common_max</key>
-    <original>/MAX</original>
+    <original>MAX</original>
+    <!-- NEEDS REVIEW -->
+    <!--/MAX-->
     <translation>/MAX</translation>
   </message>
   <message>
@@ -611,5 +613,117 @@
     <key>common_question</key>
     <original>?</original>
     <translation>?</translation>
+  </message>
+  <message>
+    <key>common_inequality_left</key>
+    <original>＜</original>
+  </message>
+  <message>
+    <key>common_inequality_right</key>
+    <original>＞</original>
+  </message>
+  <message>
+    <key>common_unit_dp</key>
+    <original>DP</original>
+  </message>
+  <message>
+    <key>common_unit_hb</key>
+    <original>HO</original>
+  </message>
+  <message>
+    <key>common_none_nasi</key>
+    <original>なし</original>
+  </message>
+  <message>
+    <key>common_unitname_hb</key>
+    <original>ハイオーブ</original>
+  </message>
+  <message>
+    <key>common_partyboard_type01</key>
+    <original>パーティー募集掲示板</original>
+  </message>
+  <message>
+    <key>common_unit_tp</key>
+    <original>BP</original>
+  </message>
+  <message>
+    <key>common_unit_ep</key>
+    <original>EP</original>
+  </message>
+  <message>
+    <key>common_equal</key>
+    <original>=</original>
+  </message>
+  <message>
+    <key>common_percent_big</key>
+    <original>％</original>
+  </message>
+  <message>
+    <key>common_plus_big</key>
+    <original>＋</original>
+  </message>
+  <message>
+    <key>common_hyphen_big</key>
+    <original>－</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_armed_01</key>
+    <original>・軽装</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_armed_02</key>
+    <original>・重装</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_armed_03</key>
+    <original>・神装</original>
+  </message>
+  <message>
+    <key>common_unitname_tp</key>
+    <original>冒パスポイント</original>
+  </message>
+  <message>
+    <key>common_unitname_dp</key>
+    <original>ドミニオンポイント</original>
+  </message>
+  <message>
+    <key>common_unit_ptp</key>
+    <original>育成EXP</original>
+  </message>
+  <message>
+    <key>common_unit_pap</key>
+    <original>対話回数</original>
+  </message>
+  <message>
+    <key>common_slash</key>
+    <original>/</original>
+  </message>
+  <message>
+    <key>common_unit_silverticket</key>
+    <original>枚</original>
+  </message>
+  <message>
+    <key>common_unitname_evoticket</key>
+    <original>カスタムメイドサービス券</original>
+  </message>
+  <message>
+    <key>common_unit_evoticket</key>
+    <original>枚</original>
+  </message>
+  <message>
+    <key>common_possession</key>
+    <original>獲得</original>
+  </message>
+  <message>
+    <key>common_double</key>
+    <original>倍</original>
+  </message>
+  <message>
+    <key>common_jp_kuten</key>
+    <original>。</original>
+  </message>
+  <message>
+    <key>common_jp_touten</key>
+    <original>、</original>
   </message>
 </resource>

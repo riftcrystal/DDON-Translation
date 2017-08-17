@@ -1,0 +1,54 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_639</key>
+    <original>アッカーシェラン大陸では、&lt;COL ffdc78&gt;《戦甲》&lt;/COL&gt;という
+自己修復機能を持った特殊な鎧で
+武装した魔物が出現します
+
+戦甲は、悪しき竜の加護を元に
+ドワーフオークが作成した鎧であり、
+体に多く装着するほどその性能が向上します
+
+戦甲を装着した魔物&lt;COL ffdc78&gt;《戦甲種》&lt;/COL&gt;との戦闘では
+戦甲を破壊してゆくことがカギとなります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_647</key>
+    <original>戦甲に攻撃すると表面に&lt;COL ffdc78&gt;赤いヒビ&lt;/COL&gt;が入ります
+この状態では&lt;COL ffdc78&gt;吹き飛ばし力により
+戦甲にダメージを与えることができます&lt;/COL&gt;が
+高い防御性能に阻まれ、&lt;COL ffdc78&gt;体力を削ることはできません&lt;/COL&gt;
+&lt;COL ffdc78&gt;※吹き飛ばし力によるダメージは紫色で表示されます&lt;/COL&gt;
+
+また、戦甲には自己修復能力があるため
+時間が経過することで修復されてしまいます
+
+&lt;COL ffdc78&gt;赤いヒビは自己修復能力と高い防御性能を
+有した状態を示します&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_648</key>
+    <original>赤いヒビが入った戦甲が自己修復する前に
+攻撃を重ねることで、自己修復能力を失った
+&lt;COL ffdc78&gt;白いヒビ&lt;/COL&gt;へと拡大させることができます
+
+また、白いヒビの状態では防御性能が低下するため
+&lt;COL ffdc78&gt;戦甲と戦甲種自身の体力を削ることが可能となります&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;白いヒビは自己修復能力を失い
+防御性能が低下した状態を示します&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_649</key>
+    <original>白いヒビが入った戦甲は、さらに攻撃を加え続けると
+戦甲を完全に破壊することができます。
+
+戦甲へは&lt;COL ffdc78&gt;吹き飛ばし力が高い攻撃&lt;/COL&gt;が特に有効です
+その他、&lt;COL ffdc78&gt;仲間と協力して集中攻撃&lt;/COL&gt;を仕掛けることも
+有効な戦法となるでしょう
+
+戦甲を破壊することで鎧の下に隠された弱点が
+露出されるなど、様々なメリットが得られるので
+積極的に戦甲の破壊を狙いましょう</original>
+  </message>
+</resource>

@@ -69,4 +69,12 @@
     <original>跳鷹斬</original>
     <translation>Soaring Hawk Slash</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_02_160</key>
+    <original>流し暗殺 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_02_161</key>
+    <original>流し暗殺 技</original>
+  </message>
 </resource>

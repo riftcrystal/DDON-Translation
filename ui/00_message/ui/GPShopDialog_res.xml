@@ -169,12 +169,16 @@ currently logged in character.</translation>
   </message>
   <message>
     <key>OSD_ps_buy</key>
-    <original>PlayStation®Storeで購入</original>
+    <original>PlayStation™Storeで購入</original>
+    <!-- NEEDS REVIEW -->
+    <!--PlayStation®Storeで購入-->
     <translation>PlayStation®Store Purchase</translation>
   </message>
   <message>
     <key>OSD_ps_buy_by_bonus</key>
-    <original>PlayStation®Storeで購入（ボーナス）</original>
+    <original>PlayStation™Storeで購入（ボーナス）</original>
+    <!-- NEEDS REVIEW -->
+    <!--PlayStation®Storeで購入（ボーナス）-->
     <translation>PlayStation®Store Purchase (Bonus)</translation>
   </message>
 </resource>

@@ -60,4 +60,12 @@ Press the assigned button.</translation>
     <key>CUSTOM_SKILL_COMMAND_09_114</key>
     <original>セットボタンを押す</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_189</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_190</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

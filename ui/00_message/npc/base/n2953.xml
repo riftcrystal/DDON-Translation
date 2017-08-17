@@ -1,0 +1,60 @@
+﻿<resource>
+  <message>
+    <original>疲れてるなら一眠りしていくか？
+ここは静かだし、見た目よりは
+寝心地も悪くないぜ</original>
+  </message>
+  <message>
+    <original>よし、一休みするなら&lt;VAL PRICE_INN&gt;だ
+――これで金儲けしようってんじゃない
+寝床を整える手間賃みたいなもんだよ
+で、休んでいくのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ああ、今なら好きに休んでいっていいぜ
+あんたも覚者とはいえ、疲れ溜まってんだろ？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>《弱化の治療》か
+いや、できるんだが俺たちのルールで
+&lt;VAL PRICE_WEAK&gt;もらうことにしてるんだ
+手持ちはあるのか？</original>
+  </message>
+  <message>
+    <original>はい</original>
+  </message>
+  <message>
+    <original>いいえ</original>
+  </message>
+  <message>
+    <original>ん？　弱化してるヤツってのは
+もっと弱弱しい感じになるんだぜ
+あんた、強いみたいだが演技はまだまだだな</original>
+  </message>
+  <message>
+    <original>寝床がもっとたくさんあれば
+保護してる人たちもゆっくり休ませてやれるんだが</original>
+  </message>
+  <message>
+    <original>まぁ、どう言いつくろっても盗賊だから
+外でさ迷ってる人に声をかけても
+逃げられることの方が多くて――</original>
+  </message>
+  <message>
+    <original>俺たち盗賊団ほど自由な集まりは無いと思うぜ
+色んなところへフラフラ行っちまうヤツが
+結構多いから、外でも見かけるかもな</original>
+  </message>
+</resource>

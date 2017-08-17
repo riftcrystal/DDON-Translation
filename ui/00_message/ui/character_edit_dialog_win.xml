@@ -71,13 +71,13 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_FIX</key>
-    <original>黄金石&lt;VAL&gt;個を使用して
+    <original>&lt;VAL&gt;を使用して
 エディットを変更します
 よろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_NOTGP</key>
-    <original>黄金石が足りません</original>
+    <original>&lt;VAL&gt;が足りません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_LOAD</key>
@@ -308,5 +308,19 @@ PC本体の電源を
 よろしいですか？
 
 (エディット情報のセーブは済ませましたか？)</original>
+  </message>
+  <message>
+    <key>EDIT_MSG_DIALOG_SALON_2_ERR_01</key>
+    <original>名前、もしくは性別が変更されていません
+容姿だけを変更する場合は、美容院をご利用ください</original>
+  </message>
+  <message>
+    <key>EDIT_MSG_DIALOG_SALON_CHOICE_PAY</key>
+    <original>支払い方法を選んでください</original>
+  </message>
+  <message>
+    <key>EDIT_MSG_DIALOG_SALON_2_CANCEL</key>
+    <original>戦徒の転生をキャンセルします
+よろしいですか？</original>
   </message>
 </resource>

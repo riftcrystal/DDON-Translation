@@ -1,0 +1,18 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_546</key>
+    <original>序盤のティネス砦の大食堂は
+&lt;COL ffdc78&gt;瓦礫だらけの荒れ果てた状態&lt;/COL&gt;になっています
+
+キャリーから&lt;COL ffdc78&gt;大食堂の修復に必要なもの&lt;/COL&gt;の入手を
+頼まれることがあるので、探し出して渡しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_547</key>
+    <original>修復に必要なものを渡すことで
+ＮＰＣが設備の修理に取り掛かります
+
+しばらく時間が経ってから大食堂を訪れると
+修復が完了し、本来の姿を取り戻します</original>
+  </message>
+</resource>

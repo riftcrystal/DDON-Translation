@@ -1,0 +1,289 @@
+﻿<resource>
+  <message>
+    <original>ねぇ！
+ピレモスへ運ぶ食料
+準備できたから行きたいな！</original>
+  </message>
+  <message>
+    <original>よーし！
+そうこなくっちゃね！</original>
+  </message>
+  <message>
+    <original>アタシはいつでも大丈夫だから
+準備できたら声かけてね！</original>
+  </message>
+  <message>
+    <original>今回は無事に運べてよかったね！
+食料！</original>
+  </message>
+  <message>
+    <original>ピレモスの人たち
+まだ困ってるから
+また手伝ってね！</original>
+  </message>
+  <message>
+    <original>こんな辺境の村まで
+食料運んでくれてありがとう</original>
+  </message>
+  <message>
+    <original>今は少しでも助けが欲しい時だから
+遠慮せず頼らせてもらうよ</original>
+  </message>
+  <message>
+    <original>キャリーにも
+お礼言っておいて</original>
+  </message>
+  <message>
+    <original>あ！
+もう準備できた？</original>
+  </message>
+  <message>
+    <original>それじゃあさっそく出発！
+とりあえず――どっち行く？</original>
+  </message>
+  <message>
+    <original>穏やかな野原（かんたん）</original>
+  </message>
+  <message>
+    <original>険しい山道（難しい）</original>
+  </message>
+  <message>
+    <original>砦の近くだし
+ここはまだ安心だね！</original>
+  </message>
+  <message>
+    <original>散歩気分でフラっと出発！</original>
+  </message>
+  <message>
+    <original>あまり行かない場所だから
+ちょっと心配だな…</original>
+  </message>
+  <message>
+    <original>あなたの後ろ
+ピタっと貼り付いてくからヨロシクね！</original>
+  </message>
+  <message>
+    <original>ここはもう何もなさそうね
+じゃあ～次行こっか</original>
+  </message>
+  <message>
+    <original>ふぅー
+なんとかピレモスまでたどり着いたねー</original>
+  </message>
+  <message>
+    <original>運んできた食料は村の人に渡しておくから
+アンドレアに一声かけてきてね！</original>
+  </message>
+  <message>
+    <original>さてと！
+無事にピレモスに食料運べたし
+アタシたちは砦に帰ろっか！</original>
+  </message>
+  <message>
+    <original>丘に向かいます（仮）</original>
+  </message>
+  <message>
+    <original>川辺に向かいます（仮）</original>
+  </message>
+  <message>
+    <original>ピレモスに向かいます（仮）</original>
+  </message>
+  <message>
+    <original>山道から丘に向かいます（仮）</original>
+  </message>
+  <message>
+    <original>なんかさ
+水辺に来るとゾワっっとするんだよね</original>
+  </message>
+  <message>
+    <original>たぶん“アイツ”がいそうだからかな
+苦手なんだよねー
+あのなんかシメっぽい感じが！</original>
+  </message>
+  <message>
+    <original>ああ　想像しただけで
+なんだかムズムズしてきた…</original>
+  </message>
+  <message>
+    <original>水辺にいる“アイツ”？</original>
+  </message>
+  <message>
+    <original>警戒は必要だ</original>
+  </message>
+  <message>
+    <original>えっと…大丈夫？</original>
+  </message>
+  <message>
+    <original>ダメ！アイツが今出てきたらやばい！
+もうがまんできない！</original>
+  </message>
+  <message>
+    <original>ここに埋める！埋めるわ食料！
+緊急事態に備えないとっ！</original>
+  </message>
+  <message>
+    <original>このあたり…
+い…いないよね
+いたらすでに大惨事だもんね</original>
+  </message>
+  <message>
+    <original>落ち着けアタシ！
+スーハー！スーハー！
+深呼吸！</original>
+  </message>
+  <message>
+    <original>あ…アイツが来る前に
+隠れるための穴掘らないと！</original>
+  </message>
+  <message>
+    <original>（ザクザクザクザク！！）</original>
+  </message>
+  <message>
+    <original>…って、あっ！</original>
+  </message>
+  <message>
+    <original>これってアタシの大好物！
+ラッキー！
+もらっとこう♪</original>
+  </message>
+  <message>
+    <original>ねぇ
+このあたりあやしそうだから
+ちょっと掘ってみようかと思うんだけど…</original>
+  </message>
+  <message>
+    <original>どのへん掘るのがいいかなー？</original>
+  </message>
+  <message>
+    <original>足元まっすぐ！</original>
+  </message>
+  <message>
+    <original>もう少し右…かな</original>
+  </message>
+  <message>
+    <original>う～ん　じゃあ気持ち左で！</original>
+  </message>
+  <message>
+    <original>やっぱりこういう時は
+まっすぐ真下がセオリーよね！</original>
+  </message>
+  <message>
+    <original>（ザクザクザクザク！！）</original>
+  </message>
+  <message>
+    <original>おおおおおおおおっ！</original>
+  </message>
+  <message>
+    <original>見て！
+こんなにたくさん食べれそうなものが！
+まさに宝の山だね！</original>
+  </message>
+  <message>
+    <original>よし！
+少し右だね！
+任せて！</original>
+  </message>
+  <message>
+    <original>（ザクザクザクザク…………）</original>
+  </message>
+  <message>
+    <original>おっ！</original>
+  </message>
+  <message>
+    <original>少しだけだけど
+食べられそうなものあったよ！</original>
+  </message>
+  <message>
+    <original>よし！
+少し左掘ってみるね！</original>
+  </message>
+  <message>
+    <original>（ザクザク……ザク……ザク……）</original>
+  </message>
+  <message>
+    <original>うーん
+何もないかぁ
+残念！</original>
+  </message>
+  <message>
+    <original>みてみて！
+かわいいでしょ？この子たち</original>
+  </message>
+  <message>
+    <original>アタシがいっつも
+おいしいごはんあげてるの！</original>
+  </message>
+  <message>
+    <original>あ――でも
+恥ずかしがり屋の次男坊
+“ミディ”がいないんだよねー</original>
+  </message>
+  <message>
+    <original>近くにいるはずだから
+代わりにごはん
+あげてきてくれないかな？</original>
+  </message>
+  <message>
+    <original>あ　ミディ見つかった？
+ブタさんの一心不乱にユルい感じ
+なんだか癒されるよねー</original>
+  </message>
+  <message>
+    <original>う～ん　食べられそうなものは…</original>
+  </message>
+  <message>
+    <original>何かないかなぁ？</original>
+  </message>
+  <message>
+    <original>ねぇ！</original>
+  </message>
+  <message>
+    <original>えぇ！？</original>
+  </message>
+  <message>
+    <original>こっち来ないでってば！</original>
+  </message>
+  <message>
+    <original>これは食べられそうだね！</original>
+  </message>
+  <message>
+    <original>あ！見て見て！
+ウサギがこんなにたくさん！</original>
+  </message>
+  <message>
+    <original>これだけいれば
+それなりの食料になるね！</original>
+  </message>
+  <message>
+    <original>よーし！
+この調子で
+“秘密のスポット”に行っちゃうんだからっ！</original>
+  </message>
+  <message>
+    <original>なんか――やたらデカいネズミ
+いるね――</original>
+  </message>
+  <message>
+    <original>さすがにこれは
+ちょっと食べられないかなぁ</original>
+  </message>
+  <message>
+    <original>うーん――
+あまり食料とれなかったけど
+もうこの辺で切上げよっか</original>
+  </message>
+  <message>
+    <original>この辺の魔物くらいだったら
+軽～くひとひねりね！
+あなたなら！</original>
+  </message>
+  <message>
+    <original>ふぅ――
+ちょっとシャレにならないね！
+この辺の魔物――</original>
+  </message>
+  <message>
+    <original>“秘密のスポット”に到着！
+これはたくさん食料が見つかる予感！</original>
+  </message>
+</resource>

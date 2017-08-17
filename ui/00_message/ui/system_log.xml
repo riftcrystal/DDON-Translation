@@ -263,8 +263,11 @@ and returned to standby state.</translation>
   </message>
   <message>
     <key>syslog_reward_box_limit_notion</key>
-    <original>報酬ボックスの容量が少なくなっています
+    <original>報酬ボックスの報酬件数が残り少なくなっています
 古い報酬を失う可能性があります</original>
+    <!-- NEEDS REVIEW -->
+    <!--報酬ボックスの容量が少なくなっています
+古い報酬を失う可能性があります-->
     <translation>The reward box capacity has few slots left.
 There is a possibility of losing old rewards.</translation>
   </message>
@@ -1083,8 +1086,11 @@ claimed at the Storage Box.</translation>
   </message>
   <message>
     <key>syslog_reward_box_limit_over</key>
-    <original>報酬ボックスの容量がいっぱいです
+    <original>報酬ボックスの報酬件数がいっぱいです
 容量を超えると古い報酬は失われます</original>
+    <!-- NEEDS REVIEW -->
+    <!--報酬ボックスの容量がいっぱいです
+容量を超えると古い報酬は失われます-->
     <translation>Your reward box is full.
 When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
@@ -1314,5 +1320,157 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_clan_common_unlock</key>
     <original>%s が解放されました</original>
+  </message>
+  <message>
+    <key>syslog_dp_get</key>
+    <original>&lt;VAL DP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_dp_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT DP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_dp_lost</key>
+    <original>&lt;VAL DP&gt;を消費しました</original>
+  </message>
+  <message>
+    <key>syslog_hb_get</key>
+    <original>&lt;VAL HB&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_hb_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT HB&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_hb_lost</key>
+    <original>&lt;VAL HB&gt;を消費しました</original>
+  </message>
+  <message>
+    <key>syslog_xp_get</key>
+    <original>&lt;VAL XP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_xp_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_pgexp_get</key>
+    <original>&lt;NAME PAWN&gt;が&lt;VAL PTP&gt;獲得しました</original>
+  </message>
+  <message>
+    <key>syslog_pgexp_get_ex</key>
+    <original>&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PTP&gt;獲得しました</original>
+  </message>
+  <message>
+    <key>syslog_mandragora_grow_up</key>
+    <original>マンドラゴラの育成が完了しました</original>
+  </message>
+  <message>
+    <key>syslog_pap_get</key>
+    <original>&lt;NAME PAWN&gt;に戦術育成が行えます</original>
+  </message>
+  <message>
+    <key>syslog_craft_exp_get_ex</key>
+    <original>&lt;NAME PAWN&gt;がクラフト経験値&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;を取得しました</original>
+  </message>
+  <message>
+    <key>syslog_pq_seq_ana_start</key>
+    <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞を開始しました</original>
+  </message>
+  <message>
+    <key>syslog_pq_seq_ana_acv_up</key>
+    <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞の達成度が上昇しました</original>
+  </message>
+  <message>
+    <key>syslog_pq_seq_ana_acv_down</key>
+    <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞の達成度が減少しました</original>
+  </message>
+  <message>
+    <key>syslog_pq_seq_ana_seqcomp</key>
+    <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞を達成しました</original>
+  </message>
+  <message>
+    <key>syslog_pq_seq_ana_pacend</key>
+    <original>＜&lt;VAL&gt;＞のすべての使命を達成しました</original>
+  </message>
+  <message>
+    <key>syslog_wm_statement_gauge_0_defeat</key>
+    <original>戦況が最悪化し、敗戦状態となりました</original>
+  </message>
+  <message>
+    <key>syslog_release_area_spot</key>
+    <original>&lt;VAL&gt;の&lt;VAL&gt;が解放されました</original>
+  </message>
+  <message>
+    <key>syslog_pap_limit_up</key>
+    <original>&lt;NAME PAWN&gt;の&lt;UNTN PAP&gt;の最大値が増加しました</original>
+  </message>
+  <message>
+    <key>syslog_mission_time_down</key>
+    <original>残り時間が&lt;VAL&gt;秒削減されました</original>
+  </message>
+  <message>
+    <key>syslog_tp_get</key>
+    <original>&lt;VAL TP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_tp_lost</key>
+    <original>&lt;VAL TP&gt;を消費しました</original>
+  </message>
+  <message>
+    <key>syslog_tp_possession_max_notice</key>
+    <original>&lt;UNTN TP&gt;の所持量が最大に近づいています
+( &lt;VAL&gt; / &lt;VAL TP&gt; )</original>
+  </message>
+  <message>
+    <key>syslog_tp_possession_max</key>
+    <original>&lt;UNTN TP&gt;が最大に達したため、これ以上獲得できません</original>
+  </message>
+  <message>
+    <key>syslog_evoticket_get</key>
+    <original>&lt;UNTN MS&gt;を &lt;VAL MS&gt;、入手しました</original>
+  </message>
+  <message>
+    <key>syslog_evoticket_lost</key>
+    <original>&lt;UNTN MS&gt;を &lt;VAL MS&gt;、消費しました</original>
+  </message>
+  <message>
+    <key>syslog_action_tornado_target</key>
+    <original>&lt;NAME TARGET&gt; が竜巻に狙われている</original>
+  </message>
+  <message>
+    <key>syslog_action_tornado_sign</key>
+    <original>&lt;NAME TARGET&gt; が竜巻を起こそうとしている</original>
+  </message>
+  <message>
+    <key>syslog_action_humanhateup_target</key>
+    <original>&lt;NAME TARGET&gt; が周囲の敵の標的になった</original>
+  </message>
+  <message>
+    <key>syslog_pawn_expedition_hotsign</key>
+    <original>そろそろホットスポットが見つかりそうです</original>
+  </message>
+  <message>
+    <key>syslog_wm_limited_condition_open</key>
+    <original>&lt;VAL&gt;が期間限定で開催決定！
+詳しくは、レスタニアニュースをご覧ください</original>
+  </message>
+  <message>
+    <key>syslog_action_fog_sign</key>
+    <original>異界の霧が吐き零されていく――</original>
+  </message>
+  <message>
+    <key>syslog_action_alldestroy_rest_num</key>
+    <original>殲滅まで残り&lt;VAL&gt;体</original>
+  </message>
+  <message>
+    <key>syslog_reward_box_limit_over_item</key>
+    <original>報酬ボックスのアイテム枠がいっぱいです
+報酬件数に関わらず古い報酬は失われます</original>
+  </message>
+  <message>
+    <key>syslog_reward_box_limit_notion_item</key>
+    <original>報酬ボックスのアイテム枠が残り少なくなっています
+報酬件数に関わらず古い報酬を失う可能性があります</original>
   </message>
 </resource>

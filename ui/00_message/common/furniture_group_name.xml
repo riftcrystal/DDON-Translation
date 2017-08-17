@@ -16,7 +16,9 @@
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_4</key>
-    <original>テーブル</original>
+    <original>リビング</original>
+    <!-- NEEDS REVIEW -->
+    <!--テーブル-->
     <translation>Table</translation>
   </message>
   <message>
@@ -43,5 +45,13 @@
     <key>FURNITURE_GROUP_NAME_11</key>
     <original>庭具</original>
     <translation>Garden Furniture</translation>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_12</key>
+    <original>壁紙</original>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_13</key>
+    <original>時計</original>
   </message>
 </resource>

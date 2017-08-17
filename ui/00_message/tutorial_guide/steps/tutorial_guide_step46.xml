@@ -49,4 +49,17 @@
 　&lt;COL ffdc78&gt;Group&lt;/COL&gt; ：グループチャットメンバー
 　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt; ：エントリーボード参加者</original>
   </message>
+  <message>
+    <key>TUTORIAL_STEP_597</key>
+    <original>＜メモ機能＞
+
+宛先を&lt;COL ffdc78&gt;Memo&lt;/COL&gt;に合わせて
+テキストを入力し、発言すると
+相手に発信されず&lt;COL ffdc78&gt;メモログ&lt;/COL&gt;に記録されます
+
+メモログは、チャンネルタブを
+一番左に合わせることで確認できます
+また、チャットログから任意のテキストを選んで
+「メモする」ことでメモログに記録できます</original>
+  </message>
 </resource>

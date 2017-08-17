@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60300406_00_243</key>
+    <original>ジョブエンブレム試練　シーカー</original>
+  </message>
+  <message>
+    <key>q60300406_00_243</key>
+    <original>ギルスタンからエンブレムストーンを
+譲り受ける試練に挑む</original>
+  </message>
+  <message>
+    <key>q60300406_00_2976</key>
+    <original>&lt;STG 550&gt;に行き&lt;NPC 2004&gt;と話す</original>
+  </message>
+  <message>
+    <key>q60300406_00_2977</key>
+    <original>最奥に向かい試練を開始する</original>
+  </message>
+  <message>
+    <key>q60300406_00_3272</key>
+    <original>時間内に死なずに全ての敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60300406_00_3273</key>
+    <original>祠内にいる&lt;NPC 2004&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q60300406_00_3274</key>
+    <original>&lt;STG 510&gt;の&lt;NPC 2000&gt;からエンブレムストーンをもらう</original>
+  </message>
+  <message>
+    <key>q60300406_00_3423</key>
+    <original>&lt;STG 200&gt;の&lt;NPC 1029&gt;に報告する</original>
+  </message>
+</resource>

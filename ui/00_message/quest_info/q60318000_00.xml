@@ -1,0 +1,51 @@
+﻿<resource>
+  <message>
+    <key>q60318000_00_225</key>
+    <original>ラスニテ山麓　試練：捕虜奪還</original>
+  </message>
+  <message>
+    <key>q60318000_00_225</key>
+    <original>エリアマスターから事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318000_00_2937</key>
+    <original>捕縛された仲間の情報を収集する</original>
+  </message>
+  <message>
+    <key>q60318000_00_2938</key>
+    <original>転戦中の仲間を探し捕縛情報を聞く</original>
+  </message>
+  <message>
+    <key>q60318000_00_3103</key>
+    <original>仲間を助けに向かう</original>
+  </message>
+  <message>
+    <key>q60318000_00_3104</key>
+    <original>オリを破壊して仲間を助ける（残り３）</original>
+  </message>
+  <message>
+    <key>q60318000_00_3105</key>
+    <original>オリを破壊して仲間を助ける（残り２）</original>
+  </message>
+  <message>
+    <key>q60318000_00_3106</key>
+    <original>残りの仲間を助けた上で敵を掃討する</original>
+  </message>
+  <message>
+    <key>q60318000_00_3109</key>
+    <original>救出した仲間と今後について話す</original>
+  </message>
+  <message>
+    <key>q60318000_00_3107</key>
+    <original>敵本軍を掃討する</original>
+  </message>
+  <message>
+    <key>q60318000_00_3110</key>
+    <original>救出した仲間と話す</original>
+  </message>
+  <message>
+    <key>q60318000_00_3108</key>
+    <original>&lt;STG 630&gt;の&lt;NPC 2800&gt;に報告する</original>
+  </message>
+</resource>

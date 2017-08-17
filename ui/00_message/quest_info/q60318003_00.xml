@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60318003_00_228</key>
+    <original>ラスニテ山麓　敵追跡討伐</original>
+  </message>
+  <message>
+    <key>q60318003_00_228</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318003_00_2943</key>
+    <original>敵の追跡方法を確認する</original>
+  </message>
+  <message>
+    <key>q60318003_00_2944</key>
+    <original>時間内に敵の痕跡を調べる</original>
+  </message>
+  <message>
+    <key>q60318003_00_3140</key>
+    <original>さらに時間内に敵の痕跡を調べる</original>
+  </message>
+  <message>
+    <key>q60318003_00_3141</key>
+    <original>敵の出現場所へ向かう</original>
+  </message>
+  <message>
+    <key>q60318003_00_3142</key>
+    <original>敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60318003_00_3143</key>
+    <original>依頼者の&lt;NPC 596&gt;に報告する</original>
+  </message>
+</resource>

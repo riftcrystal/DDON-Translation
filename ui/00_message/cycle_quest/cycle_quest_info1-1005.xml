@@ -1,0 +1,74 @@
+﻿<resource>
+  <message>
+    <key>CYCLE_QUEST_INFO_55</key>
+    <original>ダクレイム奪還戦</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_55ex1</key>
+    <original>ダクレイム砦を悪しき竜軍が征服したようだ
+場内はオークや大型の魔物で各エリアが占領され
+大砲の弾が容赦なく降り注ぐ戦闘地帯となっている
+まずは砦内へ進攻する手段を企て、戦況を好転させよ
+悪しき竜軍側の反撃を抑え戦力を削り、砦最奥に潜む
+獣の将を討伐して砦を奪還するのだ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_55ex2</key>
+    <original>ミッションに参加する場合は
+ティネス砦のアシュトンより
+詳細を確認せよ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_56</key>
+    <original>本作戦進行中</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_56ex1</key>
+    <original>ダクレイム砦を悪しき竜軍が征服したようだ
+場内はオークや大型の魔物で各エリアが占領され
+大砲の弾が容赦なく降り注ぐ戦闘地帯となっている
+まずは砦内へ進攻する手段を企て、戦況を好転させよ
+悪しき竜軍側の反撃を抑え戦力を削り、砦最奥に潜む
+獣の将を討伐して砦を奪還するのだ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_56ex2</key>
+    <original>ダクレイム砦を悪しき竜軍が征服したようだ
+場内はオークや大型の魔物で各エリアが占領され
+大砲の弾が容赦なく降り注ぐ戦闘地帯となっている
+まずは砦内へ進攻する手段を企て、戦況を好転させよ
+悪しき竜軍側の反撃を抑え戦力を削り、砦最奥に潜む
+獣の将を討伐して砦を奪還するのだ</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_57</key>
+    <original>ランキング期間</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_57ex1</key>
+    <original>ダクレイム砦でのウォーミッションは終了した
+各々の戦果については追って報告があるので
+それまでは待機とする</original>
+  </message>
+  <message>
+    <key>CYCLE_QUEST_INFO_57ex2</key>
+    <original>ダクレイム砦でのウォーミッションは終了した
+各々の戦果については追って報告があるので
+それまでは待機とする</original>
+  </message>
+  <message>
+    <original>戦果報酬配分中</original>
+  </message>
+  <message>
+    <original>ティネス砦にいるアシュトンより、各個人の戦果に
+伴う報酬を受け取ることが出来る
+特別な報酬には受け取るための条件や上限数が
+あるため、貢献具合に応じた品物を選ぶように</original>
+  </message>
+  <message>
+    <original>ティネス砦にいるアシュトンより、各個人の戦果に
+伴う報酬を受け取ることが出来る
+特別な報酬には受け取るための条件や上限数が
+あるため、貢献具合に応じた品物を選ぶように</original>
+  </message>
+</resource>

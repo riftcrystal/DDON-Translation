@@ -24,4 +24,8 @@
     <original>その他</original>
     <translation>Other</translation>
   </message>
+  <message>
+    <key>ACHIEVEMENT_CATEGORY_6</key>
+    <original>王家再興</original>
+  </message>
 </resource>

@@ -1,11 +1,9 @@
 ﻿<resource>
   <message>
-    <original>敵により封鎖された壁の片方が消えた――！</original>
-    <translation>One of the walls blocked by the enemy has disappeared!</translation>
+    <original>敵の強くなった気配がする――</original>
   </message>
   <message>
-    <original>敵により封鎖された壁が消えた――！</original>
-    <translation>The wall blocked by the enemy has disappeared!</translation>
+    <original>敵の弱くなった気配がする――</original>
   </message>
   <message>
     <original>閉じられていた壁が無くなった！</original>

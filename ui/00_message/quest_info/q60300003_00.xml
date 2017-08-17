@@ -1,0 +1,19 @@
+﻿<resource>
+  <message>
+    <key>q60300003_00_277</key>
+    <original>カスタムメイド工房２　リミット解除</original>
+  </message>
+  <message>
+    <key>q60300003_00_277</key>
+    <original>武具のカスタムメイド工房で
+武具のリミット解除について教示を受ける</original>
+  </message>
+  <message>
+    <key>q60300003_00_3447</key>
+    <original>★４の武具を1回リミット解除する</original>
+  </message>
+  <message>
+    <key>q60300003_00_3448</key>
+    <original>&lt;NPC 1047&gt;にリミット解除の結果を伝える</original>
+  </message>
+</resource>

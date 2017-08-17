@@ -389,4 +389,29 @@ Unlikely to be opened.</translation>
     <translation>It is locked.
 &lt;COL ffdc78&gt;"&lt;NAME ITEM&gt;"&lt;/COL&gt; is needed to open.</translation>
   </message>
+  <message>
+    <original>今は転移の力を失っているようだ――</original>
+  </message>
+  <message>
+    <original>イベントを進行しますか？
+※パーティー要請中の場合はキャンセルされます</original>
+  </message>
+  <message>
+    <original>準備開始</original>
+  </message>
+  <message>
+    <original>キャンセル</original>
+  </message>
+  <message>
+    <original>イベント進行確認</original>
+  </message>
+  <message>
+    <original>進行する</original>
+  </message>
+  <message>
+    <original>準備解除</original>
+  </message>
+  <message>
+    <original>キャンセル</original>
+  </message>
 </resource>

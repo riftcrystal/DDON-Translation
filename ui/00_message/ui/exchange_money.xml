@@ -1,0 +1,24 @@
+﻿<resource>
+  <message>
+    <key>exc_have_money_name</key>
+    <original>所持&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>exc_title</key>
+    <original>&lt;VAL&gt;に変換</original>
+  </message>
+  <message>
+    <key>exc_confirm</key>
+    <original>&lt;VAL&gt;を
+&lt;COL ffdc78&gt;&lt;VAL&gt;に変換します&lt;/COL&gt;
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>exc_notice</key>
+    <original>変換しました</original>
+  </message>
+  <message>
+    <key>exc_rate</key>
+    <original>※変換レート：&lt;VAL&gt;&lt;VAL&gt; = &lt;VAL&gt;&lt;VAL&gt;</original>
+  </message>
+</resource>

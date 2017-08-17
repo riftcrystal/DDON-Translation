@@ -89,7 +89,9 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPAWN</key>
-    <original>評価・竜力の継承</original>
+    <original>育成・竜力の継承</original>
+    <!-- NEEDS REVIEW -->
+    <!--評価・竜力の継承-->
     <translation>Rating / Dragon Force</translation>
   </message>
   <message>
@@ -453,5 +455,25 @@
     <key>ARISEN_CARD_TEXT_LIKABILITY</key>
     <original>プレゼントした数</original>
     <translation>Number of Presents</translation>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_ORB_TREE</key>
+    <original>竜力の継承</original>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_ORB_TREE_2</key>
+    <original>戦技の継承</original>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_ORB_TREE_3</key>
+    <original>絶技の継承</original>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_PAWNTHINK_TITLE</key>
+    <original>ポーン戦術育成</original>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_PAWNTHINK_TOTALNUM</key>
+    <original>育成LV</original>
   </message>
 </resource>

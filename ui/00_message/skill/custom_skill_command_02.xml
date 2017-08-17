@@ -74,4 +74,12 @@ Chase by pressing the assigned button again
 during skill activation.
 Cancel the skill with &lt;KC JUMP&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_160</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_161</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

@@ -1,0 +1,47 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_612</key>
+    <original>&lt;COL 78f5ff&gt;《ポーン戦術育成》が解放されました！&lt;/COL&gt;
+
+覚者の自室に設置された&lt;COL ffdc78&gt;《語らいのベル》&lt;/COL&gt;を
+鳴らすことで、あなたのメインポーンの行動方針を
+対話によって育成することができます
+
+行動方針は、各メインポーンの各ジョブごとに
+育成することができます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_613</key>
+    <original>メインポーンと対話するためには
+&lt;COL ffdc78&gt;《対話回数》&lt;/COL&gt;が１以上であることが必要です
+
+メインポーンと共に敵を討伐すると
+&lt;COL ffdc78&gt;《育成EXP》&lt;/COL&gt;
+を取得できます
+
+この育成EXPを一定値以上取得する度に
+対話回数が増えていきます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_614</key>
+    <original>育成EXPは１日の取得量に応じて
+ボーナス分が付与されます
+※ボーナスは育成初期であるほど
+　多めに付与されます
+
+１日の入手量としてカウントされる育成EXPは
+&lt;COL ffdc78&gt;毎朝５時にリセットされます&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_615</key>
+    <original>育成を進めていくと、対話できる項目と
+ストックしておける対話回数の最大値が
+増えていきます
+
+また、パートナーポーンは少しだけ
+育成速度が速くなります
+
+ポーンがあなたの戦いを的確に
+サポートできるよう、対話を重ねましょう</original>
+  </message>
+</resource>

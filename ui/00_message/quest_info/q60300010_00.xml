@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60300010_00_254</key>
+    <original>不思議な呼び鈴</original>
+  </message>
+  <message>
+    <key>q60300010_00_254</key>
+    <original>自室でメインポーンを育成するための
+必要な設備を整える</original>
+  </message>
+  <message>
+    <key>q60300010_00_3365</key>
+    <original>面会人について&lt;NPC 1024&gt;に確認する</original>
+  </message>
+  <message>
+    <key>q60300010_00_3367</key>
+    <original>&lt;STG 211&gt;に向かい面会人から話を聞く</original>
+  </message>
+  <message>
+    <key>q60300010_00_3007</key>
+    <original>どの鉱石を回収するか決める</original>
+  </message>
+  <message>
+    <key>q60300010_00_3008</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 544&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+  <message>
+    <key>q60300010_00_3234</key>
+    <original>儀式完了を待つ（待ち時間：GT+1：00以内）</original>
+  </message>
+  <message>
+    <key>q60300010_00_3233</key>
+    <original>&lt;STG 211&gt;の&lt;NPC 544&gt;に確認する</original>
+  </message>
+</resource>

@@ -414,4 +414,12 @@ Is this okay?</translation>
 オンラインステーションの「未使用コース」から
 ご使用いただけます</original>
   </message>
+  <message>
+    <key>OS_catalog_fixed_phrase</key>
+    <original>ボイス定型文</original>
+  </message>
+  <message>
+    <key>OS_catalog_shortcut</key>
+    <original>ショートカット</original>
+  </message>
 </resource>

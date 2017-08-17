@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60300052_00_275</key>
+    <original>【調理日課】ピレモス　悪童保護　</original>
+  </message>
+  <message>
+    <key>q60300052_00_275</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60300052_00_3383</key>
+    <original>&lt;SPOT 1031&gt; で&lt;NPC 580&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q60300052_00_3384</key>
+    <original>行方不明になった&lt;NPC 581&gt;を探しに向かう</original>
+  </message>
+  <message>
+    <key>q60300052_00_3385</key>
+    <original>敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60300052_00_3393</key>
+    <original>&lt;NPC 581&gt;の様子を確認する</original>
+  </message>
+  <message>
+    <key>q60300052_00_3392</key>
+    <original>新たに襲撃にきた敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60300052_00_3394</key>
+    <original>&lt;SPOT 1031&gt; に戻り&lt;NPC 580&gt;に報告する</original>
+  </message>
+</resource>

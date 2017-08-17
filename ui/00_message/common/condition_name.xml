@@ -254,4 +254,8 @@
     <original>アイテム封印</original>
     <translation>Items Sealed</translation>
   </message>
+  <message>
+    <key>CONDITION_NAME_63</key>
+    <original>敵視上昇</original>
+  </message>
 </resource>

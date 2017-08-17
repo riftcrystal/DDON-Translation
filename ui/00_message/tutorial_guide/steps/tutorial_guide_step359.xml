@@ -1,0 +1,28 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_625</key>
+    <original>クラフトルームにある&lt;COL ffdc78&gt;カスタムメイド工房&lt;/COL&gt;は
+武具の性能をカスタムできる施設です
+
+この施設では、クラフト生産やコンテンツの報酬で
+手に入れた武器や防具の
+&lt;COL ffdc78&gt;さらなる能力&lt;/COL&gt;を引き出すことができます
+
+カスタムメイドできる条件が揃った武具を
+手に入れたら訪れてみましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_626</key>
+    <original>カスタムメイド工房では、以下のことができます
+
+＜武具のカスタムメイド＞
+必要な素材を用意し、費用を支払うことで
+&lt;COL ffdc78&gt;★４まで強化した武器や防具を
+リミット解除／極限合成&lt;/COL&gt;させ、
+付加能力を引き出し、性能を向上させます
+
+＜武具の資源分解＞
+不要になった武器や防具から
+資源となる素材を抽出できます</original>
+  </message>
+</resource>

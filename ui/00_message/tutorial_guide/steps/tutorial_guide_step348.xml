@@ -1,0 +1,18 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_601</key>
+    <original>&lt;COL ffdc78&gt;《&lt;/COL&gt;&lt;ICON G&gt;&lt;COL ffdc78&gt;：ドミニオンポイント》（DP）&lt;/COL&gt;は
+《ウォーミッション》で獲得できる通貨です
+
+DPを所持していれば、各ウォーミッションの
+担当NPCからアイテムの購入が可能です。</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_602</key>
+    <original>各ショップに並んでいるアイテムの中には
+&lt;COL ffdc78&gt;在庫&lt;/COL&gt;のあるモノや&lt;COL ffdc78&gt;購入条件&lt;/COL&gt;のあるモノがあります
+
+欲しいアイテムの詳細を確認し、コンテンツへ
+参加してDPを獲得しましょう</original>
+  </message>
+</resource>

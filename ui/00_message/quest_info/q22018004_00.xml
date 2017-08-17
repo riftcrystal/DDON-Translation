@@ -1,0 +1,29 @@
+﻿<resource>
+  <message>
+    <key>q22018004_00_644</key>
+    <original>想いし君へ</original>
+  </message>
+  <message>
+    <key>q22018004_00_644</key>
+    <original>【納品クエスト】
+依頼者の願いを聞き入れ
+指定された物資を集めてくる</original>
+  </message>
+  <message>
+    <key>q22018004_00_644</key>
+    <original>物資を必要としている人物が
+&lt;NAME AREA&gt;から協力を求めている</original>
+  </message>
+  <message>
+    <key>q22018004_00_644</key>
+    <original>みんな本当は、明日が来るのも恐れているが
+無理矢理笑顔で隠しているのさ
+特に、後方支援者は
+それが仕事みたいなもんでもある
+戦うより楽な仕事だとでも思っていたか？</original>
+  </message>
+  <message>
+    <key>q22018004_00_1179</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼先に届ける（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+</resource>

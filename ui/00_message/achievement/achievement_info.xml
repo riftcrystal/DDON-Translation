@@ -201,17 +201,23 @@
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_629</key>
-    <original>グリムワーグを50体討伐</original>
+    <original>《グリムワーグ》系エネミーを50体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--グリムワーグを50体討伐-->
     <translation>Kill 50 Grim Wargs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_630</key>
-    <original>グリムワーグを100体討伐</original>
+    <original>《グリムワーグ》系エネミーを100体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--グリムワーグを100体討伐-->
     <translation>Kill 100 Grim Wargs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
-    <original>グリムワーグを300体討伐</original>
+    <original>《グリムワーグ》系エネミーを300体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--グリムワーグを300体討伐-->
     <translation>Kill 300 Grim Wargs</translation>
   </message>
   <message>
@@ -6097,8 +6103,6 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2286</key>
     <original>クエスト「託されし者」クリア</original>
-    <!-- NEEDS REVIEW -->
-    <!--クエスト「托されし者」クリア-->
     <translation>Clear quest "The Entrusted One"</translation>
   </message>
   <message>
@@ -6113,17 +6117,23 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2289</key>
-    <original>グランドミッションを10回攻略</original>
+    <original>グランドミッション、ウォーミッションを累計10回攻略</original>
+    <!-- NEEDS REVIEW -->
+    <!--グランドミッションを10回攻略-->
     <translation>Clear 10 Grand Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2290</key>
-    <original>グランドミッションを50回攻略</original>
+    <original>グランドミッション、ウォーミッションを累計50回攻略</original>
+    <!-- NEEDS REVIEW -->
+    <!--グランドミッションを50回攻略-->
     <translation>Clear 50 Grand Missions</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2291</key>
-    <original>グランドミッションを100回攻略</original>
+    <original>グランドミッション、ウォーミッションを累計100回攻略</original>
+    <!-- NEEDS REVIEW -->
+    <!--グランドミッションを100回攻略-->
     <translation>Clear 100 Grand Missions</translation>
   </message>
   <message>
@@ -6366,7 +6376,9 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2338</key>
-    <original>マンティコアを50体討伐</original>
+    <original>《マンティコア》系エネミーを50体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--マンティコアを50体討伐-->
     <translation>Kill 50 Manticores</translation>
   </message>
   <message>
@@ -6466,17 +6478,23 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2362</key>
-    <original>タラスクを1体討伐</original>
+    <original>《タラスク》系エネミーを1体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--タラスクを1体討伐-->
     <translation>Kill 1 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2363</key>
-    <original>タラスクを10体討伐</original>
+    <original>《タラスク》系エネミーを10体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--タラスクを10体討伐-->
     <translation>Kill 10 Tarasque</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2364</key>
-    <original>タラスクを100体討伐</original>
+    <original>《タラスク》系エネミーを100体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <!--タラスクを100体討伐-->
     <translation>Kill 100 Tarasque</translation>
   </message>
   <message>
@@ -6487,30 +6505,38 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2369</key>
     <original>セイレーンを50体討伐</original>
+    <translation>Kill 50 Sirens</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2370</key>
     <original>狂侵グリフィンを50体討伐</original>
+    <translation>Kill 50 Mad Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2371</key>
     <original>狂侵デーモンを50体討伐</original>
+    <translation>Kill 50 Mad Daemons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
     <original>フィンダーエントを50体討伐</original>
+    <translation>Kill 50 Finder Ents</translation>
+    <!-- Needs Revision, not sure if Finder Ents is correct -->
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2373</key>
     <original>黒騎士を1体討伐</original>
+    <translation>Kill a Black Knight</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2374</key>
     <original>黒騎士を10体討伐</original>
+     <translation>Kill 10 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2375</key>
     <original>黒騎士を100体討伐</original>
+    <translation>Kill 100 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
@@ -6571,7 +6597,9 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2522</key>
-    <original>グランドミッションを200回攻略</original>
+    <original>グランドミッション、ウォーミッションを累計200回攻略</original>
+    <!-- NEEDS REVIEW -->
+    <!--グランドミッションを200回攻略-->
     <translation>Clear 200 Grand Missions</translation>
   </message>
   <message>
@@ -6646,6 +6674,7 @@ level 30 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2537</key>
+<<<<<<< HEAD
     <original>エラン水林で精霊の火種を15個発見</original>
     <translation>Find 15 Spiritual Flames in Elan Water Grove</translation>
   </message>
@@ -6704,5 +6733,960 @@ level 30 in crafting</translation>
     <key>ACHIEVEMENT_INFO_2548</key>
     <original>精霊の火種を累計120個発見</original>
     <translation>Found a total of 120 Spiritual Flames</translation>
+=======
+    <original>エラン水林で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Elan Water Grove</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2538</key>
+    <original>エラン水林で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Elan Water Grove</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2539</key>
+    <original>ファーラナ平原で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Farana Plains</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2540</key>
+    <original>ファーラナ平原で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Farana Plains</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2541</key>
+    <original>モロー樹林で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Morrow Forest</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2542</key>
+    <original>モロー樹林で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Morrow Forest</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2543</key>
+    <original>キンガル峡谷で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Kingal Canyon</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2544</key>
+    <original>キンガル峡谷で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Kingal Canyon</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2545</key>
+    <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計30個発見</original>
+    <translation>Found a total of 30&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2546</key>
+    <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計60個発見</original>
+    <translation>Found a total of 60&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2547</key>
+    <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計90個発見</original>
+    <translation>Found a total of 90&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2548</key>
+    <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計120個発見</original>
+    <translation>Found a total of 120&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2549</key>
+    <original>ファイターのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2550</key>
+    <original>ファイターのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2551</key>
+    <original>ファイターのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2552</key>
+    <original>ファイターのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2553</key>
+    <original>ファイターのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2554</key>
+    <original>ファイターのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2555</key>
+    <original>ファイターのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2556</key>
+    <original>ファイターのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2557</key>
+    <original>ファイターのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2558</key>
+    <original>ファイターのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2559</key>
+    <original>ファイターのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2560</key>
+    <original>ファイターのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2561</key>
+    <original>ファイターのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2562</key>
+    <original>ファイターのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2563</key>
+    <original>ファイターのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2564</key>
+    <original>ファイターのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2565</key>
+    <original>ファイターのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2566</key>
+    <original>ファイターのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2567</key>
+    <original>ファイターのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2568</key>
+    <original>ファイターのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2569</key>
+    <original>シーカーのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2570</key>
+    <original>シーカーのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2571</key>
+    <original>シーカーのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2572</key>
+    <original>シーカーのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2573</key>
+    <original>シーカーのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2574</key>
+    <original>シーカーのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2575</key>
+    <original>シーカーのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2576</key>
+    <original>シーカーのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2577</key>
+    <original>シーカーのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2578</key>
+    <original>シーカーのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2579</key>
+    <original>シーカーのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2580</key>
+    <original>シーカーのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2581</key>
+    <original>シーカーのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2582</key>
+    <original>シーカーのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2583</key>
+    <original>シーカーのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2584</key>
+    <original>シーカーのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2585</key>
+    <original>シーカーのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2586</key>
+    <original>シーカーのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2587</key>
+    <original>シーカーのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2588</key>
+    <original>シーカーのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2589</key>
+    <original>ハンターのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2590</key>
+    <original>ハンターのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2591</key>
+    <original>ハンターのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2592</key>
+    <original>ハンターのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2593</key>
+    <original>ハンターのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2594</key>
+    <original>ハンターのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2595</key>
+    <original>ハンターのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2596</key>
+    <original>ハンターのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2597</key>
+    <original>ハンターのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2598</key>
+    <original>ハンターのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2599</key>
+    <original>ハンターのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2600</key>
+    <original>ハンターのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2601</key>
+    <original>ハンターのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2602</key>
+    <original>ハンターのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2603</key>
+    <original>ハンターのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2604</key>
+    <original>ハンターのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2605</key>
+    <original>ハンターのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2606</key>
+    <original>ハンターのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2607</key>
+    <original>ハンターのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2608</key>
+    <original>ハンターのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2609</key>
+    <original>プリーストのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2610</key>
+    <original>プリーストのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2611</key>
+    <original>プリーストのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2612</key>
+    <original>プリーストのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2613</key>
+    <original>プリーストのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2614</key>
+    <original>プリーストのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2615</key>
+    <original>プリーストのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2616</key>
+    <original>プリーストのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2617</key>
+    <original>プリーストのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2618</key>
+    <original>プリーストのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2619</key>
+    <original>プリーストのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2620</key>
+    <original>プリーストのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2621</key>
+    <original>プリーストのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2622</key>
+    <original>プリーストのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2623</key>
+    <original>プリーストのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2624</key>
+    <original>プリーストのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2625</key>
+    <original>プリーストのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2626</key>
+    <original>プリーストのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2627</key>
+    <original>プリーストのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2628</key>
+    <original>プリーストのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2629</key>
+    <original>シールドセージのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2630</key>
+    <original>シールドセージのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2631</key>
+    <original>シールドセージのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2632</key>
+    <original>シールドセージのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2633</key>
+    <original>シールドセージのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2634</key>
+    <original>シールドセージのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2635</key>
+    <original>シールドセージのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2636</key>
+    <original>シールドセージのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2637</key>
+    <original>シールドセージのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2638</key>
+    <original>シールドセージのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2639</key>
+    <original>シールドセージのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2640</key>
+    <original>シールドセージのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2641</key>
+    <original>シールドセージのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2642</key>
+    <original>シールドセージのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2643</key>
+    <original>シールドセージのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2644</key>
+    <original>シールドセージのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2645</key>
+    <original>シールドセージのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2646</key>
+    <original>シールドセージのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2647</key>
+    <original>シールドセージのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2648</key>
+    <original>シールドセージのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2649</key>
+    <original>ソーサラーのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2650</key>
+    <original>ソーサラーのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2651</key>
+    <original>ソーサラーのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2652</key>
+    <original>ソーサラーのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2653</key>
+    <original>ソーサラーのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2654</key>
+    <original>ソーサラーのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2655</key>
+    <original>ソーサラーのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2656</key>
+    <original>ソーサラーのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2657</key>
+    <original>ソーサラーのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2658</key>
+    <original>ソーサラーのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2659</key>
+    <original>ソーサラーのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2660</key>
+    <original>ソーサラーのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2661</key>
+    <original>ソーサラーのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2662</key>
+    <original>ソーサラーのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2663</key>
+    <original>ソーサラーのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2664</key>
+    <original>ソーサラーのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2665</key>
+    <original>ソーサラーのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2666</key>
+    <original>ソーサラーのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2667</key>
+    <original>ソーサラーのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2668</key>
+    <original>ソーサラーのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2669</key>
+    <original>ウォリアーのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2670</key>
+    <original>ウォリアーのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2671</key>
+    <original>ウォリアーのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2672</key>
+    <original>ウォリアーのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2673</key>
+    <original>ウォリアーのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2674</key>
+    <original>ウォリアーのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2675</key>
+    <original>ウォリアーのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2676</key>
+    <original>ウォリアーのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2677</key>
+    <original>ウォリアーのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2678</key>
+    <original>ウォリアーのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2679</key>
+    <original>ウォリアーのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2680</key>
+    <original>ウォリアーのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2681</key>
+    <original>ウォリアーのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2682</key>
+    <original>ウォリアーのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2683</key>
+    <original>ウォリアーのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2684</key>
+    <original>ウォリアーのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2685</key>
+    <original>ウォリアーのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2686</key>
+    <original>ウォリアーのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2687</key>
+    <original>ウォリアーのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2688</key>
+    <original>ウォリアーのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2689</key>
+    <original>エレメントアーチャーのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2690</key>
+    <original>エレメントアーチャーのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2691</key>
+    <original>エレメントアーチャーのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2692</key>
+    <original>エレメントアーチャーのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2693</key>
+    <original>エレメントアーチャーのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2694</key>
+    <original>エレメントアーチャーのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2695</key>
+    <original>エレメントアーチャーのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2696</key>
+    <original>エレメントアーチャーのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2697</key>
+    <original>エレメントアーチャーのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2698</key>
+    <original>エレメントアーチャーのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2699</key>
+    <original>エレメントアーチャーのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2700</key>
+    <original>エレメントアーチャーのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2701</key>
+    <original>エレメントアーチャーのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2702</key>
+    <original>エレメントアーチャーのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2703</key>
+    <original>エレメントアーチャーのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2704</key>
+    <original>エレメントアーチャーのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2705</key>
+    <original>エレメントアーチャーのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2706</key>
+    <original>エレメントアーチャーのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2707</key>
+    <original>エレメントアーチャーのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2708</key>
+    <original>エレメントアーチャーのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2709</key>
+    <original>アルケミストのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2710</key>
+    <original>アルケミストのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2711</key>
+    <original>アルケミストのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2712</key>
+    <original>アルケミストのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2713</key>
+    <original>アルケミストのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2714</key>
+    <original>アルケミストのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2715</key>
+    <original>アルケミストのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2716</key>
+    <original>アルケミストのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2717</key>
+    <original>アルケミストのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2718</key>
+    <original>アルケミストのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2719</key>
+    <original>アルケミストのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2720</key>
+    <original>アルケミストのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2721</key>
+    <original>アルケミストのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2722</key>
+    <original>アルケミストのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2723</key>
+    <original>アルケミストのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2724</key>
+    <original>アルケミストのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2725</key>
+    <original>アルケミストのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2726</key>
+    <original>アルケミストのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2727</key>
+    <original>アルケミストのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2728</key>
+    <original>アルケミストのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2729</key>
+    <original>スピリットランサーのジョブレベルが81になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2730</key>
+    <original>スピリットランサーのジョブレベルが82になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2731</key>
+    <original>スピリットランサーのジョブレベルが83になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2732</key>
+    <original>スピリットランサーのジョブレベルが84になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2733</key>
+    <original>スピリットランサーのジョブレベルが85になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2734</key>
+    <original>スピリットランサーのジョブレベルが86になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2735</key>
+    <original>スピリットランサーのジョブレベルが87になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2736</key>
+    <original>スピリットランサーのジョブレベルが88になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2737</key>
+    <original>スピリットランサーのジョブレベルが89になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2738</key>
+    <original>スピリットランサーのジョブレベルが90になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2739</key>
+    <original>スピリットランサーのジョブレベルが91になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2740</key>
+    <original>スピリットランサーのジョブレベルが92になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2741</key>
+    <original>スピリットランサーのジョブレベルが93になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2742</key>
+    <original>スピリットランサーのジョブレベルが94になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2743</key>
+    <original>スピリットランサーのジョブレベルが95になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2744</key>
+    <original>スピリットランサーのジョブレベルが96になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2745</key>
+    <original>スピリットランサーのジョブレベルが97になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2746</key>
+    <original>スピリットランサーのジョブレベルが98になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2747</key>
+    <original>スピリットランサーのジョブレベルが99になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2748</key>
+    <original>スピリットランサーのジョブレベルが100になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2848</key>
+    <original>クエスト「王子ネド」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2852</key>
+    <original>クエスト「魔軍戦車カトブレパス」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2853</key>
+    <original>「英霊眠りし道 ラスニテ山麓」のすべての力を授かる</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2854</key>
+    <original>サブストーリー「王家を救いし料理番」のすべての使命をクリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2855</key>
+    <original>ウォーミッション「ダクレイム奪還戦」で獣の将を討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2856</key>
+    <original>クエスト「王家復興の褒章１」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2888</key>
+    <original>クエスト「ガーデン・エクステンド」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2889</key>
+    <original>クエスト「奇妙な魔物探索」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2890</key>
+    <original>マンドラゴラ生態図鑑で5種類発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2891</key>
+    <original>マンドラゴラ生態図鑑で50種類発見</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2898</key>
+    <original>いずれかのエンブレムストーンのレベルが5に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2902</key>
+    <original>クエスト「不思議な呼び鈴」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2903</key>
+    <original>ポーン戦術育成を累計1回おこなった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2904</key>
+    <original>ポーン戦術育成を累計10回おこなった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2905</key>
+    <original>ポーン戦術育成を累計30回おこなった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2906</key>
+    <original>ポーン戦術育成を累計50回おこなった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2907</key>
+    <original>ポーン戦術育成を累計100回おこなった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2908</key>
+    <original>獣の将を1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2909</key>
+    <original>獣の将を10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2910</key>
+    <original>獣の将を100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2911</key>
+    <original>カトブレパスを1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2912</key>
+    <original>カトブレパスを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2913</key>
+    <original>カトブレパスを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2935</key>
+    <original>ラスニテ山麓で&lt;ITEM 18738&gt;を30個発見</original>
+>>>>>>> pr/3
   </message>
 </resource>

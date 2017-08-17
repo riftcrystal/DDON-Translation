@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q60300020_00_267</key>
+    <original>英霊眠りし道へ　ラスニテ地方</original>
+  </message>
+  <message>
+    <key>q60300020_00_267</key>
+    <original>眠れる竜力の解放の
+仕方について調査する</original>
+  </message>
+  <message>
+    <key>q60300020_00_3340</key>
+    <original>&lt;STG 1140&gt;に向かい&lt;NPC 606&gt;に詳細確認する</original>
+  </message>
+  <message>
+    <key>q60300020_00_3465</key>
+    <original>&lt;NPC 606&gt;と話して&lt;STG 1141&gt;へ向かう</original>
+  </message>
+  <message>
+    <key>q60300020_00_3341</key>
+    <original>&lt;STG 1141&gt;で英霊の試練をこなし石像を探す</original>
+  </message>
+  <message>
+    <key>q60300020_00_3342</key>
+    <original>&lt;STG 443&gt;に戻り&lt;NPC 2852&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q60300020_00_3401</key>
+    <original>&lt;STG 201&gt;の&lt;NPC 1&gt;に絶技の継承を行う</original>
+  </message>
+</resource>

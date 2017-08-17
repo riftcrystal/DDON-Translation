@@ -1,0 +1,34 @@
+﻿<resource>
+  <message>
+    <key>CHAT_COM_CATEGORY_1</key>
+    <original>あいさつ</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_2</key>
+    <original>質問</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_3</key>
+    <original>返答</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_4</key>
+    <original>説明</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_5</key>
+    <original>編成</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_6</key>
+    <original>戦術</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_7</key>
+    <original>あいさつⅡ</original>
+  </message>
+  <message>
+    <key>CHAT_COM_CATEGORY_8</key>
+    <original>戦術Ⅱ</original>
+  </message>
+</resource>

@@ -374,8 +374,11 @@ For this reason, the total percentage possible may not be 100%.</translation>
   </message>
   <message>
     <key>gacha_msg_result_ng</key>
-    <original>まだ一度もロットをまわしていない、もしくは
-別のロットをまわしたため、獲得情報がありません</original>
+    <original>直前にまわしたロットの獲得リザルトを表示します
+ロット内容は、内容一覧のページでご確認ください</original>
+    <!-- NEEDS REVIEW -->
+    <!--まだ一度もロットをまわしていない、もしくは
+別のロットをまわしたため、獲得情報がありません-->
     <translation>Either you have not drawn from this lot yet,
 or there is no reward history because another lot was drawn from instead.</translation>
   </message>
@@ -502,5 +505,38 @@ Payment Method: &lt;VAL&gt;</translation>
   <message>
     <key>gacha_msg_normal_price_limit</key>
     <original>（あと&lt;VAL&gt;回利用可能）</original>
+  </message>
+  <message>
+    <key>gacha_msg_service_benefits_free</key>
+    <original>サービス特典（無料）</original>
+  </message>
+  <message>
+    <key>gacha_msg_service_benefits_ticket</key>
+    <original>サービス特典（チケット）</original>
+  </message>
+  <message>
+    <key>gacha_msg_service_benefits_gp</key>
+    <original>サービス特典（黄金石）</original>
+  </message>
+  <message>
+    <key>gacha_msg_service_benefits_ticket_dialog</key>
+    <original>サービス特典（チケット）%d枚</original>
+  </message>
+  <message>
+    <key>gacha_msg_service_benefits_gp_dialog</key>
+    <original>サービス特典（黄金石）%d個</original>
+  </message>
+  <message>
+    <key>gacha_msg_not_available</key>
+    <original>ご利用になれません</original>
+  </message>
+  <message>
+    <key>gacha_msg_dialog_service_benefits</key>
+    <original>&lt;COL ffdc78&gt;サービス特典&lt;/COL&gt;は＜&lt;OPCS&gt;＞の発動中に
+利用可能となります</original>
+  </message>
+  <message>
+    <key>gacha_msg_ana_ng_service_benefits</key>
+    <original>効能が切れているため、トレジャーズロットをまわすことができません</original>
   </message>
 </resource>

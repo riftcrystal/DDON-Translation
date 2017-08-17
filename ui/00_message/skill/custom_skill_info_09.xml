@@ -103,11 +103,17 @@ LV.6: Can activate the skill at anytime except when grabbed.&lt;/COL&gt;</transl
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_112</key>
-    <original>敵を直接攻撃し、攻撃対象の敵単体に付着している
-錬成物質を解放して大爆発を起こす
-しがみつき状態からも発動可能
+    <original>敵を直接攻撃し、攻撃対象に付着している錬成物質を
+解放して大爆発を起こす。しがみつき状態から発動可
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵を直接攻撃し、攻撃対象の敵単体に付着している
+錬成物質を解放して大爆発を起こす
+しがみつき状態からも発動可能
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>-->
     <translation>Bring forth a giant metal arm that strikes the 
 enemy directly and can adhere to them if it hits an alchemical stake.
 Upon doing so, it unleashes alchemical substances and causes a
@@ -132,9 +138,23 @@ LV.6: Allows activation while mid-air.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_09_114</key>
     <original>放射状に錬成物質の粒を発射する
-敵との距離によってヒット数が変化する
-複数ヒットさせることで敵を弾き飛ばす
+近距離で複数ヒットすると敵を弾き飛ばす
+空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃性能上昇
 LV.６で攻撃範囲拡大／ヒット数増加（３→５）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_09_189</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+打ち込まれた錬成杭の錬成値が徐々に増加する
+しがみついた状態で発動可能</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_09_190</key>
+    <original>【ＥＸ追加効果】
+錬成杭を打ち込んだ敵へ放った
+エリクシル／アルケム・バーストの
+状態異常値が増加</original>
   </message>
 </resource>

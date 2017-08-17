@@ -1,0 +1,51 @@
+﻿<resource>
+  <message>
+    <key>q60318011_00_237</key>
+    <original>魔軍戦車カトブレパス</original>
+  </message>
+  <message>
+    <key>q60318011_00_237</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318011_00_2964</key>
+    <original>&lt;NPC 2900&gt;に状況を確認する</original>
+  </message>
+  <message>
+    <key>q60318011_00_2965</key>
+    <original>&lt;NPC 2904&gt;に解放軍の戦力について聞く</original>
+  </message>
+  <message>
+    <key>q60318011_00_3243</key>
+    <original>敵陣に向かい奇襲を行う</original>
+  </message>
+  <message>
+    <key>q60318011_00_3244</key>
+    <original>敵の大砲を破壊する</original>
+  </message>
+  <message>
+    <key>q60318011_00_3245</key>
+    <original>増援のリーダーを討伐する</original>
+  </message>
+  <message>
+    <key>q60318011_00_3246</key>
+    <original>最奥の敵本陣へ向かう</original>
+  </message>
+  <message>
+    <key>q60318011_00_3247</key>
+    <original>山間の敵軍を討伐する</original>
+  </message>
+  <message>
+    <key>q60318011_00_3248</key>
+    <original>改めて最奥の敵本陣へ向かう</original>
+  </message>
+  <message>
+    <key>q60318011_00_3249</key>
+    <original>敵の本隊を討伐する</original>
+  </message>
+  <message>
+    <key>q60318011_00_3250</key>
+    <original>&lt;NPC 2800&gt;に戦況結果の報告をする</original>
+  </message>
+</resource>

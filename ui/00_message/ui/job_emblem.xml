@@ -1,0 +1,181 @@
+﻿<resource>
+  <message>
+    <key>job_emblem_reset</key>
+    <original>リセット</original>
+  </message>
+  <message>
+    <key>job_emblem_title</key>
+    <original>Job Emblem</original>
+  </message>
+  <message>
+    <key>job_emblem_sub_title</key>
+    <original>ジョブエンブレムメニュー</original>
+  </message>
+  <message>
+    <key>job_emblem_header_base</key>
+    <original>ベース</original>
+  </message>
+  <message>
+    <key>job_emblem_header_status</key>
+    <original>ステータス</original>
+  </message>
+  <message>
+    <key>job_emblem_not_have_emblem</key>
+    <original>対象アイテムを装備していない
+またはアイテムバッグ、保管ボックスにないため
+設定できません</original>
+  </message>
+  <message>
+    <key>job_emblem_point_name</key>
+    <original>EMBLEM POINTS</original>
+  </message>
+  <message>
+    <key>job_emblem_update_param</key>
+    <original>割り振る</original>
+  </message>
+  <message>
+    <key>job_emblem_err_level_max</key>
+    <original>これ以上レベルアップできません</original>
+  </message>
+  <message>
+    <key>job_emblem_err_pp_shortage</key>
+    <original>所持&lt;UNIT PP&gt;が不足しています</original>
+  </message>
+  <message>
+    <key>job_emblem_confirm_level_up</key>
+    <original>レベルアップします。よろしいですか？
+　消費プレイポイント：&lt;VAL PP&gt;
+　獲得エンブレムポイント：&lt;VAL EP&gt;</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_open_lv</key>
+    <original>エンブレム&lt;UNIT LV&gt;&lt;VAL&gt;で拡張可能</original>
+  </message>
+  <message>
+    <key>job_emblem_empty</key>
+    <original>空き</original>
+  </message>
+  <message>
+    <key>job_emblem_confirm_update_param</key>
+    <original>現在のポイント割り振りを適用しますか？</original>
+  </message>
+  <message>
+    <key>job_emblem_notice_update_param</key>
+    <original>ポイント割り振りを適用しました</original>
+  </message>
+  <message>
+    <key>job_emblem_choice_reset_title</key>
+    <original>リセット方法を選択してください</original>
+  </message>
+  <message>
+    <key>job_emblem_reset_pp</key>
+    <original>&lt;UNIT PP&gt;を消費してリセット</original>
+  </message>
+  <message>
+    <key>job_emblem_reset_gs</key>
+    <original>黄金石を消費してリセット</original>
+  </message>
+  <message>
+    <key>job_emblem_confirm_reset_pp</key>
+    <original>&lt;COL ffdc78&gt;&lt;VAL PP&gt;&lt;/COL&gt;を消費して
+割り振ったポイントをリセットしますか？</original>
+  </message>
+  <message>
+    <key>job_emblem_err_reset_pp_shortage</key>
+    <original>&lt;UNIT PP&gt;が不足しています
+（所持数：&lt;VAL&gt;）</original>
+  </message>
+  <message>
+    <key>job_emblem_confirm_reset_gs</key>
+    <original>&lt;COL ffdc78&gt;黄金石&lt;VAL GS&gt;&lt;/COL&gt;を消費して
+割り振ったポイントをリセットしますか？</original>
+  </message>
+  <message>
+    <key>job_emblem_err_reset_gs_shortage</key>
+    <original>黄金石が不足しています
+（所持数：&lt;VAL&gt;）</original>
+  </message>
+  <message>
+    <key>job_emblem_open_online_shop</key>
+    <original>オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>job_emblem_notice_reset</key>
+    <original>割り振ったポイントをリセットしました</original>
+  </message>
+  <message>
+    <key>job_emblem_err_not_release</key>
+    <original>まだ解放されていません</original>
+  </message>
+  <message>
+    <key>job_emblem_guide_add</key>
+    <original>足す</original>
+  </message>
+  <message>
+    <key>job_emblem_guide_sub</key>
+    <original>減らす</original>
+  </message>
+  <message>
+    <key>job_emblem_item_sel_title</key>
+    <original>ジュエリーを選択してください</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_select_kind</key>
+    <original>継承方法を選択してください</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_select_kind_normal</key>
+    <original>通常継承</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_select_kind_gs</key>
+    <original>黄金石継承</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_confirm_normal</key>
+    <original>ジュエリーを破壊して選択したスロットに
+クレストを通常継承しますか？
+
+ジュエリー：&lt;VAL&gt;
+継承成功率：&lt;VAL&gt;％
+継承失敗時：&lt;COL aa1414&gt;失敗するとジュエリーを失います&lt;/COL&gt;
+
+以下のいずれかのクレストが継承されます</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_confirm_gs</key>
+    <original>ジュエリーを破壊して選択したスロットに
+クレストを&lt;COL ffdc78&gt;黄金石継承&lt;/COL&gt;しますか？
+
+ジュエリー：&lt;VAL&gt;
+継承成功率：&lt;VAL&gt;％
+継承失敗時：&lt;COL ffdc78&gt;失敗してもジュエリーは失われません&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;&lt;UNTN GS&gt; &lt;VAL GS&gt;&lt;/COL&gt;を消費します（所持数：&lt;HAVE GS&gt;）
+
+以下のいずれかのクレストが継承されます</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_success_notice</key>
+    <original>継承に成功しました</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_failed_notice</key>
+    <original>継承に失敗しました</original>
+  </message>
+  <message>
+    <key>job_emblem_crest_confirm_retry</key>
+    <original>継承に失敗しました
+ジュエリーは失われませんでした
+もう一度、同じジュエリーで継承を試みますか？</original>
+  </message>
+  <message>
+    <key>job_emblem_break_confirm</key>
+    <original>選択したスロットのクレストを破壊します
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>job_emblem_break_notice</key>
+    <original>クレストを破壊しました</original>
+  </message>
+</resource>

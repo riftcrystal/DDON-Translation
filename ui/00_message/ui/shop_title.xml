@@ -233,4 +233,24 @@
     <original>クランダンジョン</original>
     <translation>Clan Dungeon</translation>
   </message>
+  <message>
+    <key>shop_title_partyboard</key>
+    <original>パーティー募集掲示板</original>
+  </message>
+  <message>
+    <key>shop_title_war_mission</key>
+    <original>ウォーミッション</original>
+  </message>
+  <message>
+    <key>shop_title_equip_enhance</key>
+    <original>武具のカスタムメイド</original>
+  </message>
+  <message>
+    <key>shop_title_equip_recycle</key>
+    <original>武具の資源分解</original>
+  </message>
+  <message>
+    <key>shop_title_job_emblem</key>
+    <original>ジョブエンブレム</original>
+  </message>
 </resource>

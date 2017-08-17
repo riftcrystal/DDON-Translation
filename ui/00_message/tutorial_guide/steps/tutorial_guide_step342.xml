@@ -1,0 +1,25 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_548</key>
+    <original>＜キャリーを護衛する＞
+
+ティネス砦から、別の村などへ
+キャリーが食料を運ぶのに協力します
+
+道中探索しながら食料を集めますが
+一回の運搬では十分な量は確保できません
+
+何度か食料運搬を繰り返し、支援を達成しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_698</key>
+    <original>＜ルートの選択について＞
+
+特定のクエストでは、&lt;COL ffdc78&gt;ルートの選択&lt;/COL&gt;を
+迫られることがあります
+
+ルートによって&lt;COL ffdc78&gt;魔物の強さ&lt;/COL&gt;や&lt;COL ffdc78&gt;食料の発見量&lt;/COL&gt;が
+違うため、&lt;COL ffdc78&gt;どのルートを選ぶか&lt;/COL&gt;は
+非常に重要な選択になります</original>
+  </message>
+</resource>

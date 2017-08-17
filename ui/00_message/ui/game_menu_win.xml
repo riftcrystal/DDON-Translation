@@ -276,4 +276,28 @@
     <original>期間イベント</original>
     <translation>Time Event</translation>
   </message>
+  <message>
+    <key>menu_ps_store</key>
+    <original></original>
+  </message>
+  <message>
+    <key>menu_ps_store_buy</key>
+    <original></original>
+  </message>
+  <message>
+    <key>menu_partyboard</key>
+    <original>パーティー募集掲示板</original>
+  </message>
+  <message>
+    <key>menu_partyboard_dialog</key>
+    <original>パーティー募集掲示板のカテゴリを選択してください</original>
+  </message>
+  <message>
+    <key>menu_partyboard_type01</key>
+    <original>パーティー募集掲示板を開く</original>
+  </message>
+  <message>
+    <key>menu_pq_history</key>
+    <original>サブストーリーログ</original>
+  </message>
 </resource>

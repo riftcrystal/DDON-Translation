@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_3</key>
+    <original>ピレモスへ食料運搬</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_4</key>
+    <original>盗賊団のアジトへ食料運搬</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_5</key>
+    <original>“幻の食材”を追って――</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_7</key>
+    <original>ティネス砦の食料調達</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_8</key>
+    <original>大食堂の修復</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_9</key>
+    <original>完全復活！　ティネス砦大食堂</original>
+  </message>
+  <message>
+    <key>PACKAGE_QUEST_SEQUENCE_10</key>
+    <original>協力者たちと親交を深める</original>
+  </message>
+</resource>

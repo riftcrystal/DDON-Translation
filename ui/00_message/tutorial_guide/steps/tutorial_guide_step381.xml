@@ -1,0 +1,50 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_673</key>
+    <original>&lt;COL ffdc78&gt;《ウォーミッション》とは
+期間限定で開催され、
+最大８人までのパーティーを組んで
+挑戦する大規模コンテンツです&lt;/COL&gt;
+
+開催時期や内容は《レスタニアニュース》で
+告知されるので、チェックしましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_674</key>
+    <original>これら専用のパーティーを組むコンテンツは、
+担当ＮＰＣに話しかけることで
+&lt;COL ffdc78&gt;《エントリーボード》&lt;/COL&gt;から参加申請できます
+
+&lt;COL ffdc78&gt;　＜ウォーミッションパーティー時の制限＞
+　　　※結成時は担当NPC前に集合・帰還することに
+　　　　なり、フィールドなどへは移動できません
+　　　※申請後も転職は可能ですが、
+　　　　パーティー結成時に
+　　　　登録ジョブへ強制変更されます
+　　　　（その後の再転職は可能です）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_675</key>
+    <original>ウォーミッションに参加すると
+&lt;COL ffdc78&gt;終了時の戦果が、そのままDPショップで使える
+通貨《ドミニオンポイント》として獲得できます&lt;/COL&gt;
+
+また、開催中はアッカーシェラン大陸全土に
+戦果となる特別な魔物も出現します
+
+より高い報酬を目指し、DPショップで
+アイテムを購入しましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_685</key>
+    <original>本開催期間中、ウォーミッションに付随した
+ワールドクエストと戦況：敵軍殲滅では
+&lt;COL ffdc78&gt;稀にオークの将が出現することがあります&lt;/COL&gt;
+
+大将からは希少なアイテムが獲得できるほか、
+大将を討伐した数が一定数に達すると
+&lt;COL ffdc78&gt;特別な戦況：大将討滅&lt;/COL&gt;が出現します
+
+全覚者で協力し、大将出現を目指しましょう</original>
+  </message>
+</resource>

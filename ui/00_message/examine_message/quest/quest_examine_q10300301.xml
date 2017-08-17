@@ -1,0 +1,17 @@
+﻿<resource>
+  <message>
+    <original>――魔物が出現した！護衛対象を守れ！</original>
+  </message>
+  <message>
+    <original>――無事、魔物を撃退した！</original>
+  </message>
+  <message>
+    <original>――護衛失敗！護衛対象を見失った！</original>
+  </message>
+  <message>
+    <original>――護衛失敗！護衛対象の食料が底をついた！</original>
+  </message>
+  <message>
+    <original>――キャリーはゴブリンに食料を渡した！</original>
+  </message>
+</resource>

@@ -15,7 +15,7 @@
   </message>
   <message>
     <original>オーケイ！　素敵に変身したいのは誰だい？
-容姿のスタイリングは&lt;COL b92828&gt;黄金石&lt;/COL&gt;&lt;VAL PRICE_PARLOR&gt;を頂くよ
+容姿のスタイリングは&lt;COL b92828&gt;&lt;UNTN GS&gt;&lt;/COL&gt; &lt;VAL PRICE_PARLOR_GP&gt;を頂くよ
 声やポーンの口調、発言頻度の変更はサービスさ！
 好きにチェンジしていくといいよ</original>
   </message>
@@ -23,5 +23,37 @@
     <original>やぁ、来てくれて嬉しいよ
 今日はどうなりたいか言ってごらん
 ボクが素敵に変身させてあげるからさ――</original>
+  </message>
+  <message>
+    <original>オーケイ！　素敵に変身したいのは誰だい？
+容姿のスタイリングは&lt;COL b92828&gt;&lt;UNTN GS&gt;&lt;/COL&gt; &lt;VAL PRICE_PARLOR_GP&gt;を頂くよ
+今なら&lt;COL b92828&gt;&lt;UNTN TK&gt;&lt;/COL&gt; &lt;VAL PRICE_PARLOR_TK&gt;でも支払いＯＫだよ！
+声やポーンの口調、発言頻度の変更はサービスさ！
+好きにチェンジしていくといいよ</original>
+  </message>
+  <message>
+    <original>おや？　君はメインポーンと契約してないみたいだ
+まずはリムストーンを集めて
+白竜さまのところへいかないとね</original>
+  </message>
+  <message>
+    <original>一度契約したポーンを生まれ変わらせたいなら
+その時はボクが全力でサポートするからさ</original>
+  </message>
+  <message>
+    <original>さあ、生まれ変わりたいのは誰だい？
+&lt;COL b92828&gt;&lt;UNTN GS&gt;&lt;/COL&gt; &lt;VAL PRICE_REBORN_GP&gt;を頂くけど
+きっと満足させてみせるよ！</original>
+  </message>
+  <message>
+    <original>さあ、生まれ変わりたいのは誰だい？
+ボクが全力でリボーンさせてあげよう――
+お代は&lt;COL b92828&gt;&lt;UNTN GS&gt;&lt;/COL&gt; &lt;VAL PRICE_REBORN_GP&gt;を頂くよ
+今なら&lt;COL b92828&gt;&lt;UNTN TK&gt;&lt;/COL&gt; &lt;VAL PRICE_REBORN_TK&gt;でも支払いＯＫだよ！</original>
+  </message>
+  <message>
+    <original>そのポーンは&lt;COL b92828&gt;男性か女性専用のアイテム&lt;/COL&gt;を
+装備しているから、生まれ変わることはできないかな
+専用の装備をはずして、またおいでよ</original>
   </message>
 </resource>

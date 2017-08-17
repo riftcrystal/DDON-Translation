@@ -74,4 +74,12 @@ repeatedly press the assigned button.</translation>
 Push the assigned button again after activation to invert direction
 of the attack.</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_01_154</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_01_155</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

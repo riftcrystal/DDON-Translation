@@ -1,0 +1,19 @@
+﻿<resource>
+  <message>
+    <key>q60300061_00_280</key>
+    <original>【参謀日課】メフィテ　弱点研究</original>
+  </message>
+  <message>
+    <key>q60300061_00_280</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60300061_00_3550</key>
+    <original>&lt;SPOT 1093&gt;で&lt;NPC 582&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q60300061_00_3551</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 582&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+</resource>

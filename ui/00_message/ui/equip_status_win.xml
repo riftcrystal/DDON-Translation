@@ -192,7 +192,7 @@
   </message>
   <message>
     <key>status_orb_title</key>
-    <original>- Orb Tree -</original>
+    <original>竜力の継承</original>
   </message>
   <message>
     <key>status_gain_param_ability_cost</key>
@@ -268,5 +268,13 @@
   <message>
     <key>status_heading_resist_details</key>
     <original>Details</original>
+  </message>
+  <message>
+    <key>status_job_orb_title</key>
+    <original>戦技の継承</original>
+  </message>
+  <message>
+    <key>status_high_orb_tree_title</key>
+    <original>絶技の継承</original>
   </message>
 </resource>

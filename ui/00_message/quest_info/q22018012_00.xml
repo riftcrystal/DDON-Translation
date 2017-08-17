@@ -1,0 +1,45 @@
+﻿<resource>
+  <message>
+    <key>q22018012_00_652</key>
+    <original>【時限採取】鬼の居ぬ間の採石道</original>
+  </message>
+  <message>
+    <key>q22018012_00_652</key>
+    <original>【時限採取クエスト：特殊】
+エリアマスターから話を聞き
+特定条件の間に採取を行い納品する</original>
+  </message>
+  <message>
+    <key>q22018012_00_652</key>
+    <original>&lt;NAME AREA&gt;のエリアマスターは
+覚者へ相談したい事があるらしい</original>
+  </message>
+  <message>
+    <key>q22018012_00_652</key>
+    <original>オークの奴ら、物資的にも重要な地点を
+押さえてきやがった！
+あそこは、鉱石採掘が盛んな場所だったのに――
+こうなったら、手薄な時に盗掘するしかないけどよ
+そんな危険な任務、一体誰が行ってくれるんだ？</original>
+  </message>
+  <message>
+    <key>q22018012_00_1292</key>
+    <original>パーティメンバーを拠点内に集める</original>
+  </message>
+  <message>
+    <key>q22018012_00_1305</key>
+    <original>エリアマスターから詳細を聞く</original>
+  </message>
+  <message>
+    <key>q22018012_00_1293</key>
+    <original>魔物集結スポットの傍にいる斥候に話しかける</original>
+  </message>
+  <message>
+    <key>q22018012_00_1294</key>
+    <original>＜スポットボス未出現＞の間に＜魔物集結スポット＞で《&lt;SQDI NAME&gt;》を採取し＜5＞つ納品</original>
+  </message>
+  <message>
+    <key>q22018012_00_1233</key>
+    <original>エリアマスターに《&lt;SQDI NAME&gt;》を＜&lt;SQDI NUM&gt;＞つ納品する</original>
+  </message>
+</resource>

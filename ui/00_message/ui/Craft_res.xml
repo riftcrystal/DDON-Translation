@@ -1231,4 +1231,82 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
     <original>黄金石が不足しています
 (所持数：&lt;VAL&gt;)</original>
   </message>
+  <message>
+    <key>HEADING_TIME_TO_MANDRA</key>
+    <original>育成時間</original>
+  </message>
+  <message>
+    <key>HEADING_ADD_STATUS</key>
+    <original>追加ステータス</original>
+  </message>
+  <message>
+    <key>ROW_LIST</key>
+    <original>リスト</original>
+  </message>
+  <message>
+    <key>GUIDE_SELECT_ADD_STATUS</key>
+    <original>追加するステータスを選択してください</original>
+  </message>
+  <message>
+    <key>CRAFT_BTGUID_DISADDSTATUS</key>
+    <original>追加ステータスをはずす</original>
+  </message>
+  <message>
+    <key>RECIPE_CATE_MATERIAL_ADD_STATUS</key>
+    <original>特質錬石</original>
+  </message>
+  <message>
+    <key>HEADING_ADD_STATUS2</key>
+    <original>Add Status</original>
+  </message>
+  <message>
+    <key>HEADING_MATERIALS_CHANGE</key>
+    <original>Materials Change</original>
+  </message>
+  <message>
+    <key>GUIDE_MATERIALS_CHANGE</key>
+    <original>品質変更する装備を選択してください</original>
+  </message>
+  <message>
+    <key>ERROR_MATERIALS_CHANGE_001</key>
+    <original>このアイテムは品質変更できません</original>
+  </message>
+  <message>
+    <key>CRAFT_MATERIALS_CHANGE_NOTHING</key>
+    <original>品質変更できる装備がありません</original>
+  </message>
+  <message>
+    <key>ERROR_MATERIALS_CHANGE_002</key>
+    <original>品質が現状維持のまま、もしくは
+低下する可能性があるため使用できません</original>
+  </message>
+  <message>
+    <key>BUTTON_MATERIALS_CHANGE</key>
+    <original>変更</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_MATERIALS_CHANGE</key>
+    <original>このアイテムを品質変更しますか？
+
+作業費用　：&lt;VAL G&gt;
+取得経験値：&lt;VAL XP&gt;</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_GP_MATERIALS_CHANGE</key>
+    <original>以下の機能を利用しているため、このアイテムを
+品質変更するには、&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
+よろしいですか？
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>TITLE_MATERIALS_CHANGE</key>
+    <original>アイテムを品質変更しました</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_MATERIALS_CHANGE_EX</key>
+    <original>このアイテムを品質変更しますか？
+
+作業費用　：&lt;VAL G&gt;
+取得経験値：&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;</original>
+  </message>
 </resource>

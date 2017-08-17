@@ -69,4 +69,12 @@
     <original>触裂魔矢</original>
     <translation>Tearing Tentacle Arrow</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_184</key>
+    <original>炎魔弓 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_185</key>
+    <original>炎魔弓 技</original>
+  </message>
 </resource>

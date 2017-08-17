@@ -130,4 +130,12 @@
     <key>RANKING_MSG_STATE_NOPARTIN</key>
     <original>開催中</original>
   </message>
+  <message>
+    <key>RANKING_MSG_DP_NAME_ACC</key>
+    <original>ウォーミッション累積&lt;UNIT PT&gt;</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_STATE_RECEIVING_WM</key>
+    <original>ランキング確定</original>
+  </message>
 </resource>

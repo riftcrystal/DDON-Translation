@@ -1,0 +1,31 @@
+﻿<resource>
+  <message>
+    <key>q50300004_00_81</key>
+    <original>グリッテン砦攻防戦　戦況：奪回戦</original>
+  </message>
+  <message>
+    <key>q50300004_00_81</key>
+    <original>オーク軍も全ての兵力を使って砦へ攻め込んできた
+現状、砦のいたる所が魔物で溢れかえっている
+この大規模戦闘に勝利する術はあるのか、
+覚者の誰もが知る由もないだろう
+全員の力を最大限に発揮し、グリッテン砦最大の
+危機を突破せよ！</original>
+  </message>
+  <message>
+    <key>q50300004_00_3059</key>
+    <original>目的地の敵を殲滅せよ</original>
+  </message>
+  <message>
+    <key>q50300004_00_3060</key>
+    <original>大挙襲来した魔物を全て撃退せよ</original>
+  </message>
+  <message>
+    <key>q50300004_00_3061</key>
+    <original>総大将を撃破し、砦防衛を完遂せよ</original>
+  </message>
+  <message>
+    <key>q50300004_00_3062</key>
+    <original>新たに現れた魔物を討伐し、戦功ボーナスを得よ</original>
+  </message>
+</resource>

@@ -180,4 +180,8 @@ you have performed.
 After completing edits,
 please perform the cancel operation on the screen.</translation>
   </message>
+  <message>
+    <key>net_error_contents_reload</key>
+    <original></original>
+  </message>
 </resource>

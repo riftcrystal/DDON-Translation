@@ -69,4 +69,12 @@
     <original>ブラストアディション</original>
     <translation>Blast Addition</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_166</key>
+    <original>ソラースライザー 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_167</key>
+    <original>ソラースライザー 技</original>
+  </message>
 </resource>

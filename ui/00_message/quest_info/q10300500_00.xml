@@ -1,0 +1,75 @@
+﻿<resource>
+  <message>
+    <key>q10300500_00_23</key>
+    <original>さらば腹ペコ</original>
+  </message>
+  <message>
+    <key>q10300500_00_23</key>
+    <original>“幻の食材”を諦められないスニーカーに
+代わって、キャリーと共に捜索に出る</original>
+  </message>
+  <message>
+    <key>q10300500_00_3525</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300500_00_3526</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300500_00_3527</key>
+    <original>&lt;NPC 4773&gt;が再び仕掛けた檻を探す</original>
+  </message>
+  <message>
+    <key>q10300500_00_3528</key>
+    <original>周囲に獲物の痕跡がないかを探す</original>
+  </message>
+  <message>
+    <key>q10300500_00_3529</key>
+    <original>檻から抜け出した獲物を追う</original>
+  </message>
+  <message>
+    <key>q10300500_00_3530</key>
+    <original>現れた魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q10300500_00_3531</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300500_00_3532</key>
+    <original>&lt;NPC 4773&gt;に“幻の食材”の正体を報告する</original>
+  </message>
+  <message>
+    <key>q10300500_00_3533</key>
+    <original>&lt;NPC 580&gt;と相談する</original>
+  </message>
+  <message>
+    <key>q10300500_00_3534</key>
+    <original>&lt;NPC 580&gt;の様子を伺う</original>
+  </message>
+  <message>
+    <key>q10300500_00_3535</key>
+    <original>&lt;NPC 581&gt;を襲った“ゴブリン一家のボス”を探す</original>
+  </message>
+  <message>
+    <key>q10300500_00_3536</key>
+    <original>現れた“ゴブリン一家”と“ボス”を討伐する</original>
+  </message>
+  <message>
+    <key>q10300500_00_3537</key>
+    <original>&lt;NPC 581&gt;の元に戻り&lt;NPC 580&gt;と話す</original>
+  </message>
+  <message>
+    <key>q10300500_00_3538</key>
+    <original>すべてが解決したことを&lt;NPC 4773&gt;に話す</original>
+  </message>
+  <message>
+    <key>q10300500_00_3524</key>
+    <original>&lt;NPC 580&gt;に話しかけて砦に戻る</original>
+  </message>
+  <message>
+    <key>q10300500_00_3540</key>
+    <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に話しかける</original>
+  </message>
+</resource>

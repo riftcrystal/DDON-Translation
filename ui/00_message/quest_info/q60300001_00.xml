@@ -1,0 +1,47 @@
+﻿<resource>
+  <message>
+    <key>q60300001_00_252</key>
+    <original>奇妙な魔物探索</original>
+  </message>
+  <message>
+    <key>q60300001_00_252</key>
+    <original>自室にマンドラゴラ育成を開始するための
+方法についての依頼を受ける</original>
+  </message>
+  <message>
+    <key>q60300001_00_3343</key>
+    <original>&lt;NPC 1024&gt;に招待客について相談する</original>
+  </message>
+  <message>
+    <key>q60300001_00_3005</key>
+    <original>&lt;STG 211&gt;に向かい招待客を迎える</original>
+  </message>
+  <message>
+    <key>q60300001_00_3006</key>
+    <original>外に出て&lt;AREA 1&gt;でマンドラゴラを探索する</original>
+  </message>
+  <message>
+    <key>q60300001_00_3185</key>
+    <original>様子を確認してみる</original>
+  </message>
+  <message>
+    <key>q60300001_00_3189</key>
+    <original>エモートで＜手招き＞する</original>
+  </message>
+  <message>
+    <key>q60300001_00_3186</key>
+    <original>さらにマンドラゴラを探索する</original>
+  </message>
+  <message>
+    <key>q60300001_00_3187</key>
+    <original>もう一度様子を確認してみる</original>
+  </message>
+  <message>
+    <key>q60300001_00_3190</key>
+    <original>エモートで＜歓迎＞する</original>
+  </message>
+  <message>
+    <key>q60300001_00_3188</key>
+    <original>依頼者に報告する</original>
+  </message>
+</resource>

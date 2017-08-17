@@ -1,0 +1,266 @@
+﻿<resource>
+  <message>
+    <original>ネド王子が覚者ではない場合のことを
+あれこれ考えてみたのだが――</original>
+  </message>
+  <message>
+    <original>それ以前に、安否さえもわからない状況だ
+無事を祈らずにはいられんな</original>
+  </message>
+  <message>
+    <original>なにしろ、アッカーシェランの情勢の正常化が
+我々の平和にも繋がるわけだ</original>
+  </message>
+  <message>
+    <original>行って、王子の捜索を優先するように
+進言してみるのはどうだ？</original>
+  </message>
+  <message>
+    <original>王子の無事を祈る気持ちにうそ偽りはないが
+まずは安否の情報が欲しいところだ</original>
+  </message>
+  <message>
+    <original>わたしにとってはレスタニアの平穏が最優先
+この先に起こることは可能な限り早めに
+知っておきたいからな</original>
+  </message>
+  <message>
+    <original>ネド王子の存在がどれほどの希望を
+人々にもたらすのか――
+それは僕たちにはわからないけど</original>
+  </message>
+  <message>
+    <original>一番重要なことは――</original>
+  </message>
+  <message>
+    <original>王子は次の竜になれるのかという
+ことだよね</original>
+  </message>
+  <message>
+    <original>メイロワ将軍がさっそく張り切っているよ</original>
+  </message>
+  <message>
+    <original>あなたたちのこと、かなりあてにしているから
+将軍のお相手、よろしく</original>
+  </message>
+  <message>
+    <original>さーて、張り切って、貸しを作ろうぜ</original>
+  </message>
+  <message>
+    <original>俺の見たとろ、あの将軍は
+恩義には必ず報いようとする典型だ</original>
+  </message>
+  <message>
+    <original>メイロワ将軍、なんだかうれしそう
+何があったのかな？</original>
+  </message>
+  <message>
+    <original>将軍がああいう人で良かったですよね
+ジョゼフ様みたいだったら――</original>
+  </message>
+  <message>
+    <original>おっと、これ以上はやめておこう</original>
+  </message>
+  <message>
+    <original>解放軍には、特に指令は出ていない
+今のところ、将軍は全軍を動かすつもりは
+ないらしいな</original>
+  </message>
+  <message>
+    <original>戻ったか！</original>
+  </message>
+  <message>
+    <original>わしのこの破顔を見ればわかるだろうが
+ネド王子の居場所がわかったのだ</original>
+  </message>
+  <message>
+    <original>ほれ、わしらの初対面の村――
+あの村の民達がティネス砦に移されたという
+情報を掴んだ</original>
+  </message>
+  <message>
+    <original>民達の中には、多くの子供の姿があったらしい
+王子はきっとその中に紛れ、潜んでいるはず！</original>
+  </message>
+  <message>
+    <original>いやー、気が急いて仕方がないわ
+ほれ、ティネス砦へ行くぞ</original>
+  </message>
+  <message>
+    <original>目的地はティネス砦――と言ってもわからんか
+地図で確認してくれ</original>
+  </message>
+  <message>
+    <original>あなたたちの戦闘能力をあてにして
+作戦を考えてみたんだ</original>
+  </message>
+  <message>
+    <original>精鋭部隊によるティネス砦強襲作戦――</original>
+  </message>
+  <message>
+    <original>防戦一方だったわたしたちが攻勢に転じれば
+向こうも混乱するだろうからね</original>
+  </message>
+  <message>
+    <original>ティネス砦へは各自で向かうことになるから
+場所は確認しておいてね</original>
+  </message>
+  <message>
+    <original>ティネス砦は、オークに奪われた
+砦らしいな</original>
+  </message>
+  <message>
+    <original>メイロワ将軍め、何も言わないが
+砦の奪回も狙ってるはずだ</original>
+  </message>
+  <message>
+    <original>王子って、１２歳なんでしょ？</original>
+  </message>
+  <message>
+    <original>どんな感じなのかな――
+王子なんて、物語の中にしか
+いないと思ってたよ</original>
+  </message>
+  <message>
+    <original>聞いた話ですけどね――
+ネド王子は、素直で聡明な少年だということです</original>
+  </message>
+  <message>
+    <original>素直で聡明――
+本当でしょうかね</original>
+  </message>
+  <message>
+    <original>ティネス砦に王子がいると
+決まったわけではない</original>
+  </message>
+  <message>
+    <original>メイロワ将軍が、そう推測しているだけ――
+ということを忘れずに</original>
+  </message>
+  <message>
+    <original>砦の前に並んでる大砲が見える？
+あれで撃たれたらこちらはひとたまりもないの</original>
+  </message>
+  <message>
+    <original>あれをね、使い物にならなくしてほしいんだ
+いい？　なるべく全部――</original>
+  </message>
+  <message>
+    <original>とにかく、こっちが砦までたどり着けるくらいの
+時間を稼いでほしいの</original>
+  </message>
+  <message>
+    <original>そっちの様子を見て、わたしたちも
+突入するから、よろしく</original>
+  </message>
+  <message>
+    <original>あと、偵察隊からの話しによると
+砦の中には前回同様、戦甲で身を固めた
+巨大な魔物がいるみたい</original>
+  </message>
+  <message>
+    <original>上手く戦甲をみんなで破壊しないと倒せないから
+遭遇したら注意してね</original>
+  </message>
+  <message>
+    <original>じゃあ、はじめよう</original>
+  </message>
+  <message>
+    <original>クインタスたちと手分けして
+この砦に捕らわれた同志たちを見つけ出し
+解放するのがわしの役目だ</original>
+  </message>
+  <message>
+    <original>仲間の救出は任せてくれ
+あんたはひたすらに敵を蹴散らしてくれればいい</original>
+  </message>
+  <message>
+    <original>ジリジリジリジリ、気分が
+盛りあがってきたじゃねえか――なあ？</original>
+  </message>
+  <message>
+    <original>ネド王子、待っていて！</original>
+  </message>
+  <message>
+    <original>さあ、心おきなく暴れてやりましょう！</original>
+  </message>
+  <message>
+    <original>ここ、ティネス砦はな――
+オークどもとの幾度とない激戦に耐え抜いた要衝だ</original>
+  </message>
+  <message>
+    <original>もう二度と手放してなるものか</original>
+  </message>
+  <message>
+    <original>落胆？
+そんなことはないぞ</original>
+  </message>
+  <message>
+    <original>王子への道は途絶えていないし
+こうして砦を取り戻したんだからな</original>
+  </message>
+  <message>
+    <original>王子はいなかったが、行方に関する情報が
+入ったのは久しぶりだ</original>
+  </message>
+  <message>
+    <original>砦も取り戻すことができたし――
+ああ、追い風を感じるな</original>
+  </message>
+  <message>
+    <original>“契りの歌”は――
+竜がもたらす有形無形の恵に感謝し
+王家と竜の契りが未来永劫続くことを祈る歌なの</original>
+  </message>
+  <message>
+    <original>くたびれ損ってやつだな
+まあ、一回、二回は覚悟の上よ</original>
+  </message>
+  <message>
+    <original>俺はちょっと砦見て回ってから
+休ませてもらうわ</original>
+  </message>
+  <message>
+    <original>竜に感謝する歌なんて、素敵だなあ
+レスタニアにもあればいいのに</original>
+  </message>
+  <message>
+    <original>わたし、毎日歌っちゃうと思う</original>
+  </message>
+  <message>
+    <original>ふう――</original>
+  </message>
+  <message>
+    <original>ここは身体を休めて次に備えましょう
+王子と会うときは笑顔でいたいですからね</original>
+  </message>
+  <message>
+    <original>ネド王子はどうだった？</original>
+  </message>
+  <message>
+    <original>そうか――まだ会えていないんだね
+でも、望みは繋がっているんだろう？</original>
+  </message>
+  <message>
+    <original>アッカーシェランの人たちがそう信じているなら
+大丈夫なんだろうね</original>
+  </message>
+  <message>
+    <original>そうか――</original>
+  </message>
+  <message>
+    <original>砦を奪回しただけではなくネド王子の手がかりまで
+手に入れるとは上出来</original>
+  </message>
+  <message>
+    <original>しかも、メイロワ将軍は、おまえたちのおかげで
+運が巡ってきたと考えているのだな？</original>
+  </message>
+  <message>
+    <original>いいぞ
+良い関係を築けそうではないか</original>
+  </message>
+  <message>
+    <original>→時間経過スポット①（弱研磨剤？）解放</original>
+  </message>
+</resource>

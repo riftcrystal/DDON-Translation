@@ -29,15 +29,11 @@
     <translation>Defeat the monster encountered</translation>
   </message>
   <message>
-    <key>q21000061_00_1172</key>
-    <original>新たに現れた魔物を即時討伐して報酬を獲得</original>
+    <key>q21000061_00_1229</key>
+    <original>新たに現れた魔物を即時討伐して危機を回避</original>
   </message>
   <message>
     <key>q21000061_00_1173</key>
     <original>残る魔物を討伐する</original>
-  </message>
-  <message>
-    <key>q21000061_00_1187</key>
-    <original>魔物が落としたアイテムを得る</original>
   </message>
 </resource>

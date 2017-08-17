@@ -65,146 +65,6 @@
     <translation>results</translation>
   </message>
   <message>
-    <key>bazaar_msg_category_l_mineral</key>
-    <original>無機物</original>
-    <translation>Mineral</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_plant</key>
-    <original>植物</original>
-    <translation>Plant</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_animal</key>
-    <original>動物</original>
-    <translation>Animal</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_sewing</key>
-    <original>裁縫</original>
-    <translation>Sewing</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_artifact</key>
-    <original>特殊</original>
-    <translation>Special</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_all</key>
-    <original>すべて</original>
-    <translation>All</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_ore</key>
-    <original>鉱石</original>
-    <translation>Ore</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_metal</key>
-    <original>金属</original>
-    <translation>Metal</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_sand</key>
-    <original>砂材</original>
-    <translation>Sand</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_jewel</key>
-    <original>宝石</original>
-    <translation>Gem</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_liquid</key>
-    <original>液体</original>
-    <translation>Liquid</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_grass</key>
-    <original>草</original>
-    <translation>Grass</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_mushroom</key>
-    <original>キノコ</original>
-    <translation>Mushroom</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_wood</key>
-    <original>木材</original>
-    <translation>Wood</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_skin</key>
-    <original>皮</original>
-    <translation>Skin</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_bone</key>
-    <original>骨</original>
-    <translation>Bone</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_tusk</key>
-    <original>牙</original>
-    <translation>Tusk</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_horn</key>
-    <original>角</original>
-    <translation>Horn</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_feather</key>
-    <original>羽</original>
-    <translation>Feather</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_meat</key>
-    <original>肉</original>
-    <translation>Meat</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_cloth</key>
-    <original>布</original>
-    <translation>Cloth</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_string</key>
-    <original>糸</original>
-    <translation>String</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_fur</key>
-    <original>毛</original>
-    <translation>Fur</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_scroll</key>
-    <original>巻物</original>
-    <translation>Scroll</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_other</key>
-    <original>その他</original>
-    <translation>Other</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_crest</key>
-    <original>クレスト</original>
-    <translation>Crest</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_strength</key>
-    <original>精錬材</original>
-    <translation>Refining</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_dye</key>
-    <original>染料</original>
-    <translation>Dye</translation>
-  </message>
-  <message>
     <key>bazaar_msg_itemlist_disp_unitprice</key>
     <original>単価</original>
     <translation>Unit Price</translation>
@@ -356,16 +216,6 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</translation>
     <key>bazaar_msg_situation_exhibition_imposs</key>
     <original>あと&lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;で利用できます</original>
     <translation>Available in &lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_weapon</key>
-    <original>武器用</original>
-    <translation>Weapon</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_armor</key>
-    <original>防具用</original>
-    <translation>Armor</translation>
   </message>
   <message>
     <key>bazaar_msg_situation_congrats</key>
@@ -525,10 +375,5 @@ or the exhibition was canceled)</translation>
 we will restrict the use of the Bazaar search for a period of time.
 Please lower the frequency of searches in the future, and
 try again later.</translation>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_material_area</key>
-    <original>地域素材</original>
-    <translation>Regional Material</translation>
   </message>
 </resource>

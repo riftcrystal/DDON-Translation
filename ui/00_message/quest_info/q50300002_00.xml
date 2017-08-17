@@ -1,0 +1,75 @@
+﻿<resource>
+  <message>
+    <key>q50300002_00_79</key>
+    <original>グリッテン砦攻防戦　戦況：怪戦</original>
+  </message>
+  <message>
+    <key>q50300002_00_79</key>
+    <original>不気味な魔物が砦のいたるところに出現する
+奇々怪々な大規模戦闘だ
+オーク軍ではない謎の勢力のようだが、敵の正体や
+詳しい状況は何も分かっていない
+戦技極めし覚者であっても、得体のしれない魔物からの
+攻撃に油断は禁物だ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3043</key>
+    <original>リズを護衛し、呪われた敵を排除せよ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3044</key>
+    <original>22000pt以上の獲得を目指せ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3045</key>
+    <original>どこかで呪われた骸の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3046</key>
+    <original>発見した骸を撃破で戦功ボーナス</original>
+  </message>
+  <message>
+    <key>q50300002_00_3047</key>
+    <original>どこかで呪われた魔鳥の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3048</key>
+    <original>発見した魔鳥を討ち払い戦功ボーナスを得よ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3049</key>
+    <original>どこかで呪われた魔女の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3050</key>
+    <original>発見した魔女を撃破し戦功ボーナスを得よ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3051</key>
+    <original>どこかで霊体騎士群の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3052</key>
+    <original>発見した霊体騎士群を撃破し戦功ボーナスを得よ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3053</key>
+    <original>どこかで呪われた女帝の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3054</key>
+    <original>発見した女帝を撃破し戦功ボーナスを得よ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3055</key>
+    <original>どこかで呪われた巨鳥の気配がする――</original>
+  </message>
+  <message>
+    <key>q50300002_00_3056</key>
+    <original>砦に巣食う瘴気を討ち払い戦功ボーナスを得よ</original>
+  </message>
+  <message>
+    <key>q50300002_00_3057</key>
+    <original>瘴気の魔獣を撃破し、砦を浄化せよ</original>
+  </message>
+</resource>

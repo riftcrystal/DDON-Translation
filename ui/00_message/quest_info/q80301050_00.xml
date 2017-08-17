@@ -1,0 +1,39 @@
+﻿<resource>
+  <message>
+    <key>q80301050_00_69</key>
+    <original>【調理日課】ティネス　調理支給</original>
+  </message>
+  <message>
+    <key>q80301050_00_69</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q80301050_00_3387</key>
+    <original>&lt;STG 448&gt;に向かい&lt;NPC 580&gt;の用事を聞く</original>
+  </message>
+  <message>
+    <key>q80301050_00_3377</key>
+    <original>&lt;NPC 580&gt;を手伝うか決める</original>
+  </message>
+  <message>
+    <key>q80301050_00_3378</key>
+    <original>&lt;STG 443&gt;で&lt;NPC 580&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q80301050_00_3379</key>
+    <original>&lt;STG 443&gt;で帰還兵を探し料理をふるまう（残り３）</original>
+  </message>
+  <message>
+    <key>q80301050_00_3388</key>
+    <original>&lt;STG 443&gt;で帰還兵を探し料理をふるまう（残り２）</original>
+  </message>
+  <message>
+    <key>q80301050_00_3391</key>
+    <original>&lt;STG 443&gt;で帰還兵を探し料理をふるまう（残り１）</original>
+  </message>
+  <message>
+    <key>q80301050_00_3395</key>
+    <original>&lt;STG 448&gt;に戻って料理を作り直す</original>
+  </message>
+</resource>

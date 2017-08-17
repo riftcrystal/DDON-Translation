@@ -23,73 +23,73 @@
 なんだかんだで基本は大事だぜ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_SUB&gt;&lt;KEYM&gt;&lt;KCT HOLD_BOW&gt;&lt;/KEYM&gt;&lt;/COL&gt;で闘波の構えだ！</original>
+    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_SUB&gt;&lt;KEYM&gt;&lt;KCT HOLD_BOW&gt;&lt;/KEYM&gt;&lt;/COL&gt;で闘波の構えよ！</original>
   </message>
   <message>
-    <original>構えたまま&lt;COL ff7575&gt;&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;&lt;/COL&gt;で闘波の魔眼！複数の敵を狙え！</original>
+    <original>構えたまま&lt;COL ff7575&gt;&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;&lt;/COL&gt;で闘波の魔眼！複数の敵を狙って！</original>
   </message>
   <message>
-    <original>闘波の魔眼で敵を捉えたら、&lt;COL ff7575&gt;&lt;KCT SHOOT&gt;&lt;/COL&gt;で闘波の矢を撃て！</original>
+    <original>闘波の魔眼で敵を捉えたら、&lt;COL ff7575&gt;&lt;KCT SHOOT&gt;&lt;/COL&gt;で闘波の矢を撃って！</original>
   </message>
   <message>
-    <original>闘波の魔眼で最適距離から敵を捉えろ。集中力の高まりが早くなる距離があるはずだ</original>
+    <original>闘波の魔眼で最適距離から敵を捉えて。集中力の高まりが早くなる距離があるはずよ</original>
   </message>
   <message>
-    <original>その距離から敵を３秒以上補足し、攻撃するんだ！</original>
+    <original>その距離から敵を３秒以上補足し、攻撃するのよ！</original>
   </message>
   <message>
-    <original>闘波の魔眼で敵を捉え続け、集中力を最大まで高めるんだ。矢の威力が最大まで高まるぞ！</original>
+    <original>闘波の魔眼で敵を捉え続け、集中力を最大まで高めるの。矢の威力が最大まで高まるわ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_MAIN&gt;&lt;KEYM&gt;初期設定の場合、&lt;KCT HOLD_BOW&gt;で構え、マウスホイール後&lt;/KEYM&gt;&lt;/COL&gt;で助真の構えだ！</original>
+    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_MAIN&gt;&lt;KEYM&gt;初期設定の場合、&lt;KCT HOLD_BOW&gt;で構え、マウスホイール後&lt;/KEYM&gt;&lt;/COL&gt;で助真の構えよ！</original>
   </message>
   <message>
-    <original>構えたまま&lt;COL ff7575&gt;&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;&lt;/COL&gt;で助真の魔眼！複数の味方を捉えられるぞ</original>
+    <original>構えたまま&lt;COL ff7575&gt;&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;&lt;/COL&gt;で助真の魔眼！複数の味方を捉えられるわ</original>
   </message>
   <message>
-    <original>助真の魔眼で味方を捉えたら、&lt;COL ff7575&gt;&lt;KCT SHOOT&gt;&lt;/COL&gt;で助真の矢を撃ち、回復だ！</original>
+    <original>助真の魔眼で味方を捉えたら、&lt;COL ff7575&gt;&lt;KCT SHOOT&gt;&lt;/COL&gt;で助真の矢を撃ち、回復よ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;KCT CHANGE_ARROW&gt;&lt;/COL&gt;で癒しの装だ。自分の体力を回復しろ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT CHANGE_ARROW&gt;&lt;/COL&gt;で癒しの装よ。自分の体力を回復して！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で前蹴りだ！敵を蹴って距離をとれ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で前蹴りよ！敵を蹴って距離をとって！</original>
   </message>
   <message>
-    <original>よし、では祠の奥へ向かい大型敵と対峙だ！大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意しろ！</original>
+    <original>よし、では祠の奥へ向かい大型敵と対峙よ！大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意して！</original>
   </message>
   <message>
-    <original>そして&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でヤツにしがみつけ！</original>
+    <original>そして&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でヤツにしがみついて！</original>
   </message>
   <message>
-    <original>その状態で&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で奮わせ直魔矢だ！</original>
+    <original>その状態で&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で奮わせ直魔矢よ！</original>
   </message>
   <message>
-    <original>怒り状態の敵を、助真の構えで捉えろ！見るだけでシークレットコアを暴きだせるぞ！</original>
+    <original>怒り状態の敵を、助真の構えで捉えて！見るだけでシークレットコアを暴きだせるわ！</original>
   </message>
   <message>
-    <original>では大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意してヤツを仕留めるんだ！</original>
+    <original>では大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意してヤツを仕留めるの！</original>
   </message>
   <message>
-    <original>シークレットコアを攻撃したり、揺さぶり、疲れさせてチャンスを作るんだぞ！</original>
+    <original>シークレットコアを攻撃したり、揺さぶり、疲れさせてチャンスを作って！</original>
   </message>
   <message>
-    <original>試練完了、よくやったな！奥にある＜魔弓の証＞を受け取り、神殿のレンテンに報告するがいい</original>
+    <original>試練完了ね！奥にある＜魔弓の証＞を受け取り、神殿のレンテンに報告してね</original>
   </message>
   <message>
-    <original>おめでとう、覚者よ
-これにて戦術試練は完了だ！</original>
+    <original>おめでとうございます
+これにて戦術試練は完了ですね！</original>
   </message>
   <message>
     <original>今覚えたエレメントアーチャ―の戦い方を
 振り返りたい時は、《チュートリアルガイド》の
 《ジョブの操作と役割》からエレメントアーチャ―の
-戦法や戦術的役割を確認するんだ</original>
+戦法や戦術的役割を確認してください</original>
   </message>
   <message>
     <original>エレメントアーチャーは、ヒーラーとアタッカー
-二つの面をもつ特異なジョブだ
-立ち回り方は、我々にとってもこれからの研究課題だな</original>
+二つの面をもつ特異なジョブです
+立ち回り方は、私にとっても研究課題です</original>
   </message>
   <message>
     <original>覚者とは試練に臆することなく立ち向かい
@@ -106,7 +106,7 @@
   </message>
   <message>
     <original>技や動きの参考のため
-一人、共闘の兵をつけておこう
+一人、共闘の仲間に来てもらってる
 課題をこなす中で戦技を身に刻め！</original>
   </message>
   <message>

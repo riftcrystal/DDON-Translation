@@ -1,0 +1,18 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_543</key>
+    <original>キャリーからの様々な依頼をこなしていくと
+&lt;COL ffdc78&gt;使命の達成度&lt;/COL&gt;が上がっていきます
+
+達成度が最大になると、使命がクリアとなります
+
+またその過程で&lt;COL ffdc78&gt;新たなクエスト&lt;/COL&gt;が
+出現することがあります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_697</key>
+    <original>&lt;COL ffdc78&gt;《サブストーリーログ》&lt;/COL&gt;では
+現在の使命の達成状況や、クエストのログを
+確認することができます</original>
+  </message>
+</resource>

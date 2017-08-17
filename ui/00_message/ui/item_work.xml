@@ -264,4 +264,52 @@
     <key>ITEM_WORK_131</key>
     <original>アビリティ習得</original>
   </message>
+  <message>
+    <key>ITEM_WORK_132</key>
+    <original>経験値入手</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_133</key>
+    <original>家具入手【家具アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_134</key>
+    <original>プロフ壁紙入手【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_135</key>
+    <original>クラフトレシピ入手【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_136</key>
+    <original>エモーション入手【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_137</key>
+    <original>ポーン会話入手【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_138</key>
+    <original>エディットパーツ入手【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_139</key>
+    <original>定型文【解放アイテム専用】</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_140</key>
+    <original>レベルアップポーション</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_141</key>
+    <original>竜力の継承全開放</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_142</key>
+    <original>冒険をしやすくする</original>
+  </message>
+  <message>
+    <key>ITEM_WORK_143</key>
+    <original>PP入手</original>
+  </message>
 </resource>

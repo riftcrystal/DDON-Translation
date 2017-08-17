@@ -51,7 +51,9 @@ New collectable item "Elana Water" appears</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_270</key>
-    <original>支援品の向上</original>
+    <original>支援品のランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支援品の向上-->
     <translation>Support goods rank up</translation>
   </message>
   <message>
@@ -80,7 +82,9 @@ Restore path "Elan Front Gate"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_275</key>
-    <original>支援品の向上</original>
+    <original>支援品のランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支援品の向上-->
     <translation>Support goods rank up</translation>
   </message>
 </resource>

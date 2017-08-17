@@ -1,0 +1,26 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_610</key>
+    <original>カスタムスキルEXを習得すると
+元となるスキルに&lt;COL ffdc78&gt;《EXアイコン》&lt;/COL&gt;がつきます
+
+戦技補佐画面を開き、
+EXアイコンがついているスキルを選択した状態で
+【&lt;KC UI_Y&gt;】を押すと、
+&lt;COL ffdc78&gt;カスタムスキルEXとして［剛］と［技］、
+通常のカスタムスキルに戻す［デフォルト］の
+3種類を切り替えることができます&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_611</key>
+    <original>切り替え後は、既存のカスタムスキルと同様の
+流れで装備できます
+
+&lt;COL ffdc78&gt;ただし、［剛/技/デフォルト］を
+同時に装備することはできません
+
+また、元となるカスタムスキルが
+技はＬＶ．9、剛はＬＶ．10に達していないと
+装備することはできないので注意しましょう&lt;/COL&gt;</original>
+  </message>
+</resource>

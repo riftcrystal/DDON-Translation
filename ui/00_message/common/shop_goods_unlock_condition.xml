@@ -1,0 +1,32 @@
+﻿<resource>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_1</key>
+    <original></original>
+  </message>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_2</key>
+    <original>%sの
+ランキング%d位以内に入賞</original>
+  </message>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_3</key>
+    <original>%sの
+%sを%d体討伐（%d/%d）</original>
+  </message>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_4</key>
+    <original>%sにて
+ウォーミッション累積ポイントを
+%s &lt;UNIT PT&gt;獲得（%s/%s）</original>
+  </message>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_5</key>
+    <original>現在選択中のジョブで
+プレイポイントのコンテンツを解放済み</original>
+  </message>
+  <message>
+    <key>SHOP_GOODS_UNLOCK_CONDITION_6</key>
+    <original>LV.%d以上の
+%sを%d体討伐（%d/%d）</original>
+  </message>
+</resource>

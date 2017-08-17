@@ -71,4 +71,14 @@ Further enhanced in Attack Boost mode.</translation>
     <original>セットボタンを押す
 アタックブーストで強化可能</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_10_195</key>
+    <original>セットボタンを押す
+ヒールブーストで強化可能</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_10_196</key>
+    <original>セットボタンを押す
+ヒールブーストで強化可能</original>
+  </message>
 </resource>

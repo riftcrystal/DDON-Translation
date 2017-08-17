@@ -1,0 +1,43 @@
+﻿<resource>
+  <message>
+    <key>q60318002_00_227</key>
+    <original>ラスニテ山麓　解放軍支援</original>
+  </message>
+  <message>
+    <key>q60318002_00_227</key>
+    <original>依頼者から事件の詳細を聞き
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60318002_00_2941</key>
+    <original>サポート任務を選択する</original>
+  </message>
+  <message>
+    <key>q60318002_00_2942</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 656&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+  <message>
+    <key>q60318002_00_3126</key>
+    <original>&lt;STG 1092&gt;へ偵察に向かう</original>
+  </message>
+  <message>
+    <key>q60318002_00_3127</key>
+    <original>発見した敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60318002_00_3128</key>
+    <original>&lt;NPC 656&gt;に調査報告する</original>
+  </message>
+  <message>
+    <key>q60318002_00_3129</key>
+    <original>&lt;SPOT 1037&gt; に出現した敵軍の調査に向かう</original>
+  </message>
+  <message>
+    <key>q60318002_00_3130</key>
+    <original>敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60318002_00_3125</key>
+    <original>依頼者の&lt;NPC 656&gt;に報告する</original>
+  </message>
+</resource>

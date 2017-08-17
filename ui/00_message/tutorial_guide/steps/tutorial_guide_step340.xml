@@ -1,0 +1,55 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_544</key>
+    <original>キャリーを連れてクエストに出ると
+大きな袋と&lt;COL ffdc78&gt;《食料ゲージ》&lt;/COL&gt;を持った状態になります
+
+&lt;COL ffdc78&gt;《食料ゲージ》&lt;/COL&gt;はキャリーの頭上と
+画面右のクエスト名の上に表示される&lt;COL ffdc78&gt;黄色のゲージ&lt;/COL&gt;で
+キャリーが持っている食料の量を示します</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_545</key>
+    <original>&lt;COL ffdc78&gt;＜食料ゲージの増減＞&lt;/COL&gt;
+
+＜食料が増える＞
+キャリーは道中、様々な場所を探索して
+食料を見つけ出します
+
+食料は&lt;COL ffdc78&gt;キャリーが直接拾う&lt;/COL&gt;ことでのみ
+増えます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_693</key>
+    <original>&lt;COL ffdc78&gt;＜食料ゲージの増減＞&lt;/COL&gt;
+
+＜食料が減る＞
+キャリーが魔物などの攻撃でダメージを受けると
+袋の中の&lt;COL ffdc78&gt;食料を落として&lt;/COL&gt;しまいます
+
+よりＬｖ．が高い魔物の攻撃ほど
+&lt;COL ffdc78&gt;一度にたくさんの食料を落としてしまう&lt;/COL&gt;ので
+注意が必要です</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_694</key>
+    <original>&lt;COL ffdc78&gt;＜食料がなくなると…＞&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;《食料ゲージ》が０になる&lt;/COL&gt;と
+そのクエストは失敗となります
+
+失敗すると、&lt;COL ffdc78&gt;もう一度大食堂から出直す&lt;/COL&gt;
+ことになりますが、クリアまで何度も挑戦することが
+できます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_695</key>
+    <original>&lt;COL ffdc78&gt;＜その他の失敗する要因＞&lt;/COL&gt;
+
+キャリーから離れ過ぎて見失ってしまう
+リム転移して別の場所へ移動してしまう
+
+これらの行動でも失敗となるため、キャリーの傍から
+離れ過ぎないように注意しましょう</original>
+  </message>
+</resource>

@@ -87,4 +87,214 @@ Are you sure you want to change it?</translation>
     <original>思い出話</original>
     <translation>Reminisce</translation>
   </message>
+  <message>
+    <key>myroom_mandragora_1A0_1_menu</key>
+    <original>マンドラゴラの管理</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_1A0_2_menu</key>
+    <original>マンドラゴラ図鑑</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_2A0_1_menu</key>
+    <original>鉢植を持っていない</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_2A1_1_menu</key>
+    <original>マンドラゴラを迎え入れる</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_menu</key>
+    <original>育てる</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_2_menu</key>
+    <original>持ちあげる</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_3_menu</key>
+    <original>なでる</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_4_menu</key>
+    <original>見た目を変える</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_5_menu</key>
+    <original>名前を変える</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A1_1_menu</key>
+    <original>土を変える</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A1_2_dialog</key>
+    <original>マンドラゴラを育てるには
+土の状態を回復する必要があります
+&lt;COL ffdc78&gt;ふかふかの土&lt;/COL&gt;を使用しますか？</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_1_menu</key>
+    <original>育成状況を確認する</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_2_menu</key>
+    <original>肥料を確認する</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_3_dialog</key>
+    <original>このマンドラゴラを&lt;COL ffdc78&gt;黄金石で即時育成&lt;/COL&gt;します
+よろしいですか？
+&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費します(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_4_dialog</key>
+    <original>このマンドラゴラを&lt;COL ffdc78&gt;黄金石で即時育成&lt;/COL&gt;しました</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_5_dialog</key>
+    <original>黄金石が不足しています
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_6_dialog_menu</key>
+    <original>オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A3_1_menu</key>
+    <original>受け取る</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A3_2_announce</key>
+    <original>鉢植に戻るまでまとう</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_1_dialog</key>
+    <original>マンドラゴラ
+&lt;VAL&gt;
+の名前を変更しますか？</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_2_dialog_title</key>
+    <original>マンドラゴラの名前を設定</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_3_dialog_attention</key>
+    <original>注意事項
+・半角２文字～１２文字まで入力可能です
+・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_4_dialog_button</key>
+    <original>完了</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_5_dialog_button</key>
+    <original>中止</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_01_dialog</key>
+    <original>マンドラゴラを育てるには
+「作るもの」と「肥料」分のアイテムが必要です
+まずは「作るもの」を選択してください</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_02_dialog_menu</key>
+    <original>作るものを選ぶ</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_03_dialog</key>
+    <original>次に「肥料」分のアイテムを自由に選択してください
+「肥料」として与えたアイテムによっては、
+マンドラゴラの成長に変化が現れるかもしれません</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_04_dialog_menu</key>
+    <original>肥料を選ぶ</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_05_dialog</key>
+    <original>肥料選択をキャンセルしますか？
+(肥料に選んでいたアイテムは元に戻ります)</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_06_dialog</key>
+    <original>育成方法を選んでください</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_07_dialog_menu</key>
+    <original>通常育成</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_08_dialog_menu</key>
+    <original>黄金石で即時育成</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_09_dialog</key>
+    <original>このマンドラゴラを通常育成します
+よろしいですか？
+
+マンドラゴラ：&lt;VAL&gt;
+作るもの：&lt;VAL&gt;
+育成時間：&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_10_dialog</key>
+    <original>このマンドラゴラを&lt;COL ffdc78&gt;黄金石で即時育成&lt;/COL&gt;します
+よろしいですか？
+
+マンドラゴラ：&lt;VAL&gt;
+作るもの：&lt;VAL&gt;
+育成時間：&lt;VAL&gt;
+
+&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費します (所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_11_list</key>
+    <original>黄金石で即時育成</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_12_dialog</key>
+    <original>育成を開始しました</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_13_dialog</key>
+    <original>育成が完了しました</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_2_dialog</key>
+    <original>このマンドラゴラは育成途中です
+
+作るもの：&lt;VAL&gt;
+育成時間：&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A1_3_dialog</key>
+    <original>&lt;COL ffdc78&gt;ふかふかの土&lt;/COL&gt;を使用しました</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A1_4_dialog</key>
+    <original>ふかふかの土を持っていません</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_4A0_6_dialog</key>
+    <original>名前を変更しました</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A2_1_err01</key>
+    <original>もうすぐ育成が完了するので
+黄金石で即時育成は使用できません</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_4_err01</key>
+    <original>今は変更できません</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_3A0_1_10_dialog_ex1</key>
+    <original>&lt;COL ffdc78&gt;すぐに育ちます&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>myroom_mandragora_2A1_1_err01</key>
+    <original>自室の管理から鉢植を設定してください</original>
+  </message>
 </resource>

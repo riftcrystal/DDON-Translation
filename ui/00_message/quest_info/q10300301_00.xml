@@ -1,0 +1,67 @@
+﻿<resource>
+  <message>
+    <key>q10300301_00_16</key>
+    <original>腹ペコのゴブリン</original>
+  </message>
+  <message>
+    <key>q10300301_00_16</key>
+    <original>ピレモスの食料危機を聞きつけた
+キャリーを連れて、村まで向かう</original>
+  </message>
+  <message>
+    <key>q10300301_00_3468</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300301_00_3469</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300301_00_3470</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300301_00_3471</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300301_00_3472</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300301_00_3473</key>
+    <original>&lt;NPC 580&gt;と一緒に周囲を調べる</original>
+  </message>
+  <message>
+    <key>q10300301_00_3474</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300301_00_3475</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300301_00_3476</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300301_00_3477</key>
+    <original>&lt;NPC 580&gt;の状況を確認する</original>
+  </message>
+  <message>
+    <key>q10300301_00_3478</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300301_00_3479</key>
+    <original>運んできた食料を&lt;NPC 2802&gt;に渡す</original>
+  </message>
+  <message>
+    <key>q10300301_00_3480</key>
+    <original>&lt;NPC 580&gt;に話しかけて砦に戻る</original>
+  </message>
+  <message>
+    <key>q10300301_00_3481</key>
+    <original>&lt;STG 448&gt;にいる&lt;NPC 580&gt;に話しかける</original>
+  </message>
+</resource>

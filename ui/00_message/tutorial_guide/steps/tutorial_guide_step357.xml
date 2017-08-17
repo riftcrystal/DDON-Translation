@@ -1,0 +1,42 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_621</key>
+    <original>エピタフロード&lt;COL ffdc78&gt;《英霊眠りし道》&lt;/COL&gt;では
+封印された&lt;COL ffdc78&gt;《絶技の継承》&lt;/COL&gt;を解放することができます
+
+しかし、そのためには&lt;COL ffdc78&gt;《英霊の間》&lt;/COL&gt;と呼ばれる場所で
+墓碑に記された試練に挑み、特殊な条件を達成して
+敵を討伐する必要があります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_622</key>
+    <original>また、英霊眠りし道のさらなる深部へと
+足を踏み入れるには、土砂を撤去するため
+英霊の力を借りて&lt;COL ffdc78&gt;《大開拓》&lt;/COL&gt;をしなければなりません
+
+大開拓は英霊となるNPCの力を
+借りることで解放されるようになります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_672</key>
+    <original>ただし、中には英霊の力を借りずに
+自ら土砂を撤去する《小開拓》ができる所もあります
+
+小開拓を行うと即時に土砂が撤去され
+クレストなど、
+より多くの報酬が手に入る道が拓かれます
+
+全ての道を開拓することにより
+英霊の加護を手に入れることができるでしょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_689</key>
+    <original>※エピタフロードへは
+パーティーメンバー全員が揃っていないと
+入場できません
+
+1人だけダンジョンの外に退出してしまうと
+試練の起動や再入場ができなくなるため、
+再度、パーティー全員で入場し直す必要があります</original>
+  </message>
+</resource>

@@ -114,4 +114,33 @@
     <original>適用するフィルタを選んでください</original>
     <translation>Please select the filter to apply</translation>
   </message>
+  <message>
+    <key>menu_cmn_header_item</key>
+    <original>Item</original>
+  </message>
+  <message>
+    <key>menu_cmn_header_storage</key>
+    <original>Storage</original>
+  </message>
+  <message>
+    <key>menu_cmn_open_online_shop</key>
+    <original>オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>menu_cmn_shortage_gs</key>
+    <original>&lt;UNTN GS&gt;が不足しています
+（所持数：&lt;HAVE GS&gt;）</original>
+  </message>
+  <message>
+    <key>menu_cmn_item</key>
+    <original>アイテム</original>
+  </message>
+  <message>
+    <key>menu_cmn_receive_bag</key>
+    <original>アイテムバッグに受け取る</original>
+  </message>
+  <message>
+    <key>menu_cmn_receive_box</key>
+    <original>保管ボックスに受け取る</original>
+  </message>
 </resource>

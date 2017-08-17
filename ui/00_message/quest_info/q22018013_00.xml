@@ -1,0 +1,41 @@
+﻿<resource>
+  <message>
+    <key>q22018013_00_653</key>
+    <original>豪商の恩返し</original>
+  </message>
+  <message>
+    <key>q22018013_00_653</key>
+    <original>【納品討伐クエスト】
+依頼者に高価なアイテムを渡し
+珍しい敵の居場所を聞き出す</original>
+  </message>
+  <message>
+    <key>q22018013_00_653</key>
+    <original>&lt;NAME AREA&gt;にいる何者かが
+エリア内で取得できる珍しいアイテムを求めている</original>
+  </message>
+  <message>
+    <key>q22018013_00_653</key>
+    <original>エルセンさん、昔はロスギルの商工会周辺を
+仕切る大商人だったんだけど
+家財や家族は全て田舎に疎開させて
+一人でこのロスギルに残ったんだって
+彼の情報収集力は大したもんだから、助かってるよ</original>
+  </message>
+  <message>
+    <key>q22018013_00_1166</key>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+  </message>
+  <message>
+    <key>q22018013_00_1167</key>
+    <original>指定された場所へ魔物を探しに行く</original>
+  </message>
+  <message>
+    <key>q22018013_00_1168</key>
+    <original>発見した魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q22018013_00_1169</key>
+    <original>依頼者に報告する</original>
+  </message>
+</resource>

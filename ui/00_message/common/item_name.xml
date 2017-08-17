@@ -19209,9 +19209,6 @@
   <item id="5723">
     <original>昇格試験Ａ</original>
   </item>
-  <item id="7526">
-    <original>骨董品</original>
-  </item>
   <item id="7540">
     <original>衣装：クラウス</original>
     <translation>Outfit: Klaus</translation>
@@ -19267,12 +19264,6 @@
   <item id="7555">
     <original>癒しの特撰薬・上</original>
     <translation>Superior Healing Remedy</translation>
-  </item>
-  <item id="7556">
-    <original>虐げられた者のレバー</original>
-  </item>
-  <item id="7557">
-    <original>キングオブレバー</original>
   </item>
   <item id="7559">
     <original>砦への補給物資</original>
@@ -39497,25 +39488,25 @@
     <translation>AP (Bloodbane Isle)</translation>
   </item>
   <item id="13341">
-    <original>12_06_エリアポイント_14</original>
+    <original>AP【エラン水林】</original>
   </item>
   <item id="13342">
-    <original>12_06_エリアポイント_15</original>
+    <original>AP【ファーラナ平原】</original>
   </item>
   <item id="13343">
-    <original>12_06_エリアポイント_16</original>
+    <original>AP【モロー樹林】</original>
   </item>
   <item id="13344">
-    <original>12_06_エリアポイント_17</original>
+    <original>AP【キンガル峡谷】</original>
   </item>
   <item id="13345">
-    <original>12_06_エリアポイント_18</original>
+    <original>AP【ラスニテ山麓】</original>
   </item>
   <item id="13346">
-    <original>12_06_エリアポイント_19</original>
+    <original>AP【フェルヤナ荒原】</original>
   </item>
   <item id="13347">
-    <original>12_06_エリアポイント_20</original>
+    <original>AP【◆エリア3.2】</original>
   </item>
   <item id="13348">
     <original>12_07_JP入手_01</original>
@@ -40103,7 +40094,9 @@
     <original>隻眼竜の眼帯</original>
   </item>
   <item id="13503">
-    <original>マンドラゴランタン</original>
+    <original>マンドラゴランタン【銀】</original>
+    <!-- NEEDS REVIEW -->
+    <!--マンドラゴランタン-->
     <translation>Mandragora Lantern</translation>
   </item>
   <item id="13504">
@@ -40887,7 +40880,9 @@
     <translation>Relief Coin (Pale Yellow)</translation>
   </item>
   <item id="13827">
-    <original>レリーフコイン【花橙】</original>
+    <original>魔界村コイン</original>
+    <!-- NEEDS REVIEW -->
+    <!--レリーフコイン【花橙】-->
     <translation>Relief Coin (Flower Orange)</translation>
   </item>
   <item id="13828">
@@ -52156,7 +52151,62 @@
     <original>2017新春ジャンボ抽選券</original>
     <translation>2017 New Year Jumbo Draw Ticket</translation>
   </item>
+  <item id="16804">
+    <original>NPC用_3.0騎士団盾_00</original>
+  </item>
+  <item id="16805">
+    <original>NPC用_3.0騎士団盾_01</original>
+  </item>
+  <item id="16806">
+    <original>NPC用_3.0騎士団盾_02</original>
+  </item>
+  <item id="16807">
+    <original>NPC用_3.0騎士団盾_03</original>
+  </item>
+  <item id="16808">
+    <original>NPC用_3.0騎士団盾_04</original>
+  </item>
+  <item id="16809">
+    <original>NPC用_3.0騎士団盾_05</original>
+  </item>
+  <item id="16810">
+    <original>NPC用_ネド王子剣</original>
+  </item>
+  <item id="16811">
+    <original>NPC用_メイロワ剣</original>
+  </item>
+  <item id="16812">
+    <original>NPC用_メイロワ盾</original>
+  </item>
+  <item id="16813">
+    <original>NPC用_ジリアン大剣</original>
+  </item>
+  <item id="16814">
+    <original>NPC用_ベルタダガー</original>
+  </item>
+  <item id="16815">
+    <original>NPC用_イェルハルド剣</original>
+  </item>
+  <item id="16816">
+    <original>衣装：クインタス</original>
+  </item>
+  <item id="16817">
+    <original>衣装：ネド王子</original>
+  </item>
+  <item id="16818">
+    <original>衣装：ジリアン</original>
+  </item>
+  <item id="16819">
+    <original>衣装：メイロワ</original>
+  </item>
+  <item id="16820">
+    <original>衣装：盗賊ベルタ</original>
+  </item>
+  <item id="16821">
+    <original>衣装：イェルハルド</original>
+  </item>
   <item id="16822">
+<<<<<<< HEAD
     <original>経験値(欠片)</original>
     <translation>Experience Crystal Shard</translation>
   </item>
@@ -52167,6 +52217,27 @@
   <item id="16832">
     <original>経験値(結晶)</original>
     <translation>Experience Crystal</translation>
+=======
+    <original>経験値結晶</original>
+  </item>
+  <item id="16823">
+    <original>髪のパーツEX5</original>
+  </item>
+  <item id="16824">
+    <original>髪のパーツEX6</original>
+  </item>
+  <item id="16825">
+    <original>髪のパーツEX7</original>
+  </item>
+  <item id="16826">
+    <original>髪のパーツEX8</original>
+  </item>
+  <item id="16831">
+    <original>経験値結晶</original>
+  </item>
+  <item id="16832">
+    <original>経験値結晶</original>
+>>>>>>> pr/3
   </item>
   <item id="16833">
     <original>銀の宝珠認証</original>
@@ -52175,6 +52246,63 @@
   <item id="16834">
     <original>金の宝珠認証</original>
     <translation>Gold Authentication Orb</translation>
+  </item>
+  <item id="16835">
+    <original>NPC用_3.0ラウンドシールド</original>
+  </item>
+  <item id="16836">
+    <original>NPC用_3.0ペルテー</original>
+  </item>
+  <item id="16837">
+    <original>NPC用_3.0アイアンソード</original>
+  </item>
+  <item id="16838">
+    <original>NPC用_3.0ランディングソード</original>
+  </item>
+  <item id="16839">
+    <original>NPC用_3.0ストロングハチェット</original>
+  </item>
+  <item id="16840">
+    <original>NPC用_3.0トゥレイスリピーデス</original>
+  </item>
+  <item id="16841">
+    <original>NPC用_3.0シルバーレイピア</original>
+  </item>
+  <item id="16842">
+    <original>NPC用_3.0モルゲンステルン</original>
+  </item>
+  <item id="16843">
+    <original>NPC用_3.0ホワイトウルフボウ</original>
+  </item>
+  <item id="16844">
+    <original>NPC用_3.0エルフストロークボウ</original>
+  </item>
+  <item id="16845">
+    <original>NPC用_3.0フリューテッドボウ</original>
+  </item>
+  <item id="16846">
+    <original>NPC用_3.0ダキアキネシス</original>
+  </item>
+  <item id="16847">
+    <original>NPC用_3.0スリットダガー</original>
+  </item>
+  <item id="16848">
+    <original>NPC用_3.0エルフ模造ダガー</original>
+  </item>
+  <item id="16849">
+    <original>NPC用_3.0グレートソード</original>
+  </item>
+  <item id="16850">
+    <original>NPC用_3.0ウォーブレード</original>
+  </item>
+  <item id="16851">
+    <original>NPC用_3.0フランベルジュカサディス</original>
+  </item>
+  <item id="16852">
+    <original>NPC用_3.0グラップビクトリー</original>
+  </item>
+  <item id="16858">
+    <original>NPC用_ネド王子盾</original>
   </item>
   <item id="16859">
     <original>異彩を放つ錆びた片手剣</original>
@@ -52976,6 +53104,57 @@
     <original>エヴァーランス</original>
     <translation>Everlance</translation>
   </item>
+  <item id="17061">
+    <original>エレガントテーブル・スノウ</original>
+  </item>
+  <item id="17062">
+    <original>エレガントテーブル・チャコール</original>
+  </item>
+  <item id="17063">
+    <original>クロステーブル・フォレスト</original>
+  </item>
+  <item id="17066">
+    <original>クロステーブル・スノウ</original>
+  </item>
+  <item id="17067">
+    <original>クロステーブル・チャコール</original>
+  </item>
+  <item id="17069">
+    <original>アンティークの机・ナチュラル</original>
+  </item>
+  <item id="17070">
+    <original>アンティークの机・スノウ</original>
+  </item>
+  <item id="17071">
+    <original>アンティークの机・チャコール</original>
+  </item>
+  <item id="17086">
+    <original>アリストクラットバス・キメラ</original>
+  </item>
+  <item id="17088">
+    <original>アリストクラットバス・グリフィン</original>
+  </item>
+  <item id="17090">
+    <original>アリストクラットバス・コカトリス</original>
+  </item>
+  <item id="17093">
+    <original>アリストクラットバス・ウィルム</original>
+  </item>
+  <item id="17094">
+    <original>アリストクラットバス・ドレイク</original>
+  </item>
+  <item id="17097">
+    <original>ウォールペイント・ホワイト</original>
+  </item>
+  <item id="17098">
+    <original>ウォールペイント・ブラック</original>
+  </item>
+  <item id="17102">
+    <original>ウォールペイント・ブリック</original>
+  </item>
+  <item id="17103">
+    <original>ウォールペイント・レスタニア</original>
+  </item>
   <item id="17105">
     <original>PlayStation® Awards トロフィー</original>
     <translation>PlayStation® Awards Trophy</translation>
@@ -52992,9 +53171,2241 @@
     <original>特製チョコレート</original>
     <translation>Special Chocolate</translation>
   </item>
+  <item id="17115">
+    <original>毛織りのカーペット・スノウ</original>
+  </item>
+  <item id="17116">
+    <original>毛織りのカーペット・チャコール</original>
+  </item>
+  <item id="17134">
+    <original>大本棚（左）</original>
+  </item>
+  <item id="17135">
+    <original>タペストリー・レスタニア</original>
+  </item>
+  <item id="17136">
+    <original>タペストリー・プライド</original>
+  </item>
+  <item id="17137">
+    <original>タペストリー・ドラゴン</original>
+  </item>
+  <item id="17138">
+    <original>タペストリー・ディスコード</original>
+  </item>
+  <item id="17139">
+    <original>タペストリー・ジェネシス</original>
+  </item>
+  <item id="17140">
+    <original>タペストリー・アルケム</original>
+  </item>
+  <item id="17141">
+    <original>タペストリー・ルインズ</original>
+  </item>
+  <item id="17142">
+    <original>大本棚（右）</original>
+  </item>
+  <item id="17143">
+    <original>タペストリー・フィンダム</original>
+  </item>
+  <item id="17146">
+    <original>毛織りのリビングカーペット・スノウ</original>
+  </item>
+  <item id="17147">
+    <original>毛織りのリビングカーペット・チャコール</original>
+  </item>
+  <item id="17151">
+    <original>ベーシックなリビングカーペット</original>
+  </item>
+  <item id="17152">
+    <original>語らいのベル</original>
+  </item>
+  <item id="17153">
+    <original>鳩時計</original>
+  </item>
   <item id="17154">
     <original>老甲晶のリング</original>
     <translation>Ancient Clear Shell Ring</translation>
+  </item>
+  <item id="17155">
+    <original>3.0解放軍　0-b_F</original>
+  </item>
+  <item id="17156">
+    <original>3.0質素男性 0-e</original>
+  </item>
+  <item id="17157">
+    <original>3.0解放軍　1-a_F</original>
+  </item>
+  <item id="17158">
+    <original>3.0解放軍　1-b_F</original>
+  </item>
+  <item id="17159">
+    <original>3.0解放軍　1-c_F</original>
+  </item>
+  <item id="17160">
+    <original>3.0解放軍　1-d_F</original>
+  </item>
+  <item id="17161">
+    <original>3.0解放軍　1-e_F</original>
+  </item>
+  <item id="17162">
+    <original>3.0解放軍　1-f_F</original>
+  </item>
+  <item id="17163">
+    <original>3.0解放軍　1-g_F</original>
+  </item>
+  <item id="17164">
+    <original>3.0解放軍　1-h_F</original>
+  </item>
+  <item id="17165">
+    <original>3.0解放軍　2-a_F</original>
+  </item>
+  <item id="17166">
+    <original>3.0解放軍　2-b_F</original>
+  </item>
+  <item id="17167">
+    <original>3.0解放軍　2-c_F</original>
+  </item>
+  <item id="17168">
+    <original>3.0解放軍　2-d_F</original>
+  </item>
+  <item id="17169">
+    <original>3.0解放軍　2-e_F</original>
+  </item>
+  <item id="17170">
+    <original>3.0解放軍　2-f_F</original>
+  </item>
+  <item id="17171">
+    <original>3.0解放軍　3-a_F</original>
+  </item>
+  <item id="17172">
+    <original>3.0解放軍　3-b_F</original>
+  </item>
+  <item id="17173">
+    <original>3.0解放軍　3-c_F</original>
+  </item>
+  <item id="17174">
+    <original>3.0解放軍　3-d_F</original>
+  </item>
+  <item id="17175">
+    <original>3.0解放軍　4-a_F</original>
+  </item>
+  <item id="17176">
+    <original>3.0解放軍　4-b_F</original>
+  </item>
+  <item id="17177">
+    <original>3.0解放軍　1-h_M</original>
+  </item>
+  <item id="17178">
+    <original>3.0解放軍　0-a_M</original>
+  </item>
+  <item id="17179">
+    <original>3.0解放軍　0-b_M</original>
+  </item>
+  <item id="17180">
+    <original>3.0解放軍　1-a_M</original>
+  </item>
+  <item id="17181">
+    <original>3.0解放軍　1-b_M</original>
+  </item>
+  <item id="17182">
+    <original>3.0解放軍　1-c_M</original>
+  </item>
+  <item id="17183">
+    <original>3.0解放軍　1-d_M</original>
+  </item>
+  <item id="17184">
+    <original>3.0解放軍　1-e_M</original>
+  </item>
+  <item id="17185">
+    <original>3.0解放軍　1-f_M</original>
+  </item>
+  <item id="17186">
+    <original>3.0解放軍　1-g_M</original>
+  </item>
+  <item id="17187">
+    <original>3.0解放軍　2-a_M</original>
+  </item>
+  <item id="17188">
+    <original>3.0解放軍　2-b_M</original>
+  </item>
+  <item id="17189">
+    <original>3.0解放軍　2-c_M</original>
+  </item>
+  <item id="17190">
+    <original>3.0解放軍　2-d_M</original>
+  </item>
+  <item id="17191">
+    <original>3.0解放軍　2-e_M</original>
+  </item>
+  <item id="17192">
+    <original>3.0解放軍　2-f_M</original>
+  </item>
+  <item id="17193">
+    <original>3.0解放軍　3-a_M</original>
+  </item>
+  <item id="17194">
+    <original>3.0解放軍　3-b_M</original>
+  </item>
+  <item id="17195">
+    <original>3.0解放軍　3-c_M</original>
+  </item>
+  <item id="17196">
+    <original>3.0解放軍　3-d_M</original>
+  </item>
+  <item id="17197">
+    <original>3.0解放軍　4-a_M</original>
+  </item>
+  <item id="17198">
+    <original>3.0解放軍　4-b_M</original>
+  </item>
+  <item id="17199">
+    <original>3.0男盗賊団 0-a</original>
+  </item>
+  <item id="17200">
+    <original>3.0男盗賊団 0-b</original>
+  </item>
+  <item id="17201">
+    <original>3.0男盗賊団 0-c</original>
+  </item>
+  <item id="17202">
+    <original>3.0男盗賊団 0-d</original>
+  </item>
+  <item id="17203">
+    <original>3.0男盗賊団 1-a</original>
+  </item>
+  <item id="17204">
+    <original>3.0男盗賊団 1-b</original>
+  </item>
+  <item id="17205">
+    <original>3.0男盗賊団 1-c</original>
+  </item>
+  <item id="17206">
+    <original>3.0男盗賊団 1-d</original>
+  </item>
+  <item id="17207">
+    <original>3.0男盗賊団 1-e</original>
+  </item>
+  <item id="17208">
+    <original>3.0男盗賊団 1-f</original>
+  </item>
+  <item id="17209">
+    <original>3.0男盗賊団 2-a</original>
+  </item>
+  <item id="17210">
+    <original>3.0男盗賊団 2-b</original>
+  </item>
+  <item id="17211">
+    <original>3.0一般男性 0-a</original>
+  </item>
+  <item id="17212">
+    <original>3.0一般男性 0-b</original>
+  </item>
+  <item id="17213">
+    <original>3.0一般男性 0-c</original>
+  </item>
+  <item id="17214">
+    <original>3.0一般男性 0-d</original>
+  </item>
+  <item id="17215">
+    <original>3.0一般男性 1-a</original>
+  </item>
+  <item id="17216">
+    <original>3.0一般男性 1-b</original>
+  </item>
+  <item id="17217">
+    <original>3.0一般男性 1-c</original>
+  </item>
+  <item id="17218">
+    <original>3.0一般男性 1-d</original>
+  </item>
+  <item id="17219">
+    <original>3.0一般男性 2-a</original>
+  </item>
+  <item id="17220">
+    <original>3.0一般男性 2-b</original>
+  </item>
+  <item id="17221">
+    <original>3.0一般男性 2-c</original>
+  </item>
+  <item id="17222">
+    <original>3.0一般男性 2-d</original>
+  </item>
+  <item id="17223">
+    <original>3.0一般男性 3-a</original>
+  </item>
+  <item id="17224">
+    <original>3.0一般男性 3-b</original>
+  </item>
+  <item id="17225">
+    <original>3.0一般男性 3-c</original>
+  </item>
+  <item id="17226">
+    <original>3.0一般男性 3-d</original>
+  </item>
+  <item id="17227">
+    <original>3.0一般男性 4-a</original>
+  </item>
+  <item id="17228">
+    <original>3.0一般男性 4-b</original>
+  </item>
+  <item id="17229">
+    <original>3.0一般男性 4-c</original>
+  </item>
+  <item id="17230">
+    <original>3.0一般男性 4-d</original>
+  </item>
+  <item id="17231">
+    <original>3.0一般女性 0-a</original>
+  </item>
+  <item id="17232">
+    <original>3.0一般女性 0-b</original>
+  </item>
+  <item id="17233">
+    <original>3.0一般女性 0-c</original>
+  </item>
+  <item id="17234">
+    <original>3.0一般女性 0-d</original>
+  </item>
+  <item id="17235">
+    <original>3.0一般女性 0-e</original>
+  </item>
+  <item id="17236">
+    <original>3.0一般女性 1-a</original>
+  </item>
+  <item id="17237">
+    <original>3.0一般女性 1-b</original>
+  </item>
+  <item id="17238">
+    <original>3.0一般女性 1-c</original>
+  </item>
+  <item id="17239">
+    <original>3.0一般女性 1-d</original>
+  </item>
+  <item id="17240">
+    <original>3.0一般女性 1-e</original>
+  </item>
+  <item id="17241">
+    <original>3.0一般女性 2-a</original>
+  </item>
+  <item id="17242">
+    <original>3.0一般女性 2-b</original>
+  </item>
+  <item id="17243">
+    <original>3.0一般女性 2-c</original>
+  </item>
+  <item id="17244">
+    <original>3.0一般女性 2-d</original>
+  </item>
+  <item id="17245">
+    <original>3.0一般女性 2-e</original>
+  </item>
+  <item id="17246">
+    <original>3.0一般女性 2-f</original>
+  </item>
+  <item id="17247">
+    <original>3.0一般女性 2-g</original>
+  </item>
+  <item id="17248">
+    <original>3.0一般女性 2-h</original>
+  </item>
+  <item id="17249">
+    <original>3.0一般女性 2-i</original>
+  </item>
+  <item id="17250">
+    <original>3.0一般女性 2-j</original>
+  </item>
+  <item id="17251">
+    <original>3.0質素男性 0-a</original>
+  </item>
+  <item id="17252">
+    <original>3.0質素男性 0-b</original>
+  </item>
+  <item id="17253">
+    <original>3.0質素男性 0-c</original>
+  </item>
+  <item id="17254">
+    <original>3.0質素男性 0-d</original>
+  </item>
+  <item id="17255">
+    <original>3.0質素男性 1-a</original>
+  </item>
+  <item id="17256">
+    <original>3.0質素男性 1-b</original>
+  </item>
+  <item id="17257">
+    <original>3.0質素男性 1-c</original>
+  </item>
+  <item id="17258">
+    <original>3.0質素男性 1-d</original>
+  </item>
+  <item id="17259">
+    <original>3.0質素男性 1-e</original>
+  </item>
+  <item id="17260">
+    <original>3.0質素男性 2-a</original>
+  </item>
+  <item id="17261">
+    <original>3.0質素男性 2-b</original>
+  </item>
+  <item id="17262">
+    <original>3.0質素男性 2-c</original>
+  </item>
+  <item id="17263">
+    <original>3.0質素男性 2-d</original>
+  </item>
+  <item id="17264">
+    <original>3.0質素男性 2-e</original>
+  </item>
+  <item id="17265">
+    <original>3.0豪華女性 1-a</original>
+  </item>
+  <item id="17266">
+    <original>3.0豪華女性 1-b</original>
+  </item>
+  <item id="17267">
+    <original>3.0豪華女性 1-c</original>
+  </item>
+  <item id="17268">
+    <original>3.0豪華女性 1-d</original>
+  </item>
+  <item id="17269">
+    <original>3.0豪華女性 1-e</original>
+  </item>
+  <item id="17270">
+    <original>3.0豪華女性 1-f</original>
+  </item>
+  <item id="17271">
+    <original>3.0豪華女性 1-g</original>
+  </item>
+  <item id="17272">
+    <original>3.0豪華女性 1-h</original>
+  </item>
+  <item id="17273">
+    <original>3.0豪華女性 1-a</original>
+  </item>
+  <item id="17274">
+    <original>3.0豪華女性 1-b</original>
+  </item>
+  <item id="17275">
+    <original>3.0豪華女性 1-c</original>
+  </item>
+  <item id="17276">
+    <original>3.0豪華女性 1-d</original>
+  </item>
+  <item id="17277">
+    <original>3.0豪華女性 1-e</original>
+  </item>
+  <item id="17278">
+    <original>3.0豪華女性 1-a</original>
+  </item>
+  <item id="17279">
+    <original>3.0豪華女性 1-b</original>
+  </item>
+  <item id="17280">
+    <original>3.0豪華女性 1-c</original>
+  </item>
+  <item id="17281">
+    <original>3.0豪華女性 1-d</original>
+  </item>
+  <item id="17282">
+    <original>3.0豪華女性 1-e</original>
+  </item>
+  <item id="17283">
+    <original>3.0豪華女性 1-f</original>
+  </item>
+  <item id="17284">
+    <original>3.0豪華女性 1-g</original>
+  </item>
+  <item id="17285">
+    <original>3.0術士 0-a</original>
+  </item>
+  <item id="17286">
+    <original>3.0術士 0-b</original>
+  </item>
+  <item id="17287">
+    <original>3.0術士 0-c</original>
+  </item>
+  <item id="17288">
+    <original>3.0術士 1-a</original>
+  </item>
+  <item id="17289">
+    <original>3.0術士 1-b</original>
+  </item>
+  <item id="17290">
+    <original>3.0術士 1-c</original>
+  </item>
+  <item id="17291">
+    <original>3.0術士 1-d</original>
+  </item>
+  <item id="17292">
+    <original>3.0術士 2-a</original>
+  </item>
+  <item id="17293">
+    <original>3.0術士 2-b</original>
+  </item>
+  <item id="17294">
+    <original>3.0術士 2-c</original>
+  </item>
+  <item id="17295">
+    <original>3.0術士 2-d</original>
+  </item>
+  <item id="17296">
+    <original>3.0術士 3-a</original>
+  </item>
+  <item id="17297">
+    <original>3.0術士 3-b</original>
+  </item>
+  <item id="17298">
+    <original>3.0術士 3-c</original>
+  </item>
+  <item id="17299">
+    <original>3.0術士 3-d</original>
+  </item>
+  <item id="17300">
+    <original>3.0術士 4-a</original>
+  </item>
+  <item id="17301">
+    <original>3.0術士 4-b</original>
+  </item>
+  <item id="17302">
+    <original>3.0術士 4-c</original>
+  </item>
+  <item id="17303">
+    <original>3.0術士 4-d</original>
+  </item>
+  <item id="17304">
+    <original>3.0民兵 0-a_F</original>
+  </item>
+  <item id="17305">
+    <original>3.0民兵 0-b</original>
+  </item>
+  <item id="17306">
+    <original>3.0民兵 0-c</original>
+  </item>
+  <item id="17307">
+    <original>3.0民兵 0-d</original>
+  </item>
+  <item id="17308">
+    <original>3.0民兵 1-a</original>
+  </item>
+  <item id="17309">
+    <original>3.0民兵 1-b</original>
+  </item>
+  <item id="17310">
+    <original>3.0民兵 1-c</original>
+  </item>
+  <item id="17311">
+    <original>3.0民兵 1-d</original>
+  </item>
+  <item id="17312">
+    <original>3.0民兵 1-e</original>
+  </item>
+  <item id="17313">
+    <original>3.0民兵 2-a</original>
+  </item>
+  <item id="17314">
+    <original>3.0民兵 2-b</original>
+  </item>
+  <item id="17315">
+    <original>3.0民兵 2-c</original>
+  </item>
+  <item id="17316">
+    <original>3.0民兵 2-d</original>
+  </item>
+  <item id="17317">
+    <original>3.0民兵 2-e</original>
+  </item>
+  <item id="17318">
+    <original>3.0民兵 3-a</original>
+  </item>
+  <item id="17319">
+    <original>3.0民兵 3-b</original>
+  </item>
+  <item id="17320">
+    <original>3.0民兵 3-c</original>
+  </item>
+  <item id="17321">
+    <original>3.0民兵 3-d</original>
+  </item>
+  <item id="17322">
+    <original>3.0民兵 3-e</original>
+  </item>
+  <item id="17323">
+    <original>3.0民兵 4-a</original>
+  </item>
+  <item id="17324">
+    <original>3.0民兵 4-b</original>
+  </item>
+  <item id="17325">
+    <original>3.0民兵 4-c</original>
+  </item>
+  <item id="17326">
+    <original>3.0民兵 4-d</original>
+  </item>
+  <item id="17327">
+    <original>3.0民兵 4-e</original>
+  </item>
+  <item id="17328">
+    <original>3.0民兵 4-f</original>
+  </item>
+  <item id="17329">
+    <original>3.0民兵 0-a</original>
+  </item>
+  <item id="17330">
+    <original>3.0民兵 0-b</original>
+  </item>
+  <item id="17331">
+    <original>3.0民兵 0-c</original>
+  </item>
+  <item id="17332">
+    <original>3.0民兵 0-d</original>
+  </item>
+  <item id="17333">
+    <original>3.0民兵 1-a</original>
+  </item>
+  <item id="17334">
+    <original>3.0民兵 1-b</original>
+  </item>
+  <item id="17335">
+    <original>3.0民兵 1-c</original>
+  </item>
+  <item id="17336">
+    <original>3.0民兵 1-d</original>
+  </item>
+  <item id="17337">
+    <original>3.0民兵 1-e</original>
+  </item>
+  <item id="17338">
+    <original>3.0民兵 2-a</original>
+  </item>
+  <item id="17339">
+    <original>3.0民兵 2-b</original>
+  </item>
+  <item id="17340">
+    <original>3.0民兵 2-c</original>
+  </item>
+  <item id="17341">
+    <original>3.0民兵 2-d</original>
+  </item>
+  <item id="17342">
+    <original>3.0民兵 2-e</original>
+  </item>
+  <item id="17343">
+    <original>3.0民兵 3-a</original>
+  </item>
+  <item id="17344">
+    <original>3.0民兵 3-b</original>
+  </item>
+  <item id="17345">
+    <original>3.0民兵 3-c</original>
+  </item>
+  <item id="17346">
+    <original>3.0民兵 3-d</original>
+  </item>
+  <item id="17347">
+    <original>3.0民兵 3-e</original>
+  </item>
+  <item id="17348">
+    <original>3.0民兵 4-a</original>
+  </item>
+  <item id="17349">
+    <original>3.0民兵 4-b</original>
+  </item>
+  <item id="17350">
+    <original>3.0民兵 4-c</original>
+  </item>
+  <item id="17351">
+    <original>3.0民兵 4-d</original>
+  </item>
+  <item id="17352">
+    <original>3.0民兵 4-e</original>
+  </item>
+  <item id="17353">
+    <original>3.0民兵 4-f</original>
+  </item>
+  <item id="17354">
+    <original>3.0女盗賊団 0-a</original>
+  </item>
+  <item id="17355">
+    <original>3.0女盗賊団 0-b</original>
+  </item>
+  <item id="17356">
+    <original>3.0女盗賊団 0-c</original>
+  </item>
+  <item id="17357">
+    <original>3.0女盗賊団 0-d</original>
+  </item>
+  <item id="17358">
+    <original>3.0女盗賊団 1-a</original>
+  </item>
+  <item id="17359">
+    <original>3.0女盗賊団 1-b</original>
+  </item>
+  <item id="17360">
+    <original>3.0女盗賊団 1-c</original>
+  </item>
+  <item id="17361">
+    <original>3.0女盗賊団 1-d</original>
+  </item>
+  <item id="17362">
+    <original>3.0女盗賊団 2-a</original>
+  </item>
+  <item id="17363">
+    <original>3.0女盗賊団 2-b</original>
+  </item>
+  <item id="17364">
+    <original>3.0女盗賊団 2-c</original>
+  </item>
+  <item id="17365">
+    <original>3.0女盗賊団 2-d</original>
+  </item>
+  <item id="17366">
+    <original>3.0女盗賊団 3-a</original>
+  </item>
+  <item id="17367">
+    <original>3.0女盗賊団 3-b</original>
+  </item>
+  <item id="17368">
+    <original>3.0女盗賊団 3-c</original>
+  </item>
+  <item id="17369">
+    <original>3.0女盗賊団 3-d</original>
+  </item>
+  <item id="17370">
+    <original>マンドラゴラ鉢植え①ノーマル</original>
+  </item>
+  <item id="17371">
+    <original>マンドラゴラ鉢植え②パスポート</original>
+  </item>
+  <item id="17372">
+    <original>マンドラゴラ鉢植え③パスポート</original>
+  </item>
+  <item id="17391">
+    <original>ノビリティーズエストック</original>
+  </item>
+  <item id="17392">
+    <original>ノビリティーズエストック</original>
+  </item>
+  <item id="17393">
+    <original>ノビリティーズエストック</original>
+  </item>
+  <item id="17394">
+    <original>ノビリティーズエストック</original>
+  </item>
+  <item id="17395">
+    <original>ノビリティーズエストック</original>
+  </item>
+  <item id="17396">
+    <original>ルプスセイバー</original>
+  </item>
+  <item id="17397">
+    <original>ルプスセイバー</original>
+  </item>
+  <item id="17398">
+    <original>ルプスセイバー</original>
+  </item>
+  <item id="17399">
+    <original>ルプスセイバー</original>
+  </item>
+  <item id="17400">
+    <original>ルプスセイバー</original>
+  </item>
+  <item id="17401">
+    <original>シャムシールエモラード</original>
+  </item>
+  <item id="17402">
+    <original>シャムシールエモラード</original>
+  </item>
+  <item id="17403">
+    <original>シャムシールエモラード</original>
+  </item>
+  <item id="17404">
+    <original>シャムシールエモラード</original>
+  </item>
+  <item id="17405">
+    <original>シャムシールエモラード</original>
+  </item>
+  <item id="17406">
+    <original>ノビリティーズガード</original>
+  </item>
+  <item id="17407">
+    <original>ノビリティーズガード</original>
+  </item>
+  <item id="17408">
+    <original>ノビリティーズガード</original>
+  </item>
+  <item id="17409">
+    <original>ノビリティーズガード</original>
+  </item>
+  <item id="17410">
+    <original>ノビリティーズガード</original>
+  </item>
+  <item id="17411">
+    <original>ピクシスガード</original>
+  </item>
+  <item id="17412">
+    <original>ピクシスガード</original>
+  </item>
+  <item id="17413">
+    <original>ピクシスガード</original>
+  </item>
+  <item id="17414">
+    <original>ピクシスガード</original>
+  </item>
+  <item id="17415">
+    <original>ピクシスガード</original>
+  </item>
+  <item id="17416">
+    <original>メフルダード</original>
+  </item>
+  <item id="17417">
+    <original>メフルダード</original>
+  </item>
+  <item id="17418">
+    <original>メフルダード</original>
+  </item>
+  <item id="17419">
+    <original>メフルダード</original>
+  </item>
+  <item id="17420">
+    <original>メフルダード</original>
+  </item>
+  <item id="17421">
+    <original>ノビリティーズセイバー</original>
+  </item>
+  <item id="17422">
+    <original>ノビリティーズセイバー</original>
+  </item>
+  <item id="17423">
+    <original>ノビリティーズセイバー</original>
+  </item>
+  <item id="17424">
+    <original>ノビリティーズセイバー</original>
+  </item>
+  <item id="17425">
+    <original>ノビリティーズセイバー</original>
+  </item>
+  <item id="17426">
+    <original>タウルスブレイカ―</original>
+  </item>
+  <item id="17427">
+    <original>タウルスブレイカ―</original>
+  </item>
+  <item id="17428">
+    <original>タウルスブレイカ―</original>
+  </item>
+  <item id="17429">
+    <original>タウルスブレイカ―</original>
+  </item>
+  <item id="17430">
+    <original>タウルスブレイカ―</original>
+  </item>
+  <item id="17431">
+    <original>イェクターカヴィ</original>
+  </item>
+  <item id="17432">
+    <original>イェクターカヴィ</original>
+  </item>
+  <item id="17433">
+    <original>イェクターカヴィ</original>
+  </item>
+  <item id="17434">
+    <original>イェクターカヴィ</original>
+  </item>
+  <item id="17435">
+    <original>イェクターカヴィ</original>
+  </item>
+  <item id="17436">
+    <original>ノビリティーズフォート</original>
+  </item>
+  <item id="17437">
+    <original>ノビリティーズフォート</original>
+  </item>
+  <item id="17438">
+    <original>ノビリティーズフォート</original>
+  </item>
+  <item id="17439">
+    <original>ノビリティーズフォート</original>
+  </item>
+  <item id="17440">
+    <original>ノビリティーズフォート</original>
+  </item>
+  <item id="17441">
+    <original>スクトゥムウォール</original>
+  </item>
+  <item id="17442">
+    <original>スクトゥムウォール</original>
+  </item>
+  <item id="17443">
+    <original>スクトゥムウォール</original>
+  </item>
+  <item id="17444">
+    <original>スクトゥムウォール</original>
+  </item>
+  <item id="17445">
+    <original>スクトゥムウォール</original>
+  </item>
+  <item id="17446">
+    <original>ディヴァルエハーミ</original>
+  </item>
+  <item id="17447">
+    <original>ディヴァルエハーミ</original>
+  </item>
+  <item id="17448">
+    <original>ディヴァルエハーミ</original>
+  </item>
+  <item id="17449">
+    <original>ディヴァルエハーミ</original>
+  </item>
+  <item id="17450">
+    <original>ディヴァルエハーミ</original>
+  </item>
+  <item id="17451">
+    <original>ノビリティーズロッド</original>
+  </item>
+  <item id="17452">
+    <original>ノビリティーズロッド</original>
+  </item>
+  <item id="17453">
+    <original>ノビリティーズロッド</original>
+  </item>
+  <item id="17454">
+    <original>ノビリティーズロッド</original>
+  </item>
+  <item id="17455">
+    <original>ノビリティーズロッド</original>
+  </item>
+  <item id="17456">
+    <original>ヒドゥルストーチ</original>
+  </item>
+  <item id="17457">
+    <original>ヒドゥルストーチ</original>
+  </item>
+  <item id="17458">
+    <original>ヒドゥルストーチ</original>
+  </item>
+  <item id="17459">
+    <original>ヒドゥルストーチ</original>
+  </item>
+  <item id="17460">
+    <original>ヒドゥルストーチ</original>
+  </item>
+  <item id="17461">
+    <original>ロシャナク</original>
+  </item>
+  <item id="17462">
+    <original>ロシャナク</original>
+  </item>
+  <item id="17463">
+    <original>ロシャナク</original>
+  </item>
+  <item id="17464">
+    <original>ロシャナク</original>
+  </item>
+  <item id="17465">
+    <original>ロシャナク</original>
+  </item>
+  <item id="17466">
+    <original>ファリド</original>
+  </item>
+  <item id="17467">
+    <original>ファリド</original>
+  </item>
+  <item id="17468">
+    <original>ファリド</original>
+  </item>
+  <item id="17469">
+    <original>ファリド</original>
+  </item>
+  <item id="17470">
+    <original>ファリド</original>
+  </item>
+  <item id="17471">
+    <original>ノビリティーズダガー</original>
+  </item>
+  <item id="17472">
+    <original>ノビリティーズダガー</original>
+  </item>
+  <item id="17473">
+    <original>ノビリティーズダガー</original>
+  </item>
+  <item id="17474">
+    <original>ノビリティーズダガー</original>
+  </item>
+  <item id="17475">
+    <original>ノビリティーズダガー</original>
+  </item>
+  <item id="17476">
+    <original>ジェミニエッジ</original>
+  </item>
+  <item id="17477">
+    <original>ジェミニエッジ</original>
+  </item>
+  <item id="17478">
+    <original>ジェミニエッジ</original>
+  </item>
+  <item id="17479">
+    <original>ジェミニエッジ</original>
+  </item>
+  <item id="17480">
+    <original>ジェミニエッジ</original>
+  </item>
+  <item id="17481">
+    <original>ノビリティーズボウ</original>
+  </item>
+  <item id="17482">
+    <original>ノビリティーズボウ</original>
+  </item>
+  <item id="17483">
+    <original>ノビリティーズボウ</original>
+  </item>
+  <item id="17484">
+    <original>ノビリティーズボウ</original>
+  </item>
+  <item id="17485">
+    <original>ノビリティーズボウ</original>
+  </item>
+  <item id="17486">
+    <original>コルヴスボウ</original>
+  </item>
+  <item id="17487">
+    <original>コルヴスボウ</original>
+  </item>
+  <item id="17488">
+    <original>コルヴスボウ</original>
+  </item>
+  <item id="17489">
+    <original>コルヴスボウ</original>
+  </item>
+  <item id="17490">
+    <original>コルヴスボウ</original>
+  </item>
+  <item id="17491">
+    <original>ラフシャーン</original>
+  </item>
+  <item id="17492">
+    <original>ラフシャーン</original>
+  </item>
+  <item id="17493">
+    <original>ラフシャーン</original>
+  </item>
+  <item id="17494">
+    <original>ラフシャーン</original>
+  </item>
+  <item id="17495">
+    <original>ラフシャーン</original>
+  </item>
+  <item id="17496">
+    <original>ノビリティーズガントレット</original>
+  </item>
+  <item id="17497">
+    <original>ノビリティーズガントレット</original>
+  </item>
+  <item id="17498">
+    <original>ノビリティーズガントレット</original>
+  </item>
+  <item id="17499">
+    <original>ノビリティーズガントレット</original>
+  </item>
+  <item id="17500">
+    <original>ノビリティーズガントレット</original>
+  </item>
+  <item id="17501">
+    <original>キルキヌスアーム</original>
+  </item>
+  <item id="17502">
+    <original>キルキヌスアーム</original>
+  </item>
+  <item id="17503">
+    <original>キルキヌスアーム</original>
+  </item>
+  <item id="17504">
+    <original>キルキヌスアーム</original>
+  </item>
+  <item id="17505">
+    <original>キルキヌスアーム</original>
+  </item>
+  <item id="17506">
+    <original>フーシュヤール</original>
+  </item>
+  <item id="17507">
+    <original>フーシュヤール</original>
+  </item>
+  <item id="17508">
+    <original>フーシュヤール</original>
+  </item>
+  <item id="17509">
+    <original>フーシュヤール</original>
+  </item>
+  <item id="17510">
+    <original>フーシュヤール</original>
+  </item>
+  <item id="17511">
+    <original>ノビリティーズスペル</original>
+  </item>
+  <item id="17512">
+    <original>ノビリティーズスペル</original>
+  </item>
+  <item id="17513">
+    <original>ノビリティーズスペル</original>
+  </item>
+  <item id="17514">
+    <original>ノビリティーズスペル</original>
+  </item>
+  <item id="17515">
+    <original>ノビリティーズスペル</original>
+  </item>
+  <item id="17516">
+    <original>ラケルタシューター</original>
+  </item>
+  <item id="17517">
+    <original>ラケルタシューター</original>
+  </item>
+  <item id="17518">
+    <original>ラケルタシューター</original>
+  </item>
+  <item id="17519">
+    <original>ラケルタシューター</original>
+  </item>
+  <item id="17520">
+    <original>ラケルタシューター</original>
+  </item>
+  <item id="17521">
+    <original>パルト</original>
+  </item>
+  <item id="17522">
+    <original>パルト</original>
+  </item>
+  <item id="17523">
+    <original>パルト</original>
+  </item>
+  <item id="17524">
+    <original>パルト</original>
+  </item>
+  <item id="17525">
+    <original>パルト</original>
+  </item>
+  <item id="17526">
+    <original>ノビリティーズスタッフ</original>
+  </item>
+  <item id="17527">
+    <original>ノビリティーズスタッフ</original>
+  </item>
+  <item id="17528">
+    <original>ノビリティーズスタッフ</original>
+  </item>
+  <item id="17529">
+    <original>ノビリティーズスタッフ</original>
+  </item>
+  <item id="17530">
+    <original>ノビリティーズスタッフ</original>
+  </item>
+  <item id="17531">
+    <original>アラケイン</original>
+  </item>
+  <item id="17532">
+    <original>アラケイン</original>
+  </item>
+  <item id="17533">
+    <original>アラケイン</original>
+  </item>
+  <item id="17534">
+    <original>アラケイン</original>
+  </item>
+  <item id="17535">
+    <original>アラケイン</original>
+  </item>
+  <item id="17536">
+    <original>ヌーリエセペフル</original>
+  </item>
+  <item id="17537">
+    <original>ヌーリエセペフル</original>
+  </item>
+  <item id="17538">
+    <original>ヌーリエセペフル</original>
+  </item>
+  <item id="17539">
+    <original>ヌーリエセペフル</original>
+  </item>
+  <item id="17540">
+    <original>ヌーリエセペフル</original>
+  </item>
+  <item id="17541">
+    <original>ノビリティワンズ</original>
+  </item>
+  <item id="17542">
+    <original>ノビリティワンズ</original>
+  </item>
+  <item id="17543">
+    <original>ノビリティワンズ</original>
+  </item>
+  <item id="17544">
+    <original>ノビリティワンズ</original>
+  </item>
+  <item id="17545">
+    <original>ノビリティワンズ</original>
+  </item>
+  <item id="17546">
+    <original>トゥカナワンズ</original>
+  </item>
+  <item id="17547">
+    <original>トゥカナワンズ</original>
+  </item>
+  <item id="17548">
+    <original>トゥカナワンズ</original>
+  </item>
+  <item id="17549">
+    <original>トゥカナワンズ</original>
+  </item>
+  <item id="17550">
+    <original>トゥカナワンズ</original>
+  </item>
+  <item id="17551">
+    <original>マハスティ</original>
+  </item>
+  <item id="17552">
+    <original>マハスティ</original>
+  </item>
+  <item id="17553">
+    <original>マハスティ</original>
+  </item>
+  <item id="17554">
+    <original>マハスティ</original>
+  </item>
+  <item id="17555">
+    <original>マハスティ</original>
+  </item>
+  <item id="17556">
+    <original>ノビリティーズスピア</original>
+  </item>
+  <item id="17557">
+    <original>ノビリティーズスピア</original>
+  </item>
+  <item id="17558">
+    <original>ノビリティーズスピア</original>
+  </item>
+  <item id="17559">
+    <original>ノビリティーズスピア</original>
+  </item>
+  <item id="17560">
+    <original>ノビリティーズスピア</original>
+  </item>
+  <item id="17561">
+    <original>カリーナスピア</original>
+  </item>
+  <item id="17562">
+    <original>カリーナスピア</original>
+  </item>
+  <item id="17563">
+    <original>カリーナスピア</original>
+  </item>
+  <item id="17564">
+    <original>カリーナスピア</original>
+  </item>
+  <item id="17565">
+    <original>カリーナスピア</original>
+  </item>
+  <item id="17566">
+    <original>アルサラーンミラード</original>
+  </item>
+  <item id="17567">
+    <original>アルサラーンミラード</original>
+  </item>
+  <item id="17568">
+    <original>アルサラーンミラード</original>
+  </item>
+  <item id="17569">
+    <original>アルサラーンミラード</original>
+  </item>
+  <item id="17570">
+    <original>アルサラーンミラード</original>
+  </item>
+  <item id="17571">
+    <original>ブリガンドマスク</original>
+  </item>
+  <item id="17572">
+    <original>ブリガンドマスク</original>
+  </item>
+  <item id="17573">
+    <original>ブリガンドマスク</original>
+  </item>
+  <item id="17574">
+    <original>ブリガンドマスク</original>
+  </item>
+  <item id="17575">
+    <original>ブリガンドマスク</original>
+  </item>
+  <item id="17576">
+    <original>ゲルメズアーメット</original>
+  </item>
+  <item id="17577">
+    <original>ゲルメズアーメット</original>
+  </item>
+  <item id="17578">
+    <original>ゲルメズアーメット</original>
+  </item>
+  <item id="17579">
+    <original>ゲルメズアーメット</original>
+  </item>
+  <item id="17580">
+    <original>ゲルメズアーメット</original>
+  </item>
+  <item id="17581">
+    <original>アッカリアヘルム</original>
+  </item>
+  <item id="17582">
+    <original>アッカリアヘルム</original>
+  </item>
+  <item id="17583">
+    <original>アッカリアヘルム</original>
+  </item>
+  <item id="17584">
+    <original>アッカリアヘルム</original>
+  </item>
+  <item id="17585">
+    <original>アッカリアヘルム</original>
+  </item>
+  <item id="17586">
+    <original>モデストリーコイフ</original>
+  </item>
+  <item id="17587">
+    <original>モデストリーコイフ</original>
+  </item>
+  <item id="17588">
+    <original>モデストリーコイフ</original>
+  </item>
+  <item id="17589">
+    <original>モデストリーコイフ</original>
+  </item>
+  <item id="17590">
+    <original>モデストリーコイフ</original>
+  </item>
+  <item id="17591">
+    <original>デュアレフフード</original>
+  </item>
+  <item id="17592">
+    <original>デュアレフフード</original>
+  </item>
+  <item id="17593">
+    <original>デュアレフフード</original>
+  </item>
+  <item id="17594">
+    <original>デュアレフフード</original>
+  </item>
+  <item id="17595">
+    <original>デュアレフフード</original>
+  </item>
+  <item id="17596">
+    <original>アッカリアサークレット</original>
+  </item>
+  <item id="17597">
+    <original>アッカリアサークレット</original>
+  </item>
+  <item id="17598">
+    <original>アッカリアサークレット</original>
+  </item>
+  <item id="17599">
+    <original>アッカリアサークレット</original>
+  </item>
+  <item id="17600">
+    <original>アッカリアサークレット</original>
+  </item>
+  <item id="17601">
+    <original>ブラスヘルム</original>
+  </item>
+  <item id="17602">
+    <original>ブラスヘルム</original>
+  </item>
+  <item id="17603">
+    <original>ブラスヘルム</original>
+  </item>
+  <item id="17604">
+    <original>ブラスヘルム</original>
+  </item>
+  <item id="17605">
+    <original>ブラスヘルム</original>
+  </item>
+  <item id="17606">
+    <original>シジャークハット</original>
+  </item>
+  <item id="17607">
+    <original>シジャークハット</original>
+  </item>
+  <item id="17608">
+    <original>シジャークハット</original>
+  </item>
+  <item id="17609">
+    <original>シジャークハット</original>
+  </item>
+  <item id="17610">
+    <original>シジャークハット</original>
+  </item>
+  <item id="17611">
+    <original>アッカリアターバン</original>
+  </item>
+  <item id="17612">
+    <original>アッカリアターバン</original>
+  </item>
+  <item id="17613">
+    <original>アッカリアターバン</original>
+  </item>
+  <item id="17614">
+    <original>アッカリアターバン</original>
+  </item>
+  <item id="17615">
+    <original>アッカリアターバン</original>
+  </item>
+  <item id="17616">
+    <original>熱風のコイフ</original>
+  </item>
+  <item id="17617">
+    <original>熱風のコイフ</original>
+  </item>
+  <item id="17618">
+    <original>熱風のコイフ</original>
+  </item>
+  <item id="17619">
+    <original>熱風のコイフ</original>
+  </item>
+  <item id="17620">
+    <original>熱風のコイフ</original>
+  </item>
+  <item id="17621">
+    <original>スィヤバードヘルム</original>
+  </item>
+  <item id="17622">
+    <original>スィヤバードヘルム</original>
+  </item>
+  <item id="17623">
+    <original>スィヤバードヘルム</original>
+  </item>
+  <item id="17624">
+    <original>スィヤバードヘルム</original>
+  </item>
+  <item id="17625">
+    <original>スィヤバードヘルム</original>
+  </item>
+  <item id="17626">
+    <original>アッカリアハット</original>
+  </item>
+  <item id="17627">
+    <original>アッカリアハット</original>
+  </item>
+  <item id="17628">
+    <original>アッカリアハット</original>
+  </item>
+  <item id="17629">
+    <original>アッカリアハット</original>
+  </item>
+  <item id="17630">
+    <original>アッカリアハット</original>
+  </item>
+  <item id="17631">
+    <original>ブリガンドアーマー</original>
+  </item>
+  <item id="17632">
+    <original>ブリガンドアーマー</original>
+  </item>
+  <item id="17633">
+    <original>ブリガンドアーマー</original>
+  </item>
+  <item id="17634">
+    <original>ブリガンドアーマー</original>
+  </item>
+  <item id="17635">
+    <original>ブリガンドアーマー</original>
+  </item>
+  <item id="17636">
+    <original>ゲルメズアーマー</original>
+  </item>
+  <item id="17637">
+    <original>ゲルメズアーマー</original>
+  </item>
+  <item id="17638">
+    <original>ゲルメズアーマー</original>
+  </item>
+  <item id="17639">
+    <original>ゲルメズアーマー</original>
+  </item>
+  <item id="17640">
+    <original>ゲルメズアーマー</original>
+  </item>
+  <item id="17641">
+    <original>アッカリアメイル</original>
+  </item>
+  <item id="17642">
+    <original>アッカリアメイル</original>
+  </item>
+  <item id="17643">
+    <original>アッカリアメイル</original>
+  </item>
+  <item id="17644">
+    <original>アッカリアメイル</original>
+  </item>
+  <item id="17645">
+    <original>アッカリアメイル</original>
+  </item>
+  <item id="17646">
+    <original>モデストリーローブ</original>
+  </item>
+  <item id="17647">
+    <original>モデストリーローブ</original>
+  </item>
+  <item id="17648">
+    <original>モデストリーローブ</original>
+  </item>
+  <item id="17649">
+    <original>モデストリーローブ</original>
+  </item>
+  <item id="17650">
+    <original>モデストリーローブ</original>
+  </item>
+  <item id="17651">
+    <original>デュアレフローブ</original>
+  </item>
+  <item id="17652">
+    <original>デュアレフローブ</original>
+  </item>
+  <item id="17653">
+    <original>デュアレフローブ</original>
+  </item>
+  <item id="17654">
+    <original>デュアレフローブ</original>
+  </item>
+  <item id="17655">
+    <original>デュアレフローブ</original>
+  </item>
+  <item id="17656">
+    <original>アッカリアコート</original>
+  </item>
+  <item id="17657">
+    <original>アッカリアコート</original>
+  </item>
+  <item id="17658">
+    <original>アッカリアコート</original>
+  </item>
+  <item id="17659">
+    <original>アッカリアコート</original>
+  </item>
+  <item id="17660">
+    <original>アッカリアコート</original>
+  </item>
+  <item id="17661">
+    <original>ブラスプレート</original>
+  </item>
+  <item id="17662">
+    <original>ブラスプレート</original>
+  </item>
+  <item id="17663">
+    <original>ブラスプレート</original>
+  </item>
+  <item id="17664">
+    <original>ブラスプレート</original>
+  </item>
+  <item id="17665">
+    <original>ブラスプレート</original>
+  </item>
+  <item id="17666">
+    <original>シジャークコート</original>
+  </item>
+  <item id="17667">
+    <original>シジャークコート</original>
+  </item>
+  <item id="17668">
+    <original>シジャークコート</original>
+  </item>
+  <item id="17669">
+    <original>シジャークコート</original>
+  </item>
+  <item id="17670">
+    <original>シジャークコート</original>
+  </item>
+  <item id="17671">
+    <original>アッカリアアーマー</original>
+  </item>
+  <item id="17672">
+    <original>アッカリアアーマー</original>
+  </item>
+  <item id="17673">
+    <original>アッカリアアーマー</original>
+  </item>
+  <item id="17674">
+    <original>アッカリアアーマー</original>
+  </item>
+  <item id="17675">
+    <original>アッカリアアーマー</original>
+  </item>
+  <item id="17676">
+    <original>熱風の胸当て</original>
+  </item>
+  <item id="17677">
+    <original>熱風の胸当て</original>
+  </item>
+  <item id="17678">
+    <original>熱風の胸当て</original>
+  </item>
+  <item id="17679">
+    <original>熱風の胸当て</original>
+  </item>
+  <item id="17680">
+    <original>熱風の胸当て</original>
+  </item>
+  <item id="17681">
+    <original>スィヤバードジャケット</original>
+  </item>
+  <item id="17682">
+    <original>スィヤバードジャケット</original>
+  </item>
+  <item id="17683">
+    <original>スィヤバードジャケット</original>
+  </item>
+  <item id="17684">
+    <original>スィヤバードジャケット</original>
+  </item>
+  <item id="17685">
+    <original>スィヤバードジャケット</original>
+  </item>
+  <item id="17686">
+    <original>アッカリアバデット</original>
+  </item>
+  <item id="17687">
+    <original>アッカリアバデット</original>
+  </item>
+  <item id="17688">
+    <original>アッカリアバデット</original>
+  </item>
+  <item id="17689">
+    <original>アッカリアバデット</original>
+  </item>
+  <item id="17690">
+    <original>アッカリアバデット</original>
+  </item>
+  <item id="17691">
+    <original>ブリガンドガントレット</original>
+  </item>
+  <item id="17692">
+    <original>ブリガンドガントレット</original>
+  </item>
+  <item id="17693">
+    <original>ブリガンドガントレット</original>
+  </item>
+  <item id="17694">
+    <original>ブリガンドガントレット</original>
+  </item>
+  <item id="17695">
+    <original>ブリガンドガントレット</original>
+  </item>
+  <item id="17696">
+    <original>ゲルメズグローブ</original>
+  </item>
+  <item id="17697">
+    <original>ゲルメズグローブ</original>
+  </item>
+  <item id="17698">
+    <original>ゲルメズグローブ</original>
+  </item>
+  <item id="17699">
+    <original>ゲルメズグローブ</original>
+  </item>
+  <item id="17700">
+    <original>ゲルメズグローブ</original>
+  </item>
+  <item id="17701">
+    <original>アッカリアガントレット</original>
+  </item>
+  <item id="17702">
+    <original>アッカリアガントレット</original>
+  </item>
+  <item id="17703">
+    <original>アッカリアガントレット</original>
+  </item>
+  <item id="17704">
+    <original>アッカリアガントレット</original>
+  </item>
+  <item id="17705">
+    <original>アッカリアガントレット</original>
+  </item>
+  <item id="17706">
+    <original>モデストリーアーム</original>
+  </item>
+  <item id="17707">
+    <original>モデストリーアーム</original>
+  </item>
+  <item id="17708">
+    <original>モデストリーアーム</original>
+  </item>
+  <item id="17709">
+    <original>モデストリーアーム</original>
+  </item>
+  <item id="17710">
+    <original>モデストリーアーム</original>
+  </item>
+  <item id="17711">
+    <original>デュアレフバングル</original>
+  </item>
+  <item id="17712">
+    <original>デュアレフバングル</original>
+  </item>
+  <item id="17713">
+    <original>デュアレフバングル</original>
+  </item>
+  <item id="17714">
+    <original>デュアレフバングル</original>
+  </item>
+  <item id="17715">
+    <original>デュアレフバングル</original>
+  </item>
+  <item id="17716">
+    <original>アッカリアバングル</original>
+  </item>
+  <item id="17717">
+    <original>アッカリアバングル</original>
+  </item>
+  <item id="17718">
+    <original>アッカリアバングル</original>
+  </item>
+  <item id="17719">
+    <original>アッカリアバングル</original>
+  </item>
+  <item id="17720">
+    <original>アッカリアバングル</original>
+  </item>
+  <item id="17721">
+    <original>ブラスグローブ</original>
+  </item>
+  <item id="17722">
+    <original>ブラスグローブ</original>
+  </item>
+  <item id="17723">
+    <original>ブラスグローブ</original>
+  </item>
+  <item id="17724">
+    <original>ブラスグローブ</original>
+  </item>
+  <item id="17725">
+    <original>ブラスグローブ</original>
+  </item>
+  <item id="17726">
+    <original>シジャークアーム</original>
+  </item>
+  <item id="17727">
+    <original>シジャークアーム</original>
+  </item>
+  <item id="17728">
+    <original>シジャークアーム</original>
+  </item>
+  <item id="17729">
+    <original>シジャークアーム</original>
+  </item>
+  <item id="17730">
+    <original>シジャークアーム</original>
+  </item>
+  <item id="17731">
+    <original>アッカリアハンド</original>
+  </item>
+  <item id="17732">
+    <original>アッカリアハンド</original>
+  </item>
+  <item id="17733">
+    <original>アッカリアハンド</original>
+  </item>
+  <item id="17734">
+    <original>アッカリアハンド</original>
+  </item>
+  <item id="17735">
+    <original>アッカリアハンド</original>
+  </item>
+  <item id="17736">
+    <original>熱風のアームガード</original>
+  </item>
+  <item id="17737">
+    <original>熱風のアームガード</original>
+  </item>
+  <item id="17738">
+    <original>熱風のアームガード</original>
+  </item>
+  <item id="17739">
+    <original>熱風のアームガード</original>
+  </item>
+  <item id="17740">
+    <original>熱風のアームガード</original>
+  </item>
+  <item id="17741">
+    <original>スィヤバードブレイス</original>
+  </item>
+  <item id="17742">
+    <original>スィヤバードブレイス</original>
+  </item>
+  <item id="17743">
+    <original>スィヤバードブレイス</original>
+  </item>
+  <item id="17744">
+    <original>スィヤバードブレイス</original>
+  </item>
+  <item id="17745">
+    <original>スィヤバードブレイス</original>
+  </item>
+  <item id="17746">
+    <original>アッカリアグラブ</original>
+  </item>
+  <item id="17747">
+    <original>アッカリアグラブ</original>
+  </item>
+  <item id="17748">
+    <original>アッカリアグラブ</original>
+  </item>
+  <item id="17749">
+    <original>アッカリアグラブ</original>
+  </item>
+  <item id="17750">
+    <original>アッカリアグラブ</original>
+  </item>
+  <item id="17751">
+    <original>ブリガンドサバトン</original>
+  </item>
+  <item id="17752">
+    <original>ブリガンドサバトン</original>
+  </item>
+  <item id="17753">
+    <original>ブリガンドサバトン</original>
+  </item>
+  <item id="17754">
+    <original>ブリガンドサバトン</original>
+  </item>
+  <item id="17755">
+    <original>ブリガンドサバトン</original>
+  </item>
+  <item id="17756">
+    <original>ゲルメズグリーブ</original>
+  </item>
+  <item id="17757">
+    <original>ゲルメズグリーブ</original>
+  </item>
+  <item id="17758">
+    <original>ゲルメズグリーブ</original>
+  </item>
+  <item id="17759">
+    <original>ゲルメズグリーブ</original>
+  </item>
+  <item id="17760">
+    <original>ゲルメズグリーブ</original>
+  </item>
+  <item id="17761">
+    <original>アッカリアグリーブ</original>
+  </item>
+  <item id="17762">
+    <original>アッカリアグリーブ</original>
+  </item>
+  <item id="17763">
+    <original>アッカリアグリーブ</original>
+  </item>
+  <item id="17764">
+    <original>アッカリアグリーブ</original>
+  </item>
+  <item id="17765">
+    <original>アッカリアグリーブ</original>
+  </item>
+  <item id="17766">
+    <original>モデストリーグリーブ</original>
+  </item>
+  <item id="17767">
+    <original>モデストリーグリーブ</original>
+  </item>
+  <item id="17768">
+    <original>モデストリーグリーブ</original>
+  </item>
+  <item id="17769">
+    <original>モデストリーグリーブ</original>
+  </item>
+  <item id="17770">
+    <original>モデストリーグリーブ</original>
+  </item>
+  <item id="17771">
+    <original>デュアレフシューズ</original>
+  </item>
+  <item id="17772">
+    <original>デュアレフシューズ</original>
+  </item>
+  <item id="17773">
+    <original>デュアレフシューズ</original>
+  </item>
+  <item id="17774">
+    <original>デュアレフシューズ</original>
+  </item>
+  <item id="17775">
+    <original>デュアレフシューズ</original>
+  </item>
+  <item id="17776">
+    <original>アッカリアブーツ</original>
+  </item>
+  <item id="17777">
+    <original>アッカリアブーツ</original>
+  </item>
+  <item id="17778">
+    <original>アッカリアブーツ</original>
+  </item>
+  <item id="17779">
+    <original>アッカリアブーツ</original>
+  </item>
+  <item id="17780">
+    <original>アッカリアブーツ</original>
+  </item>
+  <item id="17781">
+    <original>ブラスグリーブ</original>
+  </item>
+  <item id="17782">
+    <original>ブラスグリーブ</original>
+  </item>
+  <item id="17783">
+    <original>ブラスグリーブ</original>
+  </item>
+  <item id="17784">
+    <original>ブラスグリーブ</original>
+  </item>
+  <item id="17785">
+    <original>ブラスグリーブ</original>
+  </item>
+  <item id="17786">
+    <original>シジャークグリーブ</original>
+  </item>
+  <item id="17787">
+    <original>シジャークグリーブ</original>
+  </item>
+  <item id="17788">
+    <original>シジャークグリーブ</original>
+  </item>
+  <item id="17789">
+    <original>シジャークグリーブ</original>
+  </item>
+  <item id="17790">
+    <original>シジャークグリーブ</original>
+  </item>
+  <item id="17791">
+    <original>アッカリアボトム</original>
+  </item>
+  <item id="17792">
+    <original>アッカリアボトム</original>
+  </item>
+  <item id="17793">
+    <original>アッカリアボトム</original>
+  </item>
+  <item id="17794">
+    <original>アッカリアボトム</original>
+  </item>
+  <item id="17795">
+    <original>アッカリアボトム</original>
+  </item>
+  <item id="17796">
+    <original>熱風のカラーブーツ</original>
+  </item>
+  <item id="17797">
+    <original>熱風のカラーブーツ</original>
+  </item>
+  <item id="17798">
+    <original>熱風のカラーブーツ</original>
+  </item>
+  <item id="17799">
+    <original>熱風のカラーブーツ</original>
+  </item>
+  <item id="17800">
+    <original>熱風のカラーブーツ</original>
+  </item>
+  <item id="17801">
+    <original>スィヤバードブーツ</original>
+  </item>
+  <item id="17802">
+    <original>スィヤバードブーツ</original>
+  </item>
+  <item id="17803">
+    <original>スィヤバードブーツ</original>
+  </item>
+  <item id="17804">
+    <original>スィヤバードブーツ</original>
+  </item>
+  <item id="17805">
+    <original>スィヤバードブーツ</original>
+  </item>
+  <item id="17806">
+    <original>アッカリアキュイス</original>
+  </item>
+  <item id="17807">
+    <original>アッカリアキュイス</original>
+  </item>
+  <item id="17808">
+    <original>アッカリアキュイス</original>
+  </item>
+  <item id="17809">
+    <original>アッカリアキュイス</original>
+  </item>
+  <item id="17810">
+    <original>アッカリアキュイス</original>
+  </item>
+  <item id="17811">
+    <original>アラベスクウェア</original>
+  </item>
+  <item id="17812">
+    <original>アラベスクウェア</original>
+  </item>
+  <item id="17813">
+    <original>アラベスクウェア</original>
+  </item>
+  <item id="17814">
+    <original>アラベスクウェア</original>
+  </item>
+  <item id="17815">
+    <original>アラベスクウェア</original>
+  </item>
+  <item id="17816">
+    <original>ビヤーバーンメイル</original>
+  </item>
+  <item id="17817">
+    <original>ビヤーバーンメイル</original>
+  </item>
+  <item id="17818">
+    <original>ビヤーバーンメイル</original>
+  </item>
+  <item id="17819">
+    <original>ビヤーバーンメイル</original>
+  </item>
+  <item id="17820">
+    <original>ビヤーバーンメイル</original>
+  </item>
+  <item id="17821">
+    <original>アッカリアチュニック</original>
+  </item>
+  <item id="17822">
+    <original>アッカリアチュニック</original>
+  </item>
+  <item id="17823">
+    <original>アッカリアチュニック</original>
+  </item>
+  <item id="17824">
+    <original>アッカリアチュニック</original>
+  </item>
+  <item id="17825">
+    <original>アッカリアチュニック</original>
+  </item>
+  <item id="17826">
+    <original>アラベスクバックス</original>
+  </item>
+  <item id="17827">
+    <original>アラベスクバックス</original>
+  </item>
+  <item id="17828">
+    <original>アラベスクバックス</original>
+  </item>
+  <item id="17829">
+    <original>アラベスクバックス</original>
+  </item>
+  <item id="17830">
+    <original>アラベスクバックス</original>
+  </item>
+  <item id="17831">
+    <original>ビヤーバーンタイツ</original>
+  </item>
+  <item id="17832">
+    <original>ビヤーバーンタイツ</original>
+  </item>
+  <item id="17833">
+    <original>ビヤーバーンタイツ</original>
+  </item>
+  <item id="17834">
+    <original>ビヤーバーンタイツ</original>
+  </item>
+  <item id="17835">
+    <original>ビヤーバーンタイツ</original>
+  </item>
+  <item id="17836">
+    <original>アッカリアホーズ</original>
+  </item>
+  <item id="17837">
+    <original>アッカリアホーズ</original>
+  </item>
+  <item id="17838">
+    <original>アッカリアホーズ</original>
+  </item>
+  <item id="17839">
+    <original>アッカリアホーズ</original>
+  </item>
+  <item id="17840">
+    <original>アッカリアホーズ</original>
+  </item>
+  <item id="17841">
+    <original>アラベスクストール</original>
+  </item>
+  <item id="17842">
+    <original>アラベスクストール</original>
+  </item>
+  <item id="17843">
+    <original>アラベスクストール</original>
+  </item>
+  <item id="17844">
+    <original>アラベスクストール</original>
+  </item>
+  <item id="17845">
+    <original>アラベスクストール</original>
+  </item>
+  <item id="17846">
+    <original>アルヴェスィヤフ</original>
+  </item>
+  <item id="17847">
+    <original>アルヴェスィヤフ</original>
+  </item>
+  <item id="17848">
+    <original>アルヴェスィヤフ</original>
+  </item>
+  <item id="17849">
+    <original>アルヴェスィヤフ</original>
+  </item>
+  <item id="17850">
+    <original>アルヴェスィヤフ</original>
+  </item>
+  <item id="17851">
+    <original>アッカリアマント</original>
+  </item>
+  <item id="17852">
+    <original>アッカリアマント</original>
+  </item>
+  <item id="17853">
+    <original>アッカリアマント</original>
+  </item>
+  <item id="17854">
+    <original>アッカリアマント</original>
+  </item>
+  <item id="17855">
+    <original>アッカリアマント</original>
+  </item>
+  <item id="17856">
+    <original>石呪の大粒涙</original>
+  </item>
+  <item id="17857">
+    <original>魔獣の蛇皮</original>
+  </item>
+  <item id="17858">
+    <original>巨人の臼歯</original>
+  </item>
+  <item id="17859">
+    <original>蛮勇の印</original>
+  </item>
+  <item id="17860">
+    <original>百戦の印</original>
+  </item>
+  <item id="17861">
+    <original>黒刃の破片</original>
+  </item>
+  <item id="17866">
+    <original>マンティコアの粗皮</original>
+  </item>
+  <item id="17867">
+    <original>小鬼の術杖</original>
+  </item>
+  <item id="17870">
+    <original>ロックレザー</original>
+  </item>
+  <item id="17871">
+    <original>ロックカッター</original>
+  </item>
+  <item id="17872">
+    <original>大きな魚眼石</original>
+  </item>
+  <item id="17873">
+    <original>亡者の削れた爪</original>
+  </item>
+  <item id="17876">
+    <original>戦甲の残片</original>
+  </item>
+  <item id="17878">
+    <original>呪詛の手紙</original>
+  </item>
+  <item id="17879">
+    <original>竜の逆鱗</original>
+  </item>
+  <item id="17880">
+    <original>高粘度スライムリキッド</original>
+  </item>
+  <item id="17881">
+    <original>ボーンパール</original>
+  </item>
+  <item id="17882">
+    <original>もろい砂岩石</original>
+  </item>
+  <item id="17883">
+    <original>火山噴出岩</original>
+  </item>
+  <item id="17884">
+    <original>灰かぶり草</original>
+  </item>
+  <item id="17885">
+    <original>火炎草</original>
+  </item>
+  <item id="17886">
+    <original>プランクトン液</original>
+  </item>
+  <item id="17888">
+    <original>竜頭のタイル片</original>
+  </item>
+  <item id="17889">
+    <original>竜尾のタイル片</original>
+  </item>
+  <item id="17891">
+    <original>豊穣のリボン</original>
+  </item>
+  <item id="17892">
+    <original>コバルト合金のインゴット</original>
+  </item>
+  <item id="17897">
+    <original>突風の特質錬石</original>
+  </item>
+  <item id="17898">
+    <original>勝機の特質錬石</original>
+  </item>
+  <item id="17899">
+    <original>卒倒の特質錬石</original>
+  </item>
+  <item id="17900">
+    <original>獣狩りの特質錬石</original>
+  </item>
+  <item id="17901">
+    <original>亜人斬りの特質錬石</original>
+  </item>
+  <item id="17902">
+    <original>鬼人裂きの特質錬石</original>
+  </item>
+  <item id="17907">
+    <original>乾いた実験試料</original>
+  </item>
+  <item id="17908">
+    <original>魔物の生体試料</original>
+  </item>
+  <item id="17909">
+    <original>肉喰い巻貝</original>
+  </item>
+  <item id="17910">
+    <original>血色の螺旋貝</original>
+  </item>
+  <item id="17911">
+    <original>精緻なインタリオ</original>
+  </item>
+  <item id="17912">
+    <original>アッカー王家のインタリオ</original>
+  </item>
+  <item id="17923">
+    <original>ボーナスダンジョンチケット【XP】</original>
+  </item>
+  <item id="17924">
+    <original>ボーナスダンジョンチケット【リム】</original>
+  </item>
+  <item id="17925">
+    <original>ボーナスダンジョンチケット【BO】</original>
+  </item>
+  <item id="17926">
+    <original>ボーナスダンジョンチケット【ゴールド】</original>
+  </item>
+  <item id="17928">
+    <original>ハーピーの胸肉</original>
+  </item>
+  <item id="17930">
+    <original>有翼種の心臓</original>
   </item>
   <item id="17931">
     <original>パペット・ミカサ</original>
@@ -53003,6 +55414,24 @@
   <item id="17932">
     <original>パペット・リヴァイお掃除ver.</original>
     <translation>Puppet - Levi cleaning ver.</translation>
+  </item>
+  <item id="17935">
+    <original>ムーディーランプ・2周年</original>
+  </item>
+  <item id="17936">
+    <original>アニバーサリーケーキ・2周年</original>
+  </item>
+  <item id="17937">
+    <original>デコレーション・2周年</original>
+  </item>
+  <item id="17938">
+    <original>アニバーサリーパペット・2周年</original>
+  </item>
+  <item id="17939">
+    <original>タペストリー・2周年（右）</original>
+  </item>
+  <item id="17940">
+    <original>タペストリー・2周年（左）</original>
   </item>
   <item id="17941">
     <original>ジャスティス学園　一文字伐A </original>
@@ -53020,6 +55449,12 @@
     <original>ジャスティス学園　若葉ひなたB</original>
     <translation>Rival Schools: Hinata Wakaba B</translation>
   </item>
+  <item id="17952">
+    <original>王家復興用NPC袋</original>
+  </item>
+  <item id="17953">
+    <original>王家復興用NPC袋２</original>
+  </item>
   <item id="17954">
     <original>魅惑の水着・上【輝ける黄金】</original>
     <translation>Alluring Swimsuit Top (Glittering Gold)</translation>
@@ -53029,16 +55464,250 @@
     <translation>Alluring Swimsuit Bottom (Glittering Gold)</translation>
   </item>
   <item id="17956">
-    <original>チャンピオンベルト・１位</original>
+    <original>栄光のチャンピオンベルト【Ⅰ】</original>
+    <!-- NEEDS REVIEW -->
+    <!--チャンピオンベルト・１位-->
     <translation>Champion Belt - Rank 1</translation>
   </item>
   <item id="17957">
-    <original>チャンピオンベルト・２位</original>
+    <original>栄光のチャンピオンベルト【Ⅱ】</original>
+    <!-- NEEDS REVIEW -->
+    <!--チャンピオンベルト・２位-->
     <translation>Champion Belt - Rank 2</translation>
   </item>
   <item id="17958">
-    <original>チャンピオンベルト・３位</original>
+    <original>栄光のチャンピオンベルト【Ⅲ】</original>
+    <!-- NEEDS REVIEW -->
+    <!--チャンピオンベルト・３位-->
     <translation>Champion Belt - Rank 3</translation>
+  </item>
+  <item id="17959">
+    <original>ふかふかの土</original>
+  </item>
+  <item id="18143">
+    <original>エンブレムストーン・ファイター</original>
+  </item>
+  <item id="18144">
+    <original>エンブレムストーン・シーカー</original>
+  </item>
+  <item id="18145">
+    <original>エンブレムストーン・ハンター</original>
+  </item>
+  <item id="18146">
+    <original>エンブレムストーン・プリースト</original>
+  </item>
+  <item id="18147">
+    <original>エンブレムストーン・Ｓセージ</original>
+  </item>
+  <item id="18148">
+    <original>エンブレムストーン・ソーサラー</original>
+  </item>
+  <item id="18149">
+    <original>エンブレムストーン・ウォリアー</original>
+  </item>
+  <item id="18150">
+    <original>エンブレムストーン・Ｅアーチャー</original>
+  </item>
+  <item id="18151">
+    <original>エンブレムストーン・アルケミスト</original>
+  </item>
+  <item id="18152">
+    <original>エンブレムストーン・Ｓランサー</original>
+  </item>
+  <item id="18506">
+    <original>お風呂・楽園の湯</original>
+  </item>
+  <item id="18507">
+    <original>ラスニテ産ハードウッド</original>
+  </item>
+  <item id="18508">
+    <original>自然木炭</original>
+  </item>
+  <item id="18513">
+    <original>戦功勲章【孔雀】</original>
+  </item>
+  <item id="18514">
+    <original>戦功勲章【大熊】</original>
+  </item>
+  <item id="18515">
+    <original>ブラックヴェノムソード</original>
+  </item>
+  <item id="18516">
+    <original>ブラックヴェノムソード</original>
+  </item>
+  <item id="18517">
+    <original>ブラックヴェノムソード</original>
+  </item>
+  <item id="18518">
+    <original>ブラックヴェノムソード</original>
+  </item>
+  <item id="18519">
+    <original>ブラックヴェノムソード</original>
+  </item>
+  <item id="18520">
+    <original>ブラックヴェノムシールド</original>
+  </item>
+  <item id="18521">
+    <original>ブラックヴェノムシールド</original>
+  </item>
+  <item id="18522">
+    <original>ブラックヴェノムシールド</original>
+  </item>
+  <item id="18523">
+    <original>ブラックヴェノムシールド</original>
+  </item>
+  <item id="18524">
+    <original>ブラックヴェノムシールド</original>
+  </item>
+  <item id="18525">
+    <original>ブラックヴェノムブレード</original>
+  </item>
+  <item id="18526">
+    <original>ブラックヴェノムブレード</original>
+  </item>
+  <item id="18527">
+    <original>ブラックヴェノムブレード</original>
+  </item>
+  <item id="18528">
+    <original>ブラックヴェノムブレード</original>
+  </item>
+  <item id="18529">
+    <original>ブラックヴェノムブレード</original>
+  </item>
+  <item id="18530">
+    <original>ブラックヴェノムウォール</original>
+  </item>
+  <item id="18531">
+    <original>ブラックヴェノムウォール</original>
+  </item>
+  <item id="18532">
+    <original>ブラックヴェノムウォール</original>
+  </item>
+  <item id="18533">
+    <original>ブラックヴェノムウォール</original>
+  </item>
+  <item id="18534">
+    <original>ブラックヴェノムウォール</original>
+  </item>
+  <item id="18535">
+    <original>ブラックヴェノムロッド</original>
+  </item>
+  <item id="18536">
+    <original>ブラックヴェノムロッド</original>
+  </item>
+  <item id="18537">
+    <original>ブラックヴェノムロッド</original>
+  </item>
+  <item id="18538">
+    <original>ブラックヴェノムロッド</original>
+  </item>
+  <item id="18539">
+    <original>ブラックヴェノムロッド</original>
+  </item>
+  <item id="18540">
+    <original>ブラックヴェノムダガー</original>
+  </item>
+  <item id="18541">
+    <original>ブラックヴェノムダガー</original>
+  </item>
+  <item id="18542">
+    <original>ブラックヴェノムダガー</original>
+  </item>
+  <item id="18543">
+    <original>ブラックヴェノムダガー</original>
+  </item>
+  <item id="18544">
+    <original>ブラックヴェノムダガー</original>
+  </item>
+  <item id="18545">
+    <original>ブラックヴェノムボウ</original>
+  </item>
+  <item id="18546">
+    <original>ブラックヴェノムボウ</original>
+  </item>
+  <item id="18547">
+    <original>ブラックヴェノムボウ</original>
+  </item>
+  <item id="18548">
+    <original>ブラックヴェノムボウ</original>
+  </item>
+  <item id="18549">
+    <original>ブラックヴェノムボウ</original>
+  </item>
+  <item id="18550">
+    <original>ブラックヴェノムガントレット</original>
+  </item>
+  <item id="18551">
+    <original>ブラックヴェノムガントレット</original>
+  </item>
+  <item id="18552">
+    <original>ブラックヴェノムガントレット</original>
+  </item>
+  <item id="18553">
+    <original>ブラックヴェノムガントレット</original>
+  </item>
+  <item id="18554">
+    <original>ブラックヴェノムガントレット</original>
+  </item>
+  <item id="18555">
+    <original>ブラックヴェノムスペル</original>
+  </item>
+  <item id="18556">
+    <original>ブラックヴェノムスペル</original>
+  </item>
+  <item id="18557">
+    <original>ブラックヴェノムスペル</original>
+  </item>
+  <item id="18558">
+    <original>ブラックヴェノムスペル</original>
+  </item>
+  <item id="18559">
+    <original>ブラックヴェノムスペル</original>
+  </item>
+  <item id="18560">
+    <original>ブラックヴェノムスタッフ</original>
+  </item>
+  <item id="18561">
+    <original>ブラックヴェノムスタッフ</original>
+  </item>
+  <item id="18562">
+    <original>ブラックヴェノムスタッフ</original>
+  </item>
+  <item id="18563">
+    <original>ブラックヴェノムスタッフ</original>
+  </item>
+  <item id="18564">
+    <original>ブラックヴェノムスタッフ</original>
+  </item>
+  <item id="18565">
+    <original>ブラックヴェノムワンズ</original>
+  </item>
+  <item id="18566">
+    <original>ブラックヴェノムワンズ</original>
+  </item>
+  <item id="18567">
+    <original>ブラックヴェノムワンズ</original>
+  </item>
+  <item id="18568">
+    <original>ブラックヴェノムワンズ</original>
+  </item>
+  <item id="18569">
+    <original>ブラックヴェノムワンズ</original>
+  </item>
+  <item id="18570">
+    <original>ブラックヴェノムスピア</original>
+  </item>
+  <item id="18571">
+    <original>ブラックヴェノムスピア</original>
+  </item>
+  <item id="18572">
+    <original>ブラックヴェノムスピア</original>
+  </item>
+  <item id="18573">
+    <original>ブラックヴェノムスピア</original>
+  </item>
+  <item id="18574">
+    <original>ブラックヴェノムスピア</original>
   </item>
   <item id="18575">
     <original>NPC水着_上_男</original>
@@ -53051,6 +55720,66 @@
   </item>
   <item id="18578">
     <original>NPC水着_下_女</original>
+  </item>
+  <item id="18579">
+    <original>ブラックヴェノムアーマー</original>
+  </item>
+  <item id="18580">
+    <original>ブラックヴェノムアーマー</original>
+  </item>
+  <item id="18581">
+    <original>ブラックヴェノムアーマー</original>
+  </item>
+  <item id="18582">
+    <original>ブラックヴェノムアーマー</original>
+  </item>
+  <item id="18583">
+    <original>ブラックヴェノムアーマー</original>
+  </item>
+  <item id="18584">
+    <original>ブラックヴェノムブーツ</original>
+  </item>
+  <item id="18585">
+    <original>ブラックヴェノムブーツ</original>
+  </item>
+  <item id="18586">
+    <original>ブラックヴェノムブーツ</original>
+  </item>
+  <item id="18587">
+    <original>ブラックヴェノムブーツ</original>
+  </item>
+  <item id="18588">
+    <original>ブラックヴェノムブーツ</original>
+  </item>
+  <item id="18589">
+    <original>ブラックヴェノムウェア</original>
+  </item>
+  <item id="18590">
+    <original>ブラックヴェノムウェア</original>
+  </item>
+  <item id="18591">
+    <original>ブラックヴェノムウェア</original>
+  </item>
+  <item id="18592">
+    <original>ブラックヴェノムウェア</original>
+  </item>
+  <item id="18593">
+    <original>ブラックヴェノムウェア</original>
+  </item>
+  <item id="18594">
+    <original>ブラックヴェノムレッグス</original>
+  </item>
+  <item id="18595">
+    <original>ブラックヴェノムレッグス</original>
+  </item>
+  <item id="18596">
+    <original>ブラックヴェノムレッグス</original>
+  </item>
+  <item id="18597">
+    <original>ブラックヴェノムレッグス</original>
+  </item>
+  <item id="18598">
+    <original>ブラックヴェノムレッグス</original>
   </item>
   <item id="18599">
     <original>至高のリング【戦徒】</original>
@@ -53200,6 +55929,408 @@
     <original>ジャスティス学園　若葉ひなたB</original>
     <translation>Rival Schools: Hinata Wakaba B</translation>
   </item>
+  <item id="18640">
+    <original>キャリーの特製サンドイッチ</original>
+  </item>
+  <item id="18641">
+    <original>キャリーの特製ランチボックス</original>
+  </item>
+  <item id="18643">
+    <original>ドミニオンポイント</original>
+  </item>
+  <item id="18644">
+    <original>ドミニオンポイント</original>
+  </item>
+  <item id="18645">
+    <original>ドミニオンポイント</original>
+  </item>
+  <item id="18646">
+    <original>タソガレダケ</original>
+  </item>
+  <item id="18647">
+    <original>マンドラゴラキノコ</original>
+  </item>
+  <item id="18648">
+    <original>ヴォルカニックサンド</original>
+  </item>
+  <item id="18649">
+    <original>ヴォルカニックガラス</original>
+  </item>
+  <item id="18650">
+    <original>ガーネット</original>
+  </item>
+  <item id="18655">
+    <original>魔獣の肝</original>
+  </item>
+  <item id="18656">
+    <original>護衛者の魂</original>
+  </item>
+  <item id="18661">
+    <original>獣寄せの肉塊</original>
+  </item>
+  <item id="18663">
+    <original>マンドラゴラの葉っぱ</original>
+  </item>
+  <item id="18664">
+    <original>マンドラゴラの小枝</original>
+  </item>
+  <item id="18665">
+    <original>ウルスラグナ</original>
+  </item>
+  <item id="18666">
+    <original>ウルスラグナ</original>
+  </item>
+  <item id="18667">
+    <original>ウルスラグナ</original>
+  </item>
+  <item id="18668">
+    <original>ウルスラグナ</original>
+  </item>
+  <item id="18669">
+    <original>ウルスラグナ</original>
+  </item>
+  <item id="18670">
+    <original>アヴァターラ</original>
+  </item>
+  <item id="18671">
+    <original>アヴァターラ</original>
+  </item>
+  <item id="18672">
+    <original>アヴァターラ</original>
+  </item>
+  <item id="18673">
+    <original>アヴァターラ</original>
+  </item>
+  <item id="18674">
+    <original>アヴァターラ</original>
+  </item>
+  <item id="18675">
+    <original>ミトゥラスバスタード</original>
+  </item>
+  <item id="18676">
+    <original>ミトゥラスバスタード</original>
+  </item>
+  <item id="18677">
+    <original>ミトゥラスバスタード</original>
+  </item>
+  <item id="18678">
+    <original>ミトゥラスバスタード</original>
+  </item>
+  <item id="18679">
+    <original>ミトゥラスバスタード</original>
+  </item>
+  <item id="18680">
+    <original>ヌマーニヤ</original>
+  </item>
+  <item id="18681">
+    <original>ヌマーニヤ</original>
+  </item>
+  <item id="18682">
+    <original>ヌマーニヤ</original>
+  </item>
+  <item id="18683">
+    <original>ヌマーニヤ</original>
+  </item>
+  <item id="18684">
+    <original>ヌマーニヤ</original>
+  </item>
+  <item id="18685">
+    <original>トーチオブハオマ</original>
+  </item>
+  <item id="18686">
+    <original>トーチオブハオマ</original>
+  </item>
+  <item id="18687">
+    <original>トーチオブハオマ</original>
+  </item>
+  <item id="18688">
+    <original>トーチオブハオマ</original>
+  </item>
+  <item id="18689">
+    <original>トーチオブハオマ</original>
+  </item>
+  <item id="18690">
+    <original>アータルズエッジ</original>
+  </item>
+  <item id="18691">
+    <original>アータルズエッジ</original>
+  </item>
+  <item id="18692">
+    <original>アータルズエッジ</original>
+  </item>
+  <item id="18693">
+    <original>アータルズエッジ</original>
+  </item>
+  <item id="18694">
+    <original>アータルズエッジ</original>
+  </item>
+  <item id="18695">
+    <original>スラオシャ</original>
+  </item>
+  <item id="18696">
+    <original>スラオシャ</original>
+  </item>
+  <item id="18697">
+    <original>スラオシャ</original>
+  </item>
+  <item id="18698">
+    <original>スラオシャ</original>
+  </item>
+  <item id="18699">
+    <original>スラオシャ</original>
+  </item>
+  <item id="18700">
+    <original>ワータスグラブ</original>
+  </item>
+  <item id="18701">
+    <original>ワータスグラブ</original>
+  </item>
+  <item id="18702">
+    <original>ワータスグラブ</original>
+  </item>
+  <item id="18703">
+    <original>ワータスグラブ</original>
+  </item>
+  <item id="18704">
+    <original>ワータスグラブ</original>
+  </item>
+  <item id="18705">
+    <original>ティシュトリア</original>
+  </item>
+  <item id="18706">
+    <original>ティシュトリア</original>
+  </item>
+  <item id="18707">
+    <original>ティシュトリア</original>
+  </item>
+  <item id="18708">
+    <original>ティシュトリア</original>
+  </item>
+  <item id="18709">
+    <original>ティシュトリア</original>
+  </item>
+  <item id="18710">
+    <original>アナーヒター</original>
+  </item>
+  <item id="18711">
+    <original>アナーヒター</original>
+  </item>
+  <item id="18712">
+    <original>アナーヒター</original>
+  </item>
+  <item id="18713">
+    <original>アナーヒター</original>
+  </item>
+  <item id="18714">
+    <original>アナーヒター</original>
+  </item>
+  <item id="18715">
+    <original>フワル・フシャエータ</original>
+  </item>
+  <item id="18716">
+    <original>フワル・フシャエータ</original>
+  </item>
+  <item id="18717">
+    <original>フワル・フシャエータ</original>
+  </item>
+  <item id="18718">
+    <original>フワル・フシャエータ</original>
+  </item>
+  <item id="18719">
+    <original>フワル・フシャエータ</original>
+  </item>
+  <item id="18720">
+    <original>ラシュヌ</original>
+  </item>
+  <item id="18721">
+    <original>ラシュヌ</original>
+  </item>
+  <item id="18722">
+    <original>ラシュヌ</original>
+  </item>
+  <item id="18723">
+    <original>ラシュヌ</original>
+  </item>
+  <item id="18724">
+    <original>ラシュヌ</original>
+  </item>
+  <item id="18725">
+    <original>ブルーパール</original>
+  </item>
+  <item id="18729">
+    <original>使役戦甲</original>
+  </item>
+  <item id="18730">
+    <original>雪彫りの未鑑定装具【兵】</original>
+  </item>
+  <item id="18731">
+    <original>雪彫りの未鑑定装具【将】</original>
+  </item>
+  <item id="18732">
+    <original>雪彫りの未鑑定装具【王】</original>
+  </item>
+  <item id="18733">
+    <original>雪彫りの未鑑定装具【皇】</original>
+  </item>
+  <item id="18735">
+    <original>鋼鉄の羽根細工</original>
+  </item>
+  <item id="18736">
+    <original>デプスオパールリング</original>
+  </item>
+  <item id="18738">
+    <original>目玉石</original>
+  </item>
+  <item id="18739">
+    <original>サイクロランタン</original>
+  </item>
+  <item id="18740">
+    <original>サイクロランタン【銀】</original>
+  </item>
+  <item id="18742">
+    <original>ハイオーブ</original>
+  </item>
+  <item id="18743">
+    <original>ハイオーブ</original>
+  </item>
+  <item id="18744">
+    <original>ハイオーブ</original>
+  </item>
+  <item id="18750">
+    <original>白い壁紙</original>
+  </item>
+  <item id="18751">
+    <original>黒い壁紙</original>
+  </item>
+  <item id="18755">
+    <original>レンガ柄の壁紙</original>
+  </item>
+  <item id="18756">
+    <original>レスタニアの壁紙</original>
+  </item>
+  <item id="18758">
+    <original>デコレーション・2周年</original>
+  </item>
+  <item id="18759">
+    <original>鳩時計</original>
+  </item>
+  <item id="18760">
+    <original>アンティークの机・ナチュラル</original>
+  </item>
+  <item id="18761">
+    <original>アンティークの机・スノウ</original>
+  </item>
+  <item id="18762">
+    <original>アンティークの机・チャコール</original>
+  </item>
+  <item id="18766">
+    <original>山羊毛織のカーペット・ホワイト</original>
+  </item>
+  <item id="18767">
+    <original>山羊毛織のカーペット・ブラック</original>
+  </item>
+  <item id="18771">
+    <original>タペストリー・レスタニア</original>
+  </item>
+  <item id="18772">
+    <original>タペストリー・プライド</original>
+  </item>
+  <item id="18773">
+    <original>タペストリー・ドラゴン</original>
+  </item>
+  <item id="18774">
+    <original>タペストリー・ディスコード</original>
+  </item>
+  <item id="18775">
+    <original>タペストリー・ジェネシス</original>
+  </item>
+  <item id="18776">
+    <original>タペストリー・アルケム</original>
+  </item>
+  <item id="18777">
+    <original>タペストリー・ルインズ</original>
+  </item>
+  <item id="18778">
+    <original>タペストリー・2周年A</original>
+  </item>
+  <item id="18779">
+    <original>タペストリー・フィンダム</original>
+  </item>
+  <item id="18782">
+    <original>タペストリー・2周年B</original>
+  </item>
+  <item id="18783">
+    <original>クロステーブル・フォレスト</original>
+  </item>
+  <item id="18787">
+    <original>クロステーブル・チャコール</original>
+  </item>
+  <item id="18788">
+    <original>アニバーサリーケーキ・2周年</original>
+  </item>
+  <item id="18789">
+    <original>アニバーサリーパペット・2周年</original>
+  </item>
+  <item id="18791">
+    <original>毛織のリビングカーペット・ホワイト</original>
+  </item>
+  <item id="18792">
+    <original>毛織のリビングカーペット・ブラック</original>
+  </item>
+  <item id="18796">
+    <original>お風呂・楽園の湯</original>
+  </item>
+  <item id="18797">
+    <original>アリストクラットバス・キメラ</original>
+  </item>
+  <item id="18799">
+    <original>アリストクラットバス・グリフィン</original>
+  </item>
+  <item id="18801">
+    <original>アリストクラットバス・コカトリス</original>
+  </item>
+  <item id="18804">
+    <original>アリストクラットバス・ウィルム</original>
+  </item>
+  <item id="18805">
+    <original>アリストクラットバス・ドレイク</original>
+  </item>
+  <item id="18811">
+    <original>ダイニングテーブル・スノウ</original>
+  </item>
+  <item id="18812">
+    <original>ダイニングテーブル・チャコール</original>
+  </item>
+  <item id="18815">
+    <original>王家紋章のメダル＜ラスニテ地方＞</original>
+  </item>
+  <item id="18816">
+    <original>「LV.80」成長の宝珠</original>
+  </item>
+  <item id="18817">
+    <original>「竜力継承」全継承の宝珠</original>
+  </item>
+  <item id="18818">
+    <original>礎とエリアランク解放の宝珠</original>
+  </item>
+  <item id="18827">
+    <original>冒パスポイント</original>
+  </item>
+  <item id="18828">
+    <original>金貨袋</original>
+  </item>
+  <item id="18829">
+    <original>リム結晶</original>
+  </item>
+  <item id="18830">
+    <original>ブラッドオーブ</original>
+  </item>
+  <item id="18831">
+    <original>経験値結晶</original>
+  </item>
+  <item id="18832">
+    <original>プレイポイント</original>
+  </item>
   <item id="18833">
     <original>NPC用_調査兵団武器</original>
   </item>
@@ -53209,6 +56340,150 @@
   <item id="18835">
     <original>調査兵団の証</original>
     <translation>Survey Corps Token</translation>
+  </item>
+  <item id="18836">
+    <original>スキル習得_刀牙昇斬_技</original>
+  </item>
+  <item id="18837">
+    <original>スキル習得_刀牙昇斬_剛</original>
+  </item>
+  <item id="18838">
+    <original>スキル習得_シールドバッシュ_技</original>
+  </item>
+  <item id="18839">
+    <original>スキル習得_シールドバッシュ_剛</original>
+  </item>
+  <item id="18840">
+    <original>スキル習得_流し暗殺_技</original>
+  </item>
+  <item id="18841">
+    <original>スキル習得_流し暗殺_剛</original>
+  </item>
+  <item id="18842">
+    <original>スキル習得_爆炎刃_技</original>
+  </item>
+  <item id="18843">
+    <original>スキル習得_爆炎刃_剛</original>
+  </item>
+  <item id="18844">
+    <original>スキル習得_連なり射ち_技</original>
+  </item>
+  <item id="18845">
+    <original>スキル習得_連なり射ち_剛</original>
+  </item>
+  <item id="18846">
+    <original>スキル習得_渦巻き射ち_技</original>
+  </item>
+  <item id="18847">
+    <original>スキル習得_渦巻き射ち_剛</original>
+  </item>
+  <item id="18848">
+    <original>スキル習得_ソラースライザー_技</original>
+  </item>
+  <item id="18849">
+    <original>スキル習得_ソラースライザー_剛</original>
+  </item>
+  <item id="18850">
+    <original>スキル習得_セラフィムフラップ_技</original>
+  </item>
+  <item id="18851">
+    <original>スキル習得_セラフィムフラップ_剛</original>
+  </item>
+  <item id="18852">
+    <original>スキル習得_アースシェイク_技</original>
+  </item>
+  <item id="18853">
+    <original>スキル習得_アースシェイク_剛</original>
+  </item>
+  <item id="18854">
+    <original>スキル習得_フォースシールド_技</original>
+  </item>
+  <item id="18855">
+    <original>スキル習得_フォースシールド_剛</original>
+  </item>
+  <item id="18856">
+    <original>スキル習得_ダークネスミスト_技</original>
+  </item>
+  <item id="18857">
+    <original>スキル習得_ダークネスミスト_剛</original>
+  </item>
+  <item id="18858">
+    <original>スキル習得_サンダーケージ_技</original>
+  </item>
+  <item id="18859">
+    <original>スキル習得_サンダーケージ_剛</original>
+  </item>
+  <item id="18860">
+    <original>スキル習得_魔人駆け_技</original>
+  </item>
+  <item id="18861">
+    <original>スキル習得_魔人駆け_剛</original>
+  </item>
+  <item id="18862">
+    <original>スキル習得_柄打ち_技</original>
+  </item>
+  <item id="18863">
+    <original>スキル習得_柄打ち_剛</original>
+  </item>
+  <item id="18864">
+    <original>スキル習得_炎魔弓_技</original>
+  </item>
+  <item id="18865">
+    <original>スキル習得_炎魔弓_剛</original>
+  </item>
+  <item id="18866">
+    <original>スキル習得_減耐魔弓_技</original>
+  </item>
+  <item id="18867">
+    <original>スキル習得_減耐魔弓_剛</original>
+  </item>
+  <item id="18868">
+    <original>スキル習得_パイル・バインダ_技</original>
+  </item>
+  <item id="18869">
+    <original>スキル習得_パイル・バインダ_剛</original>
+  </item>
+  <item id="18870">
+    <original>スキル習得_アルマ・ピラー_技</original>
+  </item>
+  <item id="18871">
+    <original>スキル習得_アルマ・ピラー_剛</original>
+  </item>
+  <item id="18872">
+    <original>スキル習得_ウォール・グラスタ_技</original>
+  </item>
+  <item id="18873">
+    <original>スキル習得_ウォール・グラスタ_剛</original>
+  </item>
+  <item id="18874">
+    <original>スキル習得_アラム・ファング_技</original>
+  </item>
+  <item id="18875">
+    <original>スキル習得_アラム・ファング_剛</original>
+  </item>
+  <item id="18876">
+    <original>突風の特質錬石の欠片</original>
+  </item>
+  <item id="18877">
+    <original>勝機の特質錬石の欠片</original>
+  </item>
+  <item id="18878">
+    <original>卒倒の特質錬石の欠片</original>
+  </item>
+  <item id="18879">
+    <original>獣狩りの特質錬石の欠片</original>
+  </item>
+  <item id="18880">
+    <original>亜人斬りの特質錬石の欠片</original>
+  </item>
+  <item id="18881">
+    <original>鬼人裂きの特質錬石の欠片</original>
+  </item>
+  <item id="18885">
+    <original>オベリスク</original>
+  </item>
+  <item id="18886">
+    <original>ロイヤル</original>
   </item>
   <item id="18893">
     <original>黄金ヤシの繊維</original>
@@ -53233,6 +56508,129 @@
   <item id="18898">
     <original>闘覇のマント</original>
     <translation>Mantle of Battle Supremacy</translation>
+  </item>
+  <item id="18899">
+    <original>マギカクローク</original>
+  </item>
+  <item id="18900">
+    <original>真・ポリッシュドソード</original>
+  </item>
+  <item id="18905">
+    <original>真・ローズトーンズ</original>
+  </item>
+  <item id="18910">
+    <original>真・ローズトーンズ</original>
+  </item>
+  <item id="18915">
+    <original>真・ローズトーンズ</original>
+  </item>
+  <item id="18920">
+    <original>真・ポリッシュドブレイカー</original>
+  </item>
+  <item id="18925">
+    <original>真・ウォンテッドハート</original>
+  </item>
+  <item id="18930">
+    <original>真・ウォンテッドハート</original>
+  </item>
+  <item id="18935">
+    <original>真・ウォンテッドハート</original>
+  </item>
+  <item id="18940">
+    <original>真・ポリッシュドガード</original>
+  </item>
+  <item id="18945">
+    <original>真・ダークパべーゼ</original>
+  </item>
+  <item id="18950">
+    <original>真・ダークパべーゼ</original>
+  </item>
+  <item id="18955">
+    <original>真・ダークパべーゼ</original>
+  </item>
+  <item id="18960">
+    <original>真・ポリッシュドダガー</original>
+  </item>
+  <item id="18965">
+    <original>真・ダークパラゾニウム</original>
+  </item>
+  <item id="18970">
+    <original>真・ダークパラゾニウム</original>
+  </item>
+  <item id="18975">
+    <original>真・ダークパラゾニウム</original>
+  </item>
+  <item id="18980">
+    <original>真・ポリッシュドボウ</original>
+  </item>
+  <item id="18985">
+    <original>真・ドラゴンズブリンク</original>
+  </item>
+  <item id="18990">
+    <original>真・ドラゴンズブリンク</original>
+  </item>
+  <item id="18995">
+    <original>真・ドラゴンズブリンク</original>
+  </item>
+  <item id="19000">
+    <original>真・ポリッシュドガントレット</original>
+  </item>
+  <item id="19005">
+    <original>真・ヒドゥンセイズ</original>
+  </item>
+  <item id="19010">
+    <original>真・ヒドゥンセイズ</original>
+  </item>
+  <item id="19015">
+    <original>真・ヒドゥンセイズ</original>
+  </item>
+  <item id="19020">
+    <original>真・ポリッシュドスペル</original>
+  </item>
+  <item id="19025">
+    <original>真・ドラゴンズスプリーム</original>
+  </item>
+  <item id="19030">
+    <original>真・ドラゴンズスプリーム</original>
+  </item>
+  <item id="19035">
+    <original>真・ドラゴンズスプリーム</original>
+  </item>
+  <item id="19040">
+    <original>真・ポリッシュドスタッフ</original>
+  </item>
+  <item id="19045">
+    <original>真・チリーケイン</original>
+  </item>
+  <item id="19050">
+    <original>真・チリーケイン</original>
+  </item>
+  <item id="19055">
+    <original>真・チリーケイン</original>
+  </item>
+  <item id="19060">
+    <original>真・ポリッシュドワンズ</original>
+  </item>
+  <item id="19065">
+    <original>真・ロードトゥハデス</original>
+  </item>
+  <item id="19070">
+    <original>真・ロードトゥハデス</original>
+  </item>
+  <item id="19075">
+    <original>真・ロードトゥハデス</original>
+  </item>
+  <item id="19080">
+    <original>真・ポリッシュドランス</original>
+  </item>
+  <item id="19085">
+    <original>真・エヴァーランス</original>
+  </item>
+  <item id="19090">
+    <original>真・エヴァーランス</original>
+  </item>
+  <item id="19095">
+    <original>真・エヴァーランス</original>
   </item>
   <item id="19100">
     <original>スナップブレード</original>
@@ -53425,6 +56823,9 @@
   <item id="19147">
     <original>芯樹の雫</original>
     <translation>Central Tree Drop</translation>
+  </item>
+  <item id="19148">
+    <original>サイクロランタン</original>
   </item>
   <item id="19149">
     <original>クリムゾンソード</original>
@@ -53774,6 +57175,117 @@
     <original>習得の書【縮金】</original>
     <translation>Book of Acquisition (Reduce Goldify)</translation>
   </item>
+  <item id="19236">
+    <original>初代王の兜</original>
+  </item>
+  <item id="19246">
+    <original>初代王の篭手</original>
+  </item>
+  <item id="19258">
+    <original>炎襲 LV.4</original>
+  </item>
+  <item id="19259">
+    <original>攻闇 LV.4</original>
+  </item>
+  <item id="19260">
+    <original>聖襲 LV.4</original>
+  </item>
+  <item id="19261">
+    <original>攻氷 LV.4</original>
+  </item>
+  <item id="19262">
+    <original>自回 LV.4</original>
+  </item>
+  <item id="19263">
+    <original>壮健 LV.4</original>
+  </item>
+  <item id="19264">
+    <original>烈墜 LV.4</original>
+  </item>
+  <item id="19265">
+    <original>緩刃 LV.4</original>
+  </item>
+  <item id="19266">
+    <original>剛力 LV.4</original>
+  </item>
+  <item id="19267">
+    <original>攻炎 LV.4</original>
+  </item>
+  <item id="19268">
+    <original>氷襲 LV.4</original>
+  </item>
+  <item id="19269">
+    <original>魔双 LV.4</original>
+  </item>
+  <item id="19270">
+    <original>空撃 LV.4</original>
+  </item>
+  <item id="19271">
+    <original>英気 LV.4</original>
+  </item>
+  <item id="19272">
+    <original>活性 LV.4</original>
+  </item>
+  <item id="19273">
+    <original>強靭 LV.4</original>
+  </item>
+  <item id="19274">
+    <original>耐握 LV.4</original>
+  </item>
+  <item id="19275">
+    <original>攻雷 LV.4</original>
+  </item>
+  <item id="19276">
+    <original>闇襲 LV.4</original>
+  </item>
+  <item id="19277">
+    <original>猛攻 LV.4</original>
+  </item>
+  <item id="19278">
+    <original>与震 LV.4</original>
+  </item>
+  <item id="19279">
+    <original>快動 LV.4</original>
+  </item>
+  <item id="19280">
+    <original>加護 LV.4</original>
+  </item>
+  <item id="19281">
+    <original>溌剌 LV.4</original>
+  </item>
+  <item id="19282">
+    <original>快癒 LV.4</original>
+  </item>
+  <item id="19283">
+    <original>強附 LV.4</original>
+  </item>
+  <item id="19284">
+    <original>攻聖 LV.4</original>
+  </item>
+  <item id="19285">
+    <original>雷襲 LV.4</original>
+  </item>
+  <item id="19286">
+    <original>握烈 LV.4</original>
+  </item>
+  <item id="19287">
+    <original>重当 LV.4</original>
+  </item>
+  <item id="19288">
+    <original>重攻 LV.4</original>
+  </item>
+  <item id="19289">
+    <original>盛精 LV.4</original>
+  </item>
+  <item id="19290">
+    <original>高堪 LV.4</original>
+  </item>
+  <item id="19291">
+    <original>薬効 LV.4</original>
+  </item>
+  <item id="19292">
+    <original>硬皮 LV.4</original>
+  </item>
   <item id="19293">
     <original>闘気のクロス</original>
     <translation>Cloth of Fighting Spirit</translation>
@@ -53854,6 +57366,180 @@
   <item id="19318">
     <original>NPC_夕陽の水着【下】</original>
   </item>
+  <item id="19319">
+    <original>レリーフコイン【蘇芳】</original>
+  </item>
+  <item id="19320">
+    <original>レリーフコイン【赤銅】</original>
+  </item>
+  <item id="19321">
+    <original>レリーフコイン【薄荷】</original>
+  </item>
+  <item id="19322">
+    <original>レリーフコイン【紺碧】</original>
+  </item>
+  <item id="19323">
+    <original>レリーフコイン【淡藤】</original>
+  </item>
+  <item id="19324">
+    <original>レリーフコイン【月白】</original>
+  </item>
+  <item id="19325">
+    <original>レリーフコイン【黒紫】</original>
+  </item>
+  <item id="19326">
+    <original>レリーフコイン【金茶】</original>
+  </item>
+  <item id="19327">
+    <original>レリーフコイン【花茜】</original>
+  </item>
+  <item id="19328">
+    <original>レリーフコイン【青菫】</original>
+  </item>
+  <item id="19329">
+    <original>レリーフコイン【萌黄】</original>
+  </item>
+  <item id="19330">
+    <original>レリーフコイン【深海】</original>
+  </item>
+  <item id="19331">
+    <original>レリーフコイン【水縹】</original>
+  </item>
+  <item id="19332">
+    <original>レリーフコイン【氷緑】</original>
+  </item>
+  <item id="19333">
+    <original>レリーフコイン【銀朱】</original>
+  </item>
+  <item id="19334">
+    <original>レリーフコイン【黄土】</original>
+  </item>
+  <item id="19335">
+    <original>レリーフコイン【群青】</original>
+  </item>
+  <item id="19336">
+    <original>レリーフコイン【淡紅】</original>
+  </item>
+  <item id="19337">
+    <original>レリーフコイン【濃緑】</original>
+  </item>
+  <item id="19338">
+    <original>レリーフコイン【鈍色】</original>
+  </item>
+  <item id="19339">
+    <original>レリーフコイン【霞色】</original>
+  </item>
+  <item id="19340">
+    <original>レリーフコイン【茶一】</original>
+  </item>
+  <item id="19341">
+    <original>レリーフコイン【茶二】</original>
+  </item>
+  <item id="19343">
+    <original>レリーフコイン【茶三】</original>
+  </item>
+  <item id="19344">
+    <original>レリーフコイン【茶四】</original>
+  </item>
+  <item id="19345">
+    <original>戦場のリングプレート【蒼】</original>
+  </item>
+  <item id="19346">
+    <original>戦場のリングプレート【紫】</original>
+  </item>
+  <item id="19347">
+    <original>戦場のリングプレート【緑】</original>
+  </item>
+  <item id="19348">
+    <original>戦場のリングプレート【黒】</original>
+  </item>
+  <item id="19349">
+    <original>戦場のリングプレート【碧】</original>
+  </item>
+  <item id="19350">
+    <original>戦場のリングプレート【黄】</original>
+  </item>
+  <item id="19351">
+    <original>戦場のアクアマリンリング</original>
+  </item>
+  <item id="19352">
+    <original>戦場のアメジストリング</original>
+  </item>
+  <item id="19353">
+    <original>戦場のペリドットリング</original>
+  </item>
+  <item id="19354">
+    <original>戦場のモリオンリング</original>
+  </item>
+  <item id="19355">
+    <original>戦場のエメラルドリング</original>
+  </item>
+  <item id="19356">
+    <original>戦場のシトリンリング</original>
+  </item>
+  <item id="19357">
+    <original>快動Lv4</original>
+  </item>
+  <item id="19358">
+    <original>剛力Lv4</original>
+  </item>
+  <item id="19359">
+    <original>高堪Lv4</original>
+  </item>
+  <item id="19360">
+    <original>活性Lv4</original>
+  </item>
+  <item id="19361">
+    <original>与震Lv4</original>
+  </item>
+  <item id="19362">
+    <original>加護Lv4</original>
+  </item>
+  <item id="19363">
+    <original>戦甲砕きのクレスト１</original>
+  </item>
+  <item id="19364">
+    <original>戦甲砕きのクレスト２</original>
+  </item>
+  <item id="19365">
+    <original>戦甲砕きのクレスト３</original>
+  </item>
+  <item id="19366">
+    <original>戦甲砕きのクレスト４</original>
+  </item>
+  <item id="19367">
+    <original>カスタムメイドサービス券</original>
+  </item>
+  <item id="19372">
+    <original>飛翔の腕輪・極　</original>
+  </item>
+  <item id="19373">
+    <original>握速の腕輪・極</original>
+  </item>
+  <item id="19374">
+    <original>快走の腕輪・極</original>
+  </item>
+  <item id="19375">
+    <original>楽装の腕輪・極</original>
+  </item>
+  <item id="19376">
+    <original>極・ダッシュST消費軽減</original>
+  </item>
+  <item id="19377">
+    <original>極・クライム速度アップ</original>
+  </item>
+  <item id="19378">
+    <original>極・ジャンプ力アップ</original>
+  </item>
+  <item id="19379">
+    <original>極・重量軽減</original>
+  </item>
+  <item id="19380">
+    <original>グロリアストール</original>
+  </item>
+  <item id="19381">
+    <original>エンシェントマント</original>
+  </item>
   <item id="19382">
     <original>フレッシュサングリア</original>
     <translation>Fresh Sangria</translation>
@@ -53865,5 +57551,455 @@
   <item id="19384">
     <original>浜辺の串焼き肉</original>
     <translation>Beach Meat Skewer</translation>
+  </item>
+  <item id="19385">
+    <original>極・翼紋のプレート片</original>
+  </item>
+  <item id="19386">
+    <original>極・掌紋のプレート片</original>
+  </item>
+  <item id="19387">
+    <original>極・風紋のプレート片</original>
+  </item>
+  <item id="19388">
+    <original>極・無重のプレート片</original>
+  </item>
+  <item id="19389">
+    <original>クレイグブレード</original>
+  </item>
+  <item id="19390">
+    <original>蒼嵐のミスリルソード</original>
+  </item>
+  <item id="19391">
+    <original>蒼嵐のミスリルボウ</original>
+  </item>
+  <item id="19392">
+    <original>蒼嵐のミスリルウォール</original>
+  </item>
+  <item id="19393">
+    <original>蒼嵐のミスリルスタッフ</original>
+  </item>
+  <item id="19394">
+    <original>蒼嵐のミスリルダガー</original>
+  </item>
+  <item id="19395">
+    <original>蒼嵐のミスリルワンズ</original>
+  </item>
+  <item id="19396">
+    <original>蒼嵐のミスリルシューター</original>
+  </item>
+  <item id="19397">
+    <original>蒼嵐のミスリルブレイド</original>
+  </item>
+  <item id="19398">
+    <original>蒼嵐のミスリルアーム</original>
+  </item>
+  <item id="19399">
+    <original>蒼嵐のミスリルランス</original>
+  </item>
+  <item id="19400">
+    <original>エッジオブバンガード</original>
+  </item>
+  <item id="19401">
+    <original>アロウオブバンガード</original>
+  </item>
+  <item id="19402">
+    <original>ウォールオブバンガード</original>
+  </item>
+  <item id="19403">
+    <original>スタッフオブバンガード</original>
+  </item>
+  <item id="19404">
+    <original>ダガーオブバンガード</original>
+  </item>
+  <item id="19405">
+    <original>ワンズオブバンガード</original>
+  </item>
+  <item id="19406">
+    <original>スペルオブバンガード</original>
+  </item>
+  <item id="19407">
+    <original>ブレイドオブバンガード</original>
+  </item>
+  <item id="19408">
+    <original>ハンズオブバンガード</original>
+  </item>
+  <item id="19409">
+    <original>ランスオブバンガード</original>
+  </item>
+  <item id="19410">
+    <original>覇王のアラベスクソード</original>
+  </item>
+  <item id="19411">
+    <original>覇王のアラベスクボウ</original>
+  </item>
+  <item id="19412">
+    <original>覇王のアラベスクガード</original>
+  </item>
+  <item id="19413">
+    <original>覇王のアラベスクスタッフ</original>
+  </item>
+  <item id="19414">
+    <original>覇王のアラベスクナイフ</original>
+  </item>
+  <item id="19415">
+    <original>覇王のアラベスクワンズ</original>
+  </item>
+  <item id="19416">
+    <original>覇王のアラベスクシューター</original>
+  </item>
+  <item id="19417">
+    <original>覇王のアラベスクセイバー</original>
+  </item>
+  <item id="19418">
+    <original>覇王のアラベスクアーム</original>
+  </item>
+  <item id="19419">
+    <original>覇王のアラベスクスピア</original>
+  </item>
+  <item id="19420">
+    <original>アブレイズファルシオン</original>
+  </item>
+  <item id="19421">
+    <original>アブレイズコンポジット</original>
+  </item>
+  <item id="19422">
+    <original>アブレイズスクトゥム</original>
+  </item>
+  <item id="19423">
+    <original>アブレイズスタッフ</original>
+  </item>
+  <item id="19424">
+    <original>アブレイズダガー</original>
+  </item>
+  <item id="19425">
+    <original>アブレイズドルイドワンズ</original>
+  </item>
+  <item id="19426">
+    <original>アブレイズツインスペル</original>
+  </item>
+  <item id="19427">
+    <original>アブレイズクレイモア</original>
+  </item>
+  <item id="19428">
+    <original>アブレイズガントレット</original>
+  </item>
+  <item id="19429">
+    <original>アブレイズパルチザン</original>
+  </item>
+  <item id="19450">
+    <original>DDDAフェステなりきり装備</original>
+  </item>
+  <item id="19451">
+    <original>DDDAエリノアなりきり装備</original>
+  </item>
+  <item id="19454">
+    <original>広漠のテンペストアーマー</original>
+  </item>
+  <item id="19455">
+    <original>広漠のテンペストガウン</original>
+  </item>
+  <item id="19456">
+    <original>広漠のテンペストグローブ</original>
+  </item>
+  <item id="19457">
+    <original>広漠のテンペストキュイス</original>
+  </item>
+  <item id="19458">
+    <original>広漠のテンペストボトム</original>
+  </item>
+  <item id="19459">
+    <original>広漠のテンペストバデット</original>
+  </item>
+  <item id="19460">
+    <original>広漠のテンペストアーム</original>
+  </item>
+  <item id="19461">
+    <original>広漠のテンペストブーツ</original>
+  </item>
+  <item id="19462">
+    <original>広漠のテンペストホーズ</original>
+  </item>
+  <item id="19463">
+    <original>広漠のテンペストベスト</original>
+  </item>
+  <item id="19464">
+    <original>オーフリングソード【海】</original>
+  </item>
+  <item id="19465">
+    <original>オーフリングソード【輝】</original>
+  </item>
+  <item id="19466">
+    <original>オーフリングソード【星】</original>
+  </item>
+  <item id="19467">
+    <original>オーフリングソード【涅】</original>
+  </item>
+  <item id="19468">
+    <original>オーフリングシェル【海】</original>
+  </item>
+  <item id="19469">
+    <original>オーフリングシェル【輝】</original>
+  </item>
+  <item id="19470">
+    <original>オーフリングシェル【星】</original>
+  </item>
+  <item id="19471">
+    <original>オーフリングシェル【涅】</original>
+  </item>
+  <item id="19472">
+    <original>オーフリングガード【陽】</original>
+  </item>
+  <item id="19473">
+    <original>オーフリングガード【海】</original>
+  </item>
+  <item id="19474">
+    <original>オーフリングガード【涅】</original>
+  </item>
+  <item id="19475">
+    <original>オーフリングロッド【陽】</original>
+  </item>
+  <item id="19476">
+    <original>オーフリングロッド【海】</original>
+  </item>
+  <item id="19477">
+    <original>オーフリングロッド【涅】</original>
+  </item>
+  <item id="19478">
+    <original>オーフリングボウ【海】</original>
+  </item>
+  <item id="19479">
+    <original>オーフリングボウ【陽】</original>
+  </item>
+  <item id="19480">
+    <original>オーフリングボウ【星】</original>
+  </item>
+  <item id="19481">
+    <original>オーフリングケイン【陽】</original>
+  </item>
+  <item id="19482">
+    <original>オーフリングケイン【海】</original>
+  </item>
+  <item id="19483">
+    <original>オーフリングケイン【輝】</original>
+  </item>
+  <item id="19484">
+    <original>オーフリングケイン【星】</original>
+  </item>
+  <item id="19485">
+    <original>オーフリングソード【森】</original>
+  </item>
+  <item id="19486">
+    <original>オーフリングソード【森】</original>
+  </item>
+  <item id="19487">
+    <original>オーフリングソード【森】</original>
+  </item>
+  <item id="19488">
+    <original>オーフリングソード【森】</original>
+  </item>
+  <item id="19489">
+    <original>オーフリングソード【森】</original>
+  </item>
+  <item id="19490">
+    <original>オーフリングシェル【森】</original>
+  </item>
+  <item id="19491">
+    <original>オーフリングシェル【森】</original>
+  </item>
+  <item id="19492">
+    <original>オーフリングシェル【森】</original>
+  </item>
+  <item id="19493">
+    <original>オーフリングシェル【森】</original>
+  </item>
+  <item id="19494">
+    <original>オーフリングシェル【森】</original>
+  </item>
+  <item id="19495">
+    <original>オーフリングセイズ【森】</original>
+  </item>
+  <item id="19496">
+    <original>オーフリングセイズ【森】</original>
+  </item>
+  <item id="19497">
+    <original>オーフリングセイズ【森】</original>
+  </item>
+  <item id="19498">
+    <original>オーフリングセイズ【森】</original>
+  </item>
+  <item id="19499">
+    <original>オーフリングセイズ【森】</original>
+  </item>
+  <item id="19500">
+    <original>カボチャヘルム</original>
+  </item>
+  <item id="19501">
+    <original>スーツジャケット</original>
+  </item>
+  <item id="19502">
+    <original>スーツパンツ</original>
+  </item>
+  <item id="19503">
+    <original>魔女っ娘コート</original>
+  </item>
+  <item id="19504">
+    <original>魔女っ娘タイツ</original>
+  </item>
+  <item id="19508">
+    <original>金貨袋</original>
+  </item>
+  <item id="19509">
+    <original>金貨袋</original>
+  </item>
+  <item id="19510">
+    <original>リム結晶</original>
+  </item>
+  <item id="19511">
+    <original>ブラッドオーブ</original>
+  </item>
+  <item id="19512">
+    <original>魔界村アーサーのヤリ</original>
+  </item>
+  <item id="19513">
+    <original>彩光のミラージュアーマー【零】</original>
+  </item>
+  <item id="19514">
+    <original>彩光のブライトアーマー【零】</original>
+  </item>
+  <item id="19517">
+    <original>黎明のミラージュアーマー【闇】</original>
+  </item>
+  <item id="19518">
+    <original>黎明のブライトアーマー【闇】</original>
+  </item>
+  <item id="19521">
+    <original>オーフリングガード【鉄】</original>
+  </item>
+  <item id="19522">
+    <original>オーフリングロッド【鉄】</original>
+  </item>
+  <item id="19562">
+    <original>使い古されたクレイグのパンツ</original>
+  </item>
+  <item id="19564">
+    <original>マギカクローク</original>
+  </item>
+  <item id="19565">
+    <original>マギカクローク</original>
+  </item>
+  <item id="19566">
+    <original>マギカクローク</original>
+  </item>
+  <item id="19567">
+    <original>マギカクローク</original>
+  </item>
+  <item id="19594">
+    <original>NPC用アインズ衣装</original>
+  </item>
+  <item id="19595">
+    <original>魔界村アーサー装備【鋼の鎧】</original>
+  </item>
+  <item id="19596">
+    <original>魔界村アーサー装備【黄金の鎧】</original>
+  </item>
+  <item id="19597">
+    <original>魔界村プリンセス装備</original>
+  </item>
+  <item id="19598">
+    <original>魔界村プリンセス装備【真紅】</original>
+  </item>
+  <item id="19599">
+    <original>魔界村アンダーウェア【男】</original>
+  </item>
+  <item id="19600">
+    <original>魔界村アンダーウェア【女】</original>
+  </item>
+  <item id="19601">
+    <original>ジャージ1</original>
+  </item>
+  <item id="19602">
+    <original>ジャージ2</original>
+  </item>
+  <item id="19603">
+    <original>着ぐるみウサギ1</original>
+  </item>
+  <item id="19604">
+    <original>着ぐるみウサギ2</original>
+  </item>
+  <item id="19605">
+    <original>パジャマ上1</original>
+  </item>
+  <item id="19606">
+    <original>パジャマ上2</original>
+  </item>
+  <item id="19607">
+    <original>パジャマ下1</original>
+  </item>
+  <item id="19608">
+    <original>パジャマ下2</original>
+  </item>
+  <item id="19609">
+    <original>ロリ系部屋着上1</original>
+  </item>
+  <item id="19610">
+    <original>ロリ系部屋着上2</original>
+  </item>
+  <item id="19611">
+    <original>ロリ系部屋着下1</original>
+  </item>
+  <item id="19612">
+    <original>ロリ系部屋着下2</original>
+  </item>
+  <item id="19613">
+    <original>黎明のミラージュアーマー【零】</original>
+  </item>
+  <item id="19614">
+    <original>黎明のブライトアーマー【零】</original>
+  </item>
+  <item id="19615">
+    <original>彩光のミラージュアーマー【闇】</original>
+  </item>
+  <item id="19616">
+    <original>彩光のブライトアーマー【闇】</original>
+  </item>
+  <item id="19617">
+    <original>マンドラゴランタン【銅】</original>
+  </item>
+  <item id="19618">
+    <original>白竜神殿・神官</original>
+  </item>
+  <item id="19619">
+    <original>白竜神殿・巫女</original>
+  </item>
+  <item id="19622">
+    <original>蒼嵐のミスリルシールド</original>
+  </item>
+  <item id="19623">
+    <original>シールドオブバンガード</original>
+  </item>
+  <item id="19624">
+    <original>蒼嵐のミスリルロッド</original>
+  </item>
+  <item id="19625">
+    <original>ロッドオブバンガード</original>
+  </item>
+  <item id="19631">
+    <original>自室3.0ハロウィン・キッチン料理</original>
+  </item>
+  <item id="19632">
+    <original>自室3.0ハロウィン・調理器具</original>
+  </item>
+  <item id="19633">
+    <original>自室3.0ハロウィン・ぬいぐるみ</original>
+  </item>
+  <item id="19634">
+    <original>自室3.0ハロウィン・庭具</original>
+  </item>
+  <item id="19635">
+    <original>自室3.0ハロウィン・壁紙</original>
+  </item>
+  <item id="19636">
+    <original>自室3.0ハロウィン・リビング料理</original>
   </item>
 </item_data>

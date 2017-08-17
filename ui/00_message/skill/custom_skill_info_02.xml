@@ -176,4 +176,17 @@ Can be activated even while in the air.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases the number of hits.&lt;/COL&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_160</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+気絶攻力が増加</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_161</key>
+    <original>【ＥＸ追加効果】
+空中で使用可能になる
+チャンス攻力が増加
+疲労攻力が増加</original>
+  </message>
 </resource>

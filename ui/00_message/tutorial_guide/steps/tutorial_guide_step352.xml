@@ -1,0 +1,28 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_608</key>
+    <original>&lt;COL 78f5ff&gt;《絶技の継承》が解放されました！&lt;/COL&gt;
+
+戦技の継承と同じく
+白竜にブラッドオーブを捧げることで
+各ジョブごとの能力を
+さらに上げられるようになりました
+
+一部の能力はティネス砦などから探索できる
+&lt;COL ffdc78&gt;《エピタフロード》&lt;/COL&gt;で条件を満たすことで
+習得可能となります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_609</key>
+    <original>また、絶技の継承では
+既存のカスタムスキルが強化された
+&lt;COL ffdc78&gt;《カスタムスキルEX》&lt;/COL&gt;の習得が可能です
+
+カスタムスキルEXには&lt;COL ffdc78&gt;剛&lt;/COL&gt;と&lt;COL ffdc78&gt;技&lt;/COL&gt;の2種類があり、
+各種類ごとに強化される能力が異なります
+
+なお、カスタムスキルEXには装備条件があり
+元となるカスタムスキルがＬＶ．9になれば技、
+ＬＶ．10になれば剛を装備可能です</original>
+  </message>
+</resource>

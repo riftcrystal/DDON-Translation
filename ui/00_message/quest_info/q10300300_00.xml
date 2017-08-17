@@ -1,0 +1,112 @@
+﻿<resource>
+  <message>
+    <key>q10300300_00_15</key>
+    <original>ピレモスに食糧を―《甘口》</original>
+  </message>
+  <message>
+    <key>q10300300_00_15</key>
+    <original>食糧不足に陥ったピレモスを支援する
+ために、食糧を背負ったキャリーと
+共にティネス砦を出発する</original>
+  </message>
+  <message>
+    <key>q10300300_00_3483</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3558</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3484</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+  <message>
+    <key>q10300300_00_3559</key>
+    <original>２番目の地点で目的をこなす（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3485</key>
+    <original>２番目の地点で会話する（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3560</key>
+    <original>３番目の地点で目的をこなす（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3486</key>
+    <original>３番目の地点で会話する（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3482</key>
+    <original>&lt;NPC 2802&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q10300300_00_3487</key>
+    <original>&lt;NPC 580&gt;に話しかけて砦に戻る</original>
+  </message>
+  <message>
+    <key>q10300300_00_3488</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3564</key>
+    <original>A地点でイベント（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3565</key>
+    <original>A地点で採取（仮）</original>
+  </message>
+  <message>
+    <key>q10300300_00_3566</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300300_00_3567</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300300_00_3574</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+  <message>
+    <key>q10300300_00_3568</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3575</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+  <message>
+    <key>q10300300_00_3569</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300300_00_3570</key>
+    <original>&lt;NPC 580&gt;の無事を確認する</original>
+  </message>
+  <message>
+    <key>q10300300_00_3576</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+  <message>
+    <key>q10300300_00_3571</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3572</key>
+    <original>&lt;NPC 580&gt;に報告する</original>
+  </message>
+  <message>
+    <key>q10300300_00_3573</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+  <message>
+    <key>q10300300_00_3577</key>
+    <original>&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300300_00_3578</key>
+    <original>&lt;NPC 580&gt;に話しかけて先へ進む</original>
+  </message>
+</resource>

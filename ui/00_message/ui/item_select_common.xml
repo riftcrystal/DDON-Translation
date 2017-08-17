@@ -1,0 +1,26 @@
+﻿<resource>
+  <message>
+    <key>item_sel_mandra_title</key>
+    <original>Mandragora Craft</original>
+  </message>
+  <message>
+    <key>item_sel_mandra_title_sub</key>
+    <original>マンドラゴラを育てる</original>
+  </message>
+  <message>
+    <key>item_sel_header_makable</key>
+    <original>作るもの</original>
+  </message>
+  <message>
+    <key>item_sel_empty_notice</key>
+    <original>項目がありません</original>
+  </message>
+  <message>
+    <key>item_sel_err_not_enough_material</key>
+    <original>素材が足りません</original>
+  </message>
+  <message>
+    <key>item_sel_guide_sell</key>
+    <original>売却</original>
+  </message>
+</resource>

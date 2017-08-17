@@ -1781,4 +1781,12 @@ Are you sure you want to exit configuration?</translation>
     <original>オートラン</original>
     <translation>Auto-run</translation>
   </message>
+  <message>
+    <key>OPTION_MSG_CHOICE_RQUEST</key>
+    <original>サブストーリークエスト</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_TALK_CAMERA</key>
+    <original>NPCに話しかけた時のカメラを主観にする</original>
+  </message>
 </resource>

@@ -57,9 +57,15 @@
     <key>SHOP_TEXT_ATTENTIONBUY_1</key>
     <original>以下の内容で購入します。よろしいですか？
 
-　アイテム：&lt;NAME ITEM&gt;
+　アイテム：&lt;VAL&gt;
 　合計個数：&lt;VAL&gt;個
-　購入価格：&lt;VAL GOLD&gt;</original>
+　購入価格：&lt;VAL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--以下の内容で購入します。よろしいですか？
+
+　アイテム：<NAME ITEM>
+　合計個数：<VAL>個
+　購入価格：<VAL GOLD>-->
     <translation>Are you sure you want to buy the following?
 
 　Item: &lt;NAME ITEM&gt;
@@ -90,9 +96,17 @@
 &lt;COL AA1414&gt;ジョブやレベル、装備状態が合わないため
 このアイテムを装備することはできません&lt;/COL&gt;
 
-　アイテム：&lt;NAME ITEM&gt;
+　アイテム：&lt;VAL&gt;
 　合計個数：&lt;VAL&gt;個
-　購入価格：&lt;VAL GOLD&gt;</original>
+　購入価格：&lt;VAL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--以下の内容で購入します。よろしいですか？
+<COL AA1414>ジョブやレベル、装備状態が合わないため
+このアイテムを装備することはできません</COL>
+
+　アイテム：<NAME ITEM>
+　合計個数：<VAL>個
+　購入価格：<VAL GOLD>-->
     <translation>Are you sure you want to buy the following?
 &lt;COL AA1414&gt;Due to your job or level you will
 not be able to equip this item.&lt;/COL&gt;
@@ -153,22 +167,6 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>dialog_sell_how_many</key>
     <original>いくつ売却しますか？</original>
-  </message>
-  <message>
-    <key>dialog_decide_buy</key>
-    <original>以下の内容で購入します。よろしいですか？
-
-　アイテム：&lt;NAME ITEM&gt;
-　合計個数：&lt;VAL&gt;個
-　購入価格：&lt;VAL GOLD&gt;</original>
-  </message>
-  <message>
-    <key>dialog_decide_sell</key>
-    <original>以下の内容で売却します。よろしいですか？
-
-　アイテム：&lt;NAME ITEM&gt;
-　合計個数：&lt;VAL&gt;個
-　売却価格：&lt;VAL GOLD&gt;</original>
   </message>
   <message>
     <key>SHOP_TEXT_BUY_TITLE</key>
@@ -244,5 +242,9 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>SHOP_TEXT_ERR_03</key>
     <original>プレイポイントが足りません</original>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ACHIEVE_NG</key>
+    <original>条件未達成</original>
   </message>
 </resource>

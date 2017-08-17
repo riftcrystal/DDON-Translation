@@ -154,4 +154,38 @@
     <key>cpf_entry_solo_pawn_02</key>
     <original>最大&lt;VAL&gt;人までエントリー可能</original>
   </message>
+  <message>
+    <key>cpf_job_emblem_title</key>
+    <original>継承の設定</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap01</key>
+    <original>護錬石を使用することで成功率をあげることができます
+1口につき＋1％、最大＋&lt;VAL&gt;％まで上昇できます
+（1口あたりの必要数は種類により異なります）</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap02</key>
+    <original>継承成功率：&lt;VAL&gt;％&lt;COL ffdc78&gt;＋&lt;VAL&gt;％&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap03</key>
+    <original>ジュエリー：</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap04</key>
+    <original>&lt;VAL&gt;（1口＝&lt;VAL&gt;）</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap05</key>
+    <original>口</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap06</key>
+    <original>使用数：&lt;COL ffdc78&gt;&lt;VAL&gt;&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>cpf_job_emblem_cap07</key>
+    <original>所持数：</original>
+  </message>
 </resource>

@@ -596,4 +596,20 @@ Are you sure you want to use
     <original>条件を満たしていないためアシスト状態で受注可</original>
     <translation>Because you do not meet the conditions, the quest will be accepted in assist mode.</translation>
   </message>
+  <message>
+    <key>QUEST_MSG_SEQUENCE_DUPLICATE</key>
+    <original>同一シーケンス内の別クエストを受注中のため受注不可</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_CG_ROYAL</key>
+    <original>サブストーリークエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_PLAYABLE_DATE</key>
+    <original>配信開始：</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_EQUIPMENT_RESTRICTIONS</key>
+    <original>装備制限あり</original>
+  </message>
 </resource>

@@ -74,4 +74,20 @@
     <original>パーティー内にパートナーポーンがいる</original>
     <translation>Partner Pawn in party</translation>
   </message>
+  <message>
+    <key>ORDER_CONDITION_1010</key>
+    <original>無し</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1011</key>
+    <original>装備のアイテムランクが&lt;QCND 0&gt;以上（平均IR）</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1012</key>
+    <original>アイテム＜&lt;QCND 0&gt;＞を&lt;QCND 1&gt;個所持</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1014</key>
+    <original>パーティプレイ不可（メインポーン&lt;QCND 0&gt;人同行可）</original>
+  </message>
 </resource>

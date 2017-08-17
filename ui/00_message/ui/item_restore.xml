@@ -1,0 +1,70 @@
+﻿<resource>
+  <message>
+    <key>item_restore_title</key>
+    <original>Item Restoration</original>
+  </message>
+  <message>
+    <key>item_restore_title_sub</key>
+    <original>アイテム復元</original>
+  </message>
+  <message>
+    <key>item_restore_header01</key>
+    <original>アイテム</original>
+  </message>
+  <message>
+    <key>item_restore_header02</key>
+    <original>復元費用</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_01</key>
+    <original>捨てた、または売却してしまった
+&lt;COL ffdc78&gt;特定のアイテム&lt;/COL&gt;を復元できます
+
+復元前のアイテムパラメータは
+正常な値が反映されていないことがあります
+復元することでパラメータも正常な値に復元されます</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_01_01</key>
+    <original>復元可能な特定アイテムを確認する</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_01_02</key>
+    <original>---</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02</key>
+    <original>以下の内容で復元します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　復元費用：&lt;VAL GOLD&gt;</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02_01</key>
+    <original>アイテムバッグに復元する</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02_02</key>
+    <original>保管ボックスに復元する</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02_03</key>
+    <original>格納チェストに復元する</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02_err01</key>
+    <original>費用が足りません</original>
+  </message>
+  <message>
+    <key>item_restore_dialog_02_err02</key>
+    <original>アイテム枠がいっぱいです</original>
+  </message>
+  <message>
+    <key>item_restore_announce_01</key>
+    <original>アイテムを復元しました</original>
+  </message>
+  <message>
+    <key>item_restore_item0</key>
+    <original>復元可能なアイテムがありません</original>
+  </message>
+</resource>

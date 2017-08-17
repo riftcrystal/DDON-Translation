@@ -1,0 +1,35 @@
+﻿<resource>
+  <message>
+    <key>q60300062_00_281</key>
+    <original>【参謀日課】盗賊アジト　情報収集</original>
+  </message>
+  <message>
+    <key>q60300062_00_281</key>
+    <original>依頼者から復興に関する
+問題解決に挑む</original>
+  </message>
+  <message>
+    <key>q60300062_00_3552</key>
+    <original>&lt;STG 1001&gt; で&lt;NPC 582&gt;と待ち合わせる</original>
+  </message>
+  <message>
+    <key>q60300062_00_3553</key>
+    <original>行方不明になった盗賊仲間を探しに向かう</original>
+  </message>
+  <message>
+    <key>q60300062_00_3554</key>
+    <original>敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60300062_00_3555</key>
+    <original>&lt;NPC 600&gt;の様子を確認する</original>
+  </message>
+  <message>
+    <key>q60300062_00_3556</key>
+    <original>新たに襲撃にきた敵を討伐する</original>
+  </message>
+  <message>
+    <key>q60300062_00_3557</key>
+    <original>&lt;STG 1001&gt; に戻り&lt;NPC 582&gt;に報告する</original>
+  </message>
+</resource>

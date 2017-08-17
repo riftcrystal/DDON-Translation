@@ -1,0 +1,140 @@
+﻿<resource>
+  <message>
+    <key>q10300302_00_17</key>
+    <original>ピレモスに食料を―</original>
+  </message>
+  <message>
+    <key>q10300302_00_17</key>
+    <original>ピレモスの食料危機を救うため
+食料を集めながらキャリーと共に
+村へ向かう</original>
+  </message>
+  <message>
+    <key>q10300302_00_3496</key>
+    <original>準備ができたら&lt;NPC 580&gt;に話しかける</original>
+  </message>
+  <message>
+    <key>q10300302_00_3497</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3503</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3498</key>
+    <original>襲い掛かる魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300302_00_3504</key>
+    <original>運んできた食料を&lt;NPC 2802&gt;に渡す</original>
+  </message>
+  <message>
+    <key>q10300302_00_3499</key>
+    <original>&lt;NPC 580&gt;と話し、ティネス砦に戻る</original>
+  </message>
+  <message>
+    <key>q10300302_00_3506</key>
+    <original>&lt;NPC 580&gt;と話す</original>
+  </message>
+  <message>
+    <key>q10300302_00_3500</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3501</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3502</key>
+    <original>&lt;NPC 580&gt;と話し、辺りを探索する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3594</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300302_00_3595</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3596</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300302_00_3597</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3598</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3599</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3600</key>
+    <original>&lt;NPC 580&gt;と話し、辺りを探索する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3601</key>
+    <original>&lt;NPC 580&gt;を守りながら辺りを探索する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3602</key>
+    <original>&lt;NPC 580&gt;と話し、ピレモスへ行く</original>
+  </message>
+  <message>
+    <key>q10300302_00_3603</key>
+    <original>&lt;NPC 580&gt;と話す</original>
+  </message>
+  <message>
+    <key>q10300302_00_3604</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3605</key>
+    <original>&lt;NPC 580&gt;と話し、次の目標地点を決める</original>
+  </message>
+  <message>
+    <key>q10300302_00_3606</key>
+    <original>&lt;NPC 580&gt;と話す</original>
+  </message>
+  <message>
+    <key>q10300302_00_3607</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3608</key>
+    <original>&lt;NPC 580&gt;と話す</original>
+  </message>
+  <message>
+    <key>q10300302_00_3609</key>
+    <original>&lt;NPC 580&gt;と話し、辺りを探索する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3610</key>
+    <original>&lt;NPC 580&gt;と話し、辺りを探索する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3611</key>
+    <original>遭遇した魔物から&lt;NPC 580&gt;を守る</original>
+  </message>
+  <message>
+    <key>q10300302_00_3612</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3706</key>
+    <original>未使用</original>
+  </message>
+  <message>
+    <key>q10300302_00_3767</key>
+    <original>&lt;NPC 580&gt;と話し、檻の状況を確認する</original>
+  </message>
+  <message>
+    <key>q10300302_00_3770</key>
+    <original>探索場所から避難する</original>
+  </message>
+</resource>

@@ -1,0 +1,296 @@
+﻿<resource>
+  <message>
+    <original>ねぇ！
+盗賊さんのアジトへ運ぶ食料
+準備できたから行きたいな！</original>
+  </message>
+  <message>
+    <original>うんうん！
+その言葉待ってたよ！</original>
+  </message>
+  <message>
+    <original>今にも飛び出しちゃうほどの勢いだから
+準備できたら声かけてね！</original>
+  </message>
+  <message>
+    <original>今回は無事に運べてよかったね！
+食料！</original>
+  </message>
+  <message>
+    <original>育ち盛りの盗賊さんたち――
+まだまだ食料必要みたいだし
+また手伝ってね！</original>
+  </message>
+  <message>
+    <original>いやー
+ほんといつもすまねぇ！</original>
+  </message>
+  <message>
+    <original>あっしら日陰者の盗賊に――
+ここまでしてくれるお方は
+他にはいねぇでさぁ！</original>
+  </message>
+  <message>
+    <original>&lt;NPC 580&gt;の姐さんに
+あっしのこの感謝の気持ち
+腹いっぱい伝えておいてくだせぇ！</original>
+  </message>
+  <message>
+    <original>お！
+いつでも行けるって顔してるね！</original>
+  </message>
+  <message>
+    <original>よーし行くよ！
+行先はどうする？</original>
+  </message>
+  <message>
+    <original>静かな街道（ふつう）</original>
+  </message>
+  <message>
+    <original>厳重な関所（難しい）</original>
+  </message>
+  <message>
+    <original>道沿いに行けば
+やばい魔物――いないよね？</original>
+  </message>
+  <message>
+    <original>やばくない魔物――
+なんているのかな？</original>
+  </message>
+  <message>
+    <original>盗賊さんのとこに行くには
+関所超えないとね</original>
+  </message>
+  <message>
+    <original>砦からも離れたとこにあるし
+人通りも少ないから
+注意して行かないとね！</original>
+  </message>
+  <message>
+    <original>まぁーこんなもんかなー
+よし！次だね</original>
+  </message>
+  <message>
+    <original>ふぅー
+なんとか盗賊さんとこまでたどり着いたねー</original>
+  </message>
+  <message>
+    <original>運んできた食料は渡しておくから
+“あっしさん”に一声かけてきてね！</original>
+  </message>
+  <message>
+    <original>ティネス砦に帰りましょう（仮）</original>
+  </message>
+  <message>
+    <original>林に行きます（仮）</original>
+  </message>
+  <message>
+    <original>風車に行きます（仮）</original>
+  </message>
+  <message>
+    <original>盗賊団のアジトに行きます（仮）</original>
+  </message>
+  <message>
+    <original>林に行きます（仮）</original>
+  </message>
+  <message>
+    <original>何が好き？（仮）</original>
+  </message>
+  <message>
+    <original>牛（仮）</original>
+  </message>
+  <message>
+    <original>豚（仮）</original>
+  </message>
+  <message>
+    <original>鶏（仮）</original>
+  </message>
+  <message>
+    <original>美味しいよねー（仮）</original>
+  </message>
+  <message>
+    <original>え、そうなの？（仮）</original>
+  </message>
+  <message>
+    <original>気が合うね！わたしも！（仮）</original>
+  </message>
+  <message>
+    <original>食料よ！
+食料の気配がするわ！</original>
+  </message>
+  <message>
+    <original>しっ！――聴こえる！
+食料が――
+アタシに語りかけてる！</original>
+  </message>
+  <message>
+    <original>（冷たい瓦礫の下だ――）</original>
+  </message>
+  <message>
+    <original>（身もすくむ崖際だ――）</original>
+  </message>
+  <message>
+    <original>（燃え盛る炎の中だ――）</original>
+  </message>
+  <message>
+    <original>瓦礫よ！
+あの瓦礫の下よ！</original>
+  </message>
+  <message>
+    <original>（ガラガラガラガラ！！）</original>
+  </message>
+  <message>
+    <original>おっ！</original>
+  </message>
+  <message>
+    <original>少しだけだけど
+食べられそうなものあったよ！</original>
+  </message>
+  <message>
+    <original>崖際よ！
+落っこちたら一巻の終わり――
+そんなとこに食料はあるのよ！</original>
+  </message>
+  <message>
+    <original>（ザク）</original>
+  </message>
+  <message>
+    <original>（ザクザク……）</original>
+  </message>
+  <message>
+    <original>（ザクザク……ザク）</original>
+  </message>
+  <message>
+    <original>（ザクザク……ザクザク……）</original>
+  </message>
+  <message>
+    <original>（ザクザク……ザクザク……ザク……）</original>
+  </message>
+  <message>
+    <original>（ザクザク……ザクザク……ザク……ザク…）</original>
+  </message>
+  <message>
+    <original>うーん――</original>
+  </message>
+  <message>
+    <original>ここだと思ったのになぁ――
+確かに聴こえたんだよ？声！</original>
+  </message>
+  <message>
+    <original>よぉぉぉぉおし！
+燃えて来たよ！</original>
+  </message>
+  <message>
+    <original>（メラメラメラメラ！！）</original>
+  </message>
+  <message>
+    <original>おおおおおお！
+これは――！
+アツアツの食料発見！</original>
+  </message>
+  <message>
+    <original>ねぇ――
+これって――ゴブリンたちのものかな？</original>
+  </message>
+  <message>
+    <original>“ナワバリ”ってやつ？
+このあたりにもいるんだねー</original>
+  </message>
+  <message>
+    <original>そう言えばあの子――
+いっつも腹ペコのゴブリンの子
+またどこかで倒れてないといいけど</original>
+  </message>
+  <message>
+    <original>もしかしたら――
+この近くにいるかもしれないし
+ちょっと探してみたいな</original>
+  </message>
+  <message>
+    <original>え――
+それらしい形跡は見つかったけど
+あの子はいなかった？</original>
+  </message>
+  <message>
+    <original>――そっか
+ちょっとだけ食料見つかっただけで
+こっちにも誰もいなかったよ</original>
+  </message>
+  <message>
+    <original>まぁ――きっとまたどこかで
+会えるよね？</original>
+  </message>
+  <message>
+    <original>う～ん　食べられそうなものは…</original>
+  </message>
+  <message>
+    <original>何かないかなぁ？</original>
+  </message>
+  <message>
+    <original>ねぇ！</original>
+  </message>
+  <message>
+    <original>えぇ！？</original>
+  </message>
+  <message>
+    <original>こっち来ないでってば！</original>
+  </message>
+  <message>
+    <original>これは食べられそうだね！</original>
+  </message>
+  <message>
+    <original>あ！見て見て！
+こんなとこにもブタさん！</original>
+  </message>
+  <message>
+    <original>そうねー
+“まずまずの食べごろ”ってところね！</original>
+  </message>
+  <message>
+    <original>ん？
+この形――この湿り気――
+これは――</original>
+  </message>
+  <message>
+    <original>“ブタの鼻占い”によると
+運勢は最高ね！
+行くっきゃないよ！例の場所！</original>
+  </message>
+  <message>
+    <original>※できれば選択肢実装したい</original>
+  </message>
+  <message>
+    <original>なんか――
+すっごくたくさんいるね
+でっかいネズミ――</original>
+  </message>
+  <message>
+    <original>いつか――
+この子たちを食べないといけない日が
+やって来ないといいけど――</original>
+  </message>
+  <message>
+    <original>なんか――ちょっと疲れちゃったな
+あんまり食料とれなかったけど
+そろそろ帰ろっか</original>
+  </message>
+  <message>
+    <original>魔物とも結構やりあって来たせいか
+食料落とす量減った気がしない？</original>
+  </message>
+  <message>
+    <original>もしかして――腕力ついた？
+それとも気合い？
+さすがに強そうなの相手だと無理だけどね！</original>
+  </message>
+  <message>
+    <original>もう！このへんゴツいのばっか！
+揃いも揃って
+マズそうな顔してるし！</original>
+  </message>
+  <message>
+    <original>ここ――“あっしさん”から聞いた
+特別な場所なんだー
+たくさん食料見つかるかも！</original>
+  </message>
+</resource>

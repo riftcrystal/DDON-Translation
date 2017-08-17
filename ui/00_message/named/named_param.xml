@@ -4230,8 +4230,290 @@
   <named_param id="1713">
     <original type="Replace">見たことのない感じのスライム</original>
   </named_param>
+  <named_param id="1714">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1715">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1716">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1717">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1718">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1719">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1720">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1721">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1722">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1723">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1724">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1725">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1738">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1739">
+    <original type="Prefix">先遣隊</original>
+  </named_param>
+  <named_param id="1740">
+    <original type="Prefix">悪しき竜軍甲兵</original>
+  </named_param>
+  <named_param id="1741">
+    <original type="Replace">第一悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1742">
+    <original type="Replace">第一悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1743">
+    <original type="Replace">第一増援部隊</original>
+  </named_param>
+  <named_param id="1744">
+    <original type="Replace">第二悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1745">
+    <original type="Replace">第二悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1746">
+    <original type="Replace">第二増援部隊</original>
+  </named_param>
+  <named_param id="1747">
+    <original type="Replace">第三悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1748">
+    <original type="Replace">第三悪しき竜軍本隊</original>
+  </named_param>
+  <named_param id="1749">
+    <original type="Replace">第三増援部隊</original>
+  </named_param>
+  <named_param id="1750">
+    <original type="Replace">謎のオーク</original>
+  </named_param>
+  <named_param id="1751">
+    <original type="Replace">捕虜の見張り</original>
+  </named_param>
+  <named_param id="1752">
+    <original type="Prefix">村を襲撃する</original>
+  </named_param>
+  <named_param id="1753">
+    <original type="Replace">占領軍の大将</original>
+  </named_param>
+  <named_param id="1754">
+    <original type="Prefix">砦を占拠する</original>
+  </named_param>
+  <named_param id="1755">
+    <original type="Replace">ロスギルを狙うオーク</original>
+  </named_param>
+  <named_param id="1756">
+    <original type="Replace">洞窟の主</original>
+  </named_param>
+  <named_param id="1757">
+    <original type="Prefix">行く手を阻む</original>
+  </named_param>
+  <named_param id="1758">
+    <original type="Replace">獣の将</original>
+  </named_param>
+  <named_param id="1759">
+    <original type="Prefix">砦を占拠する</original>
+  </named_param>
+  <named_param id="1760">
+    <original type="Replace">将の腰巾着</original>
+  </named_param>
+  <named_param id="1776">
+    <original type="Replace">砦外雑兵</original>
+  </named_param>
+  <named_param id="1777">
+    <original type="Replace">正門の番人</original>
+  </named_param>
+  <named_param id="1778">
+    <original type="Replace">砦外雑兵</original>
+  </named_param>
+  <named_param id="1779">
+    <original type="Replace">砦内雑兵</original>
+  </named_param>
+  <named_param id="1780">
+    <original type="Replace">敵陣旗に集う雑兵</original>
+  </named_param>
+  <named_param id="1781">
+    <original type="Replace">兵器・補強隊</original>
+  </named_param>
+  <named_param id="1782">
+    <original type="Replace">番兵</original>
+  </named_param>
+  <named_param id="1783">
+    <original type="Replace">陣地防衛隊長</original>
+  </named_param>
+  <named_param id="1784">
+    <original type="Replace">陣地防衛兵</original>
+  </named_param>
+  <named_param id="1785">
+    <original type="Replace">敵陣守護隊長</original>
+  </named_param>
+  <named_param id="1786">
+    <original type="Replace">敵陣守護兵</original>
+  </named_param>
+  <named_param id="1787">
+    <original type="Replace">砲撃場兵</original>
+  </named_param>
+  <named_param id="1788">
+    <original type="Replace">陣地防衛隊長</original>
+  </named_param>
+  <named_param id="1789">
+    <original type="Replace">陣地防衛兵</original>
+  </named_param>
+  <named_param id="1790">
+    <original type="Replace">陣地防衛隊長</original>
+  </named_param>
+  <named_param id="1791">
+    <original type="Replace">陣地防衛兵</original>
+  </named_param>
+  <named_param id="1792">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1793">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1794">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1795">
+    <original type="Replace">魔領進攻軍雑兵</original>
+  </named_param>
+  <named_param id="1796">
+    <original type="Replace">魔領進攻軍一等兵</original>
+  </named_param>
+  <named_param id="1797">
+    <original type="Replace">魔領進攻軍特攻兵</original>
+  </named_param>
+  <named_param id="1798">
+    <original type="Suffix">・エクストラ</original>
+  </named_param>
+  <named_param id="1799">
+    <original type="Suffix">・エクストラ</original>
+  </named_param>
+  <named_param id="1800">
+    <original type="Suffix">・エクストラ</original>
+  </named_param>
+  <named_param id="1801">
+    <original type="Suffix">・エクストラ</original>
+  </named_param>
+  <named_param id="1803">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1805">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1806">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1807">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1808">
+    <original type="Prefix">伝令士官</original>
+  </named_param>
+  <named_param id="1827">
+    <original type="Prefix">試練</original>
+  </named_param>
+  <named_param id="1828">
+    <original type="Prefix">拠点防衛</original>
+  </named_param>
+  <named_param id="1829">
+    <original type="Prefix">防衛士官</original>
+  </named_param>
+  <named_param id="1830">
+    <original type="Prefix"></original>
+  </named_param>
   <named_param id="1831">
     <original type="Replace">トリンの家畜</original>
+  </named_param>
+  <named_param id="1834">
+    <original type="Prefix">試練</original>
+  </named_param>
+  <named_param id="1836">
+    <original type="Prefix">処刑官</original>
+  </named_param>
+  <named_param id="1837">
+    <original type="Prefix">処刑長</original>
+  </named_param>
+  <named_param id="1838">
+    <original type="Prefix">大砲士官</original>
+  </named_param>
+  <named_param id="1839">
+    <original type="Prefix">襲撃</original>
+  </named_param>
+  <named_param id="1840">
+    <original type="Prefix">メダルコレクター</original>
+  </named_param>
+  <named_param id="1846">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1847">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1848">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1849">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1850">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1851">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1859">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1861">
+    <original type="Prefix">従属</original>
+  </named_param>
+  <named_param id="1865">
+    <original type="Replace">関所の番兵</original>
+  </named_param>
+  <named_param id="1893">
+    <original type="Replace">魔領進攻軍二等兵</original>
+  </named_param>
+  <named_param id="1894">
+    <original type="Replace">魔領進攻軍一等兵</original>
+  </named_param>
+  <named_param id="1895">
+    <original type="Replace">魔領進攻軍兵長</original>
+  </named_param>
+  <named_param id="1896">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1897">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1898">
+    <original type="Prefix">占領軍の</original>
+  </named_param>
+  <named_param id="1899">
+    <original type="Replace">ロスギルを狙うマンティコア</original>
+  </named_param>
+  <named_param id="1900">
+    <original type="Replace">砦を占拠する戦甲マンティコア</original>
+  </named_param>
+  <named_param id="1901">
+    <original type="Prefix">砦の番兵</original>
   </named_param>
   <named_param id="1905">
     <original type="Prefix">10ｍ級</original>
@@ -4244,5 +4526,287 @@
   <named_param id="1907">
     <original type="Prefix">超大型</original>
     <translation type="Prefix">Colossal </translation>
+  </named_param>
+  <named_param id="1926">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1927">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1928">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1929">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1930">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1931">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1932">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1933">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1934">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1935">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1936">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1937">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1938">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1939">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1940">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1941">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1942">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1943">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1944">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1945">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1946">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1947">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1948">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1949">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1950">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1953">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1954">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1957">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1958">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1961">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1962">
+    <original type="Prefix">未使用</original>
+  </named_param>
+  <named_param id="1965">
+    <original type="Prefix">未使用</original>
+  </named_param>
+  <named_param id="1966">
+    <original type="Prefix">未使用</original>
+  </named_param>
+  <named_param id="1967">
+    <original type="Prefix">未使用</original>
+  </named_param>
+  <named_param id="1968">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1969">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1970">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1971">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1974">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1975">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1978">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1979">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1982">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1983">
+    <original type="Replace">獣の将</original>
+  </named_param>
+  <named_param id="1986">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1987">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1988">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1989">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1990">
+    <original type="Replace">正門の番人</original>
+  </named_param>
+  <named_param id="1991">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="1992">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1995">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1996">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1999">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2000">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2003">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2004">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2016">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2017">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2018">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2019">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2020">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2021">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2022">
+    <original type="Prefix">強勢</original>
+  </named_param>
+  <named_param id="2023">
+    <original type="Replace">砦内残党兵</original>
+  </named_param>
+  <named_param id="2024">
+    <original type="Replace">砦内残党兵</original>
+  </named_param>
+  <named_param id="2041">
+    <original type="Prefix">メダルオーナー</original>
+  </named_param>
+  <named_param id="2045">
+    <original type="Prefix">はぐれ</original>
+  </named_param>
+  <named_param id="2046">
+    <original type="Prefix">脱走した白い</original>
+  </named_param>
+  <named_param id="2047">
+    <original type="Replace">ゴブリン一家のボス</original>
+  </named_param>
+  <named_param id="2048">
+    <original type="Replace">ゴブリン一家の下っ端</original>
+  </named_param>
+  <named_param id="2049">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2060">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2061">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2062">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2063">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2065">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2066">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2067">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2076">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2077">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2078">
+    <original type="None"></original>
+  </named_param>
+  <named_param id="2079">
+    <original type="Prefix">王家用4</original>
+  </named_param>
+  <named_param id="2080">
+    <original type="Prefix">王家用5</original>
+  </named_param>
+  <named_param id="2081">
+    <original type="Prefix">王家用6</original>
+  </named_param>
+  <named_param id="2082">
+    <original type="Prefix">王家用7</original>
+  </named_param>
+  <named_param id="2083">
+    <original type="Prefix">王家用8</original>
+  </named_param>
+  <named_param id="2084">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2085">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2086">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2087">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2088">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2089">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2090">
+    <original type="Prefix"></original>
   </named_param>
 </named_params>

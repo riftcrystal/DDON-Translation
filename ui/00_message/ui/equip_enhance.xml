@@ -1,0 +1,241 @@
+﻿<resource>
+  <message>
+    <key>eqenhance_title</key>
+    <original>Custom Made</original>
+  </message>
+  <message>
+    <key>eqenhance_title_sub</key>
+    <original>武具のカスタムメイド</original>
+  </message>
+  <message>
+    <key>eqrecycle_title</key>
+    <original>Resource Disassembly</original>
+  </message>
+  <message>
+    <key>eqrecycle_title_sub</key>
+    <original>武具の資源分解</original>
+  </message>
+  <message>
+    <key>eqenhance_weapon</key>
+    <original>武器</original>
+  </message>
+  <message>
+    <key>eqenhance_armor</key>
+    <original>防具</original>
+  </message>
+  <message>
+    <key>eqenhance_pack_set_00</key>
+    <original>Fusion Bonus 1</original>
+  </message>
+  <message>
+    <key>eqenhance_pack_set_01</key>
+    <original>Fusion Bonus 2</original>
+  </message>
+  <message>
+    <key>eqenhance_pack_set_02</key>
+    <original>Special Bonus</original>
+  </message>
+  <message>
+    <key>eqenhance_start_evolution</key>
+    <original>カスタム開始</original>
+  </message>
+  <message>
+    <key>eqenhance_success_example</key>
+    <original>主な成功例</original>
+  </message>
+  <message>
+    <key>eqenhance_err_enhance_num</key>
+    <original>この鍛え方には初回、またはリトライ限定の使用制限があります
+対象のアイテムには使用できません</original>
+  </message>
+  <message>
+    <key>eqenhance_err_not_enough_money</key>
+    <original>費用が不足しています</original>
+  </message>
+  <message>
+    <key>eqenhance_err_not_enough_item</key>
+    <original>必要アイテムが不足しています</original>
+  </message>
+  <message>
+    <key>eqenhance_header_pack_list</key>
+    <original>リスト</original>
+  </message>
+  <message>
+    <key>eqenhance_header_pack_detail</key>
+    <original>付与されるステータスは、以下の中から抽選されます</original>
+  </message>
+  <message>
+    <key>eqenhance_order_header_item</key>
+    <original>Equip Item</original>
+  </message>
+  <message>
+    <key>eqenhance_evolution</key>
+    <original>Limit Bonus</original>
+  </message>
+  <message>
+    <key>eqenhance_limit_evolution</key>
+    <original>Fusion Bonus</original>
+  </message>
+  <message>
+    <key>eqenhance_retry_only</key>
+    <original>リトライ限定</original>
+  </message>
+  <message>
+    <key>eqenhance_first_only</key>
+    <original>初回限定</original>
+  </message>
+  <message>
+    <key>eqenhance_order_pack_type</key>
+    <original>鍛え方</original>
+  </message>
+  <message>
+    <key>eqenhance_check_detail</key>
+    <original>詳細を確認する</original>
+  </message>
+  <message>
+    <key>eqenhance_confirm_overwrite</key>
+    <original>すでにステータスが付与されています
+上書きして新たにカスタムしてもよろしいですか？</original>
+  </message>
+  <message>
+    <key>eqenhance_confirm_not_have_pre_weapon</key>
+    <original>&lt;COL aa1414&gt;解放条件アイテムを所持していません&lt;/COL&gt;
+解放条件アイテムを所持していると
+付与されるステータスがさらに増加します
+
+このままカスタム開始してもよろしいですか？</original>
+  </message>
+  <message>
+    <key>eqenhance_confirm_enhance</key>
+    <original>カスタム開始します。よろしいですか？</original>
+  </message>
+  <message>
+    <key>eqenhance_success</key>
+    <original>成功</original>
+  </message>
+  <message>
+    <key>eqrecycle_err_no_recycle_count</key>
+    <original>残り回数がありません</original>
+  </message>
+  <message>
+    <key>eqrecycle_err_cant_use_reset</key>
+    <original>今は使用できません</original>
+  </message>
+  <message>
+    <key>eqrecycle_confirm_recycle</key>
+    <original>&lt;NAME ITEM&gt;の分解を開始します
+分解を行うことで下記の恩恵を得られます
+受け取り先を選択してください</original>
+  </message>
+  <message>
+    <key>eqrecycle_lot_item</key>
+    <original>抽選アイテムあり（%d個）</original>
+  </message>
+  <message>
+    <key>eqrecycle_err_not_enough_empty</key>
+    <original>アイテムが受け取れない可能性があります
+アイテム枠を十分に空けてください</original>
+  </message>
+  <message>
+    <key>eqrecycle_receive_item_title</key>
+    <original>以下のアイテムを獲得しました</original>
+  </message>
+  <message>
+    <key>eqrecycle_confirm_sell</key>
+    <original>以下の内容で売却します。よろしいですか？
+
+アイテム：&lt;NAME ITEM&gt;
+合計個数：&lt;VAL&gt;個
+売却価格：&lt;VAL GOLD&gt;</original>
+  </message>
+  <message>
+    <key>eqrecycle_recycle_count_over</key>
+    <original>本日の分解はこれで終了です
+次回のリセット時間までお待ちいただくか
+&lt;UNTN GS&gt;で、直ちに残り回数をリセットできます
+
+（リセット時間はプレイマニュアルをご覧ください）</original>
+  </message>
+  <message>
+    <key>eqrecycle_confirm_reset</key>
+    <original>&lt;COL ffdc78&gt;&lt;UNTN GS&gt;&lt;VAL GS&gt;&lt;/COL&gt;で残り回数をリセットします
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>eqrecycle_notice_reset</key>
+    <original>残り回数をリセットしました</original>
+  </message>
+  <message>
+    <key>eqenhance_wallet_gs</key>
+    <original>&lt;COL ffdc78&gt;&lt;UNTN GS&gt; &lt;VAL GS&gt;&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>eqenhance_condition</key>
+    <original>作業条件</original>
+  </message>
+  <message>
+    <key>eqenhance_need_item</key>
+    <original>必要アイテム</original>
+  </message>
+  <message>
+    <key>eqenhance_special_evolution</key>
+    <original>Special Bonus</original>
+  </message>
+  <message>
+    <key>eqenhance_sp_condition_item</key>
+    <original>解放条件アイテム</original>
+  </message>
+  <message>
+    <key>eqenhance_sp_condition_notice</key>
+    <original>※解放条件アイテムは消費しません</original>
+  </message>
+  <message>
+    <key>eqenhance_sp_done</key>
+    <original>解放済み</original>
+  </message>
+  <message>
+    <key>eqenhance_omake</key>
+    <original>特典</original>
+  </message>
+  <message>
+    <key>eqenhance_omake_notice</key>
+    <original>この作業条件をご利用いただくと、特典として
+&lt;COL ffdc78&gt;&lt;UNTN MS&gt; &lt;VAL MS&gt;をプレゼント&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>eqenhance_evolution_done</key>
+    <original>カスタム完了しました</original>
+  </message>
+  <message>
+    <key>eqenhance_no_equip_notice</key>
+    <original>カスタムできる装備がありません</original>
+  </message>
+  <message>
+    <key>eqrecycle_no_equip_notice</key>
+    <original>分解できる装備がありません</original>
+  </message>
+  <message>
+    <key>eqenhance_txtguide_01</key>
+    <original>リミット解除する装備を選択してください</original>
+  </message>
+  <message>
+    <key>eqenhance_txtguide_02</key>
+    <original>極限合成する装備を選択してください</original>
+  </message>
+  <message>
+    <key>eqenhance_txtguide_03</key>
+    <original>鍛え方を選択してください</original>
+  </message>
+  <message>
+    <key>eqenhance_txtguide_04</key>
+    <original>「&lt;VAL&gt;」の詳細</original>
+  </message>
+  <message>
+    <key>eqrecycle_txtguide_01</key>
+    <original>資源分解する装備を選択してください</original>
+  </message>
+  <message>
+    <key>eqenhance_need_gs_text</key>
+    <original>&lt;COL ffdc78&gt;&lt;UNTN GS&gt; &lt;VAL GS&gt;&lt;/COL&gt;が必要です（所持数：&lt;HAVE GS&gt;）</original>
+  </message>
+</resource>

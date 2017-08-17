@@ -69,4 +69,12 @@
     <original>流盾翔</original>
     <translation>Flowing Shield Spiral</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_154</key>
+    <original>刀牙昇斬 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_155</key>
+    <original>刀牙昇斬 技</original>
+  </message>
 </resource>
