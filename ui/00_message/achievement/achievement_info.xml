@@ -6505,30 +6505,38 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2369</key>
     <original>セイレーンを50体討伐</original>
+    <translation>Kill 50 Sirens</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2370</key>
     <original>狂侵グリフィンを50体討伐</original>
+    <translation>Kill 50 Mad Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2371</key>
     <original>狂侵デーモンを50体討伐</original>
+    <translation>Kill 50 Mad Daemons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
     <original>フィンダーエントを50体討伐</original>
+    <translation>Kill 50 Finder Ents</translation>
+    <!-- Needs Revision, not sure if Finder Ents is correct -->
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2373</key>
     <original>黒騎士を1体討伐</original>
+    <translation>Kill a Black Knight</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2374</key>
     <original>黒騎士を10体討伐</original>
+     <translation>Kill 10 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2375</key>
     <original>黒騎士を100体討伐</original>
+    <translation>Kill 100 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
@@ -6667,50 +6675,62 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2537</key>
     <original>エラン水林で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Elan Water Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2538</key>
     <original>エラン水林で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Elan Water Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2539</key>
     <original>ファーラナ平原で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Farana Plains</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2540</key>
     <original>ファーラナ平原で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Farana Plains</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2541</key>
     <original>モロー樹林で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Morrow Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2542</key>
     <original>モロー樹林で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Morrow Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2543</key>
     <original>キンガル峡谷で&lt;ITEM 16522&gt;を15個発見</original>
+    <translation>Find 15 &lt;ITEM 16522&gt; in Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2544</key>
     <original>キンガル峡谷で&lt;ITEM 16522&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 16522&gt; in Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2545</key>
     <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計30個発見</original>
+    <translation>Found a total of 30&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2546</key>
     <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計60個発見</original>
+    <translation>Found a total of 60&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2547</key>
     <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計90個発見</original>
+    <translation>Found a total of 90&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2548</key>
     <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計120個発見</original>
+    <translation>Found a total of 120&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2549</key>
