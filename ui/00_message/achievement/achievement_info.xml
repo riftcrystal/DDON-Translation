@@ -6617,17 +6617,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2531</key>
     <original>パートナーポーンの好感度をより上げた</original>
-    <translation>Raise more the affection of the Partner Pawn</translation>
+    <translation>Raise the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2532</key>
     <original>パートナーポーンの好感度をぐっと上げた</original>
-    <translation>Further raise more the affection of the Partner Pawn</translation>
+    <translation>Further raise the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2533</key>
     <original>パートナーポーンの好感度をなおいっそう上げた</original>
-    <translation>Even further raise more the affection of the Partner Pawn</translation>
+    <translation>Even further raise the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2534</key>
@@ -6647,49 +6647,62 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2537</key>
     <original>エラン水林で精霊の火種を15個発見</original>
+    <translation>Find 15 Spiritual Flames in Elan Water Grove</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2538</key>
     <original>エラン水林で精霊の火種を30個発見</original>
+    <translation>Find 30 Spiritual Flames in Elan Water Grove</translation>
+  </message>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2539</key>
     <original>ファーラナ平原で精霊の火種を15個発見</original>
+    <translation>Find 15 Spiritual Flames in Farana Plains</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2540</key>
     <original>ファーラナ平原で精霊の火種を30個発見</original>
+    <translation>Find 30 Spiritual Flames in Farana Plains</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2541</key>
     <original>モロー樹林で精霊の火種を15個発見</original>
+    <translation>Find 15 Spiritual Flames in Morrow Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2542</key>
     <original>モロー樹林で精霊の火種を30個発見</original>
+     <translation>Find 30 Spiritual Flames in Morrow Forest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2543</key>
     <original>キンガル峡谷で精霊の火種を15個発見</original>
+    <translation>Find 15 Spiritual Flames in Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2544</key>
     <original>キンガル峡谷で精霊の火種を30個発見</original>
+    <translation>Find 30 Spiritual Flames in Kingal Canyon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2545</key>
     <original>精霊の火種を累計30個発見</original>
+    <translation>Found a total of 30 Spiritual Flames</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2546</key>
     <original>精霊の火種を累計60個発見</original>
+    <translation>Found a total of 60 Spiritual Flames</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2547</key>
     <original>精霊の火種を累計90個発見</original>
+    <translation>Found a total of 90 Spiritual Flames</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2548</key>
     <original>精霊の火種を累計120個発見</original>
+    <translation>Found a total of 120 Spiritual Flames</translation>
   </message>
 </resource>
