@@ -9,6 +9,12 @@
 
 &lt;COL ffdc78&gt;レベル（Ｌｖ）が高い敵ほど強力です&lt;/COL&gt;
 自分のレベルと合った敵と戦いましょう</original>
+    <translation>In Lestania there are many roaming monsters
+they  move in groups and attack everyone indiscriminately.
+And at night or in rain, monsters that use poison or magic appear.
+
+&lt;COL ffdc78&gt;Monsters with higher levels(Lv) are more powerful. &lt;/COL&gt;
+Fight against enemies that match your level.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_79</key>
@@ -21,5 +27,14 @@
 狙うべき弱点部位が異なります&lt;/COL&gt;
 敵の特性を知り、弱点を突くことで
 より戦闘は有利になるでしょう</original>
+    <translation>As you defeat monsters you will level up.
+&lt;COL ffdc78&gt;You will get Experience Points(XP) per kill.&lt;/COL&gt;
+And sometimes monsters will drop Items.
+Fight monsters aggressively!
+
+&lt;COL ffdc78&gt;Monsters have attributes and weaknesses
+Each monster is different as are their weaknesses.&lt;/COL&gt;
+Know your enemy and target their weak points.
+Doing so will give you an advantage.</translation>
   </message>
 </resource>

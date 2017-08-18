@@ -58,6 +58,7 @@
   </item>
   <item id="48">
     <original>オーク将の錆び鍵</original>
+    <translation>Orc General's Rusty Key</translation>
   </item>
   <item id="49">
     <original>ドリード城主の鍵</original>
@@ -57430,9 +57431,11 @@
   </item>
   <item id="19236">
     <original>初代王の兜</original>
+    <translation>Helm of the First King</translation>
   </item>
   <item id="19246">
     <original>初代王の篭手</original>
+    <translation>Gauntlets of the First King</translation>
   </item>
   <item id="19258">
     <original>炎襲 LV.4</original>

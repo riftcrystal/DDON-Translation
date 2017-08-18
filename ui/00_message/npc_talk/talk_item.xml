@@ -22,13 +22,16 @@
   <message>
     <key>NPC_TALK_ITEM_14</key>
     <original>依頼を受ける</original>
+    <translation>Accept Request</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_15</key>
     <original>詳細を聞く</original>
+    <translation>Hear Details</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_16</key>
     <original>依頼を受けない</original>
+    <translation>Decline Request</translation>
   </message>
 </resource>

@@ -10,6 +10,15 @@
 
 配信中のワールドクエストやイベントなど
 開催情報はここをチェックしましょう</original>
+    <translation>&lt;COL ffdc78&gt;"Lestania News"
+Things happening in all of Lestania are published here,
+this is the Guide to Adventure of this World.&lt;/COL&gt;
+
+You can read it by talking to Seneka or from the [&lt;KC UI_GAME_MENU&gt;]
+&lt;COL ffdc78&gt;"Quest"&lt;/COL&gt; menu.
+
+You can check information about 
+available "World Quests" and "Grand Quests".</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_99</key>
@@ -23,5 +32,14 @@
 得られるもので、内容はデイリーで変化します
 
 レスタニアニュースは日々チェックしましょう</original>
+    <translation>&lt;COL ffdc78&gt;You can do a "Quick Party"
+if you want to play a quest with other people,
+You can also teleport near the Quest Area.&lt;/COL&gt;
+
+Also on the menu there is &lt;COL ffdc78&gt;"Today's Party Bonus".&lt;/COL&gt;
+This is a bonus gained when you clear a quest with a party.
+The bonus changes every day!
+   	
+Be sure to check the "Lestania News" daily!</translation>
   </message>
 </resource>

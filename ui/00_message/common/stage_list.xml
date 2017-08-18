@@ -643,6 +643,8 @@
   <message>
     <key>STAGE_NAME_128</key>
     <original>旧鉱泉湧き口</original>
+    <translation>Old Spring</translation>
+    <!-- Needs Revision -->
   </message>
   <message>
     <key>STAGE_NAME_129</key>
@@ -1109,6 +1111,7 @@
   <message>
     <key>STAGE_NAME_231</key>
     <original>旧水汲み場</original>
+    <translation>Old Water Fountain</translation>
   </message>
   <message>
     <key>STAGE_NAME_232</key>
@@ -1186,10 +1189,14 @@
   <message>
     <key>STAGE_NAME_290</key>
     <original>青静の遺跡</original>
+    <translation>Blue Stillness Ruins</translation>
+    <!--Needs Revision, not sure if its Aoi or Blue Stillness-->
   </message>
   <message>
     <key>STAGE_NAME_293</key>
     <original>冥き大地下墓地</original>
+    <translation>Dark Tree Great Catacombs</translation>
+    <!-- Needs Revision, not sure if Dark Tree is a correct translation-->
   </message>
   <message>
     <key>STAGE_NAME_300</key>
@@ -1200,10 +1207,13 @@
   <message>
     <key>STAGE_NAME_303</key>
     <original>パブ用ステージ</original>
+    <translation>Pubs' Stage</translation>
   </message>
   <message>
     <key>STAGE_NAME_304</key>
     <original>エンディング用部屋</original>
+    <translation>Ending Office</translation>
+    <!--Needs Revision-->
   </message>
   <message>
     <key>STAGE_NAME_305</key>
@@ -1514,18 +1524,22 @@
   <message>
     <key>STAGE_NAME_387</key>
     <original>追憶の枝</original>
+    <translation>Branch of Remembrance</translation>
   </message>
   <message>
     <key>STAGE_NAME_388</key>
     <original>懐旧の枝</original>
+    <translation>Branch of Remembrance</translation>
   </message>
   <message>
     <key>STAGE_NAME_389</key>
     <original>悔恨の枝</original>
+    <translation>Branch of Remorse</translation>
   </message>
   <message>
     <key>STAGE_NAME_390</key>
     <original>静慮の枝</original>
+    <translation>Branch of Contemplation</translation>
   </message>
   <message>
     <key>STAGE_NAME_397</key>
@@ -1545,14 +1559,17 @@
   <message>
     <key>STAGE_NAME_402</key>
     <original>緑夜の庵</original>
+    <translation>Green Nights Retreat</translation>
   </message>
   <message>
     <key>STAGE_NAME_403</key>
     <original>ノーザナス侵林</original>
+    <translation>Northern Fores</translation>
   </message>
   <message>
     <key>STAGE_NAME_404</key>
     <original>ディプニエ大侵林</original>
+    <translation>Deenan Great Fores</translation>
   </message>
   <message>
     <key>STAGE_NAME_405</key>
@@ -1610,6 +1627,7 @@
   <message>
     <key>STAGE_NAME_417</key>
     <original>侵鬼の洞穴</original>
+    <translation>Invading Demons Den</translation>
   </message>
   <message>
     <key>STAGE_NAME_418</key>
@@ -1630,6 +1648,7 @@
   <message>
     <key>STAGE_NAME_422</key>
     <original>ハディン地下古道</original>
+    <translation>Hadin Underground Old Road</translation>
   </message>
   <message>
     <key>STAGE_NAME_423</key>
@@ -1690,6 +1709,7 @@
   <message>
     <key>STAGE_NAME_434</key>
     <original>ダナ族長の家</original>
+    <translation>Dannas' Patriarch House</translation>
   </message>
   <message>
     <key>STAGE_NAME_435</key>
@@ -1712,6 +1732,7 @@
   <message>
     <key>STAGE_NAME_440</key>
     <original>タラーテ集水路</original>
+    <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_442</key>
@@ -1761,6 +1782,7 @@
   <message>
     <key>STAGE_NAME_454</key>
     <original>タラーテ集水路</original>
+    <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_455</key>
@@ -1771,6 +1793,7 @@
   <message>
     <key>STAGE_NAME_458</key>
     <original>歪みの樹冠</original>
+    <translation>Warped Canopy</translation>
   </message>
   <message>
     <key>STAGE_NAME_459</key>
@@ -1780,6 +1803,7 @@
   <message>
     <key>STAGE_NAME_460</key>
     <original>クラン拠点ボードクエスト用検証部屋</original>
+    <translation>Clan Hall Board Quest Verification Room</translation>
   </message>
   <message>
     <key>STAGE_NAME_461</key>

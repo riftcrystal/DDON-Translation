@@ -32,7 +32,7 @@
   <message>
     <key>TUTORIAL_33</key>
     <original>戦うべき敵</original>
-    <translation>Enemies to be Fought</translation>
+    <translation>Fighting Monsters</translation>
   </message>
   <message>
     <key>TUTORIAL_35</key>
@@ -417,10 +417,12 @@
   <message>
     <key>TUTORIAL_175</key>
     <original>戦徒の契り</original>
+    <translation>Right of Pledge</translation>
   </message>
   <message>
     <key>TUTORIAL_176</key>
     <original>着飾り装備</original>
+    <translation>Costumes</translation>
   </message>
   <message>
     <key>TUTORIAL_177</key>
@@ -530,10 +532,12 @@
   <message>
     <key>TUTORIAL_229</key>
     <original>ロストポーンの救出</original>
+    <translation>Pawn Rescue</translation>
   </message>
   <message>
     <key>TUTORIAL_230</key>
     <original>便利なフリーマーカー</original>
+    <translation>Use of Free Markers</translation>
   </message>
   <message>
     <key>TUTORIAL_231</key>
@@ -548,6 +552,7 @@
   <message>
     <key>TUTORIAL_233</key>
     <original>魔物警戒スポットの強敵</original>
+    <translation>Monster Warning Message</translation>
   </message>
   <message>
     <key>TUTORIAL_234</key>
@@ -562,6 +567,7 @@
   <message>
     <key>TUTORIAL_236</key>
     <original>エリアマスターの支援品</original>
+    <translation>Area Master's Support Goods</translation>
   </message>
   <message>
     <key>TUTORIAL_237</key>
@@ -591,6 +597,7 @@
   <message>
     <key>TUTORIAL_242</key>
     <original>未知なるジョブへの挑戦</original>
+    <translation>Changing Jobs</translation>
   </message>
   <message>
     <key>TUTORIAL_243</key>
@@ -615,6 +622,7 @@
   <message>
     <key>TUTORIAL_250</key>
     <original>メインクエストのボス戦時の注意点</original>
+    <translation>Notes on Main Quest Boss Monsters</translation>
   </message>
   <message>
     <key>TUTORIAL_252</key>
@@ -627,6 +635,7 @@
   <message>
     <key>TUTORIAL_255</key>
     <original>鑑定交換</original>
+	<translation>Appraisal Exchange</translation>
   </message>
   <message>
     <key>TUTORIAL_257</key>
@@ -635,10 +644,12 @@
   <message>
     <key>TUTORIAL_258</key>
     <original>覚者の自室</original>
+	<translation>Arisen's Room</translation>
   </message>
   <message>
     <key>TUTORIAL_261</key>
     <original>鑑定ジュエリー</original>
+	<translation>Appraising Jewelry</translation>
   </message>
   <message>
     <key>TUTORIAL_264</key>
@@ -647,10 +658,12 @@
   <message>
     <key>TUTORIAL_266</key>
     <original>侵食魔について：小型敵</original>
+    <translation>Infected: Small Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_267</key>
     <original>汚染植物について</original>
+    <translation>Infected Plants</translation>
   </message>
   <message>
     <key>TUTORIAL_268</key>
@@ -670,6 +683,7 @@
   <message>
     <key>TUTORIAL_275</key>
     <original>侵食魔について：大型敵 </original>
+	<translation>Infected: Large Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_278</key>
@@ -694,6 +708,7 @@
   <message>
     <key>TUTORIAL_293</key>
     <original>侵食の大災 序説　到達</original>
+    <translation>An Introduction to the Infected</translation>
   </message>
   <message>
     <key>TUTORIAL_294</key>
@@ -702,6 +717,7 @@
   <message>
     <key>TUTORIAL_295</key>
     <original>新エリア解放</original>
+    <translation>New Area Release</translation>
   </message>
   <message>
     <key>TUTORIAL_297</key>
@@ -711,10 +727,12 @@
   <message>
     <key>TUTORIAL_299</key>
     <original>ポーン遠征隊</original>
+    <translation>Pawn Expeditions</translation>
   </message>
   <message>
     <key>TUTORIAL_301</key>
     <original>辺境の礎</original>
+    <translation>Frontier Foundation</translation>
   </message>
   <message>
     <key>TUTORIAL_302</key>
@@ -756,6 +774,7 @@
   <message>
     <key>TUTORIAL_317</key>
     <original>クランレベルとクラン拠点</original>
+    <translation>Clan Levels and Clan Halls</translation>
   </message>
   <message>
     <key>TUTORIAL_320</key>
@@ -794,6 +813,7 @@
   <message>
     <key>TUTORIAL_330</key>
     <original>クランダンジョン</original>
+    <translation>Clan Dungeons</translation>
   </message>
   <message>
     <key>TUTORIAL_332</key>

@@ -127,10 +127,13 @@
   <message>
     <key>RELEASE_CONTENT_29</key>
     <original>戦徒の契り</original>
+    <translation>Right of Pledge</translation>
+    <!--Needs revision, I used Right of Pledge but it could aslo be something like Pledge of Battle-->
   </message>
   <message>
     <key>RELEASE_CONTENT_32</key>
     <original>冒険仲介係</original>
+    <translation>Adventure Broker</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_33</key>
@@ -205,26 +208,32 @@
   <message>
     <key>RELEASE_CONTENT_51</key>
     <original>スピリットランサーのジョブ修練</original>
+    <translation>Spirit Lancer job Training</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_52</key>
     <original>スピリットランサーのジョブオーブツリー</original>
+    <translation>Spirit Lancer Job Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_53</key>
     <original>モロー樹林ワールドクエスト</original>
+    <translation>Morrow Forest World Quest</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_54</key>
     <original>エラン水林ワールドクエスト</original>
+    <translation>Elan Water Grove World Quest</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_55</key>
     <original>ファーラナ平原ワールドクエスト</original>
+    <translation>Farana Plains World Quest</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_56</key>
     <original>キンガル峡谷ワールドクエスト</original>
+    <translation>Kingal Canyon World Quest</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_57</key>
@@ -234,10 +243,12 @@
   <message>
     <key>RELEASE_CONTENT_58</key>
     <original>エリア目視調査</original>
+    <translation>Area investigation</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_59</key>
     <original>戦術育成</original>
+    <translation>Tactical Training</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_60</key>
@@ -289,7 +300,7 @@
     <original>スピリットランサーのジョブの証</original>
     <translation>Spirit Lancer Vocation Emblem</translation>
   </message>
-  <message>
+   <message>
     <key>RELEASE_CONTENT_70</key>
     <original>ラスニテ山麓ワールドクエスト</original>
   </message>

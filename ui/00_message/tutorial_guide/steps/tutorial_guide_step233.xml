@@ -7,6 +7,12 @@
 &lt;COL ffdc78&gt;そういった強敵には固有の名前がついており
 討伐すると高グレードの装備や珍しいアイテムを
 手に入れることができます&lt;/COL&gt;</original>
+    <translation>When "Area Rank" rises, sometimes a
+&lt;COL ffdc78&gt;"Monster Warning Message"&lt;/COL&gt;might appear.
+
+&lt;COL ffdc78&gt;These powerful monsters have unique names.
+And by killing them you can get rare items
+or high grade equipment.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_371</key>
@@ -16,5 +22,10 @@
 
 時にはエリア試練クエストの討伐対象になる
 こともあるため、十分準備して挑みましょう</original>
+    <translation>These Powerful enemies
+wait in special areas in the field or in deep dungeons.
+
+Because it's likely to become the target of a quest,
+Always be well prepared to challenge them!</translation>
   </message>
 </resource>

@@ -1,6 +1,7 @@
 ﻿<resource>
   <message>
     <original>おや――</original>
+    <translation>Oh?</translation>
   </message>
   <message>
     <original>こんなところで――
@@ -8,9 +9,11 @@
   </message>
   <message>
     <original>――いや</original>
+    <translation>No</translation>
   </message>
   <message>
     <original>――なるほど</original>
+    <translation>I see</translation>
   </message>
   <message>
     <original>我々白騎団の捜索だけでは
@@ -18,9 +21,11 @@
   </message>
   <message>
     <original>ジョゼフ殿のご判断か</original>
+    <translation>It's Joseph's decision</translation>
   </message>
   <message>
     <original>――ふむ</original>
+    <translation>Hmmm</translation>
   </message>
   <message>
     <original>ともあれ、メイリーフ嬢は
@@ -33,6 +38,8 @@
   <message>
     <original>いや待て――
 これはトロールの足跡！？</original>
+    <translation>Wait a minute...
+Troll Footprints?!</translation>
   </message>
   <message>
     <original>はるか向こうまで続いているようだ

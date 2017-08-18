@@ -6,6 +6,11 @@
 &lt;COL ffdc78&gt;《着飾り装備》&lt;/COL&gt;とは、本来の性能の
 装備品とは別に見た目のみを姿に反映する
 特殊な着飾り術のことです</original>
+    <translation>&lt;COL 78f5ff&gt;"Dress Equipment" are available!&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;"Dress Equipment"&lt;/COL&gt; this system allows you
+to choose a piece of gear that will appear instead
+of what you have actually equipped.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_325</key>
@@ -17,5 +22,11 @@
 
 ぜひ自分なりのおしゃれや着合わせを
 探し、さまざまな装備で着飾ってみてください</original>
+    <translation>[&lt;KC UI_GAME_MENU&gt;]In the "Character" menu
+in &lt;COL ffdc78&gt;"Status and Equipment"&lt;/COL&gt; in the Equipment Window
+[&lt;KC UI_X&gt;] You can choose wether a piece of gear
+is the "Dress" or the "Equipment"
+
+Find your own style! Try on various gear!</translation>
   </message>
 </resource>

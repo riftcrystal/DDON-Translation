@@ -2,9 +2,11 @@
   <message>
     <key>PACKAGE_QUEST_1</key>
     <original>王家を救いし料理番</original>
+    <translation>Save the Royal Family Cook</translation>
   </message>
   <message>
     <key>PACKAGE_QUEST_2</key>
     <original>奪還を指揮せし異才者</original>
+    <translation>Rescue the Genius Commander</translation>
   </message>
 </resource>

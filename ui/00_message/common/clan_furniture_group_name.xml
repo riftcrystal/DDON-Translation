@@ -2,17 +2,21 @@
   <message>
     <key>FURNITURE_GROUP_NAME_14</key>
     <original>広場</original>
+    <translation>Plaza</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_15</key>
     <original>白竜像</original>
+    <translation>White Dragon Statue</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_16</key>
     <original>広間</original>
+    <translation>Hall</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_17</key>
     <original>白竜像</original>
+    <translation>White Dragon Statue</translation>
   </message>
 </resource>
