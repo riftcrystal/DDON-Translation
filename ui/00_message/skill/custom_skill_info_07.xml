@@ -142,12 +142,9 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
 &lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--力を十分に溜めた後、渾身の一撃を繰り出す
-<COL ffdc78>LV UP毎に攻撃威力の上昇
-LV.６で剣に風圧が追加／攻撃ヒット数増加</COL>-->
     <translation>After channeling enough energy, release
 a devastating slash with your body's entire might.
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
 LV.6: Adds wind pressure to the blade and increases number of
 hits.&lt;/COL&gt;</translation>

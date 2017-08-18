@@ -90,9 +90,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_TABPAWN</key>
     <original>育成・竜力の継承</original>
-    <!-- NEEDS REVIEW -->
-    <!--評価・竜力の継承-->
-    <translation>Rating / Dragon Force</translation>
+    <translation>Training / Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STATUS</key>
@@ -471,9 +469,11 @@
   <message>
     <key>ARISEN_CARD_TEXT_PAWNTHINK_TITLE</key>
     <original>ポーン戦術育成</original>
+    <translation>Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PAWNTHINK_TOTALNUM</key>
     <original>育成LV</original>
+    <translation>Training LV</translation>
   </message>
 </resource>

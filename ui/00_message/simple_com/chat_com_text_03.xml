@@ -2,58 +2,72 @@
   <message>
     <key>CHAT_COM_63</key>
     <original>わかりません</original>
+    <translation>I don't understand</translation>
   </message>
   <message>
     <key>CHAT_COM_64</key>
     <original>いりません</original>
+    <translation>No thanks</translation>
   </message>
   <message>
     <key>CHAT_COM_65</key>
     <original>はい、お願いします</original>
+    <translation>Yes, please</translation>
   </message>
   <message>
     <key>CHAT_COM_66</key>
     <original>お願いします</original>
+    <translation>If you would be so kind</translation>
   </message>
   <message>
     <key>CHAT_COM_67</key>
     <original>わかりました</original>
+    <translation>Understood</translation>
   </message>
   <message>
     <key>CHAT_COM_68</key>
     <original>後でまたお話ししてください</original>
+    <translation>Please tell me the story later</translation>
   </message>
   <message>
     <key>CHAT_COM_69</key>
     <original>今は個人行動を優先中です</original>
+    <translation>Every man for themselves</translation>
   </message>
   <message>
     <key>CHAT_COM_70</key>
     <original>答えたいですが、表現がわかりません</original>
+    <translation>I want to answer, but I don't understand the expression.</translation>
   </message>
   <message>
     <key>CHAT_COM_71</key>
     <original>なるほど</original>
+    <translation>I see</translation>
   </message>
   <message>
     <key>CHAT_COM_72</key>
     <original>せっかくですが遠慮します</original>
+    <translation>It's rare but I'll hold back</translation>
   </message>
   <message>
     <key>CHAT_COM_73</key>
     <original>へぇー</original>
+    <translation>That's interesting</translation>
   </message>
   <message>
     <key>CHAT_COM_74</key>
     <original>えーっと――</original>
+    <translation>Um...</translation>
   </message>
   <message>
     <key>CHAT_COM_75</key>
     <original>えっ！？</original>
+    <translation>Huh!?</translation>
   </message>
   <message>
     <key>CHAT_COM_76</key>
     <original>本当に？</original>
+    <translation>Really?</translation>
   </message>
   <message>
     <key>CHAT_COM_77</key>
@@ -62,49 +76,61 @@
   <message>
     <key>CHAT_COM_78</key>
     <original>むむむ</original>
+    <translation>Hmmm</translation>
   </message>
   <message>
     <key>CHAT_COM_79</key>
     <original>もうすぐ別の予定があります</original>
+    <translation>I don't have any other plans yet</translation>
   </message>
   <message>
     <key>CHAT_COM_80</key>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <key>CHAT_COM_81</key>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <key>CHAT_COM_82</key>
     <original>説明します</original>
+    <translation>I will explain</translation>
   </message>
   <message>
     <key>CHAT_COM_83</key>
     <original>問題ないです</original>
+    <translation>I have no questions</translation>
   </message>
   <message>
     <key>CHAT_COM_84</key>
     <original>できません</original>
+    <translation>I can't</translation>
   </message>
   <message>
     <key>CHAT_COM_85</key>
     <original>しないでください</original>
+    <translation>Please don't do that</translation>
   </message>
   <message>
     <key>CHAT_COM_86</key>
     <original>お任せします</original>
+    <translation>I'll rely on you</translation>
   </message>
   <message>
     <key>CHAT_COM_87</key>
     <original>いいですね！</original>
+    <translation>That's excellent!</translation>
   </message>
   <message>
     <key>CHAT_COM_88</key>
     <original>了解！</original>
+    <translation>Understood!</translation>
   </message>
   <message>
     <key>CHAT_COM_89</key>
     <original>無理です！</original>
+    <translation>That's unreasonable!</translation>
   </message>
 </resource>

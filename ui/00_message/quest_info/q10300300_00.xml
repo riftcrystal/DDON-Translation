@@ -40,6 +40,7 @@
   <message>
     <key>q10300300_00_3482</key>
     <original>&lt;NPC 2802&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2802&gt;</translation>
   </message>
   <message>
     <key>q10300300_00_3487</key>
@@ -96,6 +97,7 @@
   <message>
     <key>q10300300_00_3572</key>
     <original>&lt;NPC 580&gt;に報告する</original>
+    <translation>Report to &lt;NPC 580&gt;</translation>
   </message>
   <message>
     <key>q10300300_00_3573</key>

@@ -2,6 +2,7 @@
   <message>
     <key>q22018007_00_679</key>
     <original>【時限採取】暮夜の採草道</original>
+    <translation>Time Restriction: 暮夜の採草道</translation>
   </message>
   <message>
     <key>q22018007_00_679</key>
@@ -25,10 +26,12 @@
   <message>
     <key>q22018007_00_1290</key>
     <original>＜18時から4時＞の間にパーティメンバーを拠点内に集める</original>
+    <translation>Gather party members in the camp from "18 to 4 GT"</translation>
   </message>
   <message>
     <key>q22018007_00_1291</key>
     <original>＜18時から4時＞の間に依頼者から詳細を聞く</original>
+    <translation>Enquire details from the requester from "18 to 4 GT"</translation>
   </message>
   <message>
     <key>q22018007_00_1289</key>
@@ -37,5 +40,6 @@
   <message>
     <key>q22018007_00_1233</key>
     <original>エリアマスターに《&lt;SQDI NAME&gt;》を＜&lt;SQDI NUM&gt;＞つ納品する</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the Area Master</translation>
   </message>
 </resource>

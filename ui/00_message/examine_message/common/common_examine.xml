@@ -395,23 +395,31 @@ Unlikely to be opened.</translation>
   <message>
     <original>イベントを進行しますか？
 ※パーティー要請中の場合はキャンセルされます</original>
+    <translation>Are you sure you want to proceed with
+the event?
+※ If there is a party request, it will be
+canceled.</translation>
   </message>
   <message>
     <original>準備開始</original>
   </message>
   <message>
     <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <original>イベント進行確認</original>
+    <translation>Confirm Event Progress</translation>
   </message>
   <message>
     <original>進行する</original>
+    <translation>Proceed</translation>
   </message>
   <message>
     <original>準備解除</original>
   </message>
   <message>
     <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
 </resource>

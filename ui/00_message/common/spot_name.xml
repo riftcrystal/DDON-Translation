@@ -1431,9 +1431,8 @@
   <message>
     <key>SPOT_NAME_804</key>
     <original>グリッテン砦 正門前</original>
-    <!-- NEEDS REVIEW -->
-    <!--ハイデル平原 北側-->
-    <translation>North Hidell Plains</translation>
+    <translation>Before Gritten Fort Main Gate</translation>
+    <translation_format>before Gritten Fort Main Gate</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_805</key>

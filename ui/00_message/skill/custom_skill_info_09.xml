@@ -114,14 +114,14 @@ LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</
 しがみつき状態からも発動可能
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>-->
-    <translation>Bring forth a giant metal arm that strikes the 
+    <!--translation>Bring forth a giant metal arm that strikes the 
 enemy directly and can adhere to them if it hits an alchemical stake.
 Upon doing so, it unleashes alchemical substances and causes a
 giant explosion.
 Can be activated while climbing an enemy.
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
 LV.6: Increases number of hits and the surrounding
-enemies are affected by the explosion.&lt;/COL&gt;</translation>
+enemies are affected by the explosion.&lt;/COL&gt;</translation-->
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_113</key>

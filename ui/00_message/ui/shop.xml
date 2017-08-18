@@ -60,17 +60,11 @@
 　アイテム：&lt;VAL&gt;
 　合計個数：&lt;VAL&gt;個
 　購入価格：&lt;VAL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の内容で購入します。よろしいですか？
-
-　アイテム：<NAME ITEM>
-　合計個数：<VAL>個
-　購入価格：<VAL GOLD>-->
     <translation>Are you sure you want to buy the following?
 
-　Item: &lt;NAME ITEM&gt;
+　Item: &lt;VAL&gt;
 　Amount: x&lt;VAL&gt;
-　Buy Price: &lt;VAL GOLD&gt;</translation>
+　Buy Price: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONSELL</key>
@@ -99,21 +93,13 @@
 　アイテム：&lt;VAL&gt;
 　合計個数：&lt;VAL&gt;個
 　購入価格：&lt;VAL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の内容で購入します。よろしいですか？
-<COL AA1414>ジョブやレベル、装備状態が合わないため
-このアイテムを装備することはできません</COL>
-
-　アイテム：<NAME ITEM>
-　合計個数：<VAL>個
-　購入価格：<VAL GOLD>-->
     <translation>Are you sure you want to buy the following?
 &lt;COL AA1414&gt;Due to your job or level you will
 not be able to equip this item.&lt;/COL&gt;
 
-　Item: &lt;NAME ITEM&gt;
+　Item: &lt;VAL&gt;
 　Amount: x&lt;VAL&gt;
-　Buy Price: &lt;VAL GOLD&gt;</translation>
+　Buy Price: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BTN_GUIDE_SELL</key>

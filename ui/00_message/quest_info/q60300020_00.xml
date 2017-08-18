@@ -15,6 +15,7 @@
   <message>
     <key>q60300020_00_3465</key>
     <original>&lt;NPC 606&gt;と話して&lt;STG 1141&gt;へ向かう</original>
+    <translation>Head to &lt;NPC 606&gt;と話して&lt;STG 1141&gt;</translation>
   </message>
   <message>
     <key>q60300020_00_3341</key>
@@ -23,6 +24,7 @@
   <message>
     <key>q60300020_00_3342</key>
     <original>&lt;STG 443&gt;に戻り&lt;NPC 2852&gt;に報告する</original>
+    <translation>Report to &lt;STG 443&gt;に戻り&lt;NPC 2852&gt;</translation>
   </message>
   <message>
     <key>q60300020_00_3401</key>

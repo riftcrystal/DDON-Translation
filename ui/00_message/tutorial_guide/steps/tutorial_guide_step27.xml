@@ -10,23 +10,6 @@
 （初期設定の場合）&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;ジャンプ：&lt;/COL&gt;【&lt;KC JUMP&gt;】</original>
-    <!-- NEEDS REVIEW -->
-    <!--まずは基本操作です
-
-
-<COL ffdc78>移動：</COL><PADM>【左スティック】<KEYM>【<ICON KB_W><ICON KB_A><ICON KB_S><ICON KB_D>】</KEYM>
-
-<COL ffdc78>ダッシュ：</COL><PADM>移動中【<ICON PAD_L3>ボタン】押し込み<KEYM>同じ移動キーを２回押す</KEYM>
-
-<COL ffdc78>ジャンプ：</COL><PADM>【<ICON STG_JUMP>ボタン】<KEYM>【<ICON KB_SPACE>】</KEYM>-->
-    <!--<translation>Fundamental Basics
-
-
-&lt;COL ffdc78&gt;Movement:&lt;/COL&gt;&lt;PADM&gt;【Left Control Stick】&lt;KEYM&gt;【&lt;ICON KB_W&gt;&lt;ICON KB_A&gt;&lt;ICON KB_S&gt;&lt;ICON KB_D&gt;】&lt;/KEYM&gt;
-
-&lt;COL ffdc78&gt;Sprint:&lt;/COL&gt;&lt;PADM&gt;Press the【&lt;ICON PAD_L3&gt;button】while moving.&lt;KEYM&gt;Tap the same directional key twice&lt;/KEYM&gt;
-
-&lt;COL ffdc78&gt;Jump:&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;button】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</translation>-->
     <translation>First, Basic Operation
 
 
@@ -47,23 +30,6 @@
 &lt;COL ffdc78&gt;視点のリセット：&lt;/COL&gt;【&lt;KC CAMERA_RESET&gt;】
 
 &lt;COL ffdc78&gt;視点距離の切替：&lt;/COL&gt;&lt;PADM&gt;【&lt;KC CAMERA_RESET&gt;】素早く２回押し&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt;前後】&lt;/KEYM&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--次にカメラ操作です
-
-
-<COL ffdc78>カメラ（視点）操作：</COL><PADM>【右スティック】<KEYM>【<ICON MOUSE>】</KEYM>
-
-<COL ffdc78>視点のリセット：</COL><PADM>【<ICON PAD_R3>ボタン】<KEYM>【<ICON MOUSE_WHL_1>】</KEYM>
-
-<COL ffdc78>視点距離の切替：</COL><PADM>【<ICON PAD_R3>ボタン】素早く２回押し<KEYM>【<ICON MOUSE_WHL_4>前後】</KEYM>-->
-    <!--<translation>Operating the Camera
-
-
-&lt;COL ffdc78&gt;Camera Movement：&lt;/COL&gt;&lt;PADM&gt;【Right Control Stick】&lt;KEYM&gt;【&lt;ICON MOUSE&gt;】&lt;/KEYM&gt;
-
-&lt;COL ffdc78&gt;Reset Camera Position：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
-
-&lt;COL ffdc78&gt;Camera Distance：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】quickly tapped twice&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt; forward and backward】&lt;/KEYM&gt;</translation>-->
     <translation>Next, Camera Controls
 
 

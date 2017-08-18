@@ -67,14 +67,10 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 フォースゲージ１本以上の時、消費して詠唱時間短縮
 &lt;COL ffdc78&gt;LV UP毎に詠唱時間短縮
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--地を揺らし、広範囲の敵をよろめかせる
-大型の敵や一部の強敵には無効
-<COL ffdc78>LV UP毎に詠唱時間短縮
-LV.６で攻撃範囲拡大</COL>-->
     <translation>Shake the earth, staggering enemies in a
 wide range. Staggers large enemies and
 some formidable foes.
+フォースゲージ１本以上の時、消費して詠唱時間短縮
 &lt;COL ffdc78&gt;LV UP: Shortens casting time.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>

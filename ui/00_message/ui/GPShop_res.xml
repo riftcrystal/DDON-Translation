@@ -421,5 +421,6 @@ Is this okay?</translation>
   <message>
     <key>OS_catalog_shortcut</key>
     <original>ショートカット</original>
+    <translation>Shortcut</translation>
   </message>
 </resource>

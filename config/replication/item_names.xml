@@ -1,6 +1,11 @@
 ﻿<replication>
   <message_set name="item name" type="item">
     <match>^ui\\00_message\\common\\item_name$</match>
+    <rewrite>
+      <original_match>^エンブレムストーン・(.+)$</original_match>
+      <translation_replace>Emblem Stone: {0}</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
     <!-- Augments -->
     <rewrite>
       <original_match>^習得の書【(.+?)】$</original_match>

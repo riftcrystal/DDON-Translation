@@ -2,117 +2,146 @@
   <message>
     <key>CHAT_COM_90</key>
     <original>仕事の時間です</original>
+    <translation>Time for work</translation>
   </message>
   <message>
     <key>CHAT_COM_91</key>
     <original>約束があります</original>
+    <translation>I have an appointment</translation>
   </message>
   <message>
     <key>CHAT_COM_92</key>
     <original>眠くなりました</original>
+    <translation>I'm sleepy</translation>
   </message>
   <message>
     <key>CHAT_COM_93</key>
     <original>疲れました</original>
+    <translation>I'm tired</translation>
   </message>
   <message>
     <key>CHAT_COM_94</key>
     <original>用事があります</original>
+    <translation>I have things to do</translation>
   </message>
   <message>
     <key>CHAT_COM_95</key>
     <original>体調が悪いです</original>
+    <translation>I'm not feeling well</translation>
   </message>
   <message>
     <key>CHAT_COM_96</key>
     <original>気が向きません</original>
+    <translation>I'm not up for it</translation>
   </message>
   <message>
     <key>CHAT_COM_97</key>
     <original>興味があります</original>
+    <translation>I'm interested</translation>
   </message>
   <message>
     <key>CHAT_COM_98</key>
     <original>戦闘中です</original>
+    <translation>I'm in the middle of a fight</translation>
   </message>
   <message>
     <key>CHAT_COM_99</key>
     <original>お金を稼ぎたいです</original>
+    <translation>I want to make money</translation>
   </message>
   <message>
     <key>CHAT_COM_100</key>
     <original>覚えていません</original>
+    <translation>I don't remember</translation>
   </message>
   <message>
     <key>CHAT_COM_101</key>
     <original>知りません</original>
+    <translation>I don't know</translation>
   </message>
   <message>
     <key>CHAT_COM_102</key>
     <original>使ったばかりです</original>
+    <translation>Just used it</translation>
   </message>
   <message>
     <key>CHAT_COM_103</key>
     <original>経験値が欲しいです</original>
+    <translation>I want experience points</translation>
   </message>
   <message>
     <key>CHAT_COM_104</key>
     <original>間違えました</original>
+    <translation>Oops</translation>
   </message>
   <message>
     <key>CHAT_COM_105</key>
     <original>すでに誘われています</original>
+    <translation>I already have an invite</translation>
   </message>
   <message>
     <key>CHAT_COM_106</key>
     <original>すでに持っています</original>
+    <translation>I already have one</translation>
   </message>
   <message>
     <key>CHAT_COM_107</key>
     <original>募集が終わりました</original>
+    <translation>No longer recruiting</translation>
   </message>
   <message>
     <key>CHAT_COM_108</key>
     <original>マーカーを目指しましょう</original>
+    <translation>Head for the marker</translation>
   </message>
   <message>
     <key>CHAT_COM_109</key>
     <original>帰還しましょう</original>
+    <translation>Let's return</translation>
   </message>
   <message>
     <key>CHAT_COM_110</key>
     <original>拠点に行きましょう</original>
+    <translation>Let's head towards the base</translation>
   </message>
   <message>
     <key>CHAT_COM_111</key>
     <original>リム転移します</original>
+    <translation>Let's transfer at the Riftstone</translation>
   </message>
   <message>
     <key>CHAT_COM_112</key>
     <original>装備を変えます</original>
+    <translation>Changing equipment</translation>
   </message>
   <message>
     <key>CHAT_COM_113</key>
     <original>ジョブを変えます</original>
+    <translation>Changing job</translation>
   </message>
   <message>
     <key>CHAT_COM_114</key>
     <original>アイテムを補充します</original>
+    <translation>Replenishing items</translation>
   </message>
   <message>
     <key>CHAT_COM_115</key>
     <original>アイテムを取ります！</original>
+    <translation>Harvesting items!</translation>
   </message>
   <message>
     <key>CHAT_COM_116</key>
     <original>アイテムがいっぱいになりました</original>
+    <translation>Items have been filled</translation>
   </message>
   <message>
     <key>CHAT_COM_117</key>
     <original>もう一度行きませんか？</original>
+    <translation>Are we not going again?</translation>
   </message>
   <message>
     <key>CHAT_COM_118</key>
     <original>離脱します！</original>
+    <translation>Withdrawing!</translation>
   </message>
 </resource>

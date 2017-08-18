@@ -2,33 +2,41 @@
   <message>
     <key>CHAT_COM_CATEGORY_1</key>
     <original>あいさつ</original>
+    <translation>Greetings</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_2</key>
     <original>質問</original>
+    <translation>Questions</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_3</key>
     <original>返答</original>
+    <translation>Replies</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_4</key>
     <original>説明</original>
+    <translation>Explanations</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_5</key>
     <original>編成</original>
+    <translation>Organize</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_6</key>
     <original>戦術</original>
+    <translation>Tactics</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_7</key>
     <original>あいさつⅡ</original>
+    <translation>Greetings II</translation>
   </message>
   <message>
     <key>CHAT_COM_CATEGORY_8</key>
     <original>戦術Ⅱ</original>
+    <translation>Tactics II</translation>
   </message>
 </resource>

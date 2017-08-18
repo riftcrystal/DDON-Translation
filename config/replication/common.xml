@@ -5,6 +5,18 @@
       <original>エレメントアーチャ―</original>
       <translation>Element Archer</translation>
     </extra>
+    <extra>
+      <original>Ｅアーチャー</original>
+      <translation>Element Archer</translation>
+    </extra>
+    <extra>
+      <original>Ｓセージ</original>
+      <translation>Shield Sage</translation>
+    </extra>
+    <extra>
+      <original>Ｓランサー</original>
+      <translation>Spirit Lancer</translation>
+    </extra>
   </message_set>
   <message_set name="npc name">
     <match>^ui\\00_message\\npc\\npc_name$</match>

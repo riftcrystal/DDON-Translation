@@ -29,9 +29,11 @@
   <message>
     <key>q22018014_00_1175</key>
     <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
   </message>
   <message>
     <key>q22018014_00_1176</key>
     <original>依頼者へ経緯を報告する</original>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

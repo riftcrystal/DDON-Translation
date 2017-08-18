@@ -2,9 +2,7 @@
   <message>
     <key>update_time</key>
     <original>（%s%d:%02d時点集計）</original>
-    <!-- NEEDS REVIEW -->
-    <!--（毎日%s%d:%02d頃更新予定）-->
-    <translation>(Updated daily around %s%d:%02d)</translation>
+    <translation>(Tallied at %s%d:%02d)</translation>
   </message>
   <message>
     <key>event_total</key>
@@ -24,9 +22,7 @@
   <message>
     <key>now_delivery_num</key>
     <original>現在の自分のあげたチョコの数</original>
-    <!-- NEEDS REVIEW -->
-    <!--現在の自分の納品数-->
-    <translation>Number of delivered items</translation>
+    <translation>Number of chocolate given</translation>
   </message>
   <message>
     <key>category_total</key>

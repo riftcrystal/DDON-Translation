@@ -2,409 +2,511 @@
   <message>
     <key>CHAT_COM_143</key>
     <original>引きつける！</original>
+    <translation>Attract!</translation>
   </message>
   <message>
     <key>CHAT_COM_144</key>
     <original>助けてくれ！</original>
+    <translation>Help me!</translation>
   </message>
   <message>
     <key>CHAT_COM_218</key>
     <original>助けて！</original>
+    <translation>Help me out!</translation>
   </message>
   <message>
     <key>CHAT_COM_145</key>
     <original>回復を頼む</original>
+    <translation>Requesting healing</translation>
   </message>
   <message>
     <key>CHAT_COM_219</key>
     <original>回復をお願い</original>
+    <translation>Please heal me</translation>
   </message>
   <message>
     <key>CHAT_COM_146</key>
     <original>回復する！</original>
+    <translation>Healing!</translation>
   </message>
   <message>
     <key>CHAT_COM_220</key>
     <original>回復します！</original>
+    <translation>I'll heal!</translation>
   </message>
   <message>
     <key>CHAT_COM_147</key>
     <original>跳ね上げる！</original>
+    <translation>Leap!</translation>
   </message>
   <message>
     <key>CHAT_COM_221</key>
     <original>跳ね上げます！</original>
+    <translation>Jump!</translation>
   </message>
   <message>
     <key>CHAT_COM_148</key>
     <original>こっちだ</original>
+    <translation>Here</translation>
   </message>
   <message>
     <key>CHAT_COM_222</key>
     <original>こっちです</original>
+    <translation>This way</translation>
   </message>
   <message>
     <key>CHAT_COM_149</key>
     <original>いまだ、攻撃を！</original>
+    <translation>Once more, attack!</translation>
   </message>
   <message>
     <key>CHAT_COM_223</key>
     <original>いまこそ、攻撃を！</original>
+    <translation>Now, attack!</translation>
   </message>
   <message>
     <key>CHAT_COM_150</key>
     <original>退くぞ！</original>
+    <translation>Get back!</translation>
   </message>
   <message>
     <key>CHAT_COM_224</key>
     <original>退きましょう！</original>
+    <translation>Withdraw!</translation>
   </message>
   <message>
     <key>CHAT_COM_151</key>
     <original>ついてきてください</original>
+    <translation>Please follow</translation>
   </message>
   <message>
     <key>CHAT_COM_152</key>
     <original>ついていきます</original>
+    <translation>I'll follow you</translation>
   </message>
   <message>
     <key>CHAT_COM_153</key>
     <original>調べてみてください</original>
+    <translation>Please check it</translation>
   </message>
   <message>
     <key>CHAT_COM_154</key>
     <original>見つけました</original>
+    <translation>Found it</translation>
   </message>
   <message>
     <key>CHAT_COM_155</key>
     <original>全力で攻撃！</original>
+    <translation>Full attack!</translation>
   </message>
   <message>
     <key>CHAT_COM_156</key>
     <original>少し下がってください</original>
+    <translation>Please move down a bit and give me a little distance</translation>
   </message>
   <message>
     <key>CHAT_COM_157</key>
     <original>敵に注視されぬよう気をつけてください</original>
+    <translation>Please be careful and keep an eye out for enemies</translation>
   </message>
   <message>
     <key>CHAT_COM_158</key>
     <original>これを先にやっつけて！</original>
+    <translation>Defeat this one first!</translation>
   </message>
   <message>
     <key>CHAT_COM_159</key>
     <original>攻撃しないでください</original>
+    <translation>Please don't attack</translation>
   </message>
   <message>
     <key>CHAT_COM_160</key>
     <original>無効化してください</original>
+    <translation>Please deactivate it</translation>
   </message>
   <message>
     <key>CHAT_COM_161</key>
     <original>支援行動をお願いします！</original>
+    <translation>Please give me aid!</translation>
   </message>
   <message>
     <key>CHAT_COM_162</key>
     <original>逃げて！</original>
+    <translation>Run away!</translation>
   </message>
   <message>
     <key>CHAT_COM_163</key>
     <original>行動不能！　助けて！！！</original>
+    <translation>Down! Help me out!!!</translation>
   </message>
   <message>
     <key>CHAT_COM_164</key>
     <original>待機します</original>
+    <translation>Standing by</translation>
   </message>
   <message>
     <key>CHAT_COM_165</key>
     <original>なくなりました</original>
+    <translation>None left</translation>
   </message>
   <message>
     <key>CHAT_COM_166</key>
     <original>ありません</original>
+    <translation>Don't have it</translation>
   </message>
   <message>
     <key>CHAT_COM_167</key>
     <original>準備完了！</original>
+    <translation>Ready!</translation>
   </message>
   <message>
     <key>CHAT_COM_168</key>
     <original>使ってください</original>
+    <translation>Please use it</translation>
   </message>
   <message>
     <key>CHAT_COM_169</key>
     <original>休憩しましょう</original>
+    <translation>Let's rest for a while</translation>
   </message>
   <message>
     <key>CHAT_COM_170</key>
     <original>しがみつきます</original>
+    <translation>Hang onto it</translation>
   </message>
   <message>
     <key>CHAT_COM_171</key>
     <original>敵を引きつけます</original>
+    <translation>Drawing enemy over</translation>
   </message>
   <message>
     <key>CHAT_COM_172</key>
     <original>待ってください</original>
+    <translation>Wait, please</translation>
   </message>
   <message>
     <key>CHAT_COM_173</key>
     <original>現地に集合しましょう</original>
+    <translation>Let's meet there</translation>
   </message>
   <message>
     <key>CHAT_COM_174</key>
     <original>そこにいてください</original>
+    <translation>Stay there</translation>
   </message>
   <message>
     <key>CHAT_COM_175</key>
     <original>これから向かいます</original>
+    <translation>On my way</translation>
   </message>
   <message>
     <key>CHAT_COM_176</key>
     <original>すぐ戻ります</original>
+    <translation>Will be right back</translation>
   </message>
   <message>
     <key>CHAT_COM_177</key>
     <original>どんまい！</original>
+    <translation>I don't mind!</translation>
   </message>
   <message>
     <key>CHAT_COM_178</key>
     <original>気にするな！</original>
+    <translation>Never mind!</translation>
   </message>
   <message>
     <key>CHAT_COM_225</key>
     <original>気にしないで！</original>
+    <translation>Don't worry about it!</translation>
   </message>
   <message>
     <key>CHAT_COM_179</key>
     <original>大丈夫です！</original>
+    <translation>It's okay!</translation>
   </message>
   <message>
     <key>CHAT_COM_180</key>
     <original>申し訳ない！</original>
+    <translation>I'm sorry!</translation>
   </message>
   <message>
     <key>CHAT_COM_181</key>
     <original>すみません！</original>
+    <translation>Pardon me!</translation>
   </message>
   <message>
     <key>CHAT_COM_182</key>
     <original>俺が！</original>
+    <translation>Me!</translation>
   </message>
   <message>
     <key>CHAT_COM_226</key>
     <original>私が！</original>
+    <translation>I!</translation>
   </message>
   <message>
     <key>CHAT_COM_183</key>
     <original>状態異常に気を付けましょう！</original>
+    <translation>Let's debilitate it!</translation>
   </message>
   <message>
     <key>CHAT_COM_184</key>
     <original>エンチャントを頼む！</original>
+    <translation>Requesting an enchantment!</translation>
   </message>
   <message>
     <key>CHAT_COM_227</key>
     <original>エンチャントをお願い！</original>
+    <translation>Please enchant!</translation>
   </message>
   <message>
     <key>CHAT_COM_185</key>
     <original>ザコは無視しよう！</original>
+    <translation>Ignore it!</translation>
   </message>
   <message>
     <key>CHAT_COM_228</key>
     <original>ザコは無視しましょう！</original>
+    <translation>Ignoring it!</translation>
   </message>
   <message>
     <key>CHAT_COM_186</key>
     <original>この敵は倒そう！</original>
+    <translation>Kill this enemy!</translation>
   </message>
   <message>
     <key>CHAT_COM_229</key>
     <original>この敵は倒しましょう！</original>
+    <translation>Killing this enemy!</translation>
   </message>
   <message>
     <key>CHAT_COM_187</key>
     <original>先に行ってください</original>
+    <translation>Please go ahead</translation>
   </message>
   <message>
     <key>CHAT_COM_188</key>
     <original>急ごう！</original>
+    <translation>Hurry!</translation>
   </message>
   <message>
     <key>CHAT_COM_230</key>
     <original>急ぎましょう！</original>
+    <translation>Make haste!</translation>
   </message>
   <message>
     <key>CHAT_COM_189</key>
     <original>焦らずに</original>
+    <translation>Stay calm</translation>
   </message>
   <message>
     <key>CHAT_COM_190</key>
     <original>助かりました！</original>
+    <translation>Rescued!</translation>
   </message>
   <message>
     <key>CHAT_COM_191</key>
     <original>う、動けない！</original>
+    <translation>Ooh, it cannot move!</translation>
   </message>
   <message>
     <key>CHAT_COM_192</key>
     <original>少し準備します</original>
+    <translation>Preparing a bit</translation>
   </message>
   <message>
     <key>CHAT_COM_193</key>
     <original>手を出すな</original>
+    <translation>Hand it in</translation>
   </message>
   <message>
     <key>CHAT_COM_231</key>
     <original>手を出さないで</original>
+    <translation>Do not hand it in</translation>
   </message>
   <message>
     <key>CHAT_COM_194</key>
     <original>敵を引きつける</original>
+    <translation>Attract the enemy</translation>
   </message>
   <message>
     <key>CHAT_COM_232</key>
     <original>敵を引きつけます</original>
+    <translation>Drawing enemy over</translation>
   </message>
   <message>
     <key>CHAT_COM_195</key>
     <original>俺に任せろ！</original>
+    <translation>Leave it to me!</translation>
   </message>
   <message>
     <key>CHAT_COM_233</key>
     <original>私に任せて！</original>
+    <translation>Entrust it to me!</translation>
   </message>
   <message>
     <key>CHAT_COM_196</key>
     <original>俺の背中に隠れて！</original>
+    <translation>I'll hide on the back!</translation>
   </message>
   <message>
     <key>CHAT_COM_234</key>
     <original>私の背中に隠れて！</original>
+    <translation>I'll conceal myself on the back!</translation>
   </message>
   <message>
     <key>CHAT_COM_197</key>
     <original>凍らせる！</original>
+    <translation>Can Freeze!</translation>
   </message>
   <message>
     <key>CHAT_COM_235</key>
     <original>凍らせます！</original>
+    <translation>Able to Freeze!</translation>
   </message>
   <message>
     <key>CHAT_COM_198</key>
     <original>スローにする！</original>
+    <translation>Slowing it!</translation>
   </message>
   <message>
     <key>CHAT_COM_236</key>
     <original>スローにします！</original>
+    <translation>I'll slow it!</translation>
   </message>
   <message>
     <key>CHAT_COM_199</key>
     <original>眠らせる！</original>
+    <translation>Can put it to sleep!</translation>
   </message>
   <message>
     <key>CHAT_COM_237</key>
     <original>眠らせます！</original>
+    <translation>Able to put it to sleep!</translation>
   </message>
   <message>
     <key>CHAT_COM_200</key>
     <original>状態異常を狙う！</original>
+    <translation>Debilitate it!</translation>
   </message>
   <message>
     <key>CHAT_COM_238</key>
     <original>状態異常を狙います！</original>
+    <translation>Aim debilitations at it!</translation>
   </message>
   <message>
     <key>CHAT_COM_201</key>
     <original>状態異常にする！</original>
+    <translation>Can debilitate it!</translation>
   </message>
   <message>
     <key>CHAT_COM_239</key>
     <original>状態異常にします！</original>
+    <translation>Debilitating it!</translation>
   </message>
   <message>
     <key>CHAT_COM_202</key>
     <original>弱点を攻撃してくれ！</original>
+    <translation>Attack it's weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_240</key>
     <original>弱点を攻撃して！</original>
+    <translation>Strike at it's weak point!</translation>
   </message>
   <message>
     <key>CHAT_COM_203</key>
     <original>別れて戦おう！</original>
+    <translation>Spread out and attack!</translation>
   </message>
   <message>
     <key>CHAT_COM_241</key>
     <original>別れて戦いましょう！</original>
+    <translation>Split up and fight!</translation>
   </message>
   <message>
     <key>CHAT_COM_204</key>
     <original>集まってください！</original>
+    <translation>Gather together!</translation>
   </message>
   <message>
     <key>CHAT_COM_205</key>
     <original>散らばってください！</original>
+    <translation>Please spread out!</translation>
   </message>
   <message>
     <key>CHAT_COM_206</key>
     <original>弱点を出そう！</original>
+    <translation>Reveal it's weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_207</key>
     <original>弱点を狙おう！</original>
+    <translation>Aim for it's weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_208</key>
     <original>弱点を攻撃しよう！</original>
+    <translation>Attack it's weakspot!</translation>
   </message>
   <message>
     <key>CHAT_COM_209</key>
     <original>スタミナを減らそう！</original>
+    <translation>Decrease it's stamina!</translation>
   </message>
   <message>
     <key>CHAT_COM_210</key>
     <original>一気に揺さぶろう！</original>
+    <translation>Shake it without stopping!</translation>
   </message>
   <message>
     <key>CHAT_COM_211</key>
     <original>今助ける！</original>
+    <translation>Help now!</translation>
   </message>
   <message>
     <key>CHAT_COM_242</key>
     <original>今助けます！</original>
+    <translation>Assist now!</translation>
   </message>
   <message>
     <key>CHAT_COM_212</key>
     <original>こっちだ、跳ね上げる！</original>
+    <translation>Over here, jump!</translation>
   </message>
   <message>
     <key>CHAT_COM_243</key>
     <original>こっちです、跳ね上げます！</original>
+    <translation>This way, leap!</translation>
   </message>
   <message>
     <key>CHAT_COM_213</key>
     <original>おきろ！</original>
+    <translation>Get up!</translation>
   </message>
   <message>
     <key>CHAT_COM_244</key>
     <original>起きて！</original>
+    <translation>Rise!</translation>
   </message>
   <message>
     <key>CHAT_COM_214</key>
     <original>トドメだ！</original>
+    <translation>Take that!</translation>
   </message>
   <message>
     <key>CHAT_COM_215</key>
     <original>仕切り直そう！</original>
+    <translation>We'll redo that!</translation>
   </message>
   <message>
     <key>CHAT_COM_245</key>
     <original>仕切り直しましょう！</original>
+    <translation>Let's go back and start again!</translation>
   </message>
   <message>
     <key>CHAT_COM_216</key>
     <original>こいつは危険です！</original>
+    <translation>You're in danger!</translation>
   </message>
 </resource>

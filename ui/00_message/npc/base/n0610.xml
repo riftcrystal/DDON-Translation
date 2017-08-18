@@ -27,9 +27,11 @@
   </message>
   <message>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <original>パーティリーダーが行先を
@@ -41,9 +43,11 @@
   </message>
   <message>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <original>ダンジョンへ向かう際は十分に注意してください――（仮）</original>

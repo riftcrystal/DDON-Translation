@@ -2,6 +2,7 @@
   <message>
     <key>q50300000_00_74</key>
     <original>グリッテン砦攻防戦　戦況：激戦</original>
+    <translation>Battle for Gritten Fort: Fierce Battle</translation>
   </message>
   <message>
     <key>q50300000_00_74</key>
@@ -14,10 +15,12 @@
   <message>
     <key>q50300000_00_3020</key>
     <original>ヴァネッサを護衛し、目標地点の敵を殲滅せよ</original>
+    <translation>Escort Vanessa and defeat the enemy at the target locations</translation>
   </message>
   <message>
     <key>q50300000_00_3431</key>
     <original>11000pt以上の獲得を目指せ</original>
+    <translation>Aim to aquire 11000pt or more</translation>
   </message>
   <message>
     <key>q50300000_00_3022</key>

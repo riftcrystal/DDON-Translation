@@ -481,5 +481,6 @@
   <message>
     <key>poptop_craft_change_quality</key>
     <original>装備の品質変更</original>
+    <translation>Change Equipment Quality</translation>
   </message>
 </resource>

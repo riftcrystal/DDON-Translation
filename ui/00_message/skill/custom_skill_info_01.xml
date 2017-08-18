@@ -68,11 +68,8 @@ When an attack is evaded, increases number of hits.&lt;/COL&gt;</translation>
 &lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--跳躍し、鋭い一撃を放って下方に突き立てる
-<COL ffdc78>LV UP毎に攻撃威力の上昇
-LV.６で攻撃ヒット数増加</COL>-->
     <translation>Leap forward and stab your sword into the ground.
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   </message>

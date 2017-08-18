@@ -1172,9 +1172,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_mitem_get_gameitem</key>
     <original>　アイテム x &lt;VAL&gt; 入手</original>
-    <!-- NEEDS REVIEW -->
-    <!--　アイテム x <VAL> 入手(アイテムポスト)-->
-    <translation>　Item x&lt;VAL&gt; obtained. (Item Post)</translation>
+    <translation>　Item x&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
@@ -1220,9 +1218,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_get_ability</key>
     <original>アビリティ「&lt;NAME ABILITY&gt; &lt;VAL LV&gt;」を習得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--アビリティ「<NAME ABILITY>」を習得しました-->
-    <translation>You have learned "&lt;NAME ABILITY&gt;".</translation>
+    <translation>You have learned "&lt;NAME ABILITY&gt; &lt;VAL LV&gt;".</translation>
   </message>
   <message>
     <key>ana_grandmission_get_reward</key>
@@ -1470,9 +1466,7 @@ Are you sure?</translation>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
     <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
-    <!--拡張枠は＜<OPCS>＞の発動中に使用可能となります-->
-    <translation>Storage expansion is available with the effect of "&lt;OPCS&gt;".</translation>
+    <translation>This is available with the effect of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_frame</key>
@@ -1643,10 +1637,7 @@ Are you sure?</translation>
   <message>
     <key>ana_box_err_exspace</key>
     <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
-    <!--拡張枠は＜<OPCS>＞の発動中に使用可能となります-->
-    <translation>You cannot use the storage expansion.
-The effect of "&lt;OPCS&gt;" will allow this.</translation>
+    <translation>This is available with the effect of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_input_device_err_pad</key>
@@ -2656,14 +2647,17 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_mail_receive_box</key>
     <original>保管ボックスに受け取る</original>
+    <translation>Receive in Storage Box</translation>
   </message>
   <message>
     <key>ana_mail_receive_post</key>
     <original>ポストに受け取る</original>
+    <translation>Receive in Post</translation>
   </message>
   <message>
     <key>ana_mail_receive_bag</key>
     <original>アイテムバッグに受け取る</original>
+    <translation>Receive in Item Bag</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_same</key>

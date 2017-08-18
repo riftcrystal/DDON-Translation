@@ -376,11 +376,6 @@ For this reason, the total percentage possible may not be 100%.</translation>
     <key>gacha_msg_result_ng</key>
     <original>直前にまわしたロットの獲得リザルトを表示します
 ロット内容は、内容一覧のページでご確認ください</original>
-    <!-- NEEDS REVIEW -->
-    <!--まだ一度もロットをまわしていない、もしくは
-別のロットをまわしたため、獲得情報がありません-->
-    <translation>Either you have not drawn from this lot yet,
-or there is no reward history because another lot was drawn from instead.</translation>
   </message>
   <message>
     <key>gacha_msg_getitem</key>

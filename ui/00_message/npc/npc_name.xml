@@ -3871,10 +3871,14 @@
   <message>
     <key>NPC_NAME_1289</key>
     <original>オオネズミ</original>
+    <translation>Giant Rat</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1290</key>
     <original>ウサギ</original>
+    <translation>Rabbit</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1291</key>
@@ -3883,10 +3887,14 @@
   <message>
     <key>NPC_NAME_1292</key>
     <original>ブタ</original>
+    <translation>Pig</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1293</key>
     <original>牛</original>
+    <translation>Ox</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1294</key>
@@ -3899,6 +3907,7 @@
   <message>
     <key>NPC_NAME_1296</key>
     <original>クレイグ</original>
+    <translation>Craig</translation>
   </message>
   <message>
     <key>NPC_NAME_1297</key>

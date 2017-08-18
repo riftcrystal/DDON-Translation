@@ -10,15 +10,9 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 </original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の能力を取得します。よろしいですか？
-
-　取得能力：<NAME SKILL>+<VAL>
-　必要ブラッドオーブ：<VAL BO>-->
     <translation>You will acquire the following perk. Is this OK?
 
-　Perk: &lt;NAME SKILL&gt; +&lt;VAL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+　Perk: &lt;NAME SKILL&gt; +&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
@@ -26,15 +20,9 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 </original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の能力を取得します。よろしいですか？
-
-　取得能力：<NAME SKILL>
-　必要ブラッドオーブ：<VAL BO>-->
     <translation>You will acquire the following perk. Is this OK?
 
-　Perk: &lt;NAME SKILL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -43,17 +31,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 </original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の能力を取得します。よろしいですか？
-(次回から隣接する能力のみが取得可能になります)
-
-　取得能力：<NAME SKILL>+<VAL>
-　必要ブラッドオーブ：<VAL BO>-->
     <translation>You will acquire the following perk. Is this OK?
 (Only adjacent perks will be available next time)
 
-　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -62,17 +43,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 </original>
-    <!-- NEEDS REVIEW -->
-    <!--以下の能力を取得します。よろしいですか？
-(次回から隣接する能力のみが取得可能になります)
-
-　取得能力：<NAME SKILL>
-　必要ブラッドオーブ：<VAL BO>-->
     <translation>You will acquire the following perk. Is this OK?
 (Only adjacent perks will be available next time)
 
-　Perk: &lt;NAME SKILL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
@@ -91,9 +65,7 @@
   <message>
     <key>ORB_TEXT_MYBO</key>
     <original>所持&lt;UNTN BO&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--所持ブラッドオーブ-->
-    <translation>Current Blood Orbs</translation>
+    <translation>Current &lt;UNTN BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
@@ -141,9 +113,7 @@ for acquiring all other perks. Is this OK?
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
     <original>&lt;UNTN BO&gt;が不足しています</original>
-    <!-- NEEDS REVIEW -->
-    <!--ブラッドオーブが不足しています-->
-    <translation>You do not have enough Blood Orbs.</translation>
+    <translation>You do not have enough &lt;UNTN BO&gt;.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
@@ -219,9 +189,7 @@ for acquiring all other perks. Is this OK?
   <message>
     <key>ORB_TEXT_CONDITION_QUEST</key>
     <original>▼以下のクエストをクリア</original>
-    <!-- NEEDS REVIEW -->
-    <!--条件：以下のクエストをクリア-->
-    <translation>Condition: Clear the following quest</translation>
+    <translation>▼ Clear the following quest</translation>
   </message>
   <message>
     <key>ORB_TEXT_NEED_HB</key>

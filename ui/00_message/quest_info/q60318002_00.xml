@@ -23,6 +23,7 @@
   <message>
     <key>q60318002_00_3127</key>
     <original>発見した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
   </message>
   <message>
     <key>q60318002_00_3128</key>
@@ -39,5 +40,6 @@
   <message>
     <key>q60318002_00_3125</key>
     <original>依頼者の&lt;NPC 656&gt;に報告する</original>
+    <translation>Report to &lt;NPC 656&gt; in 依頼者</translation>
   </message>
 </resource>

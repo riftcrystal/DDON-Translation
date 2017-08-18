@@ -25,5 +25,6 @@
   <message>
     <key>q22018004_00_1179</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼先に届ける（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
 </resource>

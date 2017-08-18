@@ -11,10 +11,12 @@
   <message>
     <key>q00030020_00_2811</key>
     <original>丘上の隠れ村ピレモスへ向かう</original>
+    <translation>Head to 丘上の隠れ村ピレモス</translation>
   </message>
   <message>
     <key>q00030020_00_2812</key>
     <original>ジリアンと話す</original>
+    <translation>Speak with ジリアン</translation>
   </message>
   <message>
     <key>q00030020_00_3037</key>
@@ -23,6 +25,7 @@
   <message>
     <key>q00030020_00_2813</key>
     <original>目的の野営地付近でジリアンと合流する</original>
+    <translation>Rendezvous with ジリアン at 目的の野営地付近</translation>
   </message>
   <message>
     <key>q00030020_00_3036</key>
@@ -43,9 +46,11 @@
   <message>
     <key>q00030020_00_2815</key>
     <original>ジリアンと話す</original>
+    <translation>Speak with ジリアン</translation>
   </message>
   <message>
     <key>q00030020_00_2816</key>
     <original>レスタニアに帰還しジョゼフに報告する</original>
+    <translation>Report to レスタニアに帰還しジョゼフ</translation>
   </message>
 </resource>

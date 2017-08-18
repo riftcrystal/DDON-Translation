@@ -11,14 +11,17 @@
   <message>
     <key>q00030070_00_2861</key>
     <original>湖畔の洞窟の盗賊アジトへ向かう</original>
+    <translation>Head to 湖畔の洞窟の盗賊アジト</translation>
   </message>
   <message>
     <key>q00030070_00_3038</key>
     <original>ロスギルへ向かいメイロワと話す</original>
+    <translation>Head to ロスギル and speak with メイロワ</translation>
   </message>
   <message>
     <key>q00030070_00_2862</key>
     <original>ダクレイム砦前の兵士の元へ向かう</original>
+    <translation>Head to 兵士 in ダクレイム砦前</translation>
   </message>
   <message>
     <key>q00030070_00_3040</key>
@@ -43,6 +46,7 @@
   <message>
     <key>q00030070_00_3009</key>
     <original>ネドと話す</original>
+    <translation>Speak with ネド</translation>
   </message>
   <message>
     <key>q00030070_00_3042</key>
@@ -51,5 +55,6 @@
   <message>
     <key>q00030070_00_2865</key>
     <original>レスタニアに帰還し白竜に報告する</original>
+    <translation>Report to レスタニアに帰還し白竜</translation>
   </message>
 </resource>

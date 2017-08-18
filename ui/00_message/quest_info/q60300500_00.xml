@@ -2,6 +2,7 @@
   <message>
     <key>q60300500_00_249</key>
     <original>戦技の継承　火竜求道試練１</original>
+    <translation>Skill Augmentation: 火竜 Trial I</translation>
   </message>
   <message>
     <key>q60300500_00_249</key>
@@ -15,30 +16,37 @@
   <message>
     <key>q60300500_00_3000</key>
     <original>第一試練の場所へ向かう</original>
+    <translation>Head to the location of the first test</translation>
   </message>
   <message>
     <key>q60300500_00_3210</key>
     <original>第一試練の敵を倒す</original>
+    <translation>Defeat the enemies of the first test</translation>
   </message>
   <message>
     <key>q60300500_00_3211</key>
     <original>第二試練の場所へ向かう</original>
+    <translation>Head to the location of the second test</translation>
   </message>
   <message>
     <key>q60300500_00_3212</key>
     <original>第二試練の敵を倒す</original>
+    <translation>Defeat the enemies of the second test</translation>
   </message>
   <message>
     <key>q60300500_00_3213</key>
     <original>最終試練の場所へ向かう</original>
+    <translation>Head to the location of the final test</translation>
   </message>
   <message>
     <key>q60300500_00_3214</key>
     <original>最終試練の敵を倒す</original>
+    <translation>Defeat the enemies of the final test</translation>
   </message>
   <message>
     <key>q60300500_00_3215</key>
     <original>&lt;STG 443&gt;の&lt;NPC 2800&gt;に報告する</original>
+    <translation>Report to &lt;NPC 2800&gt; in &lt;STG 443&gt;</translation>
   </message>
   <message>
     <key>q60300500_00_3216</key>

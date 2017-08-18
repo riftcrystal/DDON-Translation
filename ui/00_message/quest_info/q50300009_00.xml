@@ -2,6 +2,7 @@
   <message>
     <key>q50300009_00_86</key>
     <original>古代神殿の死闘</original>
+    <translation>The Deathly Battle of the Ancient Temple</translation>
   </message>
   <message>
     <key>q50300009_00_86</key>
@@ -15,45 +16,56 @@
   <message>
     <key>q50300009_00_3074</key>
     <original>最奥へ続く道の敵を殲滅</original>
+    <translation>Defeat enemies on the way to the innermost</translation>
   </message>
   <message>
     <key>q50300009_00_3075</key>
     <original>二手に分かれ、神殿内を捜索する</original>
+    <translation>Split into two groups and search inside the temple</translation>
   </message>
   <message>
     <key>q50300009_00_3076</key>
     <original>《殲滅区 右方》序盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Opening stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3077</key>
     <original>《殲滅区 左方》序盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Opening stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3078</key>
     <original>魔物を呼ぶ元凶を討伐し、更なる増援を抑える</original>
+    <translation>Defeat the monster caller, suppress further reinforcements</translation>
   </message>
   <message>
     <key>q50300009_00_3079</key>
     <original>《殲滅区 右方》中盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Middle stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3080</key>
     <original>《殲滅区 左方》中盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Middle stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3081</key>
     <original>《殲滅区 右方》終盤を進行中</original>
+    <translation>[Extermination Area: Right Side] Final stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3082</key>
     <original>《殲滅区 左方》終盤を進行中</original>
+    <translation>[Extermination Area: Left Side] Final stage in progress</translation>
   </message>
   <message>
     <key>q50300009_00_3083</key>
     <original>《宝物庫》へ転移し、報酬を獲得</original>
+    <translation>[Treasury] Transfer and acquire reward</translation>
   </message>
   <message>
     <key>q50300009_00_3084</key>
     <original>神殿内に残る最後の脅威を排除する</original>
+    <translation>Eliminate the last threat within the temple</translation>
   </message>
 </resource>

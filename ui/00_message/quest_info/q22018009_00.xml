@@ -33,9 +33,11 @@
   <message>
     <key>q22018009_00_1228</key>
     <original>捜索対象の安否を確認する</original>
+    <translation>Check the search target's safety</translation>
   </message>
   <message>
     <key>q22018009_00_1169</key>
     <original>依頼者に報告する</original>
+    <translation>Report to the requester</translation>
   </message>
 </resource>

@@ -51,9 +51,7 @@ Restore path "Morfall North Gate"</translation>
   <message>
     <key>AREA_RANK_REWARD_300</key>
     <original>支援品のランクアップ</original>
-    <!-- NEEDS REVIEW -->
-    <!--支援品の向上-->
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_301</key>
@@ -84,8 +82,6 @@ Restore path "&lt;SPOT 944&gt; blocked by cliff collapse"</translation>
   <message>
     <key>AREA_RANK_REWARD_305</key>
     <original>支援品のランクアップ</original>
-    <!-- NEEDS REVIEW -->
-    <!--支援品の向上-->
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
 </resource>

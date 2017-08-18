@@ -220,9 +220,7 @@
   <message>
     <key>msg_ShopTitle_Charges46</key>
     <original>格納チェストの引出し%dが使用可能！</original>
-    <!-- NEEDS REVIEW -->
-    <!--格納チェストの拡張枠が使用可能！-->
-    <translation>Expanded Storage Chest is usable!</translation>
+    <translation>Storage Chest drawer %d is usable!</translation>
   </message>
   <message>
     <key>msg_ShopTitle_Charges47</key>

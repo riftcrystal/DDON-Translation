@@ -202,9 +202,7 @@
   <message>
     <key>common_max</key>
     <original>MAX</original>
-    <!-- NEEDS REVIEW -->
-    <!--/MAX-->
-    <translation>/MAX</translation>
+    <translation>MAX</translation>
   </message>
   <message>
     <key>common_hyphen</key>
@@ -617,18 +615,22 @@
   <message>
     <key>common_inequality_left</key>
     <original>＜</original>
+    <translation>&lt;</translation>
   </message>
   <message>
     <key>common_inequality_right</key>
     <original>＞</original>
+    <translation>&gt;</translation>
   </message>
   <message>
     <key>common_unit_dp</key>
     <original>DP</original>
+    <translation>DP</translation>
   </message>
   <message>
     <key>common_unit_hb</key>
     <original>HO</original>
+    <translation>HO</translation>
   </message>
   <message>
     <key>common_none_nasi</key>
@@ -637,6 +639,7 @@
   <message>
     <key>common_unitname_hb</key>
     <original>ハイオーブ</original>
+    <translation>High Orb</translation>
   </message>
   <message>
     <key>common_partyboard_type01</key>
@@ -645,26 +648,32 @@
   <message>
     <key>common_unit_tp</key>
     <original>BP</original>
+    <translation>BP</translation>
   </message>
   <message>
     <key>common_unit_ep</key>
     <original>EP</original>
+    <translation>EP</translation>
   </message>
   <message>
     <key>common_equal</key>
     <original>=</original>
+    <translation>=</translation>
   </message>
   <message>
     <key>common_percent_big</key>
     <original>％</original>
+    <translation>％</translation>
   </message>
   <message>
     <key>common_plus_big</key>
     <original>＋</original>
+    <translation>＋</translation>
   </message>
   <message>
     <key>common_hyphen_big</key>
     <original>－</original>
+    <translation>－</translation>
   </message>
   <message>
     <key>common_enemy_transform_armed_01</key>
@@ -681,22 +690,27 @@
   <message>
     <key>common_unitname_tp</key>
     <original>冒パスポイント</original>
+    <translation>Adventure Pass Point</translation>
   </message>
   <message>
     <key>common_unitname_dp</key>
     <original>ドミニオンポイント</original>
+    <translation>Dominion Point</translation>
   </message>
   <message>
     <key>common_unit_ptp</key>
     <original>育成EXP</original>
+    <translation>Training EXP</translation>
   </message>
   <message>
     <key>common_unit_pap</key>
     <original>対話回数</original>
+    <translation>Dialogue Count</translation>
   </message>
   <message>
     <key>common_slash</key>
     <original>/</original>
+    <translation>/</translation>
   </message>
   <message>
     <key>common_unit_silverticket</key>
