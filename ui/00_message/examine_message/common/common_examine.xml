@@ -17,6 +17,7 @@
   </message>
   <message>
     <original>扉には鍵がかかっている――</original>
+    <translation>The door is locked</translation>
   </message>
   <message>
     <original>鍵を使いますか</original>
@@ -75,10 +76,14 @@
   <message>
     <original>この先は他の覚者とパーティーを組んだ
 状態では進入できません</original>
+    <translation>You cannot enter alone.
+Make a party with other Arisen.</translation>
   </message>
   <message>
     <original>一人、またはポーンのみを連れて
 訪れてください</original>
+    <translation>Please take only one
+person or pawn.</translation>
   </message>
   <message>
     <original>行き先選択</original>
@@ -86,6 +91,7 @@
   </message>
   <message>
     <original>各ステージ名</original>
+    <translation>Name of each stage</translation>
   </message>
   <message>
     <original>やめる</original>
@@ -228,6 +234,8 @@ please wait in the circle.</translation>
   <message>
     <original>門のような意匠がある
 わずかに不思議な気配を感じる――</original>
+    <translation>There are strange signs on the gate
+They make you feel slightly strange.</translation>
   </message>
   <message>
     <original>――扉は閉ざされている――
@@ -293,6 +301,7 @@ Unlikely to be opened.</translation>
   </message>
   <message>
     <original>残り時間が追加されました</original>
+    <translation>Remaining time added</translation>
   </message>
   <message>
     <original>鍵がかかっている――
@@ -348,40 +357,55 @@ Unlikely to be opened.</translation>
   </message>
   <message>
     <original>敵はあわてて逃げ出した！</original>
+    <translation>The enemy panicked and ran away!</translation>
   </message>
   <message>
     <original>胞子が集まり始めている――</original>
+    <translation>Spores are starting to gather</translation>
   </message>
   <message>
     <original>汚染植物が出現――！</original>
+    <translation>Infected plants appear!</translation>
   </message>
   <message>
     <original>胞子の広がりを阻止――
 クリア時のボーナス報酬が追加！</original>
+    <translation>Prevent the spread of spores!
+Bonus reward is added!</translation>
   </message>
   <message>
     <original>隠れていた魔物が姿を現した――！</original>
+    <translation>The hidden monster appears!</translation>
   </message>
   <message>
     <original>傷ついた魔物の痕跡は、
 住処へと続いているようだ――</original>
+    <translation>There are traces from the wounded monster
+It seems to lead towards its den.</translation>
   </message>
   <message>
     <original>救助対象が疲れてきたようだ――</original>
+    <translation>Your rescue target seems to be getting tired...</translation>
   </message>
   <message>
     <original>救助対象はかなり辛そうだ――</original>
+    <translation>Your rescue target seems to be struggling...</translation>
   </message>
   <message>
     <original>救助対象が戦線離脱した――</original>
+    <translation>Your rescue target has left the battlefield</translation>
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;迅速な救助に成功しました
 クリア時のボーナス報酬が追加されます&lt;/COL&gt;</original>
+    <translation>&lt;COL ffdc78&gt;Quick Rescue successful!
+Bonus Rewards gained!&lt;/COL&gt;
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;迅速な救助に失敗しました
 クリア時のボーナス報酬は追加されません&lt;/COL&gt;</original>
+    <translation>&lt;COL ffdc78&gt;Quick Rescue has failed!
+Bonus Rewards are lost.&lt;/COL&gt;</translation>
   </message>
   <message>
     <original>鍵がかかっている――
@@ -391,6 +415,7 @@ Unlikely to be opened.</translation>
   </message>
   <message>
     <original>今は転移の力を失っているようだ――</original>
+    <translation>It seems I have lost the power to teleport...</translation>
   </message>
   <message>
     <original>イベントを進行しますか？
