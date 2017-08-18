@@ -700,6 +700,7 @@ as well.&lt;/COL&gt;</translation>
     <key>NOTICE_GRADE_MAX</key>
     <original>グレードがアップしました！
 カラー変更ができるようになりました</original>
+    <translation>Grade up!, you change color now</translation>
   </message>
   <message>
     <key>CRAFT_BUTTON_EXAM_BEGIN</key>
@@ -885,6 +886,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_NUM_CLASS_S</key>
     <original>S級</original>
+    <translation>S Grade</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CRAFTLV</key>
@@ -909,18 +911,22 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_NUM_CLASS_D</key>
     <original>D級</original>
+    <translation>D Grade</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_A</key>
     <original>A級</original>
+    <translation>A Grade</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_B</key>
     <original>B級</original>
+    <translation>B Grade</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_C</key>
     <original>C級</original>
+    <translation>C Grade</translation>
   </message>
   <message>
     <key>CRAFT_UPGRADE_EQUIP_NOTHING</key>
@@ -971,6 +977,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_BTGUID_DISCREST</key>
     <original>クレストを戻す</original>
+    <translation>Return Crest</translation>
   </message>
   <message>
     <key>CRAFT_MAKING_CONTINUE</key>
@@ -1238,18 +1245,22 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>HEADING_ADD_STATUS</key>
     <original>追加ステータス</original>
+    <translation>Additional status</translation>
   </message>
   <message>
     <key>ROW_LIST</key>
     <original>リスト</original>
+    <translation>List</translation>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_STATUS</key>
     <original>追加するステータスを選択してください</original>
+    <translation>Please select the status to add</translation>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISADDSTATUS</key>
     <original>追加ステータスをはずす</original>
+    <translation>Remove additional status</translation>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_ADD_STATUS</key>
@@ -1266,14 +1277,17 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>GUIDE_MATERIALS_CHANGE</key>
     <original>品質変更する装備を選択してください</original>
+    <translation>Please select equipment to change quality</translation>
   </message>
   <message>
     <key>ERROR_MATERIALS_CHANGE_001</key>
     <original>このアイテムは品質変更できません</original>
+    <translation>Can't change this item's quality</translation>
   </message>
   <message>
     <key>CRAFT_MATERIALS_CHANGE_NOTHING</key>
     <original>品質変更できる装備がありません</original>
+    <translation>There is no equipment that can change quality</translation>
   </message>
   <message>
     <key>ERROR_MATERIALS_CHANGE_002</key>
@@ -1283,6 +1297,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>BUTTON_MATERIALS_CHANGE</key>
     <original>変更</original>
+    <translation>Change</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_MATERIALS_CHANGE</key>
@@ -1290,6 +1305,10 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
 
 作業費用　：&lt;VAL G&gt;
 取得経験値：&lt;VAL XP&gt;</original>
+    <translation>Do you want to change the quality of this item?
+
+Work Cost　：&lt;VAL G&gt;
+Experience acquisition value：&lt;VAL XP&gt;</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_GP_MATERIALS_CHANGE</key>
@@ -1301,6 +1320,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>TITLE_MATERIALS_CHANGE</key>
     <original>アイテムを品質変更しました</original>
+    <translation>Quality of item changed</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_MATERIALS_CHANGE_EX</key>
@@ -1308,5 +1328,9 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
 
 作業費用　：&lt;VAL G&gt;
 取得経験値：&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;</original>
+    <translation>Do you want to change the quality of this item?
+
+Work Cost　：&lt;VAL G&gt;
+Acquired experience value：&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;
   </message>
 </resource>
