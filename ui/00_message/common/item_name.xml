@@ -55200,18 +55200,23 @@
   </item>
   <item id="17811">
     <original>アラベスクウェア</original>
+    <translation>Arabesque Wear</translation>
   </item>
   <item id="17812">
     <original>アラベスクウェア</original>
+    <translation>Arabesque Wear</translation>
   </item>
   <item id="17813">
     <original>アラベスクウェア</original>
+    <translation>Arabesque Wear</translation>
   </item>
   <item id="17814">
     <original>アラベスクウェア</original>
+    <translation>Arabesque Wear</translation>
   </item>
   <item id="17815">
     <original>アラベスクウェア</original>
+    <translation>Arabesque Wear</translation>
   </item>
   <item id="17816">
     <original>ビヤーバーンメイル</original>
@@ -55341,60 +55346,78 @@
   </item>
   <item id="17858">
     <original>巨人の臼歯</original>
+    <translation>Giant's Molar</translation>
   </item>
   <item id="17859">
     <original>蛮勇の印</original>
+    <translation>Mark of Barbarous</translation>
   </item>
   <item id="17860">
     <original>百戦の印</original>
+    <translation>Mark of 100-Battles</translation>
   </item>
   <item id="17861">
     <original>黒刃の破片</original>
+    <translation>Black blade fragments</translation>
   </item>
   <item id="17866">
     <original>マンティコアの粗皮</original>
+    <translation>Manticore's Rough Skin</translation>
   </item>
   <item id="17867">
     <original>小鬼の術杖</original>
   </item>
   <item id="17870">
     <original>ロックレザー</original>
+    <translation>Rock Leather</translation>
   </item>
   <item id="17871">
     <original>ロックカッター</original>
+    <translation>Rock Cutter</translation>
   </item>
   <item id="17872">
     <original>大きな魚眼石</original>
+    <translation>Large Fisheye Stone</translation>
   </item>
   <item id="17873">
     <original>亡者の削れた爪</original>
+    <translation>Dead's shattered nail</translation>
   </item>
   <item id="17876">
     <original>戦甲の残片</original>
+    <translation>War Armor's Remnants</translation>
   </item>
   <item id="17878">
     <original>呪詛の手紙</original>
+    <translation>Cursed Letter</translation>
   </item>
   <item id="17879">
     <original>竜の逆鱗</original>
+    <translation>Dragon's Wrath</translation>
   </item>
   <item id="17880">
     <original>高粘度スライムリキッド</original>
+    <translation>High Viscosity Slime Liquid</translation>
   </item>
   <item id="17881">
     <original>ボーンパール</original>
+    <translation>Born Pearl</translation>
   </item>
   <item id="17882">
     <original>もろい砂岩石</original>
+    <translation>Brittle Sandstone</translation>
   </item>
   <item id="17883">
     <original>火山噴出岩</original>
+    <translation>Volcanic Eruption Rock</translation>
   </item>
   <item id="17884">
     <original>灰かぶり草</original>
+    <translation>Ash-blasted Grass</translation>
   </item>
   <item id="17885">
     <original>火炎草</original>
+    <translation>Flame Grass</translation>
   </item>
   <item id="17886">
     <original>プランクトン液</original>
@@ -55411,6 +55434,7 @@
   </item>
   <item id="17892">
     <original>コバルト合金のインゴット</original>
+    <translation>Cobalt Alloy Ingot</translation>
   </item>
   <item id="17897">
     <original>突風の特質錬石</original>
@@ -55432,12 +55456,15 @@
   </item>
   <item id="17907">
     <original>乾いた実験試料</original>
+    <translation>Dry Experimental Sample</translation>
   </item>
   <item id="17908">
     <original>魔物の生体試料</original>
+    <translation>Biological Sample of Demons</translation>
   </item>
   <item id="17909">
     <original>肉喰い巻貝</original>
+    <translation>Meat Eating Conch Shell</translation>
   </item>
   <item id="17910">
     <original>血色の螺旋貝</original>
@@ -55450,21 +55477,27 @@
   </item>
   <item id="17923">
     <original>ボーナスダンジョンチケット【XP】</original>
+    <translation>Bonus Dungeon Ticket【XP】</translation>
   </item>
   <item id="17924">
-    <original>ボーナスダンジョンチケット【リム】</original>
+    <original>ボーナスダンジョンチケット【Rim】</original>
+    <translation>Bonus Dungeon Ticket</translation>
   </item>
   <item id="17925">
     <original>ボーナスダンジョンチケット【BO】</original>
+    <translation>Bonus Dungeon Ticket【BO】</translation>
   </item>
   <item id="17926">
     <original>ボーナスダンジョンチケット【ゴールド】</original>
+    <translation>Bonus Dungeon Ticket【Gold】</translation>
   </item>
   <item id="17928">
     <original>ハーピーの胸肉</original>
+    <translation>Harpie breast meat</translation>
   </item>
   <item id="17930">
     <original>有翼種の心臓</original>
+    <translation>Winged species's heart</translation>
   </item>
   <item id="17931">
     <original>パペット・ミカサ</original>
@@ -57671,19 +57704,19 @@
   </item>
   <item id="19363">
     <original>戦甲砕きのクレスト１</original>
-    <translation>戦甲砕きのクレスト I</translation>
+    <translation>Crest of Armor Break I</translation>
   </item>
   <item id="19364">
     <original>戦甲砕きのクレスト２</original>
-    <translation>戦甲砕きのクレスト II</translation>
+    <translation>Crest of Armor Break II</translation>
   </item>
   <item id="19365">
     <original>戦甲砕きのクレスト３</original>
-    <translation>戦甲砕きのクレスト III</translation>
+    <translation>Crest of Armor Break III</translation>
   </item>
   <item id="19366">
     <original>戦甲砕きのクレスト４</original>
-    <translation>戦甲砕きのクレスト IV</translation>
+    <translation>Crest of Armor Break IV</translation>
   </item>
   <item id="19367">
     <original>カスタムメイドサービス券</original>
