@@ -7310,6 +7310,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2848</key>
     <original>王子ネド</original>
+    <translation>Prince Ned</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2852</key>
@@ -7334,6 +7335,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2888</key>
     <original>庭師</original>
+    <translation>Gardener</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2889</key>
@@ -7398,9 +7400,11 @@
   <message>
     <key>ACHIEVEMENT_NAME_2913</key>
     <original>タンクハンター</original>
+    <translation>Tank Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2935</key>
     <original>ラスニテ探検家</original>
+    <translation>Rathnite Explorer</translation>
   </message>
 </resource>

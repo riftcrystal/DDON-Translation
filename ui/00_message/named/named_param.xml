@@ -144,7 +144,7 @@
   </named_param>
   <named_param id="147">
     <original type="Prefix">強襲の</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Assault </translation>
   </named_param>
   <named_param id="148">
     <original type="Replace">召喚されし牙竜</original>
@@ -604,7 +604,7 @@
   </named_param>
   <named_param id="284">
     <original type="Prefix">切込隊長</original>
-    <translation type="Prefix">Raider Captain </translation>
+    <translation type="Prefix">Raid Captain </translation>
   </named_param>
   <named_param id="285">
     <original type="Suffix">先発兵</original>
@@ -883,7 +883,7 @@
   </named_param>
   <named_param id="410">
     <original type="Suffix">強襲兵</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Assault Soldier </translation>
   </named_param>
   <named_param id="413">
     <original type="Replace">？？？</original>
@@ -907,7 +907,7 @@
   </named_param>
   <named_param id="418">
     <original type="Prefix">急襲の</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="419">
     <original type="Replace">？？？</original>
@@ -981,7 +981,7 @@
   </named_param>
   <named_param id="446">
     <original type="Prefix">強襲の</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Assault </translation>
   </named_param>
   <named_param id="447">
     <original type="Prefix">特攻の</original>
@@ -3690,7 +3690,7 @@
   </named_param>
   <named_param id="1462">
     <original type="Prefix">襲撃</original>
-    <translation type="Prefix">Marauding </translation>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1463">
     <original type="Prefix"></original>
@@ -4005,25 +4005,30 @@
   </named_param>
   <named_param id="1610">
     <original type="Prefix">急襲の</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1611">
     <original type="Replace">森の怒り</original>
+    <translation type="Replace">Forest's Fury</translation>
   </named_param>
   <named_param id="1612">
     <original type="Replace">モゴックの部下</original>
+    <translation type="Replace">Mogok's Subordinate</translation>
   </named_param>
   <named_param id="1613">
     <original type="Replace">帰ってきたモゴック</original>
+    <translation type="Replace">Mogok who came back</translation>
   </named_param>
   <named_param id="1614">
     <original type="Prefix">薬草を守りし</original>
   </named_param>
   <named_param id="1615">
     <original type="Prefix">襲撃の</original>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1616">
     <original type="Prefix">襲撃の</original>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1617">
     <original type="Replace">時番群</original>
@@ -4067,7 +4072,7 @@
   </named_param>
   <named_param id="1642">
     <original type="Prefix">急襲の</original>
-    <translation type="Prefix">Raider </translation>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1643">
     <original type="Prefix">突然変異の</original>
@@ -4077,6 +4082,7 @@
   </named_param>
   <named_param id="1645">
     <original type="Replace">怪しいオーク</original>
+    <translation type="Replace">Suspicious Orc</translation>
   </named_param>
   <named_param id="1659">
     <original type="Prefix"></original>
@@ -4466,7 +4472,7 @@
   </named_param>
   <named_param id="1839">
     <original type="Prefix">襲撃</original>
-    <translation type="Prefix">Marauding </translation>
+    <translation type="Prefix">Raid </translation>
   </named_param>
   <named_param id="1840">
     <original type="Prefix">メダルコレクター</original>

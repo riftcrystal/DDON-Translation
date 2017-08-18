@@ -57,6 +57,7 @@
   <message>
     <key>pop_detail_comparison_eq</key>
     <original>比較装備：</original>
+    <translation>Equip Comparison:</translation>
   </message>
   <message>
     <key>pop_detail_shop_stock</key>

@@ -287,10 +287,12 @@
   <message>
     <key>menu_partyboard</key>
     <original>パーティー募集掲示板</original>
+    <translation>Party Recruitment Board</translation>
   </message>
   <message>
     <key>menu_partyboard_dialog</key>
     <original>パーティー募集掲示板のカテゴリを選択してください</original>
+    <translation>Please select the category of the Party Recruitment Board</translation>
   </message>
   <message>
     <key>menu_partyboard_type01</key>

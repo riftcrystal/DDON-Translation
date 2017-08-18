@@ -453,6 +453,7 @@
   <message>
     <key>poptop_enhance_evolution</key>
     <original>リミット解除</original>
+    <translation>Limit Break</translation>
   </message>
   <message>
     <key>poptop_enhance_special_evolution</key>
@@ -477,10 +478,11 @@
   <message>
     <key>poptop_depositbox_menu_02_restore</key>
     <original>アイテム復元</original>
+    <translation>Item Restoration</translation>
   </message>
   <message>
     <key>poptop_craft_change_quality</key>
     <original>装備の品質変更</original>
-    <translation>Change Equipment Quality</translation>
+    <translation>Change Quality</translation>
   </message>
 </resource>

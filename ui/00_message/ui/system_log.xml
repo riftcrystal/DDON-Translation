@@ -2,7 +2,7 @@
   <message>
     <key>syslog_battle_danger_tg</key>
     <original>&lt;NAME TARGET&gt;が行動不能になりました</original>
-    <translation>&lt;NAME TARGET&gt; has become incapacitated.</translation>
+    <translation>&lt;NAME TARGET&gt; has been incapacitated.</translation>
   </message>
   <message>
     <key>syslog_battle_danger</key>
@@ -182,7 +182,7 @@
   <message>
     <key>syslog_pawn_rescue_faild</key>
     <original>&lt;NAME PAWN&gt;の救出に失敗しました</original>
-    <translation>You failed the rescue mission for &lt;NAME PAWN&gt;.</translation>
+    <translation>&lt;NAME PAWN&gt; rescue failed.</translation>
   </message>
   <message>
     <key>syslog_pawn_rescue_success</key>
@@ -472,12 +472,12 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_pawnrestore_restore</key>
     <original>&lt;NAME PAWN&gt;が復活しました</original>
-    <translation>&lt;NAME PAWN&gt; resurrected.</translation>
+    <translation>&lt;NAME PAWN&gt; has been resurrected.</translation>
   </message>
   <message>
     <key>syslog_craft_consume_item</key>
     <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、消費しました</original>
-    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; was consumed.</translation>
+    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; consumed.</translation>
   </message>
   <message>
     <key>syslog_craft_consume_gold</key>
@@ -652,7 +652,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_item_consume</key>
     <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、使用しました</original>
-    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; was used.</translation>
+    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; used.</translation>
   </message>
   <message>
     <key>syslog_item_get</key>
@@ -982,12 +982,12 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_silvertichet_lost</key>
     <original>シルバーチケットを&lt;VAL&gt;枚、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Used &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
+    <translation>Spent &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
     <original>黄金石を&lt;VAL&gt;個、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Used &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
+    <translation>Spent &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_bo_lost</key>
@@ -1091,12 +1091,12 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
     <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回まわしました</original>
-    <translation>Consuming &lt;VAL&gt; Golden Gemstones, you drew 1 lot.</translation>
+    <translation>Spending &lt;VAL&gt; Golden Gemstones, you drew 1 lot.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
     <original>黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation>Consuming &lt;VAL&gt; Golden Gemstones, you
+    <translation>Spending &lt;VAL&gt; Golden Gemstones, you
 drew &lt;VAL&gt; lots in succession.</translation>
   </message>
   <message>
@@ -1126,8 +1126,8 @@ drew &lt;VAL&gt; lots in succession.</translation>
     <key>syslog_jp_possession_max_notice</key>
     <original>ジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
-    <translation>You are almost maxed out on job points 
-(&lt;VAL&gt;/&lt;VAL JP&gt;).</translation>
+    <translation>You are almost maxed out on job points.
+(&lt;VAL&gt;/&lt;VAL JP&gt;)</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max</key>
@@ -1138,8 +1138,8 @@ drew &lt;VAL&gt; lots in succession.</translation>
     <key>syslog_jp_possession_max_notice_pawn</key>
     <original>&lt;NAME PAWN&gt;のジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
-    <translation>&lt;NAME PAWN&gt; is almost maxed out on job points 
-(&lt;VAL&gt;/&lt;VAL JP&gt;).</translation>
+    <translation>&lt;NAME PAWN&gt; is almost maxed out on job points.
+(&lt;VAL&gt;/&lt;VAL JP&gt;)</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max_pawn</key>
@@ -1159,7 +1159,7 @@ drew &lt;VAL&gt; lots in succession.</translation>
   <message>
     <key>syslog_rentalpoint_lost</key>
     <original>レンタルポイントを&lt;VAL RP&gt;消費しました</original>
-    <translation>Used &lt;VAL RP&gt;.</translation>
+    <translation>&lt;VAL RP&gt; consumed.</translation>
   </message>
   <message>
     <key>syslog_break_region_raid_boss</key>
@@ -1319,42 +1319,52 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_dp_get</key>
     <original>&lt;VAL DP&gt;を入手しました</original>
+    <translation>&lt;VAL DP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_dp_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT DP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT DP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_dp_lost</key>
     <original>&lt;VAL DP&gt;を消費しました</original>
+    <translation>&lt;VAL DP&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_hb_get</key>
     <original>&lt;VAL HB&gt;を入手しました</original>
+    <translation>&lt;VAL HB&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_hb_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT HB&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT HB&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_hb_lost</key>
     <original>&lt;VAL HB&gt;を消費しました</original>
+    <translation>&lt;VAL HB&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_xp_get</key>
     <original>&lt;VAL XP&gt;を入手しました</original>
+    <translation>&lt;VAL XP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_xp_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_pgexp_get</key>
     <original>&lt;NAME PAWN&gt;が&lt;VAL PTP&gt;獲得しました</original>
+    <translation>&lt;NAME PAWN&gt; gained &lt;VAL PTP&gt;.</translation>
   </message>
   <message>
     <key>syslog_pgexp_get_ex</key>
     <original>&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PTP&gt;獲得しました</original>
+    <translation>&lt;NAME PAWN&gt; gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PTP&gt;.</translation>
   </message>
   <message>
     <key>syslog_mandragora_grow_up</key>
@@ -1363,6 +1373,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_pap_get</key>
     <original>&lt;NAME PAWN&gt;に戦術育成が行えます</original>
+    <translation>&lt;NAME PAWN&gt; can now do Tactics Training.</translation>
   </message>
   <message>
     <key>syslog_craft_exp_get_ex</key>
@@ -1407,10 +1418,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_tp_get</key>
     <original>&lt;VAL TP&gt;を入手しました</original>
+    <translation>&lt;VAL TP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_tp_lost</key>
     <original>&lt;VAL TP&gt;を消費しました</original>
+    <translation>&lt;VAL TP&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_tp_possession_max_notice</key>
@@ -1424,10 +1437,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_evoticket_get</key>
     <original>&lt;UNTN MS&gt;を &lt;VAL MS&gt;、入手しました</original>
+    <translation>&lt;UNTN MS&gt; x&lt;VAL MS&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_evoticket_lost</key>
     <original>&lt;UNTN MS&gt;を &lt;VAL MS&gt;、消費しました</original>
+    <translation>&lt;UNTN MS&gt; x&lt;VAL MS&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_action_tornado_target</key>

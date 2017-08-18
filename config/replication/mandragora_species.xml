@@ -1,0 +1,39 @@
+﻿<replication>
+  <message_set name="mandragora species name">
+    <match>^ui\\00_message\\mandragora\\mandragora_species_name$</match>
+    <rewrite>
+      <original_match>^【銅】(.+)$</original_match>
+      <translation_replace>(Bronze) {0}</translation_replace>
+      <translation_arg message_set="mandragora species name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^【銀】(.+)$</original_match>
+      <translation_replace>(Silver) {0}</translation_replace>
+      <translation_arg message_set="mandragora species name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^【金】(.+)$</original_match>
+      <translation_replace>(Gold) {0}</translation_replace>
+      <translation_arg message_set="mandragora species name" required="true" />
+    </rewrite>
+    <extra>
+      <original>マッシュルーム・ブルー</original>
+      <translation>Blue Mushroom</translation>
+    </extra>
+    <extra>
+      <original>マッシュルーム・レッド</original>
+      <translation>Red Mushroom</translation>
+    </extra>
+    <extra>
+      <original>マッシュルーム・イエロー</original>
+      <translation>Yellow Mushroom</translation>
+    </extra>
+    <extra>
+      <original>マッシュルーム・ホワイト</original>
+      <translation>White Mushroom</translation>
+    </extra>
+  </message_set>
+  <message_set name="mandragora species info">
+    <match>^ui\\00_message\\mandragora\\mandragora_species_info$</match>
+  </message_set>
+</replication>

@@ -885,6 +885,7 @@
   <message>
     <key>TUTORIAL_354</key>
     <original>ポーン戦術育成</original>
+    <translation>Pawn Tactics Training</translation>
   </message>
   <message>
     <key>TUTORIAL_355</key>
@@ -905,6 +906,7 @@
   <message>
     <key>TUTORIAL_359</key>
     <original>カスタムメイド工房について</original>
+    <translation>About Custom-Made Workshop</translation>
   </message>
   <message>
     <key>TUTORIAL_362</key>
@@ -913,6 +915,7 @@
   <message>
     <key>TUTORIAL_364</key>
     <original>マンドラゴラ・ガーデニング</original>
+    <translation>Mandragora Gardening</translation>
   </message>
   <message>
     <key>TUTORIAL_365</key>
@@ -938,6 +941,7 @@
   <message>
     <key>TUTORIAL_371</key>
     <original>フォトモード</original>
+    <translation>Photo Mode</translation>
   </message>
   <message>
     <key>TUTORIAL_372</key>
@@ -959,6 +963,7 @@
   <message>
     <key>TUTORIAL_384</key>
     <original>武具のリミット解除</original>
+    <translation>Limit Breaking Arms</translation>
   </message>
   <message>
     <key>TUTORIAL_385</key>

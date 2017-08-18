@@ -118,6 +118,10 @@
       <translation_arg message_set="weather adjective" />
     </rewrite>
     <rewrite>
+      <original_match>^＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC (\d+)&gt;に渡す（残り:&lt;SQDI DNUM&gt;）$</original_match>
+      <translation_replace>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to &lt;NPC {0}&gt; (need: &lt;SQDI DNUM&gt;)</translation_replace>
+    </rewrite>
+    <rewrite>
       <original_match>^＜(\d+)時から(\d+)時＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞(つ)?納品する$</original_match>
       <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {2}&gt; from "{0} to {1} GT"</translation_replace>
     </rewrite>
@@ -178,6 +182,10 @@
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Confirm with/Confirm details from -->
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;の&lt;NPC (\d+)&gt;に確認する$</original_match>
+      <translation_replace>Confirm with &lt;NPC {1}&gt; in &lt;STG {0}&gt;</translation_replace>
+    </rewrite>
     <rewrite>
       <original_match>^&lt;SPOT (\d+)&gt; にいる&lt;NPC (\d+)&gt;から確認する$</original_match>
       <translation_replace>Confirm with &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
@@ -245,6 +253,10 @@
       <translation_replace>Head to {0:d} village and speak with {1:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;に行き&lt;NPC (\d+)&gt;と話す$</original_match>
+      <translation_replace>Head to &lt;STG {0}&gt; and speak with &lt;NPC {1}&gt;</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+?)(へ行き|へ向かい)(現地の)?(.+?)と話す$</original_match>
@@ -758,6 +770,11 @@
     <rewrite>
       <original_match>^白竜神殿の(.+?)に報告する$</original_match>
       <translation_replace>Report to {0:d} in the White Dragon Temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^祠内にいる(.+)に報告する$</original_match>
+      <translation_replace>Report to {0:d} within the chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>

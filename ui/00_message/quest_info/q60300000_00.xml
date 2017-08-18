@@ -12,26 +12,32 @@
   <message>
     <key>q60300000_00_3003</key>
     <original>作業依頼の方法を決める</original>
+    <translation>Choose the method of the work request</translation>
   </message>
   <message>
     <key>q60300000_00_3004</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 1024&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to &lt;NPC 1024&gt; (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q60300000_00_3227</key>
     <original>作業人員を集める（残り３人）</original>
+    <translation>Gather work personnel (3 remaining people)</translation>
   </message>
   <message>
     <key>q60300000_00_3228</key>
     <original>作業人員を集める（残り２人）</original>
+    <translation>Gather work personnel (2 remaining people)</translation>
   </message>
   <message>
     <key>q60300000_00_3229</key>
     <original>作業人員を集める（残り１人）</original>
+    <translation>Gather work personnel (1 remaining person)</translation>
   </message>
   <message>
     <key>q60300000_00_3230</key>
     <original>&lt;STG 211&gt;に向かい作業状況を確認する</original>
+    <translation>Head to &lt;STG 211&gt; and check the work situation</translation>
   </message>
   <message>
     <key>q60300000_00_3226</key>
@@ -45,5 +51,6 @@
   <message>
     <key>q60300000_00_3232</key>
     <original>&lt;STG 200&gt;の&lt;NPC 1024&gt;に確認する</original>
+    <translation>Confirm with &lt;NPC 1024&gt; in &lt;STG 200&gt;</translation>
   </message>
 </resource>

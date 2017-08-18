@@ -90,10 +90,12 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_1A0_1_menu</key>
     <original>マンドラゴラの管理</original>
+    <translation>Mandragora Management</translation>
   </message>
   <message>
     <key>myroom_mandragora_1A0_2_menu</key>
     <original>マンドラゴラ図鑑</original>
+    <translation>Mandragora Guidebook</translation>
   </message>
   <message>
     <key>myroom_mandragora_2A0_1_menu</key>
@@ -102,30 +104,37 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_2A1_1_menu</key>
     <original>マンドラゴラを迎え入れる</original>
+    <translation>Take in Mandragora</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_menu</key>
     <original>育てる</original>
+    <translation>Raise</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_2_menu</key>
     <original>持ちあげる</original>
+    <translation>Lift</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_3_menu</key>
     <original>なでる</original>
+    <translation>Pat</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_4_menu</key>
     <original>見た目を変える</original>
+    <translation>Change appearance</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_5_menu</key>
     <original>名前を変える</original>
+    <translation>Change name</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A1_1_menu</key>
     <original>土を変える</original>
+    <translation>Change soil</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A1_2_dialog</key>
@@ -136,10 +145,12 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_3A2_1_menu</key>
     <original>育成状況を確認する</original>
+    <translation>Check raising status</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A2_2_menu</key>
     <original>肥料を確認する</original>
+    <translation>Check fertilizer</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A2_3_dialog</key>
@@ -201,6 +212,7 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_3A0_1_02_dialog_menu</key>
     <original>作るものを選ぶ</original>
+    <translation>Choose what to make</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_03_dialog</key>
@@ -211,6 +223,7 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_3A0_1_04_dialog_menu</key>
     <original>肥料を選ぶ</original>
+    <translation>Choose fertilizer</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_05_dialog</key>
@@ -220,14 +233,17 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_3A0_1_06_dialog</key>
     <original>育成方法を選んでください</original>
+    <translation>Please choose a raising method</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_07_dialog_menu</key>
     <original>通常育成</original>
+    <translation>Normal raising</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_08_dialog_menu</key>
     <original>黄金石で即時育成</original>
+    <translation>Immediate raising with Golden Gemstones</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_09_dialog</key>
@@ -252,14 +268,17 @@ Are you sure you want to change it?</translation>
   <message>
     <key>myroom_mandragora_3A0_1_11_list</key>
     <original>黄金石で即時育成</original>
+    <translation>Immediate with GG</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_12_dialog</key>
     <original>育成を開始しました</original>
+    <translation>Raising has started</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A0_1_13_dialog</key>
     <original>育成が完了しました</original>
+    <translation>Raising has completed</translation>
   </message>
   <message>
     <key>myroom_mandragora_3A2_2_dialog</key>

@@ -2,18 +2,22 @@
   <message>
     <key>eqenhance_title</key>
     <original>Custom Made</original>
+    <translation>Custom-Made Arms</translation>
   </message>
   <message>
     <key>eqenhance_title_sub</key>
     <original>武具のカスタムメイド</original>
+    <translation>Custom-Made Arms</translation>
   </message>
   <message>
     <key>eqrecycle_title</key>
     <original>Resource Disassembly</original>
+    <translation>Arms Resource Disassembly</translation>
   </message>
   <message>
     <key>eqrecycle_title_sub</key>
     <original>武具の資源分解</original>
+    <translation>Arms Resource Disassembly</translation>
   </message>
   <message>
     <key>eqenhance_weapon</key>
@@ -38,6 +42,7 @@
   <message>
     <key>eqenhance_start_evolution</key>
     <original>カスタム開始</original>
+    <translation>Start Custom</translation>
   </message>
   <message>
     <key>eqenhance_success_example</key>
@@ -91,6 +96,7 @@
   <message>
     <key>eqenhance_check_detail</key>
     <original>詳細を確認する</original>
+    <translation>View details</translation>
   </message>
   <message>
     <key>eqenhance_confirm_overwrite</key>

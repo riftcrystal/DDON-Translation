@@ -2513,10 +2513,12 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_cpOmJukeBox</key>
     <original>再生するアビリティを選択してください</original>
+    <translation>Please select the ability to play</translation>
   </message>
   <message>
     <key>ana_cpOmJukeBox_stop</key>
     <original>曲を止める</original>
+    <translation>Stop the song</translation>
   </message>
   <message>
     <key>ana_clan_kyoten_ng_pass_stage</key>

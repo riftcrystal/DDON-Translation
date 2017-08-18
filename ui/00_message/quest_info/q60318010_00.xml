@@ -24,6 +24,7 @@
   <message>
     <key>q60318010_00_3235</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 2953&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to &lt;NPC 2953&gt; (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q60318010_00_3236</key>

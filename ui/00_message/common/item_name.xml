@@ -51525,18 +51525,23 @@
   </item>
   <item id="16633">
     <original>オーフリングソード【碧】</original>
+    <translation>Olfring Sword (Blue-green)</translation>
   </item>
   <item id="16634">
     <original>オーフリングソード【碧】</original>
+    <translation>Olfring Sword (Blue-green)</translation>
   </item>
   <item id="16635">
     <original>オーフリングソード【碧】</original>
+    <translation>Olfring Sword (Blue-green)</translation>
   </item>
   <item id="16636">
     <original>オーフリングソード【碧】</original>
+    <translation>Olfring Sword (Blue-green)</translation>
   </item>
   <item id="16637">
     <original>オーフリングソード【碧】</original>
+    <translation>Olfring Sword (Blue-green)</translation>
   </item>
   <item id="16638">
     <original>オーフリングソード改【天】</original>
@@ -51580,18 +51585,23 @@
   </item>
   <item id="16648">
     <original>オーフリングシェル【碧】</original>
+    <translation>Olfring Shell (Blue-green)</translation>
   </item>
   <item id="16649">
     <original>オーフリングシェル【碧】</original>
+    <translation>Olfring Shell (Blue-green)</translation>
   </item>
   <item id="16650">
     <original>オーフリングシェル【碧】</original>
+    <translation>Olfring Shell (Blue-green)</translation>
   </item>
   <item id="16651">
     <original>オーフリングシェル【碧】</original>
+    <translation>Olfring Shell (Blue-green)</translation>
   </item>
   <item id="16652">
     <original>オーフリングシェル【碧】</original>
+    <translation>Olfring Shell (Blue-green)</translation>
   </item>
   <item id="16653">
     <original>オーフリングシェル改【天】</original>
@@ -51755,18 +51765,23 @@
   </item>
   <item id="16693">
     <original>オーフリングケイン【碧】</original>
+    <translation>Olfring Cane (Blue-green)</translation>
   </item>
   <item id="16694">
     <original>オーフリングケイン【碧】</original>
+    <translation>Olfring Cane (Blue-green)</translation>
   </item>
   <item id="16695">
     <original>オーフリングケイン【碧】</original>
+    <translation>Olfring Cane (Blue-green)</translation>
   </item>
   <item id="16696">
     <original>オーフリングケイン【碧】</original>
+    <translation>Olfring Cane (Blue-green)</translation>
   </item>
   <item id="16697">
     <original>オーフリングケイン【碧】</original>
+    <translation>Olfring Cane (Blue-green)</translation>
   </item>
   <item id="16698">
     <original>黒騎士の思念</original>
@@ -52203,6 +52218,7 @@
   </item>
   <item id="16822">
     <original>経験値結晶</original>
+    <translation>Experience Crystal</translation>
   </item>
   <item id="16823">
     <original>髪のパーツEX5</original>
@@ -52218,9 +52234,11 @@
   </item>
   <item id="16831">
     <original>経験値結晶</original>
+    <translation>Experience Crystal</translation>
   </item>
   <item id="16832">
     <original>経験値結晶</original>
+    <translation>Experience Crystal</translation>
   </item>
   <item id="16833">
     <original>銀の宝珠認証</original>
@@ -53089,27 +53107,35 @@
   </item>
   <item id="17061">
     <original>エレガントテーブル・スノウ</original>
+    <translation>Elegant Table - Snow</translation>
   </item>
   <item id="17062">
     <original>エレガントテーブル・チャコール</original>
+    <translation>Elegant Table - Charcoal</translation>
   </item>
   <item id="17063">
     <original>クロステーブル・フォレスト</original>
+    <translation>Cross Table - Forest</translation>
   </item>
   <item id="17066">
     <original>クロステーブル・スノウ</original>
+    <translation>Cross Table - Snow</translation>
   </item>
   <item id="17067">
     <original>クロステーブル・チャコール</original>
+    <translation>Cross Table - Charcoal</translation>
   </item>
   <item id="17069">
     <original>アンティークの机・ナチュラル</original>
+    <translation>Antique Desk - Natural</translation>
   </item>
   <item id="17070">
     <original>アンティークの机・スノウ</original>
+    <translation>Antique Desk - Snow</translation>
   </item>
   <item id="17071">
     <original>アンティークの机・チャコール</original>
+    <translation>Antique Desk - Charcoal</translation>
   </item>
   <item id="17086">
     <original>アリストクラットバス・キメラ</original>
@@ -53128,15 +53154,19 @@
   </item>
   <item id="17097">
     <original>ウォールペイント・ホワイト</original>
+    <translation>Wall Paint - White</translation>
   </item>
   <item id="17098">
     <original>ウォールペイント・ブラック</original>
+    <translation>Wall Paint - Black</translation>
   </item>
   <item id="17102">
     <original>ウォールペイント・ブリック</original>
+    <translation>Wall Paint - Brick</translation>
   </item>
   <item id="17103">
     <original>ウォールペイント・レスタニア</original>
+    <translation>Wall Paint - Lestania</translation>
   </item>
   <item id="17105">
     <original>PlayStation® Awards トロフィー</original>
@@ -53156,9 +53186,11 @@
   </item>
   <item id="17115">
     <original>毛織りのカーペット・スノウ</original>
+    <translation>Woolen Carpet - Snow</translation>
   </item>
   <item id="17116">
     <original>毛織りのカーペット・チャコール</original>
+    <translation>Woolen Carpet - Charcoal</translation>
   </item>
   <item id="17134">
     <original>大本棚（左）</original>
@@ -53166,24 +53198,31 @@
   </item>
   <item id="17135">
     <original>タペストリー・レスタニア</original>
+    <translation>Tapestry - Lestania</translation>
   </item>
   <item id="17136">
     <original>タペストリー・プライド</original>
+    <translation>Tapestry - Pride</translation>
   </item>
   <item id="17137">
     <original>タペストリー・ドラゴン</original>
+    <translation>Tapestry - Dragon</translation>
   </item>
   <item id="17138">
     <original>タペストリー・ディスコード</original>
+    <translation>Tapestry - Discord</translation>
   </item>
   <item id="17139">
     <original>タペストリー・ジェネシス</original>
+    <translation>Tapestry - Genesis</translation>
   </item>
   <item id="17140">
     <original>タペストリー・アルケム</original>
+    <translation>Tapestry - Alchemic</translation>
   </item>
   <item id="17141">
     <original>タペストリー・ルインズ</original>
+    <translation>Tapestry - Ruins</translation>
   </item>
   <item id="17142">
     <original>大本棚（右）</original>
@@ -53191,12 +53230,15 @@
   </item>
   <item id="17143">
     <original>タペストリー・フィンダム</original>
+    <translation>Tapestry - Phindym</translation>
   </item>
   <item id="17146">
     <original>毛織りのリビングカーペット・スノウ</original>
+    <translation>Woolen Living Room Carpet - Snow</translation>
   </item>
   <item id="17147">
     <original>毛織りのリビングカーペット・チャコール</original>
+    <translation>Woolen Living Room Carpet - Charcoal</translation>
   </item>
   <item id="17151">
     <original>ベーシックなリビングカーペット</original>
@@ -53204,9 +53246,11 @@
   </item>
   <item id="17152">
     <original>語らいのベル</original>
+    <translation>Chatting Bell</translation>
   </item>
   <item id="17153">
     <original>鳩時計</original>
+    <translation>Cuckoo Clock</translation>
   </item>
   <item id="17154">
     <original>老甲晶のリング</original>
@@ -55336,66 +55380,87 @@
   </item>
   <item id="17856">
     <original>石呪の大粒涙</original>
+    <translation>Stone-Curser's Tears</translation>
   </item>
   <item id="17857">
     <original>魔獣の蛇皮</original>
+    <translation>Demonic Beast Snakeskin</translation>
   </item>
   <item id="17858">
     <original>巨人の臼歯</original>
+    <translation>Giant's Molar</translation>
   </item>
   <item id="17859">
     <original>蛮勇の印</original>
+    <translation>Mark of Brute Courage</translation>
   </item>
   <item id="17860">
     <original>百戦の印</original>
+    <translation>Mark of A Hundred Battles</translation>
   </item>
   <item id="17861">
     <original>黒刃の破片</original>
+    <translation>Black Blade Fragment</translation>
   </item>
   <item id="17866">
     <original>マンティコアの粗皮</original>
+    <translation>Manticore Raw Pelt</translation>
   </item>
   <item id="17867">
     <original>小鬼の術杖</original>
+    <translation>Goblin's Spellstaff</translation>
   </item>
   <item id="17870">
     <original>ロックレザー</original>
+    <translation>Rock Leather</translation>
   </item>
   <item id="17871">
     <original>ロックカッター</original>
+    <translation>Rock-Cutter</translation>
   </item>
   <item id="17872">
     <original>大きな魚眼石</original>
+    <translation>Giant Apophyllite</translation>
   </item>
   <item id="17873">
     <original>亡者の削れた爪</original>
+    <translation>Undead Nail Shaving</translation>
   </item>
   <item id="17876">
     <original>戦甲の残片</original>
+    <translation>Battle Armor Fragment</translation>
   </item>
   <item id="17878">
     <original>呪詛の手紙</original>
+    <translation>Cursed Letter</translation>
   </item>
   <item id="17879">
     <original>竜の逆鱗</original>
+    <translation>Dragon's Inverse Scale</translation>
   </item>
   <item id="17880">
     <original>高粘度スライムリキッド</original>
+    <translation>Highly Viscous Slime Liquid</translation>
   </item>
   <item id="17881">
     <original>ボーンパール</original>
+    <translation>Bone Pearl</translation>
   </item>
   <item id="17882">
     <original>もろい砂岩石</original>
+    <translation>Brittle Sandstone</translation>
   </item>
   <item id="17883">
     <original>火山噴出岩</original>
+    <translation>Pyroclastic Rock</translation>
   </item>
   <item id="17884">
     <original>灰かぶり草</original>
+    <translation>Ashen Grass</translation>
   </item>
   <item id="17885">
     <original>火炎草</original>
+    <translation>Blaze Grass</translation>
   </item>
   <item id="17886">
     <original>プランクトン液</original>
@@ -55403,69 +55468,89 @@
   </item>
   <item id="17888">
     <original>竜頭のタイル片</original>
+    <translation>Dragon Head Tile Fragment</translation>
   </item>
   <item id="17889">
     <original>竜尾のタイル片</original>
+    <translation>Dragon Tail Tile Fragment</translation>
   </item>
   <item id="17891">
     <original>豊穣のリボン</original>
   </item>
   <item id="17892">
     <original>コバルト合金のインゴット</original>
+    <translation>Cobalt Alloy Ingot</translation>
   </item>
   <item id="17897">
     <original>突風の特質錬石</original>
+    <translation>Gusty Winds Stone</translation>
   </item>
   <item id="17898">
     <original>勝機の特質錬石</original>
+    <translation>Victorious Chance Stone</translation>
   </item>
   <item id="17899">
     <original>卒倒の特質錬石</original>
+    <translation>Fallen Soldier Stone</translation>
   </item>
   <item id="17900">
     <original>獣狩りの特質錬石</original>
+    <translation>Animal Hunter Stone</translation>
   </item>
   <item id="17901">
     <original>亜人斬りの特質錬石</original>
+    <translation>Demi-Human Killer Stone</translation>
   </item>
   <item id="17902">
     <original>鬼人裂きの特質錬石</original>
+    <translation>Demonic Slasher Stone</translation>
   </item>
   <item id="17907">
     <original>乾いた実験試料</original>
+    <translation>Dried Test Sample</translation>
   </item>
   <item id="17908">
     <original>魔物の生体試料</original>
+    <translation>Monster Tissue Sample</translation>
   </item>
   <item id="17909">
     <original>肉喰い巻貝</original>
+    <translation>Flesh-Eating Snail</translation>
   </item>
   <item id="17910">
     <original>血色の螺旋貝</original>
+    <translation>Blood-Colored Spiral Shell</translation>
   </item>
   <item id="17911">
     <original>精緻なインタリオ</original>
+    <translation>Delicate Intaglio</translation>
   </item>
   <item id="17912">
     <original>アッカー王家のインタリオ</original>
+    <translation>Acre Royal Family Intaglio</translation>
   </item>
   <item id="17923">
     <original>ボーナスダンジョンチケット【XP】</original>
+    <translation>Bonus Dungeon Ticket (XP)</translation>
   </item>
   <item id="17924">
     <original>ボーナスダンジョンチケット【リム】</original>
+    <translation>Bonus Dungeon Ticket (R)</translation>
   </item>
   <item id="17925">
     <original>ボーナスダンジョンチケット【BO】</original>
+    <translation>Bonus Dungeon Ticket (BO)</translation>
   </item>
   <item id="17926">
     <original>ボーナスダンジョンチケット【ゴールド】</original>
+    <translation>Bonus Dungeon Ticket (Gold)</translation>
   </item>
   <item id="17928">
     <original>ハーピーの胸肉</original>
   </item>
   <item id="17930">
     <original>有翼種の心臓</original>
+    <translation>Winged Beast's Heart</translation>
   </item>
   <item id="17931">
     <original>パペット・ミカサ</original>
@@ -55543,52 +55628,54 @@
   </item>
   <item id="17959">
     <original>ふかふかの土</original>
+    <translation>Soft Soil</translation>
   </item>
   <item id="18143">
     <original>エンブレムストーン・ファイター</original>
-    <translation>Emblem Stone: Fighter</translation>
+    <translation>Emblem Stone (Fighter)</translation>
   </item>
   <item id="18144">
     <original>エンブレムストーン・シーカー</original>
-    <translation>Emblem Stone: Seeker</translation>
+    <translation>Emblem Stone (Seeker)</translation>
   </item>
   <item id="18145">
     <original>エンブレムストーン・ハンター</original>
-    <translation>Emblem Stone: Hunter</translation>
+    <translation>Emblem Stone (Hunter)</translation>
   </item>
   <item id="18146">
     <original>エンブレムストーン・プリースト</original>
-    <translation>Emblem Stone: Priest</translation>
+    <translation>Emblem Stone (Priest)</translation>
   </item>
   <item id="18147">
     <original>エンブレムストーン・Ｓセージ</original>
-    <translation>Emblem Stone: Shield Sage</translation>
+    <translation>Emblem Stone (Shield Sage)</translation>
   </item>
   <item id="18148">
     <original>エンブレムストーン・ソーサラー</original>
-    <translation>Emblem Stone: Sorcerer</translation>
+    <translation>Emblem Stone (Sorcerer)</translation>
   </item>
   <item id="18149">
     <original>エンブレムストーン・ウォリアー</original>
-    <translation>Emblem Stone: Warrior</translation>
+    <translation>Emblem Stone (Warrior)</translation>
   </item>
   <item id="18150">
     <original>エンブレムストーン・Ｅアーチャー</original>
-    <translation>Emblem Stone: Element Archer</translation>
+    <translation>Emblem Stone (Element Archer)</translation>
   </item>
   <item id="18151">
     <original>エンブレムストーン・アルケミスト</original>
-    <translation>Emblem Stone: Alchemist</translation>
+    <translation>Emblem Stone (Alchemist)</translation>
   </item>
   <item id="18152">
     <original>エンブレムストーン・Ｓランサー</original>
-    <translation>Emblem Stone: Spirit Lancer</translation>
+    <translation>Emblem Stone (Spirit Lancer)</translation>
   </item>
   <item id="18506">
     <original>お風呂・楽園の湯</original>
   </item>
   <item id="18507">
     <original>ラスニテ産ハードウッド</original>
+    <translation>Rathnite Local Hardwood</translation>
   </item>
   <item id="18508">
     <original>自然木炭</original>
@@ -56002,9 +56089,11 @@
   </item>
   <item id="18640">
     <original>キャリーの特製サンドイッチ</original>
+    <translation>Carrie's Special Sandwich</translation>
   </item>
   <item id="18641">
     <original>キャリーの特製ランチボックス</original>
+    <translation>Carrie's Special Lunchbox</translation>
   </item>
   <item id="18643">
     <original>ドミニオンポイント</original>
@@ -56017,6 +56106,7 @@
   </item>
   <item id="18646">
     <original>タソガレダケ</original>
+    <translation>Toadstool Sitter</translation>
   </item>
   <item id="18647">
     <original>マンドラゴラキノコ</original>
@@ -56032,16 +56122,19 @@
   </item>
   <item id="18650">
     <original>ガーネット</original>
-    <translation>Garnet</translation>
+    <translation>Red Garnet</translation>
   </item>
   <item id="18655">
     <original>魔獣の肝</original>
+    <translation>Demon Beast's Liver</translation>
   </item>
   <item id="18656">
     <original>護衛者の魂</original>
+    <translation>Guardsman's Spirit</translation>
   </item>
   <item id="18661">
     <original>獣寄せの肉塊</original>
+    <translation>Beast-Luring Meat</translation>
   </item>
   <item id="18663">
     <original>マンドラゴラの葉っぱ</original>
@@ -56236,18 +56329,23 @@
   </item>
   <item id="18729">
     <original>使役戦甲</original>
+    <translation>Campaign Battle Armor</translation>
   </item>
   <item id="18730">
     <original>雪彫りの未鑑定装具【兵】</original>
+    <translation>Unappraised Snow Trinket (Soldier)</translation>
   </item>
   <item id="18731">
     <original>雪彫りの未鑑定装具【将】</original>
+    <translation>Unappraised Snow Trinket (General)</translation>
   </item>
   <item id="18732">
     <original>雪彫りの未鑑定装具【王】</original>
+    <translation>Unappraised Snow Trinket (King)</translation>
   </item>
   <item id="18733">
     <original>雪彫りの未鑑定装具【皇】</original>
+    <translation>Unappraised Snow Trinket (Emperor)</translation>
   </item>
   <item id="18735">
     <original>鋼鉄の羽根細工</original>
@@ -56257,12 +56355,15 @@
   </item>
   <item id="18738">
     <original>目玉石</original>
+    <translation>Eye Ore</translation>
   </item>
   <item id="18739">
     <original>サイクロランタン</original>
+    <translation>Cyclops Lantern</translation>
   </item>
   <item id="18740">
     <original>サイクロランタン【銀】</original>
+    <translation>Cyclops Lantern (Silver)</translation>
   </item>
   <item id="18742">
     <original>ハイオーブ</original>
@@ -56291,15 +56392,19 @@
   </item>
   <item id="18759">
     <original>鳩時計</original>
+    <translation>Cuckoo Clock</translation>
   </item>
   <item id="18760">
     <original>アンティークの机・ナチュラル</original>
+    <translation>Antique Desk - Natural</translation>
   </item>
   <item id="18761">
     <original>アンティークの机・スノウ</original>
+    <translation>Antique Desk - Snow</translation>
   </item>
   <item id="18762">
     <original>アンティークの机・チャコール</original>
+    <translation>Antique Desk - Charcoal</translation>
   </item>
   <item id="18766">
     <original>山羊毛織のカーペット・ホワイト</original>
@@ -56309,24 +56414,31 @@
   </item>
   <item id="18771">
     <original>タペストリー・レスタニア</original>
+    <translation>Tapestry - Lestania</translation>
   </item>
   <item id="18772">
     <original>タペストリー・プライド</original>
+    <translation>Tapestry - Pride</translation>
   </item>
   <item id="18773">
     <original>タペストリー・ドラゴン</original>
+    <translation>Tapestry - Dragon</translation>
   </item>
   <item id="18774">
     <original>タペストリー・ディスコード</original>
+    <translation>Tapestry - Discord</translation>
   </item>
   <item id="18775">
     <original>タペストリー・ジェネシス</original>
+    <translation>Tapestry - Genesis</translation>
   </item>
   <item id="18776">
     <original>タペストリー・アルケム</original>
+    <translation>Tapestry - Alchemic</translation>
   </item>
   <item id="18777">
     <original>タペストリー・ルインズ</original>
+    <translation>Tapestry - Ruins</translation>
   </item>
   <item id="18778">
     <original>タペストリー・2周年A</original>
@@ -56334,6 +56446,7 @@
   </item>
   <item id="18779">
     <original>タペストリー・フィンダム</original>
+    <translation>Tapestry - Phindym</translation>
   </item>
   <item id="18782">
     <original>タペストリー・2周年B</original>
@@ -56341,9 +56454,11 @@
   </item>
   <item id="18783">
     <original>クロステーブル・フォレスト</original>
+    <translation>Cross Table - Forest</translation>
   </item>
   <item id="18787">
     <original>クロステーブル・チャコール</original>
+    <translation>Cross Table - Charcoal</translation>
   </item>
   <item id="18788">
     <original>アニバーサリーケーキ・2周年</original>
@@ -56355,9 +56470,11 @@
   </item>
   <item id="18791">
     <original>毛織のリビングカーペット・ホワイト</original>
+    <translation>Woolen Living Room Carpet - White</translation>
   </item>
   <item id="18792">
     <original>毛織のリビングカーペット・ブラック</original>
+    <translation>Woolen Living Room Carpet - Black</translation>
   </item>
   <item id="18796">
     <original>お風呂・楽園の湯</original>
@@ -56385,7 +56502,7 @@
   </item>
   <item id="18815">
     <original>王家紋章のメダル＜ラスニテ地方＞</original>
-    <translation>"Rasunite" Royal Crest Medal</translation>
+    <translation>Royal Crest Medal (Rathnite District)</translation>
   </item>
   <item id="18816">
     <original>「LV.80」成長の宝珠</original>
@@ -56413,9 +56530,11 @@
   </item>
   <item id="18831">
     <original>経験値結晶</original>
+    <translation>Experience Crystal</translation>
   </item>
   <item id="18832">
     <original>プレイポイント</original>
+    <translation>Play Point</translation>
   </item>
   <item id="18833">
     <original>NPC用_調査兵団武器</original>
@@ -56549,21 +56668,27 @@
   </item>
   <item id="18876">
     <original>突風の特質錬石の欠片</original>
+    <translation>Gusty Winds Stone Shard</translation>
   </item>
   <item id="18877">
     <original>勝機の特質錬石の欠片</original>
+    <translation>Victorious Chance Stone Shard</translation>
   </item>
   <item id="18878">
     <original>卒倒の特質錬石の欠片</original>
+    <translation>Fallen Soldier Stone Shard</translation>
   </item>
   <item id="18879">
     <original>獣狩りの特質錬石の欠片</original>
+    <translation>Animal Hunter Stone Shard</translation>
   </item>
   <item id="18880">
     <original>亜人斬りの特質錬石の欠片</original>
+    <translation>Demi-Human Killer Stone Shard</translation>
   </item>
   <item id="18881">
     <original>鬼人裂きの特質錬石の欠片</original>
+    <translation>Demonic Slasher Stone Shard</translation>
   </item>
   <item id="18885">
     <original>オベリスク</original>
@@ -56954,6 +57079,7 @@
   </item>
   <item id="19148">
     <original>サイクロランタン</original>
+    <translation>Cyclops Lantern</translation>
   </item>
   <item id="19149">
     <original>クリムゾンソード</original>
@@ -57674,19 +57800,19 @@
   </item>
   <item id="19363">
     <original>戦甲砕きのクレスト１</original>
-    <translation>戦甲砕きのクレスト I</translation>
+    <translation>Crest of War-Ready Break I</translation>
   </item>
   <item id="19364">
     <original>戦甲砕きのクレスト２</original>
-    <translation>戦甲砕きのクレスト II</translation>
+    <translation>Crest of War-Ready Break II</translation>
   </item>
   <item id="19365">
     <original>戦甲砕きのクレスト３</original>
-    <translation>戦甲砕きのクレスト III</translation>
+    <translation>Crest of War-Ready Break III</translation>
   </item>
   <item id="19366">
     <original>戦甲砕きのクレスト４</original>
-    <translation>戦甲砕きのクレスト IV</translation>
+    <translation>Crest of War-Ready Break IV</translation>
   </item>
   <item id="19367">
     <original>カスタムメイドサービス券</original>
@@ -57732,7 +57858,7 @@
   </item>
   <item id="19384">
     <original>浜辺の串焼き肉</original>
-    <translation>Beach Meat Skewer</translation>
+    <translation>Beach Grilled Skewers</translation>
   </item>
   <item id="19385">
     <original>極・翼紋のプレート片</original>
@@ -57928,111 +58054,147 @@
   </item>
   <item id="19464">
     <original>オーフリングソード【海】</original>
+    <translation>Olfring Sword (Sea)</translation>
   </item>
   <item id="19465">
     <original>オーフリングソード【輝】</original>
+    <translation>Olfring Sword (Radiance)</translation>
   </item>
   <item id="19466">
     <original>オーフリングソード【星】</original>
+    <translation>Olfring Sword (Star)</translation>
   </item>
   <item id="19467">
     <original>オーフリングソード【涅】</original>
+    <translation>Olfring Sword (Terra Preta)</translation>
   </item>
   <item id="19468">
     <original>オーフリングシェル【海】</original>
+    <translation>Olfring Shell (Sea)</translation>
   </item>
   <item id="19469">
     <original>オーフリングシェル【輝】</original>
+    <translation>Olfring Shell (Radiance)</translation>
   </item>
   <item id="19470">
     <original>オーフリングシェル【星】</original>
+    <translation>Olfring Shell (Star)</translation>
   </item>
   <item id="19471">
     <original>オーフリングシェル【涅】</original>
+    <translation>Olfring Shell (Terra Preta)</translation>
   </item>
   <item id="19472">
     <original>オーフリングガード【陽】</original>
+    <translation>Olfring Guard (Sun)</translation>
   </item>
   <item id="19473">
     <original>オーフリングガード【海】</original>
+    <translation>Olfring Guard (Sea)</translation>
   </item>
   <item id="19474">
     <original>オーフリングガード【涅】</original>
+    <translation>Olfring Guard (Terra Preta)</translation>
   </item>
   <item id="19475">
     <original>オーフリングロッド【陽】</original>
+    <translation>Olfring Rod (Sun)</translation>
   </item>
   <item id="19476">
     <original>オーフリングロッド【海】</original>
+    <translation>Olfring Rod (Sea)</translation>
   </item>
   <item id="19477">
     <original>オーフリングロッド【涅】</original>
+    <translation>Olfring Rod (Terra Preta)</translation>
   </item>
   <item id="19478">
     <original>オーフリングボウ【海】</original>
+    <translation>Olfring Bow (Sea)</translation>
   </item>
   <item id="19479">
     <original>オーフリングボウ【陽】</original>
+    <translation>Olfring Bow (Sun)</translation>
   </item>
   <item id="19480">
     <original>オーフリングボウ【星】</original>
+    <translation>Olfring Bow (Star)</translation>
   </item>
   <item id="19481">
     <original>オーフリングケイン【陽】</original>
+    <translation>Olfring Cane (Sun)</translation>
   </item>
   <item id="19482">
     <original>オーフリングケイン【海】</original>
+    <translation>Olfring Cane (Sea)</translation>
   </item>
   <item id="19483">
     <original>オーフリングケイン【輝】</original>
+    <translation>Olfring Cane (Radiance)</translation>
   </item>
   <item id="19484">
     <original>オーフリングケイン【星】</original>
+    <translation>Olfring Cane (Star)</translation>
   </item>
   <item id="19485">
     <original>オーフリングソード【森】</original>
+    <translation>Olfring Sword (Forest)</translation>
   </item>
   <item id="19486">
     <original>オーフリングソード【森】</original>
+    <translation>Olfring Sword (Forest)</translation>
   </item>
   <item id="19487">
     <original>オーフリングソード【森】</original>
+    <translation>Olfring Sword (Forest)</translation>
   </item>
   <item id="19488">
     <original>オーフリングソード【森】</original>
+    <translation>Olfring Sword (Forest)</translation>
   </item>
   <item id="19489">
     <original>オーフリングソード【森】</original>
+    <translation>Olfring Sword (Forest)</translation>
   </item>
   <item id="19490">
     <original>オーフリングシェル【森】</original>
+    <translation>Olfring Shell (Forest)</translation>
   </item>
   <item id="19491">
     <original>オーフリングシェル【森】</original>
+    <translation>Olfring Shell (Forest)</translation>
   </item>
   <item id="19492">
     <original>オーフリングシェル【森】</original>
+    <translation>Olfring Shell (Forest)</translation>
   </item>
   <item id="19493">
     <original>オーフリングシェル【森】</original>
+    <translation>Olfring Shell (Forest)</translation>
   </item>
   <item id="19494">
     <original>オーフリングシェル【森】</original>
+    <translation>Olfring Shell (Forest)</translation>
   </item>
   <item id="19495">
     <original>オーフリングセイズ【森】</original>
+    <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19496">
     <original>オーフリングセイズ【森】</original>
+    <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19497">
     <original>オーフリングセイズ【森】</original>
+    <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19498">
     <original>オーフリングセイズ【森】</original>
+    <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19499">
     <original>オーフリングセイズ【森】</original>
+    <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19500">
     <original>カボチャヘルム</original>
@@ -58082,12 +58244,15 @@
   </item>
   <item id="19521">
     <original>オーフリングガード【鉄】</original>
+    <translation>Olfring Guard (Iron)</translation>
   </item>
   <item id="19522">
     <original>オーフリングロッド【鉄】</original>
+    <translation>Olfring Rod (Iron)</translation>
   </item>
   <item id="19562">
     <original>使い古されたクレイグのパンツ</original>
+    <translation>Craig's Worn-out Pants</translation>
   </item>
   <item id="19564">
     <original>マギカクローク</original>

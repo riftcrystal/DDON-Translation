@@ -2,22 +2,27 @@
   <message>
     <key>job_emblem_reset</key>
     <original>リセット</original>
+    <translation>Reset</translation>
   </message>
   <message>
     <key>job_emblem_title</key>
     <original>Job Emblem</original>
+    <translation>Vocation Emblem</translation>
   </message>
   <message>
     <key>job_emblem_sub_title</key>
     <original>ジョブエンブレムメニュー</original>
+    <translation>Vocation Emblem</translation>
   </message>
   <message>
     <key>job_emblem_header_base</key>
     <original>ベース</original>
+    <translation>Base</translation>
   </message>
   <message>
     <key>job_emblem_header_status</key>
     <original>ステータス</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>job_emblem_not_have_emblem</key>
@@ -28,10 +33,12 @@
   <message>
     <key>job_emblem_point_name</key>
     <original>EMBLEM POINTS</original>
+    <translation>EMBLEM POINTS</translation>
   </message>
   <message>
     <key>job_emblem_update_param</key>
     <original>割り振る</original>
+    <translation>Assign</translation>
   </message>
   <message>
     <key>job_emblem_err_level_max</key>
@@ -50,10 +57,12 @@
   <message>
     <key>job_emblem_crest_open_lv</key>
     <original>エンブレム&lt;UNIT LV&gt;&lt;VAL&gt;で拡張可能</original>
+    <translation>Expansion at Emblem &lt;UNIT LV&gt;&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>job_emblem_empty</key>
     <original>空き</original>
+    <translation>Empty</translation>
   </message>
   <message>
     <key>job_emblem_confirm_update_param</key>
@@ -106,6 +115,7 @@
   <message>
     <key>job_emblem_err_not_release</key>
     <original>まだ解放されていません</original>
+    <translation>It has not been unlocked yet</translation>
   </message>
   <message>
     <key>job_emblem_guide_add</key>
@@ -118,18 +128,22 @@
   <message>
     <key>job_emblem_item_sel_title</key>
     <original>ジュエリーを選択してください</original>
+    <translation>Please choose a jewelry</translation>
   </message>
   <message>
     <key>job_emblem_crest_select_kind</key>
     <original>継承方法を選択してください</original>
+    <translation>Please select your inheritance method</translation>
   </message>
   <message>
     <key>job_emblem_crest_select_kind_normal</key>
     <original>通常継承</original>
+    <translation>Normal inheritance</translation>
   </message>
   <message>
     <key>job_emblem_crest_select_kind_gs</key>
     <original>黄金石継承</original>
+    <translation>Golden Gemstone inheritance</translation>
   </message>
   <message>
     <key>job_emblem_crest_confirm_normal</key>
@@ -158,10 +172,12 @@
   <message>
     <key>job_emblem_crest_success_notice</key>
     <original>継承に成功しました</original>
+    <translation>Inheritance succeeded</translation>
   </message>
   <message>
     <key>job_emblem_crest_failed_notice</key>
     <original>継承に失敗しました</original>
+    <translation>Inheritance failed</translation>
   </message>
   <message>
     <key>job_emblem_crest_confirm_retry</key>

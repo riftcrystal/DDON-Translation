@@ -12,7 +12,7 @@
   <message>
     <key>q60300408_00_2980</key>
     <original>&lt;STG 550&gt;に行き&lt;NPC 2004&gt;と話す</original>
-    <translation>Speak with &lt;STG 550&gt;に行き&lt;NPC 2004&gt;</translation>
+    <translation>Head to &lt;STG 550&gt; and speak with &lt;NPC 2004&gt;</translation>
   </message>
   <message>
     <key>q60300408_00_2981</key>
@@ -25,7 +25,7 @@
   <message>
     <key>q60300408_00_3280</key>
     <original>祠内にいる&lt;NPC 2004&gt;に報告する</original>
-    <translation>Report to &lt;NPC 2004&gt; in 祠内</translation>
+    <translation>Report to &lt;NPC 2004&gt; within the chapel</translation>
   </message>
   <message>
     <key>q60300408_00_3278</key>

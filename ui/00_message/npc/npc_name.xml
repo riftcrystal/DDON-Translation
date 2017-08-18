@@ -2124,6 +2124,7 @@
   <message>
     <key>NPC_NAME_710</key>
     <original>エイダス</original>
+    <translation>Aidas</translation>
   </message>
   <message>
     <key>NPC_NAME_711</key>
@@ -3255,14 +3256,17 @@
   <message>
     <key>NPC_NAME_1031</key>
     <original>ネド</original>
+    <translation>Ned</translation>
   </message>
   <message>
     <key>NPC_NAME_1032</key>
     <original>ジリアン</original>
+    <translation>Gillian</translation>
   </message>
   <message>
     <key>NPC_NAME_1033</key>
     <original>メイロワ</original>
+    <translation>Meirova</translation>
   </message>
   <message>
     <key>NPC_NAME_1034</key>
@@ -3279,6 +3283,7 @@
   <message>
     <key>NPC_NAME_1037</key>
     <original>悪しき竜</original>
+    <translation>Evil Dragon</translation>
   </message>
   <message>
     <key>NPC_NAME_1038</key>
@@ -3311,10 +3316,14 @@
   <message>
     <key>NPC_NAME_1045</key>
     <original>隊将ドワーフオーク</original>
+    <translation>Squad Leader Dwarf Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1046</key>
     <original>獣の将</original>
+    <translation>Beast Master</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1047</key>
@@ -3903,6 +3912,7 @@
   <message>
     <key>NPC_NAME_1295</key>
     <original>シディカ</original>
+    <translation>Sidika</translation>
   </message>
   <message>
     <key>NPC_NAME_1296</key>
@@ -3922,18 +3932,22 @@
   <message>
     <key>NPC_NAME_1299</key>
     <original>ブラッド</original>
+    <translation>Brad</translation>
   </message>
   <message>
     <key>NPC_NAME_1300</key>
     <original>ローナ</original>
+    <translation>Lorna</translation>
   </message>
   <message>
     <key>NPC_NAME_1301</key>
     <original>ヘザー</original>
+    <translation>Heather</translation>
   </message>
   <message>
     <key>NPC_NAME_1302</key>
     <original>アイダン</original>
+    <translation>Aidan</translation>
   </message>
   <message>
     <key>NPC_NAME_1304</key>
@@ -4053,5 +4067,6 @@
   <message>
     <key>NPC_NAME_1327</key>
     <original>リサ</original>
+    <translation>Lisa</translation>
   </message>
 </resource>

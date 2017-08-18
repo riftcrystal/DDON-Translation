@@ -31,9 +31,11 @@
   </message>
   <message>
     <original>&lt;QDEL NAME 1 1&gt;の納品（多め）</original>
+    <translation>Deliver &lt;QDEL NAME 1 1&gt; (Many)</translation>
   </message>
   <message>
     <original>&lt;QDEL NAME 2 1&gt;の納品（少）</original>
+    <translation>Deliver &lt;QDEL NAME 2 1&gt; (Few)</translation>
   </message>
   <message>
     <original>――少し考えさせてほしい</original>
@@ -121,6 +123,7 @@
   </message>
   <message>
     <original>面会する</original>
+    <translation>Meet</translation>
   </message>
   <message>
     <original>――少し考えさせてほしい</original>

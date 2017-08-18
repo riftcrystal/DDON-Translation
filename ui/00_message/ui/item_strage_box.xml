@@ -428,10 +428,12 @@ open the Online Shop?</translation>
   <message>
     <key>option_send_allbox</key>
     <original>元に戻す</original>
+    <translation>Undo</translation>
   </message>
   <message>
     <key>option_send_fertilizer_0</key>
     <original>肥料に送る</original>
+    <translation>Send to fertilizer</translation>
   </message>
   <message>
     <key>option_send_fertilizer_1</key>

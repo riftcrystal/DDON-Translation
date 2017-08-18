@@ -1,0 +1,25 @@
+﻿<replication>
+  <message_set name="system log message">
+    <match>^ui\\00_message\\ui\\system_log$</match>
+    <rewrite>
+      <original_match>^&lt;VAL&gt; \(\+&lt;VAL&gt;\) &lt;UNIT (.+)&gt;を入手しました$</original_match>
+      <translation_replace>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT {0}&gt; obtained.</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;VAL (.+)&gt;を入手しました$</original_match>
+      <translation_replace>&lt;VAL {0}&gt; obtained.</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;VAL (.+)&gt;を消費しました$</original_match>
+      <translation_replace>&lt;VAL {0}&gt; spent.</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;NAME PAWN&gt;が&lt;VAL&gt; \(\+&lt;VAL&gt;\) &lt;UNIT (.+)&gt;獲得しました$</original_match>
+      <translation_replace>&lt;NAME PAWN&gt; gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT {0}&gt;.</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;NAME PAWN&gt;が&lt;VAL (.+)&gt;獲得しました$</original_match>
+      <translation_replace>&lt;NAME PAWN&gt; gained &lt;VAL {0}&gt;.</translation_replace>
+    </rewrite>
+  </message_set>
+</replication>

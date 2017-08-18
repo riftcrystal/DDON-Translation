@@ -1472,78 +1472,97 @@
   <message>
     <key>ENEMY_NAME_314</key>
     <original>グリムゴブリン</original>
+    <translation>Grim Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_315</key>
     <original>グリムゴブリンファイター</original>
+    <translation>Grim Goblin Fighter</translation>
   </message>
   <message>
     <key>ENEMY_NAME_316</key>
     <original>スリンググリムゴブリン</original>
+    <translation>Sling Grim Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_318</key>
     <original>ゴブリンシャーマン</original>
+    <translation>Goblin Shaman</translation>
   </message>
   <message>
     <key>ENEMY_NAME_319</key>
     <original>ゴブリンエイドシャーマン</original>
+    <translation>Goblin Aid Shaman</translation>
   </message>
   <message>
     <key>ENEMY_NAME_323</key>
     <original>戦甲グリムワーグ</original>
+    <translation>War-Ready Grimwarg</translation>
   </message>
   <message>
     <key>ENEMY_NAME_334</key>
     <original>ヘルワーム</original>
+    <translation>Hellworm</translation>
   </message>
   <message>
     <key>ENEMY_NAME_338</key>
     <original>戦甲ゴアサイクロプス</original>
+    <translation>War-Ready Gorecyclops</translation>
   </message>
   <message>
     <key>ENEMY_NAME_341</key>
     <original>戦甲ゴアマンティコア</original>
+    <translation>War-Ready Goremanticore</translation>
   </message>
   <message>
     <key>ENEMY_NAME_344</key>
     <original>クラッガー</original>
+    <translation>Cragger</translation>
   </message>
   <message>
     <key>ENEMY_NAME_345</key>
     <original>リトルクラッグ</original>
+    <translation>Little Crag</translation>
   </message>
   <message>
     <key>ENEMY_NAME_351</key>
     <original>カトブレパス</original>
+    <translation>Catoblepas</translation>
   </message>
   <message>
     <key>ENEMY_NAME_352</key>
     <original>斬兵ドワーフオーク</original>
+    <translation>Sword Soldier Dwarf Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_353</key>
     <original>隊将ドワーフオーク</original>
+    <translation>Squad Leader Dwarf Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_357</key>
     <original>獣の将</original>
+    <translation>Beast Master</translation>
   </message>
   <message>
     <key>ENEMY_NAME_366</key>
     <original>打兵ドワーフオーク</original>
+    <translation>Blunt Soldier Dwarf Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_367</key>
     <original>重兵ドワーフオーク</original>
+    <translation>Heavy Soldier Dwarf Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_368</key>
     <original>投兵ドワーフオーク</original>
+    <translation>Ranged Soldier Dwarf Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_369</key>
     <original>グリムゴブリンリーダー</original>
+    <translation>Grim Goblin Rider</translation>
   </message>
   <message>
     <key>ENEMY_NAME_370</key>
@@ -1553,5 +1572,6 @@
   <message>
     <key>ENEMY_NAME_373</key>
     <original>レッドズール</original>
+    <translation>Red Zuhl</translation>
   </message>
 </resource>

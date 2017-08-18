@@ -719,6 +719,7 @@
   <message>
     <key>common_unitname_evoticket</key>
     <original>カスタムメイドサービス券</original>
+    <translation>Custom-made Service Ticket</translation>
   </message>
   <message>
     <key>common_unit_evoticket</key>
@@ -739,5 +740,6 @@
   <message>
     <key>common_jp_touten</key>
     <original>、</original>
+    <translation>, </translation>
   </message>
 </resource>

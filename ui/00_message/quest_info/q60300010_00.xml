@@ -2,6 +2,7 @@
   <message>
     <key>q60300010_00_254</key>
     <original>不思議な呼び鈴</original>
+    <translation>Mysterious Summon Bell</translation>
   </message>
   <message>
     <key>q60300010_00_254</key>
@@ -19,17 +20,21 @@
   <message>
     <key>q60300010_00_3007</key>
     <original>どの鉱石を回収するか決める</original>
+    <translation>Decide which ore to collect</translation>
   </message>
   <message>
     <key>q60300010_00_3008</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 544&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to &lt;NPC 544&gt; (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q60300010_00_3234</key>
     <original>儀式完了を待つ（待ち時間：GT+1：00以内）</original>
+    <translation>Await ritual completion (waiting time: less than GT+1：00)</translation>
   </message>
   <message>
     <key>q60300010_00_3233</key>
     <original>&lt;STG 211&gt;の&lt;NPC 544&gt;に確認する</original>
+    <translation>Confirm with &lt;NPC 544&gt; in &lt;STG 211&gt;</translation>
   </message>
 </resource>

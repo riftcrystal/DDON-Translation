@@ -157,6 +157,7 @@
   <message>
     <key>cpf_job_emblem_title</key>
     <original>継承の設定</original>
+    <translation>Setup inheritance</translation>
   </message>
   <message>
     <key>cpf_job_emblem_cap01</key>
@@ -167,10 +168,12 @@
   <message>
     <key>cpf_job_emblem_cap02</key>
     <original>継承成功率：&lt;VAL&gt;％&lt;COL ffdc78&gt;＋&lt;VAL&gt;％&lt;/COL&gt;</original>
+    <translation>Inheritance success rate: &lt;VAL&gt;%&lt;COL ffdc78&gt;+&lt;VAL&gt;%&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>cpf_job_emblem_cap03</key>
     <original>ジュエリー：</original>
+    <translation>Jewelry:</translation>
   </message>
   <message>
     <key>cpf_job_emblem_cap04</key>

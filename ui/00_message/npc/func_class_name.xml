@@ -291,6 +291,7 @@
   <message>
     <key>FUNC_CLASS_NAME_65</key>
     <original>ジョブエンブレム</original>
+    <translation>Vocation Emblem</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_66</key>
@@ -320,14 +321,17 @@
   <message>
     <key>FUNC_CLASS_NAME_72</key>
     <original>武具のカスタムメイド</original>
+    <translation>Custom-made Arms</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_73</key>
     <original>武具の資源分解</original>
+    <translation>Arms Resource Disassembly</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_74</key>
     <original>冒パスショップ</original>
+    <translation>Adventure Pass Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_75</key>
@@ -352,5 +356,6 @@
   <message>
     <key>FUNC_CLASS_NAME_81</key>
     <original>おでかけ支援サービス</original>
+    <translation>Outing Support Service</translation>
   </message>
 </resource>

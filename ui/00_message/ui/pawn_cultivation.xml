@@ -2,10 +2,12 @@
   <message>
     <key>pawn_cultivation_head_0</key>
     <original>優先して狙う敵</original>
+    <translation>Enemy target priority</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_1</key>
     <original>敵の大きさによって使う技</original>
+    <translation>Skill use according to enemy size</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_2</key>
@@ -26,14 +28,17 @@
   <message>
     <key>pawn_cultivation_element_1_0</key>
     <original>小型敵</original>
+    <translation>Small-sized enemy</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_1</key>
     <original>中型敵</original>
+    <translation>Medium-sized enemy</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_2</key>
     <original>大型敵</original>
+    <translation>Large-sized enemy</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_2_0</key>
@@ -102,6 +107,7 @@
   <message>
     <key>pawn_cultivation_element_3_13</key>
     <original>おまかせ</original>
+    <translation>You decide</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_4_0</key>
@@ -146,6 +152,7 @@
   <message>
     <key>pawn_cultivation_element_0_0</key>
     <original>覚者が攻撃している敵</original>
+    <translation>Enemies attacked by Arisen</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_1</key>
@@ -170,26 +177,32 @@
   <message>
     <key>pawn_growtalk_choice_007</key>
     <original>やっぱり今のままでいい</original>
+    <translation>Fine as it is now after all</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_008</key>
     <original>覚者が攻撃している敵を優先して狙う</original>
+    <translation>Prioritize enemy targets attacked by Arisen</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_009</key>
     <original>飛行している敵を優先して狙う</original>
+    <translation>Prioritize flying enemy targets</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_010</key>
     <original>地上にいる敵を優先して狙う</original>
+    <translation>Prioritize ground enemy targets</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_011</key>
     <original>小さい敵を優先して狙う</original>
+    <translation>Prioritize small enemy targets</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_012</key>
     <original>大きい敵を優先して狙う</original>
+    <translation>Prioritize large enemy targets</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_033</key>
@@ -210,18 +223,22 @@
   <message>
     <key>pawn_growtalk_choice_037</key>
     <original>そのとおり</original>
+    <translation>I agree</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_038</key>
     <original>やっぱり前のままでいい</original>
+    <translation>Fine as it was after all</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_039</key>
     <original>助言がある</original>
+    <translation>I have advice</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_040</key>
     <original>今のままでいい</original>
+    <translation>Fine as it is now</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_041</key>
@@ -234,10 +251,12 @@
   <message>
     <key>pawn_growtalk_choice_043</key>
     <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_044</key>
     <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_045</key>
@@ -262,6 +281,7 @@
   <message>
     <key>pawn_growtalk_err_004</key>
     <original>選択中なので他を選んでください</original>
+    <translation>Please select another as it is currently selected</translation>
   </message>
   <message>
     <key>pawn_growtalk_err_005</key>
@@ -270,10 +290,12 @@
   <message>
     <key>pawn_growtalk_title_001</key>
     <original>育成するポーンを選んでください</original>
+    <translation>Please select a pawn to train</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_002</key>
     <original>助言がありますか？</original>
+    <translation>Do you have any advice?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_003</key>
@@ -282,18 +304,22 @@
   <message>
     <key>pawn_growtalk_title_004</key>
     <original>優先して狙う敵は？</original>
+    <translation>Prioritize what enemy target?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_005</key>
     <original>優先して狙う敵の最終確認</original>
+    <translation>Confirm final enemy target priority</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_006</key>
     <original>敵の大きさは？</original>
+    <translation>How big is the enemy?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_007</key>
     <original>使う技は？</original>
+    <translation>Use which skill?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_008</key>
@@ -322,6 +348,7 @@
   <message>
     <key>pawn_growtalk_title_014</key>
     <original>おまかせでいいですか？</original>
+    <translation>Is this okay with you?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_015</key>
@@ -334,6 +361,7 @@
   <message>
     <key>pawn_growtalk_title_017</key>
     <original>他に助言はありますか？</original>
+    <translation>Do you have other advice?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_018</key>
@@ -354,6 +382,7 @@
   <message>
     <key>pawn_growtalk_choice_047</key>
     <original>続けて、助言がある</original>
+    <translation>Continue, I have advice</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_049</key>
@@ -374,14 +403,17 @@
   <message>
     <key>pawn_growtalk_word_003</key>
     <original>（残り回数</original>
+    <translation>(have</translation>
   </message>
   <message>
     <key>pawn_growtalk_word_004</key>
     <original>回）</original>
+    <translation>remaining)</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_051</key>
     <original>育成状態の確認</original>
+    <translation>Check training status</translation>
   </message>
   <message>
     <key>pawn_cultivation_prio_1</key>

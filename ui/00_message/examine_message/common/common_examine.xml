@@ -402,6 +402,7 @@ canceled.</translation>
   </message>
   <message>
     <original>準備開始</original>
+    <translation>Start Preparation</translation>
   </message>
   <message>
     <original>キャンセル</original>
@@ -417,6 +418,7 @@ canceled.</translation>
   </message>
   <message>
     <original>準備解除</original>
+    <translation>Cancel Preparation</translation>
   </message>
   <message>
     <original>キャンセル</original>

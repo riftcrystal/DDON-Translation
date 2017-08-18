@@ -1788,5 +1788,6 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_TALK_CAMERA</key>
     <original>NPCに話しかけた時のカメラを主観にする</original>
+    <translation>Use subjective camera when in NPC conversations</translation>
   </message>
 </resource>

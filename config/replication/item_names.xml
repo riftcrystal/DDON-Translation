@@ -3,8 +3,21 @@
     <match>^ui\\00_message\\common\\item_name$</match>
     <rewrite>
       <original_match>^エンブレムストーン・(.+)$</original_match>
-      <translation_replace>Emblem Stone: {0}</translation_replace>
+      <translation_replace>Emblem Stone ({0})</translation_replace>
       <translation_arg message_set="job name" />
+    </rewrite>
+    <!-- Event -->
+    <rewrite>
+      <original_match>^オーフリング(.+)改【(.+?)】$</original_match>
+      <translation_replace>Olfring {0}+ ({1})</translation_replace>
+      <translation_arg index="0" message_set="event item name" />
+      <translation_arg index="1" message_set="event item element name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^オーフリング(.+)【(.+?)】$</original_match>
+      <translation_replace>Olfring {0} ({1})</translation_replace>
+      <translation_arg index="0" message_set="event item name" />
+      <translation_arg index="1" message_set="event item element name" />
     </rewrite>
     <!-- Augments -->
     <rewrite>
@@ -175,7 +188,7 @@
       <!-- Crest of {0} II-X -->
       <original_match>^((.+?)のクレスト)(.+?)$</original_match>
       <translation_replace>{0} {2}</translation_replace>
-      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="0" message_set="item name" required="true" />
       <translation_arg index="2" message_set="numerals" required="true" />
     </rewrite>
     <!-- Misc -->
