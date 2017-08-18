@@ -6,11 +6,10 @@
 緑のアイコンで表される&lt;COL ffdc78&gt;《パーソナルクエスト》&lt;/COL&gt;は
 レスタニアの世界を知り、深めることができる
 優先度の高いクエストです</original>
-    <translation>&lt;COL 78f5ff&gt;"Personal Quests" are available !&lt;/COL&gt;
+    <translation>&lt;COL 78f5ff&gt;"Personal Quests" are available!&lt;/COL&gt;
 
-Represented by a green icon&lt;COL ffdc78&gt;"Personal Quests"lt;/COL&gt;
-
-You will know and understand more of Lestania doing this quests
+&lt;COL ffdc78&gt;"Personal Quests"&lt;/COL&gt; are represented by a green icon.
+You will know and understand more of Lestania doing these quests.
 They are very important!</translation>
   </message>
   <message>
@@ -21,12 +20,12 @@ They are very important!</translation>
 目的地が離れている場合でも
 画面右上のミニマップで行き先が分かりやすく
 アシスト表示されます</original>
-    <translation>A "Personal Quest" will appear as a&lt;COL ffdc78&gt;"Priority Quest"&lt;/COL&gt;
+    <translation>A "Personal Quest" will appear as a &lt;COL ffdc78&gt;"Priority Quest"&lt;/COL&gt;
 once accepted.
 
-Even if your destination is far away
-It will appear on the minimap in the upper-right corner of the screen
-This will help you reach your objectives</translation>
+Even if your destination is far away,
+it will appear on the minimap in the upper-right corner of the screen.
+This will help you reach your objectives.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_12</key>
@@ -38,14 +37,14 @@ This will help you reach your objectives</translation>
 複数のクエストを同時に進めている場合も
 うまく優先の切替えをおこない、
 必要な情報をすぐ見られるようにしましょう</original>
-    <translation>Quest priority can be set in the[&lt;KC UI_GAME_MENU&gt;]menu
-&lt;COL ffdc78&gt;"Quest Log"&lt;/COL&gt;inside the&lt;COL ffdc78&gt;"Quest"&lt;/COL&gt;
+    <translation>Quest priority can be set in the [&lt;KC UI_GAME_MENU&gt;]menu 
+&lt;COL ffdc78&gt;"Quest Log"&lt;/COL&gt; inside the &lt;COL ffdc78&gt;"Quest"&lt;/COL&gt;
 main menu.
 
-&lt;COL ffdc78&gt;You can set up to 3 "Priority Quests"&lt;/COL&gt;
+&lt;COL ffdc78&gt;You can set up to 3 "Priority Quests".&lt;/COL&gt;
 
-If you are progressing through multiple quest at the same time
-You should switch quest priority
-So you can easily see the information that you need</translation>
+If you are progressing through multiple quests at the same time.
+You should switch quest priority as needed.
+So you can easily see the information that you need.</translation>
   </message>
 </resource>

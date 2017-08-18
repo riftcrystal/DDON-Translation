@@ -253,54 +253,54 @@
   <message>
     <key>RELEASE_CONTENT_60</key>
     <original>ファイターのジョブの証</original>
-    <translation>Fighter's Job Certificate</translation>
+    <translation>Fighter Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_61</key>
     <original>プリーストのジョブの証</original>
-    <translation>Priest's Job Certificate</translation>
+    <translation>Priest Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_62</key>
     <original>ハンターのジョブの証</original>
-    <translation>Fighter's Job Certificate</translation>
+    <translation>Hunter Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_63</key>
     <original>シールドセージのジョブの証</original>
-    <translation>Hunter's Job Certificate</translation>
+    <translation>Shield Sage Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_64</key>
     <original>シーカーのジョブの証</original>
-    <translation>Fighter's Job Certificate</translation>
+    <translation>Seeker Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_65</key>
     <original>ソーサラーのジョブの証</original>
-    <translation>Seeker's Job Certificate</translation>
+    <translation>Sorcerer Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_66</key>
     <original>エレメントアーチャーのジョブの証</original>
-    <translation>Element Archer's Job Certificate</translation>
+    <translation>Element Archer Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_67</key>
     <original>ウォリアーのジョブの証</original>
-    <translation>Warrior's Job Certificate</translation>
+    <translation>Warrior Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_68</key>
     <original>アルケミストのジョブの証</original>
-    <translation>Alchemist's Job Certificate</translation>
+    <translation>Alchemist Vocation Emblem</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_69</key>
     <original>スピリットランサーのジョブの証</original>
-    <translation>Spirit Lancer's Job Certificate</translation>
+    <translation>Spirit Lancer Vocation Emblem</translation>
   </message>
-  <message>
+   <message>
     <key>RELEASE_CONTENT_70</key>
     <original>ラスニテ山麓ワールドクエスト</original>
   </message>

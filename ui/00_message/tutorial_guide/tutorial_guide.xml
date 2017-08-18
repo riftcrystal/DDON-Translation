@@ -222,7 +222,7 @@
   <message>
     <key>TUTORIAL_102</key>
     <original>戦技の獲得</original>
-    <translation>Acquiring Combat Skills</translation>
+    <translation>Acquiring Combat Manuevers</translation>
   </message>
   <message>
     <key>TUTORIAL_107</key>
@@ -567,7 +567,7 @@
   <message>
     <key>TUTORIAL_236</key>
     <original>エリアマスターの支援品</original>
-    <translation>Area Master's Support Items</translation>
+    <translation>Area Master's Support Goods</translation>
   </message>
   <message>
     <key>TUTORIAL_237</key>
@@ -627,12 +627,10 @@
   <message>
     <key>TUTORIAL_252</key>
     <original>レスタニア序節　到達</original>
-	<translation>Reaching Lestania part 1 </translation>
   </message>
   <message>
     <key>TUTORIAL_253</key>
     <original>レスタニア第二節　到達</original>
-	<translation>Reaching Lestania part 2</translation>
   </message>
   <message>
     <key>TUTORIAL_255</key>
@@ -642,7 +640,6 @@
   <message>
     <key>TUTORIAL_257</key>
     <original>レスタニア第三節　到達</original>
-	<translation>Reaching Lestania part 3</translation>
   </message>
   <message>
     <key>TUTORIAL_258</key>
@@ -685,7 +682,7 @@
   </message>
   <message>
     <key>TUTORIAL_275</key>
-    <original>侵食魔について：大型敵</original>
+    <original>侵食魔について：大型敵 </original>
 	<translation>Infected: Large Enemies</translation>
   </message>
   <message>
@@ -715,7 +712,7 @@
   </message>
   <message>
     <key>TUTORIAL_294</key>
-    <original>侵食の大災 第二節　到達</original>   
+    <original>侵食の大災 第二節　到達</original>
   </message>
   <message>
     <key>TUTORIAL_295</key>
@@ -777,7 +774,7 @@
   <message>
     <key>TUTORIAL_317</key>
     <original>クランレベルとクラン拠点</original>
-    <translation>Clan levels and Clan Bases</translation>
+    <translation>Clan Levels and Clan Halls</translation>
   </message>
   <message>
     <key>TUTORIAL_320</key>

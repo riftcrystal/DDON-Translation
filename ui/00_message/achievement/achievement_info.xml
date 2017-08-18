@@ -6257,17 +6257,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2313</key>
     <original>パートナーポーンの好感度を上げた</original>
-    <translation>Raise the affection of the Partner Pawn</translation>
+    <translation>Raise more the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2314</key>
     <original>パートナーポーンの好感度をさらに上げた</original>
-    <translation>Further raise the affection of the Partner Pawn</translation>
+    <translation>Further raise more the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2315</key>
     <original>パートナーポーンの好感度をもっと上げた</original>
-    <translation>Even further raise the affection of the Partner Pawn</translation>
+    <translation>Even further raise more the affection of the Partner Pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2316</key>
@@ -6520,8 +6520,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
     <original>フィンダーエントを50体討伐</original>
-    <translation>Kill 50 Finder Ents</translation>
-    <!-- Needs Revision, not sure if Finder Ents is correct -->
+    <translation>Kill 50 Phindymian Ents</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2373</key>
@@ -6715,7 +6714,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2545</key>
     <original>&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;を累計30個発見</original>
-    <translation>Found a total of 30&lt;ITEM 16522&gt;、&lt;ITEM 18738&gt;</translation>
+    <translation>Found a total of 30 &lt;ITEM 16522&gt;,&lt;ITEM 18738&gt;</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2546</key>

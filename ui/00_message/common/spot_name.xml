@@ -56,7 +56,7 @@
   <message>
     <key>SPOT_NAME_459</key>
     <original>メルゴダ居住区</original>
-    <translation>Mergoda Residential Area</translation>
+    <translation>Moltova Residential Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_460</key>
@@ -167,12 +167,12 @@
   <message>
     <key>SPOT_NAME_480</key>
     <original>亡都メルゴダ</original>
-    <translation>Mergoda Ruins</translation>
+    <translation>Moltova Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_481</key>
     <original>メルゴダ護政区</original>
-    <translation>Mergoda Security District</translation>
+    <translation>Moltova Security District</translation>
   </message>
   <message>
     <key>SPOT_NAME_482</key>
@@ -264,7 +264,7 @@
   <message>
     <key>SPOT_NAME_499</key>
     <original>メルゴダ大水網</original>
-    <translation>Mergoda Flood Channels</translation>
+    <translation>Moltova Flood Channels</translation>
   </message>
   <message>
     <key>SPOT_NAME_500</key>
@@ -993,7 +993,7 @@
   <message>
     <key>SPOT_NAME_645</key>
     <original>南メルゴダ遺跡群</original>
-    <translation>South Mergoda Ruins</translation>
+    <translation>South Moltova Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_646</key>
@@ -1039,17 +1039,17 @@
   <message>
     <key>SPOT_NAME_654</key>
     <original>メルゴダ下層　礎前</original>
-    <translation>Mergoda Lower Level: Previous Foundation</translation>
+    <translation>Moltovaa Lower Level: Previous Foundation</translation>
   </message>
   <message>
     <key>SPOT_NAME_655</key>
     <original>メルゴダ王宮層　空庭</original>
-    <translation>Mergoda Royal Palace Level: Empty Court</translation>
+    <translation>Moltova Royal Palace Level: Empty Court</translation>
   </message>
   <message>
     <key>SPOT_NAME_656</key>
     <original>メルゴダ下層　廃墟群</original>
-    <translation>Mergoda Lower Level: Abundant Ruins</translation>
+    <translation>Moltova Lower Level: Abundant Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_657</key>
@@ -1106,12 +1106,12 @@
   <message>
     <key>SPOT_NAME_667</key>
     <original>亡都メルゴダ　下層</original>
-    <translation>Mergoda Ruins: Lower Level</translation>
+    <translation>Moltova Ruins: Lower Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_668</key>
     <original>亡都メルゴダ　王宮層</original>
-    <translation>Mergoda Ruins: Royal Palace Level</translation>
+    <translation>Moltova Ruins: Royal Palace Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_669</key>
@@ -1540,12 +1540,12 @@
   <message>
     <key>SPOT_NAME_828</key>
     <original>アーク　裏層　貯蔵所</original>
-    <translation>Arks' Lining Storage</translation>
+    <translation>Arks' Lower Level Storage</translation>
   </message>
   <message>
     <key>SPOT_NAME_829</key>
     <original>アーク　裏層　宝物庫</original>
-    <translation>Arks' Lining Treasure Vault</translation>
+    <translation>Arks' Lower Level Treasure Vault</translation>
   </message>
   <message>
     <key>SPOT_NAME_830</key>
@@ -1565,12 +1565,12 @@
   <message>
     <key>SPOT_NAME_833</key>
     <original>モルトバ遺跡　左路</original>
-    <translation>Mergova Ruins Left Road</translation>
+    <translation>Moltova Ruins Left Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_834</key>
     <original>モルトバ遺跡　右路</original>
-    <translation>Mergova Ruins Right Road</translation>
+    <translation>Moltova Ruins Right Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_835</key>
@@ -1782,7 +1782,7 @@
   <message>
     <key>SPOT_NAME_875</key>
     <original>メルゴダ民の住居</original>
-    <translation>Mergodan Residence</translation>
+    <translation>Moltovan Residence</translation>
   </message>
   <message>
     <key>SPOT_NAME_876</key>
@@ -1905,7 +1905,7 @@
   <message>
     <key>SPOT_NAME_899</key>
     <original>タラーテ集水路</original>
-     <translation>Thalathi Waterway</translation>
+     <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_900</key>
@@ -1956,13 +1956,11 @@
   <message>
     <key>SPOT_NAME_909</key>
     <original>ディプニエ大侵林</original>
-    <translation>Deenan Great Fores</translation>
+    <translation>Deenan Great Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_910</key>
     <original>ノーザナス侵林</original>
-    <translation>Northern Forest<translation>
-      <!--Needs revision-->
   </message>
   <message>
     <key>SPOT_NAME_911</key>
@@ -2106,7 +2104,7 @@
   <message>
     <key>SPOT_NAME_939</key>
     <original>欠緑の林</original>
-    <translation>Missing Green Forest</translation>
+    <translation>Vacant Green Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_940</key>
@@ -2126,8 +2124,7 @@
   <message>
     <key>SPOT_NAME_943</key>
     <original>立ち病みの森</original>
-    <translation>Suffreting Forest</translation>
-    <!-- Needs revision-->
+    <translation>Suffering Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_944</key>
@@ -2294,7 +2291,7 @@
   <message>
     <key>SPOT_NAME_978</key>
     <original>侵鬼の洞穴　最深部</original>
-    <translation>Deepest part of teh Invading Demons Den</translation>
+    <translation>Invading Demons Den Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_979</key>
@@ -2342,7 +2339,7 @@
   <message>
     <key>SPOT_NAME_987</key>
     <original>グリンメル遺跡　中深部</original>
-    <translation>Grimmel Ruins Depths</translation>
+    <translation>Grinmel Ruins Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_988</key>
@@ -2518,7 +2515,6 @@
   <message>
     <key>SPOT_NAME_1022</key>
     <original>ノーザナス侵林　危険区域</original>
-    <translation>Northern  Forest: Dangerous Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1023</key>
