@@ -105,15 +105,10 @@ The Trickster of the Battlefield.</translation>
     <original>精霊槍を振るい森羅の加護を得た槍士
 霊の加護は一時的に戦闘能力を引き上げるだけ
 でなく、自身や仲間を癒し導く守護にもなる</original>
-<<<<<<< HEAD
-    <translation>A Warrior blessed and protected by the spirits.
-With his spirit spear it can heal, lead and support the party.
-=======
     <translation>A warrior blessed and protected by
 the spirits.
 With their spirit spear they can heal, lead and
 support the party.
->>>>>>> pr/11
 The Druid of the Battlefield.</translation>
   </message>
 </resource>
