@@ -167,12 +167,12 @@
   <message>
     <key>SPOT_NAME_480</key>
     <original>亡都メルゴダ</original>
-    <translation>Moltova Ruins</translation>
+    <translation>Mergoda Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_481</key>
     <original>メルゴダ護政区</original>
-    <translation>Moltova Security District</translation>
+    <translation>Mergoda Security District</translation>
   </message>
   <message>
     <key>SPOT_NAME_482</key>
@@ -264,7 +264,7 @@
   <message>
     <key>SPOT_NAME_499</key>
     <original>メルゴダ大水網</original>
-    <translation>Moltova Flood Channels</translation>
+    <translation>Mergoda Flood Channels</translation>
   </message>
   <message>
     <key>SPOT_NAME_500</key>
@@ -993,7 +993,7 @@
   <message>
     <key>SPOT_NAME_645</key>
     <original>南メルゴダ遺跡群</original>
-    <translation>South Moltova Ruins</translation>
+    <translation>South Mergoda Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_646</key>
@@ -1039,17 +1039,17 @@
   <message>
     <key>SPOT_NAME_654</key>
     <original>メルゴダ下層　礎前</original>
-    <translation>Moltovaa Lower Level: Previous Foundation</translation>
+    <translation>Mergoda Lower Level: Previous Foundation</translation>
   </message>
   <message>
     <key>SPOT_NAME_655</key>
     <original>メルゴダ王宮層　空庭</original>
-    <translation>Moltova Royal Palace Level: Empty Court</translation>
+    <translation>Mergoda Royal Palace Level: Empty Court</translation>
   </message>
   <message>
     <key>SPOT_NAME_656</key>
     <original>メルゴダ下層　廃墟群</original>
-    <translation>Moltova Lower Level: Abundant Ruins</translation>
+    <translation>Mergoda Lower Level: Abundant Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_657</key>
@@ -1106,12 +1106,12 @@
   <message>
     <key>SPOT_NAME_667</key>
     <original>亡都メルゴダ　下層</original>
-    <translation>Moltova Ruins: Lower Level</translation>
+    <translation>Mergoda Ruins: Lower Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_668</key>
     <original>亡都メルゴダ　王宮層</original>
-    <translation>Moltova Ruins: Royal Palace Level</translation>
+    <translation>Mergoda Ruins: Royal Palace Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_669</key>
@@ -1781,7 +1781,7 @@
   <message>
     <key>SPOT_NAME_875</key>
     <original>メルゴダ民の住居</original>
-    <translation>Moltovan Residence</translation>
+    <translation>Mergodan Residence</translation>
   </message>
   <message>
     <key>SPOT_NAME_876</key>
@@ -1981,8 +1981,7 @@
   <message>
     <key>SPOT_NAME_914</key>
     <original>アンビュロス大遺跡</original>
-    <translation>Ambulos Great Ruins</translation>
-    <!--Needs Revision, the name AMbulos, perhaps Angulos or Angules-->
+    <translation>Amburos Great Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_915</key>
@@ -2413,12 +2412,12 @@
   <message>
     <key>SPOT_NAME_1002</key>
     <original>アンビュロス大遺跡　中央部</original>
-    <translation>Ambulos Ruins Central Area</translation>
+    <translation>Amburos Ruins Central Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1003</key>
     <original>アンビュロス大遺跡　深部</original>
-  </message>Ambulos Ruins Depths</translation>
+  </message>Amburos Ruins Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1004</key>
@@ -2509,7 +2508,6 @@
     <key>SPOT_NAME_1021</key>
     <original>ハディン地下古道　危険区域</original>
     <translation>Hadin Undreground Old Road: Dangerous Area</translation>
-    <translation>
   </message>
   <message>
     <key>SPOT_NAME_1022</key>

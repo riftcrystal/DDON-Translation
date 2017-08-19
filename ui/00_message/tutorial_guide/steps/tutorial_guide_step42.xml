@@ -16,7 +16,7 @@ they can be obtained from "Lestania News", talking to NPCs or
 Encountering an enemy in the field.
 Be sure to check the recommended level!      
 
-&lt;COL ffdc78&gt;The Target Enemy of the "World Quest" appears
+&lt;COL ffdc78&gt;The target enemy of the "World Quest" appears
 on your Mini Map as a blue circle.</translation>
   </message>
   <message>
@@ -34,7 +34,7 @@ on your Mini Map as a blue circle.</translation>
     <translation>"World Quests" and their rewards can be checked at any
 time by checking &lt;COL ffdc78&gt;"Lestania News".&lt;/COL&gt;
 
-Also, each &lt;COL ffdc78&gt;"Area Master" has "World Quest information"&lt;/COL&gt;
+Also, each &lt;COL ffdc78&gt;"Area Master" has "World Quest information".&lt;/COL&gt;
 You can get detailed information of what the enemy is or where it appears.
 
 Also note that &lt;COL ffdc78&gt;"Public quests" and "Hidden Quests"&lt;/COL&gt;
@@ -50,11 +50,11 @@ have different rewards and objectives.</translation>
 　…自力で探索し見つけ出すか、エリアマスターに
 　　情報料を払う必要があるクエストです
 　&lt;COL ffdc78&gt;クリア時１度のみ、未公開ボーナス報酬が付きます&lt;/COL&gt;</original>
-    <translation>"Public Quests": Gives Normal Rewards.
+    <translation>"Public Quests": gives normal rewards.
 The location of the enemy and the quest rewards
 can be seen by all players.
 
-"Hidden Quests": Gives Bonus Rewards.
+"Hidden Quests": gives bonus rewards.
 You need to search for yourself how to complete it,
 you can also pay the "Area Master" for hints.
 &lt;COL ffdc78&gt;Know that you can only get the bonus rewards once&lt;/COL&gt;</translation>

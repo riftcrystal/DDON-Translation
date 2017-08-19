@@ -88,7 +88,7 @@ A shield and a white dragon are engraved.</translation>
     <original>ドリード城地下、最深部《監獄牢》の鍵
 収監された者がどうなったかは不明</original>
     <translation>A key to the prison underneath Dreed Castle.
-You don't know what happened to the prisioners.</translation>
+You don't know what happened to the prisoners.</translation>
   </item>
   <item id="52">
     <original>投げつけた対象にダメージと
@@ -14554,7 +14554,7 @@ Bestows various buffs upon eating</translation>
   <item id="7551">
     <original>肉系のクラフト用素材
 広く人気のある食材。生食できない</original>
-    <translation>Meat-based crafting material
+    <translation>Meat-based crafting material.
 Widely popular. Can't be eaten raw.</translation>
   </item>
   <item id="7552">
@@ -14577,13 +14577,13 @@ Widely popular. Can't be eaten raw.</translation>
     <original>グリッテン砦補強のため準備された資材
 砦の副官ヴァネッサに届けよう</original>
     <translation>Materials prepared to reinforce Gritten Fort.
-Deliver this to Lieutenant  Vanessa.</translation>
+Deliver this to Lieutenant Vanessa.</translation>
   </item>
   <item id="7560">
     <original>相当古い時代の難解な文書
 複雑な図とともに記された古語は、ほぼ読みとれない</original>
     <translation>An esoteric document of considerable age.
-Ancient words written with complicated figures, it too damaged to read.</translation>
+Ancient words written with complicated figures, too damaged to read.</translation>
   </item>
   <item id="7561">
     <original>ディアマンテスが封じられた宮殿の鍵
@@ -14614,7 +14614,7 @@ Premium Quality. Can't be eaten raw.</translation>
     <original>肉系のクラフト用素材
 グリフィン（ＬＶ．35～）からしか取れぬ逸品</original>
     <translation>Meat-based crafting material.
-Can only be Obtained from a (Lv.35)Griffin.</translation>
+Can only be Obtained from a Griffin (Lv.35~).</translation>
   </item>
   <item id="7728">
     <original>肉系のクラフト用素材
@@ -26676,7 +26676,7 @@ when equipped.</translation>
   </item>
   <item id="11721">
     <original>装着した武器に状態異常を付与するクレスト</original>
-    <translation>A crest that grants a debilitation effect 
+    <translation>A crest that grants a debilitation effect
 to weapons when equipped.</translation>
   </item>
   <item id="11722">
@@ -26848,8 +26848,8 @@ when equipped to armor.</translation>
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
-    <translation>Jewelry Available in the "Appraisal Exchange".
-It's Effect is as yet-unknown.</translation>
+    <translation>Jewelry available in the "Appraisal Exchange".
+It's effect is unknown.</translation>
   </item>
   <item id="11760">
     <original>自室に備え付けられている家具</original>
@@ -32553,83 +32553,83 @@ status debilitations.</translation>
   </item>
   <item id="13811">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13812">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13813">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13814">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13815">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13816">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13817">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13818">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13819">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13820">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13821">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13822">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13823">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.n</translation>
+    <translation>Coin with a finely detailed relief.n</translation>
   </item>
   <item id="13824">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13825">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13826">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13827">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13828">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13829">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13830">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Finely engraved coin.</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13831">
     <original></original>
@@ -33864,7 +33864,7 @@ Decorate the room with a Halloween mood.</translation>
   </item>
   <item id="14249">
     <original>室内をハッピーな光で照らすルームランプ</original>
-    <translation>Room lamps illuminate the room with a happy light.</translation>
+    <translation>Room lamps that illuminate the room with a happy light.</translation>
   </item>
   <item id="14250">
     <original>レスタニアの職人の協力によって

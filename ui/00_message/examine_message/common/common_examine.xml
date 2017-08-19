@@ -365,7 +365,7 @@ Unlikely to be opened.</translation>
   </message>
   <message>
     <original>汚染植物が出現――！</original>
-    <translation>Infected plants appear!</translation>
+    <translation>Infected plants have appeared!</translation>
   </message>
   <message>
     <original>胞子の広がりを阻止――
@@ -375,7 +375,7 @@ Bonus reward is added!</translation>
   </message>
   <message>
     <original>隠れていた魔物が姿を現した――！</original>
-    <translation>The hidden monster appears!</translation>
+    <translation>The hidden monster has appeared!</translation>
   </message>
   <message>
     <original>傷ついた魔物の痕跡は、
@@ -393,7 +393,7 @@ It seems to lead towards its den.</translation>
   </message>
   <message>
     <original>救助対象が戦線離脱した――</original>
-    <translation>Your rescue target has left the battlefield</translation>
+    <translation>Your rescue target has left the battlefield...</translation>
   </message>
   <message>
     <original>&lt;COL ffdc78&gt;迅速な救助に成功しました

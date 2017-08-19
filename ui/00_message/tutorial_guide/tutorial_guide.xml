@@ -422,7 +422,7 @@
   <message>
     <key>TUTORIAL_176</key>
     <original>着飾り装備</original>
-    <translation>Costumes</translation>
+    <translation>Dress Equipment</translation>
   </message>
   <message>
     <key>TUTORIAL_177</key>
@@ -597,7 +597,7 @@
   <message>
     <key>TUTORIAL_242</key>
     <original>未知なるジョブへの挑戦</original>
-    <translation>Changing Jobs</translation>
+    <translation>Changing Vocations</translation>
   </message>
   <message>
     <key>TUTORIAL_243</key>
@@ -635,7 +635,7 @@
   <message>
     <key>TUTORIAL_255</key>
     <original>鑑定交換</original>
-	<translation>Appraisal Exchange</translation>
+    <translation>Appraisal Exchange</translation>
   </message>
   <message>
     <key>TUTORIAL_257</key>
@@ -649,7 +649,7 @@
   <message>
     <key>TUTORIAL_261</key>
     <original>鑑定ジュエリー</original>
-	<translation>Appraising Jewelry</translation>
+    <translation>Appraising Jewelry</translation>
   </message>
   <message>
     <key>TUTORIAL_264</key>
@@ -683,7 +683,7 @@
   <message>
     <key>TUTORIAL_275</key>
     <original>侵食魔について：大型敵 </original>
-	<translation>Infected: Large Enemies</translation>
+    <translation>Infected: Large Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_278</key>
@@ -732,7 +732,7 @@
   <message>
     <key>TUTORIAL_301</key>
     <original>辺境の礎</original>
-    <translation>Frontier Foundation</translation>
+    <translation>Sub Portcrystals</translation>
   </message>
   <message>
     <key>TUTORIAL_302</key>

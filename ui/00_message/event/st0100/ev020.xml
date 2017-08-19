@@ -9,11 +9,11 @@
   </message>
   <message>
     <original>――いや</original>
-    <translation>No</translation>
+    <translation>...No</translation>
   </message>
   <message>
     <original>――なるほど</original>
-    <translation>I see</translation>
+    <translation>...I see</translation>
   </message>
   <message>
     <original>我々白騎団の捜索だけでは
@@ -25,7 +25,7 @@
   </message>
   <message>
     <original>――ふむ</original>
-    <translation>Hmmm</translation>
+    <translation>...Hmmm</translation>
   </message>
   <message>
     <original>ともあれ、メイリーフ嬢は
@@ -39,7 +39,7 @@
     <original>いや待て――
 これはトロールの足跡！？</original>
     <translation>Wait a minute...
-Troll Footprints?!</translation>
+Troll footprints?!</translation>
   </message>
   <message>
     <original>はるか向こうまで続いているようだ
