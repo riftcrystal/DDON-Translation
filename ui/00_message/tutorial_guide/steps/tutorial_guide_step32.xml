@@ -11,11 +11,11 @@
 から、受注したいものを選びましょう</original>
     <translation>&lt;COL 78f5ff&gt;"Board Quests" ae available!&lt;/COL&gt;
 	
-In various locations you will see&lt;COL ffdc78&gt;"Quest Boards"&lt;/COL&gt;
-Residents put their various requests on&lt;COL ffdc78&gt;"Board Quests"&lt;/COL&gt;
+In various locations you will see &lt;COL ffdc78&gt;"Quest Boards"&lt;/COL&gt;
+Residents make their various requests with &lt;COL ffdc78&gt;"Board Quests"&lt;/COL&gt;
 Every day we get new requests.
 
-&lt;COL ffdc78&gt;"Elimination Quests"&lt;/COL&gt;and&lt;COL ffdc78&gt;"Delivery Quests"&lt;/COL&gt;
+&lt;COL ffdc78&gt;"Elimination Quests"&lt;/COL&gt; and &lt;COL ffdc78&gt;"Delivery Quests"&lt;/COL&gt;
 Choose whichever you like</translation>
   </message>
   <message>
@@ -33,10 +33,10 @@ Choose whichever you like</translation>
 The target enemies are indicated by a green circle on the mini map&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;"Delivery Quests" are about obtaining specific items
-and deliver them to a "Postbox"&lt;/COL&gt;
+and deliver them to a "Delivery Box"&lt;/COL&gt;
 
-However, if the time limit for the delivery has passed
-The quest will automatically fail
+However, if the time limit for the delivery has passed,
+the quest will automatically fail.
 Please be careful.</translation>
   </message>
 </resource>
