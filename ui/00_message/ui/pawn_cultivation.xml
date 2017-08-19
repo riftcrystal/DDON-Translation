@@ -269,22 +269,27 @@
   <message>
     <key>pawn_growtalk_choice_045</key>
     <original>優先する確率を上げる</original>
+    <translation>Increase</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_046</key>
     <original>優先する確率を下げる</original>
+    <translation>Decrease</translation>
   </message>
   <message>
     <key>pawn_growtalk_err_001</key>
     <original>これ以上、上げることはできません</original>
+    <translation>Cannot be increased further</translation>
   </message>
   <message>
     <key>pawn_growtalk_err_002</key>
     <original>これ以上、下げることはできません</original>
+    <translation>Cannot be decreased further</translation>
   </message>
   <message>
     <key>pawn_growtalk_err_003</key>
     <original>対話回数が足りません</original>
+    <translation>Insufficient dialogue count</translation>
   </message>
   <message>
     <key>pawn_growtalk_err_004</key>
@@ -318,7 +323,7 @@
   <message>
     <key>pawn_growtalk_title_005</key>
     <original>優先して狙う敵の最終確認</original>
-    <translation>Confirm final enemy target priority</translation>
+    <translation>Final confirmation of enemy target priority</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_006</key>
@@ -342,6 +347,7 @@
   <message>
     <key>pawn_growtalk_title_010</key>
     <original>敵の状態で使う技の最終確認</original>
+    <translation>Final confirmation of skill use according to enemy condition</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_011</key>
@@ -384,6 +390,7 @@
   <message>
     <key>pawn_growtalk_title_020</key>
     <original>確率をどうしますか？</original>
+    <translation>Do what with the probablity?</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_048</key>
