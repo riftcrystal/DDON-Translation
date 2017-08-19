@@ -56,7 +56,7 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_12</key>
     <original>調理場左の棚/食材</original>
-    <translation>Left Ingredient Shelf</translation>
+    <translation>Left Kitchen Shelf/Foodstuffs</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_13</key>
@@ -211,16 +211,16 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_47</key>
     <original>マンドラゴラ鉢植え①ノーマル</original>
-    <translation>Mandagora Potted Plant 1: Normal</translation>
+    <translation>Mandagora Potted Plant 1 (Normal)</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_48</key>
     <original>マンドラゴラ鉢植え②パスポート</original>
-    <translation>Mandagora Potted Plant 2: Passport</translation>
+    <translation>Mandagora Potted Plant 2 (Passport)</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_49</key>
     <original>マンドラゴラ鉢植え③パスポート</original>
-    <translation>Mandagora Potted Plant 3: Passport</translation>
+    <translation>Mandagora Potted Plant 3 (Passport)</translation>
   </message>
 </resource>

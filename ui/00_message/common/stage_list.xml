@@ -405,7 +405,7 @@
   <message>
     <key>STAGE_NAME_81</key>
     <original>禊の神殿　離殿</original>
-    <translation>Temple of Purification South Chamber</translation>
+    <translation>Temple of Purification: South Chamber</translation>
   </message>
   <message>
     <key>STAGE_NAME_82</key>
@@ -644,7 +644,7 @@
     <key>STAGE_NAME_128</key>
     <original>旧鉱泉湧き口</original>
     <translation>Old Spring</translation>
-    <!-- Needs Revision -->
+    <!-- Soleyu: Needs Revision -->
   </message>
   <message>
     <key>STAGE_NAME_129</key>
@@ -1111,7 +1111,7 @@
   <message>
     <key>STAGE_NAME_231</key>
     <original>旧水汲み場</original>
-    <translation>Old Water Fountain</translation>
+    <translation>Old Waterhole</translation>
   </message>
   <message>
     <key>STAGE_NAME_232</key>
@@ -1190,13 +1190,13 @@
     <key>STAGE_NAME_290</key>
     <original>青静の遺跡</original>
     <translation>Blue Stillness Ruins</translation>
-    <!--Needs Revision, not sure if its Aoi or Blue Stillness-->
+    <!--Soleyu: Needs Revision, not sure if its Aoi or Blue Stillness-->
   </message>
   <message>
     <key>STAGE_NAME_293</key>
     <original>冥き大地下墓地</original>
     <translation>Dark Tree Great Catacombs</translation>
-    <!-- Needs Revision, not sure if Dark Tree is a correct translation-->
+    <!-- Soleyu: Needs Revision, not sure if Dark Tree is a correct translation-->
   </message>
   <message>
     <key>STAGE_NAME_300</key>
@@ -1213,7 +1213,7 @@
     <key>STAGE_NAME_304</key>
     <original>エンディング用部屋</original>
     <translation>Ending Office</translation>
-    <!--Needs Revision-->
+    <!--Soleyu: Needs Revision-->
   </message>
   <message>
     <key>STAGE_NAME_305</key>
@@ -1568,7 +1568,7 @@
   <message>
     <key>STAGE_NAME_404</key>
     <original>ディプニエ大侵林</original>
-    <translation>Deenan Great Forest</translation>
+    <translation>Deepney Great Forest</translation>
   </message>
   <message>
     <key>STAGE_NAME_405</key>
@@ -1626,7 +1626,7 @@
   <message>
     <key>STAGE_NAME_417</key>
     <original>侵鬼の洞穴</original>
-    <translation>Invading Demons Den</translation>
+    <translation>Invading Demons Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_418</key>
@@ -1708,7 +1708,7 @@
   <message>
     <key>STAGE_NAME_434</key>
     <original>ダナ族長の家</original>
-    <translation>Dannas' Patriarch House</translation>
+    <translation>Dana Chief's Home</translation>
   </message>
   <message>
     <key>STAGE_NAME_435</key>
@@ -1807,6 +1807,7 @@
   <message>
     <key>STAGE_NAME_461</key>
     <original>ラスニテ山麓</original>
+    <translation>Rathnite Foothills</translation>
   </message>
   <message>
     <key>STAGE_NAME_462</key>

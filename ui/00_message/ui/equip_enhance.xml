@@ -22,10 +22,12 @@
   <message>
     <key>eqenhance_weapon</key>
     <original>武器</original>
+    <translation>Weapons</translation>
   </message>
   <message>
     <key>eqenhance_armor</key>
     <original>防具</original>
+    <translation>Armor</translation>
   </message>
   <message>
     <key>eqenhance_pack_set_00</key>
@@ -64,10 +66,12 @@
   <message>
     <key>eqenhance_header_pack_list</key>
     <original>リスト</original>
+    <translation>List</translation>
   </message>
   <message>
     <key>eqenhance_header_pack_detail</key>
     <original>付与されるステータスは、以下の中から抽選されます</original>
+    <translation>Status added will be selected from the following:</translation>
   </message>
   <message>
     <key>eqenhance_order_header_item</key>
@@ -96,7 +100,7 @@
   <message>
     <key>eqenhance_check_detail</key>
     <original>詳細を確認する</original>
-    <translation>View details</translation>
+    <translation>View Details</translation>
   </message>
   <message>
     <key>eqenhance_confirm_overwrite</key>
@@ -178,10 +182,12 @@
   <message>
     <key>eqenhance_condition</key>
     <original>作業条件</original>
+    <translation>Work Requirements</translation>
   </message>
   <message>
     <key>eqenhance_need_item</key>
     <original>必要アイテム</original>
+    <translation>Required Items</translation>
   </message>
   <message>
     <key>eqenhance_special_evolution</key>
@@ -202,15 +208,19 @@
   <message>
     <key>eqenhance_omake</key>
     <original>特典</original>
+    <translation>Benefits</translation>
   </message>
   <message>
     <key>eqenhance_omake_notice</key>
     <original>この作業条件をご利用いただくと、特典として
 &lt;COL ffdc78&gt;&lt;UNTN MS&gt; &lt;VAL MS&gt;をプレゼント&lt;/COL&gt;</original>
+    <translation>By using this work method, you will receive a bonus
+&lt;COL ffdc78&gt;&lt;UNTN MS&gt; &lt;VAL MS&gt;&lt;/COL&gt; as a present</translation>
   </message>
   <message>
     <key>eqenhance_evolution_done</key>
     <original>カスタム完了しました</original>
+    <translation>Custom completed</translation>
   </message>
   <message>
     <key>eqenhance_no_equip_notice</key>
@@ -223,6 +233,7 @@
   <message>
     <key>eqenhance_txtguide_01</key>
     <original>リミット解除する装備を選択してください</original>
+    <translation>Please select equipment to limit break.</translation>
   </message>
   <message>
     <key>eqenhance_txtguide_02</key>
@@ -235,10 +246,12 @@
   <message>
     <key>eqenhance_txtguide_04</key>
     <original>「&lt;VAL&gt;」の詳細</original>
+    <translation>"&lt;VAL&gt;" details.</translation>
   </message>
   <message>
     <key>eqrecycle_txtguide_01</key>
     <original>資源分解する装備を選択してください</original>
+    <translation>Please select equipment to disassemble.</translation>
   </message>
   <message>
     <key>eqenhance_need_gs_text</key>

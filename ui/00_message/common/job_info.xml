@@ -9,7 +9,7 @@
 盾を駆使したカウンター戦法を得意とする
 常に前線に斬り込んでいける安定感が持ち味</original>
     <translation>Balances offense and defense in battle.
-Can use the shield to counter attacks.
+Can use their shield to counter attacks.
 The Leader of the Battlefield.</translation>
   </message>
   <message>
@@ -18,7 +18,8 @@ The Leader of the Battlefield.</translation>
 ロープワークで死角に回り込み、瞬時に巨大敵の
 頭上に迫り連撃を加える様は戦場の疾風</original>
     <translation>An acrobat who excels at hit and run tactics.
-Uses a rope to instantly move to the blind spot of large enemies.
+Uses a rope to instantly move to the blind
+spot of large enemies.
 The Gale of the Battlefield.</translation>
   </message>
   <message>
@@ -26,8 +27,10 @@ The Gale of the Battlefield.</translation>
     <original>精密な射撃で遠距離から先制するスナイパー役
 特殊矢による多様な支援力も魅力
 強敵の弱点を正確に射ぬき戦況を優位に導く</original>
-    <translation>Able to deal precise damage from long distances.
-Has a variey of support abilities by the use of special arrows.
+    <translation>Able to deal precise damage from
+long distances.
+Has a variey of support abilities by the use of
+special arrows.
 The Sniper of the Battlefield.</translation>
   </message>
   <message>
@@ -35,8 +38,10 @@ The Sniper of the Battlefield.</translation>
     <original>回復と支援魔法で仲間を支える癒しの術師
 その術は味方へのさまざまな恩恵だけでなく
 怒れる敵の“隠された弱点”すら看破する</original>
-    <translation>Supports the party with healing and support magick.
-Can not only heal, but also reveal weakness of enemies.
+    <translation>Supports the party with healing and
+support magick.
+Can not only heal, but also reveal weakness
+of enemies.
 The Pillar of the Battlefield.</translation>
   </message>
   <message>
@@ -44,8 +49,11 @@ The Pillar of the Battlefield.</translation>
     <original>敵の注目を一手に集め反撃する強固な砦役
 大盾で受けた敵の力を攻撃・支援の術に変換
 ５属性を操り、仲間を属性面でもフォローする</original>
-    <translation>Attracts attention and protect others with its strong defense.
-Convert the power of its enemies into magick of the 5 elements to attack and support.
+    <translation>Attracts attention and protect others with
+their strong defense.
+Convert the power of their enemies into
+magick of the five elements to attack
+and support.
 The Fortress of the Battlefield.</translation>
   </message>
   <message>
@@ -53,8 +61,10 @@ The Fortress of the Battlefield.</translation>
     <original>絶大な威力の攻撃魔法を操る魔術師
 術は紡がれた魔法陣によりさらに威力を高める
 長い詠唱を効率よく放つには仲間の支援が必要</original>
-    <translation>Magician who commands great magick to cause great harm.
-Can enhance magick by chanting, but needs to be protected.
+    <translation>Magician who commands great magick to
+cause great harm.
+Can enhance magick by chanting, but needs
+to be protected.
 The Calamity of the Battlefield.</translation>
   </message>
   <message>
@@ -62,8 +72,10 @@ The Calamity of the Battlefield.</translation>
     <original>受けた痛みを反撃の力に変える剛力の重戦車
 敵の攻撃を耐え忍ぶほどにその一撃は重みを増す
 大剣の一振りは巨大な標的をも怯ませ葬る</original>
-    <translation>Endures pain to deliver even greater damage to its enemies.
-One swing of their huge sword can even bury enemies.
+    <translation>Endures pain to deliver even greater damage
+to their enemies.
+One swing of their huge sword can even
+bury enemies.
 The Behemoth of the Battlefield.</translation>
   </message>
   <message>
@@ -71,8 +83,10 @@ The Behemoth of the Battlefield.</translation>
     <original>魔道弓により霊力の魔矢を操る神秘の射手
 自動的に標的を追ういく本もの魔矢は敵の急所を
 穿つ刃のみならず、味方を癒す光にもなる</original>
-    <translation>Mysterious archer who manipulates magick into its magick bow.
-It can attack enemies, support allies and show the weak points of enemies.
+    <translation>Mysterious archer who manipulates magick
+into their magick bow.
+They can attack enemies, support allies and
+show the weak points of enemies.
 The Eyes of the Battlefield.</translation>
   </message>
   <message>
@@ -80,8 +94,10 @@ The Eyes of the Battlefield.</translation>
     <original>錬金の秘術により敵の注意を引きうける策士
 論理と錬成物質を用いて状態異常を操り、摂理を
 超えた高い移動能力を駆使して敵戦力を散らす</original>
-    <translation>Soldier who attracts the enemys' attention using alchemy and high mobility.
-Uses the secrets of alchemy to inflict and manipulate status abnormalities.
+    <translation>Soldier who attracts the enemys' attention
+using alchemy and high mobility.
+Uses the secrets of alchemy to inflict and
+manipulate status abnormalities.
 The Trickster of the Battlefield.</translation>
   </message>
   <message>
@@ -89,8 +105,15 @@ The Trickster of the Battlefield.</translation>
     <original>精霊槍を振るい森羅の加護を得た槍士
 霊の加護は一時的に戦闘能力を引き上げるだけ
 でなく、自身や仲間を癒し導く守護にもなる</original>
+<<<<<<< HEAD
     <translation>A Warrior blessed and protected by the spirits.
 With his spirit spear it can heal, lead and support the party.
+=======
+    <translation>A warrior blessed and protected by
+the spirits.
+With their spirit spear they can heal, lead and
+support the party.
+>>>>>>> pr/11
 The Druid of the Battlefield.</translation>
   </message>
 </resource>

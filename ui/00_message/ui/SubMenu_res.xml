@@ -317,6 +317,7 @@
   <message>
     <key>msg_SUB_MENU_CHAT_ADDRESS_MEMO</key>
     <original>メモする</original>
+    <translation>Add To Memo</translation>
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_CHECK_GROWTH</key>

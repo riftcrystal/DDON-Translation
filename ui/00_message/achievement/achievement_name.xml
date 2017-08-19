@@ -7360,14 +7360,17 @@
   <message>
     <key>ACHIEVEMENT_NAME_2903</key>
     <original>新人教師</original>
+    <translation>Rookie Teacher</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2904</key>
     <original>教育熱心</original>
+    <translation>Training Enthusiast</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2905</key>
     <original>熱血教師</original>
+    <translation>Enthusiastic Teacher</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2906</key>
@@ -7376,6 +7379,7 @@
   <message>
     <key>ACHIEVEMENT_NAME_2907</key>
     <original>伝説の教師</original>
+    <translation>Legendary Teacher</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_2908</key>

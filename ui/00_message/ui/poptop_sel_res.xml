@@ -462,18 +462,22 @@
   <message>
     <key>poptop_recycle_remaining_num</key>
     <original>残り回数：</original>
+    <translation>Remaining:</translation>
   </message>
   <message>
     <key>poptop_recycle_equip</key>
     <original>武具の分解</original>
+    <translation>Disassemble Arms</translation>
   </message>
   <message>
     <key>poptop_recycle_gs_equip</key>
     <original>ロット武具の分解</original>
+    <translation>Disassemble Lot Arms</translation>
   </message>
   <message>
     <key>poptop_recycle_remaining_num_reset</key>
     <original>残り回数リセット</original>
+    <translation>Reset Remaining</translation>
   </message>
   <message>
     <key>poptop_depositbox_menu_02_restore</key>

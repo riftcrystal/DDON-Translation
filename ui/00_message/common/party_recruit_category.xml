@@ -2,45 +2,56 @@
   <message>
     <key>PARTY_RECRUIT_CATEGORY_1</key>
     <original>ストーリー進行</original>
+    <translation>Story progress</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_2</key>
     <original>クエストで遊ぶ</original>
+    <translation>Play quests</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_3</key>
     <original>ミッションで遊ぶ</original>
+    <translation>Play missions</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_4</key>
     <original>XP/PPを稼ぐ</original>
+    <translation>Earn XP/PP</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_5</key>
     <original>お金を稼ぐ</original>
+    <translation>Make money</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_6</key>
     <original>オーブを稼ぐ</original>
+    <translation>Earn orbs</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_7</key>
     <original>エリアポイントを稼ぐ</original>
+    <translation>Earn area points</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_8</key>
     <original>素材を集める</original>
+    <translation>Gather materials</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_9</key>
     <original>ジョブ修練</original>
+    <translation>Vocation training</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_10</key>
     <original>イベントで遊ぶ</original>
+    <translation>Play events</translation>
   </message>
   <message>
     <key>PARTY_RECRUIT_CATEGORY_11</key>
     <original>その他</original>
+    <translation>Other</translation>
   </message>
 </resource>

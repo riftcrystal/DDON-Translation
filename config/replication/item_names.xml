@@ -6,6 +6,11 @@
       <translation_replace>Emblem Stone ({0})</translation_replace>
       <translation_arg message_set="job name" />
     </rewrite>
+    <rewrite>
+      <original_match>^AP【(.+)】$</original_match>
+      <translation_replace>AP ({0})</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <!-- Event -->
     <rewrite>
       <original_match>^オーフリング(.+)改【(.+?)】$</original_match>

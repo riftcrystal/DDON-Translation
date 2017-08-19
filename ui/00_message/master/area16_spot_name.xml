@@ -24,6 +24,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>欠緑の林</original>
+    <translation>Vacant Green Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -38,10 +39,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>モロー古跡</original>
+    <translation>Morrow Old Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>立ち病みの森</original>
+    <translation>Suffering Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -56,6 +59,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>侵鬼の洞穴</original>
+    <translation>Invading Demons Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -70,6 +74,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>ディプニエ大侵林</original>
+    <translation>Deepney Great Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>

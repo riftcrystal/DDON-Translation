@@ -56,7 +56,7 @@
   <message>
     <key>SPOT_NAME_459</key>
     <original>メルゴダ居住区</original>
-    <translation>Moltova Residential Area</translation>
+    <translation>Mergoda Residential Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_460</key>
@@ -188,7 +188,7 @@
   <message>
     <key>SPOT_NAME_484</key>
     <original>禊の神殿　離殿</original>
-    <translation>Temple of Purification South Chamber</translation>
+    <translation>Temple of Purification: South Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_485</key>
@@ -316,37 +316,30 @@
   <message>
     <key>SPOT_NAME_509</key>
     <original>カタコンベ（カスタム）01</original>
-    <translation>Catacombs（Custom）01</translation>
   </message>
   <message>
     <key>SPOT_NAME_510</key>
     <original>自然洞窟＋坑道（カスタム）00</original>
-    <translation>Natural Cave＋Tunnel（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_511</key>
     <original>エルフ遺跡（カスタム）00</original>
-    <translation>Elven Ruins（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_512</key>
     <original>地下通路＋水路（カスタム）00</original>
-    <translation>Underground Passage＋Waterway（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_513</key>
     <original>枯れ井戸の中（カスタム）00</original>
-    <translation>In the Abandoned Well（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_514</key>
     <original>祠の中（カスタム）00</original>
-    <translation>In the Shrine（Custom）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_515</key>
     <original>地下室（ワイン倉庫）00</original>
-    <translation>Cellar (Wine Stores)00</translation>
   </message>
   <message>
     <key>SPOT_NAME_516</key>
@@ -824,7 +817,7 @@
     <key>SPOT_NAME_613</key>
     <original>聖獣の間</original>
     <translation>Lair of the Holy Beast</translation>
-    <!--Needs review. According to the translators this is either, the Apostle or The place in between the Holy Beast
+    <!--Soleyu: Needs review. According to the translators this is either, the Apostle or The place in between the Holy Beast
     Since I havent been here yet, Im going for Lair, since apparently this is where you fight a White Chimera-->
   </message>
   <message>
@@ -1055,7 +1048,7 @@
     <key>SPOT_NAME_657</key>
     <original>錬金研究棟</original>
     <translation>Alchemy Research Building</translation>
-    <!-- Neerds revision Im pretty sure the translation is correct but its not "poetic" enough-->
+    <!-- Soleyu: Needs revision Im pretty sure the translation is correct but its not "poetic" enough-->
   </message>
   <message>
     <key>SPOT_NAME_658</key>
@@ -1175,13 +1168,13 @@
   <message>
     <key>SPOT_NAME_680</key>
     <original>水流制御室</original>
-    <translation>Water flow Control Room</translation>
+    <translation>Water Flow Control Room</translation>
   </message>
   <message>
     <key>SPOT_NAME_681</key>
     <original>聖滝の間</original>
     <translation>Chamber of the Holy Waterfall</translation>
-    <!-- Neerds revision -->
+    <!-- Soleyu: Needs revision -->
   </message>
   <message>
     <key>SPOT_NAME_682</key>
@@ -1365,8 +1358,7 @@
   <message>
     <key>SPOT_NAME_721</key>
     <original>鉱山の大踊り場</original>
-    <translation>Mines' Hall</translation>
-    <!--Needs revision. according to the Kanji its either Dancing floor or Landing(stairs) I used Hall but it might be wrong-->
+    <translation>Mines' Large Landing</translation>
   </message>
   <message>
     <key>SPOT_NAME_723</key>
@@ -1503,17 +1495,17 @@
   <message>
     <key>SPOT_NAME_820</key>
     <original>霧幻のテラス　浅層</original>
-    <translation>Misty Illusion Terrace Surface Level</translation>
+    <translation>Misty Illusion Terrace: Surface Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_821</key>
     <original>霧幻のテラス　中層</original>
-    <translation>Misty Illusion Terrace Middle Level</translation>
+    <translation>Misty Illusion Terrace: Middle Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_822</key>
     <original>霧幻のテラス　深層</original>
-    <translation>Misty Illusion Terrace Deepest Level</translation>
+    <translation>Misty Illusion Terrace: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_823</key>
@@ -1523,7 +1515,7 @@
   <message>
     <key>SPOT_NAME_824</key>
     <original>侵食魔の巣窟　脇道</original>
-    <translation>Infected Den Byway</translation>
+    <translation>Infected Den: Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_825</key>
@@ -1539,22 +1531,24 @@
   <message>
     <key>SPOT_NAME_828</key>
     <original>アーク　裏層　貯蔵所</original>
-    <translation>Arks' Lower Level Storage</translation>
+    <translation>The Ark's Lower Level: Storage</translation>
+    <translation_format>Ark's Lower Level: Storage</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_829</key>
     <original>アーク　裏層　宝物庫</original>
-    <translation>Arks' Lower Level Treasure Vault</translation>
+    <translation>The Arks' Lower Level: Treasure Vault</translation>
+    <translation_format>Ark's Lower Level: Treasure Vault</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_830</key>
     <original>侵食魔の巣窟　脇道</original>
-    <translation>Infected Den Byway</translation>
+    <translation>Infected Den: Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_831</key>
     <original>灼熱の封鎖道　脇道</original>
-    <translation>Scorching Blockade Byroad</translation>
+    <translation>Scorching Blocked Passage: Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_832</key>
@@ -1564,32 +1558,32 @@
   <message>
     <key>SPOT_NAME_833</key>
     <original>モルトバ遺跡　左路</original>
-    <translation>Moltova Ruins Left Road</translation>
+    <translation>Moltova Ruins: Left Path</translation>
   </message>
   <message>
     <key>SPOT_NAME_834</key>
     <original>モルトバ遺跡　右路</original>
-    <translation>Moltova Ruins Right Road</translation>
+    <translation>Moltova Ruins: Right Path</translation>
   </message>
   <message>
     <key>SPOT_NAME_835</key>
     <original>霧幻のテラス　浅層</original>
-    <translation>Misty Illusion Terrace Surface Level</translation>
+    <translation>Misty Illusion Terrace: Surface Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_836</key>
     <original>霧幻のテラス　中層</original>
-    <translation>Misty Illusion Terrace Middle Level</translation>
+    <translation>Misty Illusion Terrace: Middle Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_837</key>
     <original>霧幻のテラス　深層</original>
-    <translation>Misty Illusion Terrace Deepest Level</translation>
+    <translation>Misty Illusion Terrace: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_838</key>
     <original>侵食魔の巣窟　奥底　深層</original>
-    <translation>Infected Den Depths Deepest Level</translation>
+    <translation>Infected Den Depths: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_839</key>
@@ -1626,22 +1620,22 @@
   <message>
     <key>SPOT_NAME_845</key>
     <original>菌糸の襲窟　脇道</original>
-    <translation>Fungal Colony Caves Byway</translation>
+    <translation>Fungal Colony Caves: Byway</translation>
   </message>
   <message>
     <key>SPOT_NAME_846</key>
     <original>菌糸の襲窟　鍾乳通路</original>
-    <translation>Fungal Colony Caves Limestone Passage</translation>
+    <translation>Fungal Colony Caves: Limestone Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_847</key>
     <original>菌糸の襲窟　中層</original>
-    <translation>Fungal Colony Caves Middle Level</translation>
+    <translation>Fungal Colony Caves: Middle Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_848</key>
     <original>菌糸の襲窟　深層</original>
-    <translation>Fungal Colony Caves Deepest Level</translation>
+    <translation>Fungal Colony Caves: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_849</key>
@@ -1669,17 +1663,17 @@
   <message>
     <key>SPOT_NAME_853</key>
     <original>秘匿の実験場　中層</original>
-    <translation>Secret Proving Ground Middle Level</translation>
+    <translation>Secret Proving Ground: Middle Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_854</key>
     <original>秘匿の実験場　深層</original>
-    <translation>Secret Proving Ground Deepest Level</translation>
+    <translation>Secret Proving Ground: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_855</key>
     <original>飛天のテラス　深層</original>
-    <translation>Heavenly Terrace Depths</translation>
+    <translation>Heavenly Terrace: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_856</key>
@@ -1694,12 +1688,12 @@
   <message>
     <key>SPOT_NAME_858</key>
     <original>幽玄の霊堂　中層</original>
-    <translation>Mysterious Mausoleum Middle Level</translation>
+    <translation>Mysterious Mausoleum: Middle Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_859</key>
     <original>幽玄の霊堂　深層</original>
-    <translation>Mysterious Mausoleum Deepest Level</translation>
+    <translation>Mysterious Mausoleum: Deepest Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_860</key>
@@ -1899,12 +1893,12 @@
     <key>SPOT_NAME_898</key>
     <original>タラーテ集水路</original>
     <translation>Thalati Waterway</translation>
-    <!--Needs Revision, not sure if Thalati is a correct Spelling or name, couldnt find it in the wiki-->
+    <!--Soleyu: Needs Revision, not sure if Thalati is a correct Spelling or name, couldnt find it in the wiki-->
   </message>
   <message>
     <key>SPOT_NAME_899</key>
     <original>タラーテ集水路</original>
-     <translation>Thalati Waterway</translation>
+    <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_900</key>
@@ -1955,7 +1949,7 @@
   <message>
     <key>SPOT_NAME_909</key>
     <original>ディプニエ大侵林</original>
-    <translation>Deenan Great Forest</translation>
+    <translation>Deepney Great Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_910</key>
@@ -1986,8 +1980,8 @@
   <message>
     <key>SPOT_NAME_915</key>
     <original>ハディン地下古道</original>
-    <translation>Hadin Underground Old Road</translation>>
-    <!-- Again the name Hadin needs revision-->
+    <translation>Hadin Underground Old Road</translation>
+    <!-- Soleyu: Again the name Hadin needs revision-->
   </message>
   <message>
     <key>SPOT_NAME_916</key>
@@ -2117,7 +2111,7 @@
   <message>
     <key>SPOT_NAME_942</key>
     <original>モロー古跡</original>
-    <translation>Morrow Ruins</translation>
+    <translation>Morrow Old Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_943</key>
@@ -2285,16 +2279,17 @@
   <message>
     <key>SPOT_NAME_977</key>
     <original>侵鬼の洞穴　中央通路</original>
+    <translation>Invading Demons Cave Center Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_978</key>
     <original>侵鬼の洞穴　最深部</original>
-    <translation>Invading Demons Den Depths</translation>
+    <translation>Invading Demons Cave Innermost Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_979</key>
     <original>ネビュラ小神殿　中央部</original>
-    <translation>Nebula Temple Center</translation>
+    <translation>Nebula Temple: Center</translation>
     <translation_format proper="true" />
   </message>
   <message>
@@ -2337,7 +2332,7 @@
   <message>
     <key>SPOT_NAME_987</key>
     <original>グリンメル遺跡　中深部</original>
-    <translation>Grinmel Ruins Depths</translation>
+    <translation>Grinmel Ruins Center Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_988</key>
@@ -2397,12 +2392,12 @@
   <message>
     <key>SPOT_NAME_999</key>
     <original>旧船頭寄合所　中央広場</original>
-    <translation>Old Ferryman's Haunt Central Square</translation>
+    <translation>Old Ferryman's Haunt: Central Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_1000</key>
     <original>旧船頭寄合所　深部通路</original>
-    <translation>Old Ferryman's Haunt Passage</translation>
+    <translation>Old Ferryman's Haunt: Depths Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1001</key>
@@ -2412,12 +2407,12 @@
   <message>
     <key>SPOT_NAME_1002</key>
     <original>アンビュロス大遺跡　中央部</original>
-    <translation>Amburos Ruins Central Area</translation>
+    <translation>Amburos Great Ruins: Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1003</key>
     <original>アンビュロス大遺跡　深部</original>
-  </message>Amburos Ruins Depths</translation>
+    <translation>Amburos Great Ruins Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1004</key>
@@ -2427,7 +2422,7 @@
   <message>
     <key>SPOT_NAME_1005</key>
     <original>タラーテ集水路　最深部</original>
-    <translation>Thalati Waterway Depths</translation>
+    <translation>Thalati Waterway Innermost Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1006</key>
@@ -2442,7 +2437,7 @@
   <message>
     <key>SPOT_NAME_1008</key>
     <original>エラン採石洞　中央部</original>
-    <translation>Elan Quarry Cave Center</translation>
+    <translation>Elan Quarry Cave: Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1009</key>
@@ -2452,7 +2447,7 @@
   <message>
     <key>SPOT_NAME_1010</key>
     <original>ハディン地下古道　中央部</original>
-    <translation>Hadin Underground Old Road Center</translation>
+    <translation>Hadin Underground Old Road: Center</translation>
   </message>
   <message>
     <key>SPOT_NAME_1011</key>
@@ -2507,7 +2502,7 @@
   <message>
     <key>SPOT_NAME_1021</key>
     <original>ハディン地下古道　危険区域</original>
-    <translation>Hadin Undreground Old Road: Dangerous Area</translation>
+    <translation>Hadin Underground Old Road: Dangerous Area</translation>
   </message>
   <message>
     <key>SPOT_NAME_1022</key>
@@ -2588,6 +2583,7 @@
   <message>
     <key>SPOT_NAME_1058</key>
     <original>ラスニテ山麓</original>
+    <translation>Rathnite Foothills</translation>
   </message>
   <message>
     <key>SPOT_NAME_1059</key>

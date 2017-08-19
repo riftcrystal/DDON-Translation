@@ -12,6 +12,7 @@
   <message>
     <key>pawn_cultivation_head_2</key>
     <original>敵の状態によって使う技</original>
+    <translation>Skill use according to enemy condition</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_3</key>
@@ -28,29 +29,32 @@
   <message>
     <key>pawn_cultivation_element_1_0</key>
     <original>小型敵</original>
-    <translation>Small-sized enemy</translation>
+    <translation>Small</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_1</key>
     <original>中型敵</original>
-    <translation>Medium-sized enemy</translation>
+    <translation>Medium</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_2</key>
     <original>大型敵</original>
-    <translation>Large-sized enemy</translation>
+    <translation>Large</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_2_0</key>
     <original>怒り時</original>
+    <translation>Enraged</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_2_1</key>
     <original>疲れ時</original>
+    <translation>Tired</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_2_2</key>
     <original>ダウン時</original>
+    <translation>Down</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_0</key>
@@ -152,23 +156,27 @@
   <message>
     <key>pawn_cultivation_element_0_0</key>
     <original>覚者が攻撃している敵</original>
-    <translation>Enemies attacked by Arisen</translation>
+    <translation>Attacked by Arisen</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_1</key>
     <original>飛行している敵</original>
+    <translation>Flying</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_2</key>
     <original>地上にいる敵</original>
+    <translation>Ground</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_3</key>
     <original>小さい敵</original>
+    <translation>Small</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_4</key>
     <original>大きい敵</original>
+    <translation>Large</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_006</key>
@@ -300,6 +308,7 @@
   <message>
     <key>pawn_growtalk_title_003</key>
     <original>助言を選択してください</original>
+    <translation>Please choose your advice</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_004</key>
@@ -328,6 +337,7 @@
   <message>
     <key>pawn_growtalk_title_009</key>
     <original>敵の状態は？</original>
+    <translation>What is the enemy's condition?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_010</key>
@@ -361,7 +371,7 @@
   <message>
     <key>pawn_growtalk_title_017</key>
     <original>他に助言はありますか？</original>
-    <translation>Do you have other advice?</translation>
+    <translation>Do you have more advice?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_018</key>
@@ -378,6 +388,7 @@
   <message>
     <key>pawn_growtalk_choice_048</key>
     <original>別の項目について助言がある</original>
+    <translation>I have advice about something else</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_047</key>
@@ -403,7 +414,8 @@
   <message>
     <key>pawn_growtalk_word_003</key>
     <original>（残り回数</original>
-    <translation>(have</translation>
+    <translation>
+(have</translation>
   </message>
   <message>
     <key>pawn_growtalk_word_004</key>
@@ -418,13 +430,16 @@
   <message>
     <key>pawn_cultivation_prio_1</key>
     <original>（優先）</original>
+    <translation> (↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_prio_2</key>
     <original>（高優先）</original>
+    <translation> (↑↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_prio_3</key>
     <original>（最優先）</original>
+    <translation> (↑↑↑)</translation>
   </message>
 </resource>

@@ -1,0 +1,106 @@
+<replication>
+  <message_set name="location dungeon area name">
+    <extra>
+      <original>深部</original>
+      <translation>Depths</translation>
+    </extra>
+    <extra>
+      <original>最深部</original>
+      <translation>Innermost Depths</translation>
+    </extra>
+  </message_set>
+  <message_set name="location dungeon subarea name">
+    <extra>
+      <original>脇道</original>
+      <translation>Byway</translation>
+    </extra>
+    <extra>
+      <original>最深部</original>
+      <translation>Dangerous Area</translation>
+    </extra>
+    <extra>
+      <original>浅層</original>
+      <translation>Surface Level</translation>
+    </extra>
+    <extra>
+      <original>中層</original>
+      <translation>Middle Level</translation>
+    </extra>
+    <extra>
+      <original>深層</original>
+      <translation>Deepest Level</translation>
+    </extra>
+    <extra>
+      <original>下層</original>
+      <translation>Lower Level</translation>
+    </extra>
+    <extra>
+      <original>王宮層</original>
+      <translation>Royal Palace Level</translation>
+    </extra>
+    <extra>
+      <original>左路</original>
+      <translation>Left Path</translation>
+    </extra>
+    <extra>
+      <original>右路</original>
+      <translation>Right Path</translation>
+    </extra>
+    <extra>
+      <original>左淵</original>
+      <translation>Left Pool</translation>
+    </extra>
+    <extra>
+      <original>右淵</original>
+      <translation>Right Pool</translation>
+    </extra>
+    <extra>
+      <original>中央部</original>
+      <translation>Center</translation>
+    </extra>
+    <extra>
+      <original>離殿</original>
+      <translation>South Chamber</translation>
+    </extra>
+    <extra>
+      <original>礎前</original>
+      <translation>Previous Foundation</translation>
+    </extra>
+    <extra>
+      <original>空庭</original>
+      <translation>Empty Court</translation>
+    </extra>
+    <extra>
+      <original>廃墟群</original>
+      <translation>Abundant Ruins</translation>
+    </extra>
+    <extra>
+      <original>鍾乳通路</original>
+      <translation>Limestone Passage</translation>
+    </extra>
+    <extra>
+      <original>鉱石路</original>
+      <translation>Ore Passage</translation>
+    </extra>
+    <extra>
+      <original>鍾乳洞</original>
+      <translation>Limestone Cave</translation>
+    </extra>
+    <extra>
+      <original>広間</original>
+      <translation>Hall</translation>
+    </extra>
+    <extra>
+      <original>不死の間</original>
+      <translation>Chamber of Immortality</translation>
+    </extra>
+    <extra>
+      <original>狩猟の間</original>
+      <translation>Chamber of Hunting</translation>
+    </extra>
+    <extra>
+      <original>集いの間</original>
+      <translation>Gathering Area</translation>
+    </extra>
+  </message_set>
+</replication>

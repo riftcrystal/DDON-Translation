@@ -7,6 +7,7 @@
   <message>
     <key>shop_title_clan</key>
     <original>Clan</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>shop_title_clan_sub</key>
@@ -16,6 +17,7 @@
   <message>
     <key>shop_title_cycle_contents</key>
     <original>Grand Mission</original>
+    <translation>Grand Mission</translation>
   </message>
   <message>
     <key>shop_title_cycle_contents_sub</key>
@@ -25,6 +27,7 @@
   <message>
     <key>shop_title_warehouse</key>
     <original>Warehouse</original>
+    <translation>Warehouse</translation>
   </message>
   <message>
     <key>shop_title_warehouse_sub</key>
@@ -34,6 +37,7 @@
   <message>
     <key>shop_title_craft</key>
     <original>Craft</original>
+    <translation>Craft</translation>
   </message>
   <message>
     <key>shop_title_craft_sub</key>
@@ -43,6 +47,7 @@
   <message>
     <key>shop_title_area_master</key>
     <original>Area Master</original>
+    <translation>Area Master</translation>
   </message>
   <message>
     <key>shop_title_area_master_sub</key>
@@ -80,6 +85,7 @@
   <message>
     <key>shop_title_shop</key>
     <original>Shop</original>
+    <translation>Shop</translation>
   </message>
   <message>
     <key>shop_title_shop_sub</key>
@@ -89,6 +95,7 @@
   <message>
     <key>shop_title_orb_shop</key>
     <original>Orb Shop</original>
+    <translation>Orb Shop</translation>
   </message>
   <message>
     <key>shop_title_orb_shop_sub</key>
@@ -98,6 +105,7 @@
   <message>
     <key>shop_title_arts_support</key>
     <original>Arts Support</original>
+    <translation>Arts Support</translation>
   </message>
   <message>
     <key>shop_title_arts_support_sub</key>
@@ -107,6 +115,7 @@
   <message>
     <key>shop_title_job_master</key>
     <original>Job Master</original>
+    <translation>Job Master</translation>
   </message>
   <message>
     <key>shop_title_job_master_sub</key>
@@ -125,6 +134,7 @@
   <message>
     <key>shop_title_revival_recover</key>
     <original>Revival Recover</original>
+    <translation>Recover Revival Power</translation>
   </message>
   <message>
     <key>shop_title_revival_recover_sub</key>
@@ -134,6 +144,7 @@
   <message>
     <key>shop_title_delivery</key>
     <original>Delivery</original>
+    <translation>Delivery</translation>
   </message>
   <message>
     <key>shop_title_delivery_sub</key>
@@ -158,6 +169,7 @@
   <message>
     <key>shop_title_quest_board</key>
     <original>Quest Board</original>
+    <translation>Quest Board</translation>
   </message>
   <message>
     <key>shop_title_quest_board_sub</key>
@@ -167,6 +179,7 @@
   <message>
     <key>shop_title_end_contents</key>
     <original>Extreme Missions</original>
+    <translation>Extreme Missions</translation>
   </message>
   <message>
     <key>shop_title_end_contents_sub</key>
@@ -236,18 +249,22 @@
   <message>
     <key>shop_title_partyboard</key>
     <original>パーティー募集掲示板</original>
+    <translation>Party Recruitment Board</translation>
   </message>
   <message>
     <key>shop_title_war_mission</key>
     <original>ウォーミッション</original>
+    <translation>War Mission</translation>
   </message>
   <message>
     <key>shop_title_equip_enhance</key>
     <original>武具のカスタムメイド</original>
+    <translation>Custom-Made Arms</translation>
   </message>
   <message>
     <key>shop_title_equip_recycle</key>
     <original>武具の資源分解</original>
+    <translation>Arms Resource Disassembly</translation>
   </message>
   <message>
     <key>shop_title_job_emblem</key>

@@ -1,0 +1,76 @@
+<replication>
+  <message_set name="extra enemy name">
+    <extra>
+      <original>ウルフ</original>
+      <translation>Wolf</translation>
+    </extra>
+    <extra>
+      <original>錬魔オオカミ</original>
+      <translation>Alchemized Wolf</translation>
+    </extra>
+    <extra>
+      <original>液状人形</original>
+      <translation>Liquid Puppet</translation>
+    </extra>
+    <extra>
+      <original>コープス</original>
+      <translation>Corpse</translation>
+    </extra>
+    <extra>
+      <original>地蟲</original>
+      <translation>Ground Insect</translation>
+    </extra>
+    <extra>
+      <original>メルガン</original>
+      <translation>Mergan</translation>
+    </extra>
+    <extra>
+      <original>バンデッド</original>
+      <translation>Banded</translation>
+    </extra>
+    <extra>
+      <original>ローグ</original>
+      <translation>Rogue</translation>
+    </extra>
+    <extra>
+      <original>ミストマン</original>
+      <translation>Mist Man</translation>
+    </extra>
+    <extra>
+      <original>呪縛ポーン</original>
+      <translation>Cursed Bone</translation>
+    </extra>
+    <extra>
+      <original>錬魔ゴブリン</original>
+      <translation>Alchemized Goblin</translation>
+    </extra>
+    <extra>
+      <original>巨人兵</original>
+      <translation>Giant Warrior</translation>
+    </extra>
+    <extra>
+      <original>ジュエルアイ</original>
+      <translation>Jewel Eye</translation>
+    </extra>
+    <extra>
+      <original>エイプ</original>
+      <translation>Ape</translation>
+    </extra>
+    <extra>
+      <original>リーダーオーク</original>
+      <translation>Orc Leader</translation>
+    </extra>
+    <extra>
+      <original>スカーレット</original>
+      <translation>Scarlet</translation>
+    </extra>
+    <extra>
+      <original>侵食オーク</original>
+      <translation>Infected Orc</translation>
+    </extra>
+    <extra>
+      <original>スパイン</original>
+      <translation>Spine</translation>
+    </extra>
+  </message_set>
+</replication>

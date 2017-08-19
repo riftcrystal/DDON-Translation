@@ -2,11 +2,15 @@
   <message>
     <original>胞子の広がりを阻止――
 クリア時のボーナス報酬が追加！</original>
+    <translation>Prevent the spread of spores!
+Bonus reward is added!</translation>
   </message>
   <message>
     <original>汚染植物が出現――！</original>
+    <translation>Infected plants have appeared!</translation>
   </message>
   <message>
     <original>胞子が集まり始めている――</original>
+    <translation>Spores are starting to gather</translation>
   </message>
 </resource>

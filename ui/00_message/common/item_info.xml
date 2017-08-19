@@ -9,7 +9,7 @@
   </item>
   <item id="36">
     <original>使用者のスタミナを回復する</original>
-    <translation>Recovers a portion of the user's Stamina.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="37">
     <original>使用者の状態異常を解消する</original>
@@ -59,7 +59,7 @@ specified status effect.</translation>
   <item id="46">
     <original>ドリード城離れにある《宝物殿》の鍵
 かつては貴重資料が集められていた</original>
-    <translation>A key that opens the Treasury in Dreed Castle.
+    <translation>A key that opens the treasury in Dreed Castle.
 Various tresures were gathered there.</translation>
   </item>
   <item id="47">
@@ -71,16 +71,16 @@ Elven characters are inscribed.</translation>
   <item id="48">
     <original>ガルドノック砦のどこかの鍵
 金属部には血色の錆びが浮いている</original>
-    <translation>A key used somewhere in Gardonox Fortress.
+    <translation>A key used somewhere in Gardnox Fortress.
 Blood is rusting the metal.</translation>
   </item>
   <item id="49">
     <original>ドリード《城主の間》の扉を開く鍵
 白竜と盾を模した文様が刻まれている</original>
-    <translation>A key that opens the Master Chamber in Dreed Castle.
-A shield and a white dragon are engraved.</translation>
-      <!-- Needs Review -->
-      <!--This may be wrong, as far as I can tell this is the most likely translation for
+    <translation>A key that opens the master chamber in Dreed Castle.
+A shield and the White Dragon are engraved.</translation>
+    <!-- Needs Review -->
+    <!--This may be wrong, as far as I can tell this is the most likely translation for
       ドリード《城主の間》の扉を開く鍵 but Im not sure. If someone has played the quest they can verify this
       -->
   </item>
@@ -106,7 +106,7 @@ Causes the "Caught Fire" debilitation.</translation>
   </item>
   <item id="56">
     <original>使用者のスタミナを回復する</original>
-    <translation>Recovers a portion of the user's Stamina.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="57">
     <original>鉱脈から素材アイテムを採掘するために必要
@@ -128,7 +128,7 @@ Has a chance to break upon use.</translation>
   </item>
   <item id="61">
     <original>使用者のスタミナを回復する</original>
-    <translation>Recovers a portion of the user's Stamina.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="62">
     <original></original>
@@ -14555,7 +14555,7 @@ Bestows various buffs upon eating</translation>
     <original>肉系のクラフト用素材
 広く人気のある食材。生食できない</original>
     <translation>Meat-based crafting material.
-Widely popular. Can't be eaten raw.</translation>
+Widely popular. Cannot be eaten raw.</translation>
   </item>
   <item id="7552">
     <original>使用者の体力を回復する</original>
@@ -14595,20 +14595,20 @@ It needs to be restored with alchemy.</translation>
     <original>ディアマンテスの命を収めた命の器
 レスタニアの運命を揺るがすほど
 強大な力を秘めている</original>
-   <translation>Diamantes Life Vessel.
-It's mighty power can shake the fate of Lestania.</translation>
+    <translation>Diamantes Life Vessel.
+Its mighty power can shake the fate of Lestania.</translation>
   </item>
   <item id="7578">
     <original>禊の神殿、セラー湖対岸にある離殿の鍵
 白竜の紋章が彫られている</original>
     <translation>A key to the Purification Temple, located across Lake Cera.
-It's engraved with a White Dragon.</translation>
+It is engraved with the White Dragon.</translation>
   </item>
   <item id="7726">
     <original>肉系のクラフト用素材
 グルメ垂涎の高級食材。生食できない</original>
     <translation>Meat-based crafting material.
-Premium Quality. Can't be eaten raw.</translation>
+Premium Quality. Cannot be eaten raw.</translation>
   </item>
   <item id="7727">
     <original>肉系のクラフト用素材
@@ -19335,92 +19335,92 @@ when equipped.</translation>
   <item id="9239">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9240">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9241">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9242">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9243">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9244">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9245">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9246">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9247">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9248">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9249">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9250">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9251">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9252">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9253">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9254">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9255">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9256">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9257">
     <original>装着した武器の魔法属性を炎にし、さらに
@@ -19485,92 +19485,92 @@ attribute effect when equipped.</translation>
   <item id="9267">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9268">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9269">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9270">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9271">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9272">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9273">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9274">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9275">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9276">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9277">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9278">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9279">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9280">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9281">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9282">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9283">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9284">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="9285">
     <original>装着した防具の重量が減少するクレスト</original>
@@ -19934,23 +19934,19 @@ when equipped to armor.</translation>
   </item>
   <item id="9361">
     <original>使用者のスタミナを回復する</original>
-    <translation>Cures the user of the specified
-status debilitations.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="9362">
     <original>使用者のスタミナを回復する</original>
-    <translation>Cures the user of the specified
-status debilitations.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="9363">
     <original>使用者のスタミナを回復する</original>
-    <translation>Cures the user of the specified
-status debilitations.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="9364">
     <original>使用者のスタミナを回復する</original>
-    <translation>Cures the user of the specified
-status debilitations.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="9365">
     <original>使用者の状態異常を解消する</original>
@@ -20096,10 +20092,14 @@ specified status effect.</translation>
   <item id="9399">
     <original>投げつけた対象にダメージと
 状態異常【延焼】を与える</original>
+    <translation>Throw this to cause damage on impact.
+Causes the "Caught Fire" debilitation.</translation>
   </item>
   <item id="9400">
     <original>投げつけた対象にダメージと
 状態異常【延焼】を与える</original>
+    <translation>Throw this to cause damage on impact.
+Causes the "Caught Fire" debilitation.</translation>
   </item>
   <item id="9401">
     <original>鉱脈から素材アイテムを採掘するために必要
@@ -23692,6 +23692,8 @@ Bestows various buffs upon eating</translation>
   </item>
   <item id="10665">
     <original>各種パスポート・コースの効果を得られます</original>
+    <translation>You can receive all sorts of effects
+from Passport Courses.</translation>
   </item>
   <item id="10669">
     <original>《クラフトマスターポーン》のレンタルチケットです
@@ -26849,7 +26851,7 @@ when equipped to armor.</translation>
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
     <translation>Jewelry available in the "Appraisal Exchange".
-It's effect is unknown.</translation>
+Its effect is unknown.</translation>
   </item>
   <item id="11760">
     <original>自室に備え付けられている家具</original>
@@ -31083,6 +31085,7 @@ Moss with a faintly silver shine.</translation>
   </item>
   <item id="13230">
     <original>自室に備え付けられている家具</original>
+    <translation>Furniture installed in your room.</translation>
   </item>
   <item id="13231">
     <original>キッチンに設置できるレンガ造りの調理設備</original>
@@ -31108,6 +31111,7 @@ Moss with a faintly silver shine.</translation>
   </item>
   <item id="13237">
     <original>自室に備え付けられている家具</original>
+    <translation>Furniture installed in your room.</translation>
   </item>
   <item id="13238">
     <original>寝返りをうっても平気なサイズのベッド
@@ -31134,6 +31138,7 @@ Moss with a faintly silver shine.</translation>
   </item>
   <item id="13244">
     <original>自室に備え付けられている家具</original>
+    <translation>Furniture installed in your room.</translation>
   </item>
   <item id="13245">
     <original>テーブルに設置できる食事セット</original>
@@ -31784,76 +31789,106 @@ Moss with a faintly silver shine.</translation>
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13477">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13478">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13479">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13480">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13481">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13482">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13483">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13484">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13485">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13486">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13487">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13488">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13489">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13490">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="13491">
     <original>《鑑定交換》で利用できる宝珠
@@ -32141,12 +32176,12 @@ when equipped.</translation>
   <item id="13660">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13661">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13662">
     <original>装着した武器に対敵特効を付与するクレスト</original>
@@ -32211,22 +32246,22 @@ when equipped.</translation>
   <item id="13674">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13675">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13676">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13677">
     <original>装着した武器に状態異常を付与するクレスト</original>
     <translation>A crest that grants a debilitation effect
-when equipped.</translation>
+to weapons when equipped.</translation>
   </item>
   <item id="13678">
     <original>装着した防具の耐久力が上昇するクレスト</original>
@@ -32513,8 +32548,7 @@ when equipped to armor.</translation>
   </item>
   <item id="13801">
     <original>使用者のスタミナを回復する</original>
-    <translation>Cures the user of the specified
-status debilitations.</translation>
+    <translation>Recovers a portion of the user's stamina.</translation>
   </item>
   <item id="13802">
     <original>使用者にステータス向上効果を付与する
@@ -32601,7 +32635,7 @@ status debilitations.</translation>
   </item>
   <item id="13823">
     <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Coin with a finely detailed relief.n</translation>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13824">
     <original>細密なレリーフの刻まれたコイン</original>
@@ -45584,21 +45618,29 @@ a commemorative trophy.</translation>
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="18731">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="18732">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="18733">
     <original>《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明</original>
+    <translation>Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.</translation>
   </item>
   <item id="18735">
     <original>羽根系のクラフト用素材
@@ -46725,78 +46767,103 @@ a commemorative trophy.</translation>
   </item>
   <item id="19319">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19320">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19321">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19322">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19323">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19324">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19325">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19326">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19327">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19328">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19329">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19330">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19331">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19332">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19333">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19334">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19335">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19336">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19337">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19338">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19339">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19340">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19341">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19343">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19344">
     <original>細密なレリーフの刻まれたコイン</original>
+    <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="19345">
     <original>戦場を駆ける者へと作られたリング状プレート

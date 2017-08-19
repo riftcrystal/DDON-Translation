@@ -39,6 +39,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>水底の古道</original>
+    <translation>Watersdeep Old Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -70,10 +71,12 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>アンビュロス大遺跡</original>
+    <translation>Amburos Great Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ハディン地下古道</original>
+    <translation>Hadin Underground Old Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>

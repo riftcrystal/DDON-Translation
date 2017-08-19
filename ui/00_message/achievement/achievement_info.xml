@@ -202,17 +202,17 @@
   <message>
     <key>ACHIEVEMENT_INFO_629</key>
     <original>《グリムワーグ》系エネミーを50体討伐</original>
-    <translation>Kill 50 "Grim Warg" enemies</translation>
+    <translation>Kill 50 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_630</key>
     <original>《グリムワーグ》系エネミーを100体討伐</original>
-    <translation>Kill 100 "Grim Warg" enemies</translation>
+    <translation>Kill 100 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
     <original>《グリムワーグ》系エネミーを300体討伐</original>
-    <translation>Kill 300 "Grim Warg" enemies</translation>
+    <translation>Kill 300 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_632</key>
@@ -1192,7 +1192,7 @@
   <message>
     <key>ACHIEVEMENT_INFO_1082</key>
     <original>ズールを1体討伐</original>
-    <translation>Kill 1 Zuhl</translation>
+    <translation>Kill Zuhl</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1083</key>
@@ -1207,7 +1207,7 @@
   <message>
     <key>ACHIEVEMENT_INFO_1085</key>
     <original>エルダードラゴンを1体討伐</original>
-    <translation>Kill 1 Elder Dragon</translation>
+    <translation>Kill an Elder Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1086</key>
@@ -6310,7 +6310,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2327</key>
     <original>マンイーターを50体討伐</original>
-    <translation>Kill 50 Man Eaters</translation>
+    <translation>Kill 50 Maneaters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2328</key>
@@ -6325,7 +6325,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2330</key>
     <original>スカージを1体討伐</original>
-    <translation>Kill 1 Scourge</translation>
+    <translation>Kill a Scourge</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2331</key>
@@ -6340,7 +6340,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2333</key>
     <original>カースドラゴンを1体討伐</original>
-    <translation>Kill 1 Cursed Dragon</translation>
+    <translation>Kill a Cursed Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2334</key>
@@ -6375,7 +6375,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2341</key>
     <original>淀みし大竜力を1体討伐</original>
-    <translation>Kill 1 Phantasmic Great Dragon</translation>
+    <translation>Kill a Phantasmic Great Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2342</key>
@@ -6390,7 +6390,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2344</key>
     <original>アルタード・ズールを1体討伐</original>
-    <translation>Kill 1 Altered Zuhl</translation>
+    <translation>Kill Altered Zuhl</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2345</key>
@@ -6440,7 +6440,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2354</key>
     <original>フットバイターを50体討伐</original>
-    <translation>Kill 50 フットバイターを</translation>
+    <translation>Kill 50 Foot-Biters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2355</key>
@@ -6490,12 +6490,12 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2370</key>
     <original>狂侵グリフィンを50体討伐</original>
-    <translation>Kill 50 Mad Griffins</translation>
+    <translation>Kill 50 Severely Infected Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2371</key>
     <original>狂侵デーモンを50体討伐</original>
-    <translation>Kill 50 Mad Daemons</translation>
+    <translation>Kill 50 Severely Infected Demons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
@@ -6510,7 +6510,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2374</key>
     <original>黒騎士を10体討伐</original>
-     <translation>Kill 10 Black Knights</translation>
+    <translation>Kill 10 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2375</key>
@@ -6520,14 +6520,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
     <original>精霊竜ウィルミアを1体討伐</original>
+    <translation>Kill Spirit Dragon Willmia</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2377</key>
     <original>精霊竜ウィルミアを10体討伐</original>
+    <translation>Kill 10 Spirit Dragon Willmias</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2378</key>
     <original>精霊竜ウィルミアを100体討伐</original>
+    <translation>Kill 100 Spirit Dragon Willmias</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2379</key>
@@ -6712,802 +6715,1002 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2549</key>
     <original>ファイターのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2550</key>
     <original>ファイターのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2551</key>
     <original>ファイターのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2552</key>
     <original>ファイターのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2553</key>
     <original>ファイターのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2554</key>
     <original>ファイターのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2555</key>
     <original>ファイターのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2556</key>
     <original>ファイターのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2557</key>
     <original>ファイターのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2558</key>
     <original>ファイターのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2559</key>
     <original>ファイターのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2560</key>
     <original>ファイターのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2561</key>
     <original>ファイターのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2562</key>
     <original>ファイターのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2563</key>
     <original>ファイターのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2564</key>
     <original>ファイターのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2565</key>
     <original>ファイターのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2566</key>
     <original>ファイターのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2567</key>
     <original>ファイターのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2568</key>
     <original>ファイターのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2569</key>
     <original>シーカーのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2570</key>
     <original>シーカーのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2571</key>
     <original>シーカーのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2572</key>
     <original>シーカーのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2573</key>
     <original>シーカーのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2574</key>
     <original>シーカーのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2575</key>
     <original>シーカーのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2576</key>
     <original>シーカーのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2577</key>
     <original>シーカーのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2578</key>
     <original>シーカーのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2579</key>
     <original>シーカーのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2580</key>
     <original>シーカーのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2581</key>
     <original>シーカーのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2582</key>
     <original>シーカーのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2583</key>
     <original>シーカーのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2584</key>
     <original>シーカーのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2585</key>
     <original>シーカーのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2586</key>
     <original>シーカーのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2587</key>
     <original>シーカーのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2588</key>
     <original>シーカーのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2589</key>
     <original>ハンターのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2590</key>
     <original>ハンターのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2591</key>
     <original>ハンターのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2592</key>
     <original>ハンターのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2593</key>
     <original>ハンターのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2594</key>
     <original>ハンターのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2595</key>
     <original>ハンターのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2596</key>
     <original>ハンターのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2597</key>
     <original>ハンターのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2598</key>
     <original>ハンターのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2599</key>
     <original>ハンターのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2600</key>
     <original>ハンターのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2601</key>
     <original>ハンターのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2602</key>
     <original>ハンターのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2603</key>
     <original>ハンターのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2604</key>
     <original>ハンターのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2605</key>
     <original>ハンターのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2606</key>
     <original>ハンターのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2607</key>
     <original>ハンターのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2608</key>
     <original>ハンターのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2609</key>
     <original>プリーストのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2610</key>
     <original>プリーストのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2611</key>
     <original>プリーストのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2612</key>
     <original>プリーストのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2613</key>
     <original>プリーストのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2614</key>
     <original>プリーストのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2615</key>
     <original>プリーストのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2616</key>
     <original>プリーストのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2617</key>
     <original>プリーストのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2618</key>
     <original>プリーストのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2619</key>
     <original>プリーストのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2620</key>
     <original>プリーストのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2621</key>
     <original>プリーストのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2622</key>
     <original>プリーストのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2623</key>
     <original>プリーストのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2624</key>
     <original>プリーストのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2625</key>
     <original>プリーストのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2626</key>
     <original>プリーストのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2627</key>
     <original>プリーストのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2628</key>
     <original>プリーストのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2629</key>
     <original>シールドセージのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2630</key>
     <original>シールドセージのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2631</key>
     <original>シールドセージのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2632</key>
     <original>シールドセージのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2633</key>
     <original>シールドセージのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2634</key>
     <original>シールドセージのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2635</key>
     <original>シールドセージのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2636</key>
     <original>シールドセージのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2637</key>
     <original>シールドセージのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2638</key>
     <original>シールドセージのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2639</key>
     <original>シールドセージのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2640</key>
     <original>シールドセージのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2641</key>
     <original>シールドセージのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2642</key>
     <original>シールドセージのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2643</key>
     <original>シールドセージのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2644</key>
     <original>シールドセージのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2645</key>
     <original>シールドセージのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2646</key>
     <original>シールドセージのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2647</key>
     <original>シールドセージのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2648</key>
     <original>シールドセージのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2649</key>
     <original>ソーサラーのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2650</key>
     <original>ソーサラーのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2651</key>
     <original>ソーサラーのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2652</key>
     <original>ソーサラーのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2653</key>
     <original>ソーサラーのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2654</key>
     <original>ソーサラーのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2655</key>
     <original>ソーサラーのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2656</key>
     <original>ソーサラーのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2657</key>
     <original>ソーサラーのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2658</key>
     <original>ソーサラーのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2659</key>
     <original>ソーサラーのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2660</key>
     <original>ソーサラーのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2661</key>
     <original>ソーサラーのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2662</key>
     <original>ソーサラーのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2663</key>
     <original>ソーサラーのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2664</key>
     <original>ソーサラーのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2665</key>
     <original>ソーサラーのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2666</key>
     <original>ソーサラーのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2667</key>
     <original>ソーサラーのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2668</key>
     <original>ソーサラーのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2669</key>
     <original>ウォリアーのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2670</key>
     <original>ウォリアーのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2671</key>
     <original>ウォリアーのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2672</key>
     <original>ウォリアーのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2673</key>
     <original>ウォリアーのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2674</key>
     <original>ウォリアーのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2675</key>
     <original>ウォリアーのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2676</key>
     <original>ウォリアーのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2677</key>
     <original>ウォリアーのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2678</key>
     <original>ウォリアーのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2679</key>
     <original>ウォリアーのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2680</key>
     <original>ウォリアーのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2681</key>
     <original>ウォリアーのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2682</key>
     <original>ウォリアーのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2683</key>
     <original>ウォリアーのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2684</key>
     <original>ウォリアーのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2685</key>
     <original>ウォリアーのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2686</key>
     <original>ウォリアーのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2687</key>
     <original>ウォリアーのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2688</key>
     <original>ウォリアーのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Warrior</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2689</key>
     <original>エレメントアーチャーのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2690</key>
     <original>エレメントアーチャーのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2691</key>
     <original>エレメントアーチャーのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2692</key>
     <original>エレメントアーチャーのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2693</key>
     <original>エレメントアーチャーのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2694</key>
     <original>エレメントアーチャーのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2695</key>
     <original>エレメントアーチャーのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2696</key>
     <original>エレメントアーチャーのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2697</key>
     <original>エレメントアーチャーのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2698</key>
     <original>エレメントアーチャーのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2699</key>
     <original>エレメントアーチャーのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2700</key>
     <original>エレメントアーチャーのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2701</key>
     <original>エレメントアーチャーのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2702</key>
     <original>エレメントアーチャーのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2703</key>
     <original>エレメントアーチャーのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2704</key>
     <original>エレメントアーチャーのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2705</key>
     <original>エレメントアーチャーのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2706</key>
     <original>エレメントアーチャーのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2707</key>
     <original>エレメントアーチャーのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2708</key>
     <original>エレメントアーチャーのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Element Archer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2709</key>
     <original>アルケミストのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2710</key>
     <original>アルケミストのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2711</key>
     <original>アルケミストのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2712</key>
     <original>アルケミストのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2713</key>
     <original>アルケミストのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2714</key>
     <original>アルケミストのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2715</key>
     <original>アルケミストのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2716</key>
     <original>アルケミストのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2717</key>
     <original>アルケミストのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2718</key>
     <original>アルケミストのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2719</key>
     <original>アルケミストのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2720</key>
     <original>アルケミストのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2721</key>
     <original>アルケミストのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2722</key>
     <original>アルケミストのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2723</key>
     <original>アルケミストのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2724</key>
     <original>アルケミストのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2725</key>
     <original>アルケミストのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2726</key>
     <original>アルケミストのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2727</key>
     <original>アルケミストのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2728</key>
     <original>アルケミストのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Alchemist</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2729</key>
     <original>スピリットランサーのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2730</key>
     <original>スピリットランサーのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2731</key>
     <original>スピリットランサーのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2732</key>
     <original>スピリットランサーのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2733</key>
     <original>スピリットランサーのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2734</key>
     <original>スピリットランサーのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2735</key>
     <original>スピリットランサーのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2736</key>
     <original>スピリットランサーのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2737</key>
     <original>スピリットランサーのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2738</key>
     <original>スピリットランサーのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2739</key>
     <original>スピリットランサーのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2740</key>
     <original>スピリットランサーのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2741</key>
     <original>スピリットランサーのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2742</key>
     <original>スピリットランサーのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2743</key>
     <original>スピリットランサーのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2744</key>
     <original>スピリットランサーのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2745</key>
     <original>スピリットランサーのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2746</key>
     <original>スピリットランサーのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2747</key>
     <original>スピリットランサーのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2748</key>
     <original>スピリットランサーのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as Spirit Lancer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2848</key>
@@ -7549,66 +7752,81 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2890</key>
     <original>マンドラゴラ生態図鑑で5種類発見</original>
+    <translation>Discover 5 subspecies in Mandragora Observation Journal</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2891</key>
     <original>マンドラゴラ生態図鑑で50種類発見</original>
+    <translation>Discover 50 subspecies in Mandragora Observation Journal</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2898</key>
     <original>いずれかのエンブレムストーンのレベルが5に到達</original>
+    <translation>Reach level 5 with any Emblem Stone</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2902</key>
     <original>クエスト「不思議な呼び鈴」クリア</original>
-    <translation>Clear quest "Mysterious Summon Bell"</translation>
+    <translation>Clear quest "Mysterious Summoning Bell"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2903</key>
     <original>ポーン戦術育成を累計1回おこなった</original>
+    <translation>Complete a total of 1 Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2904</key>
     <original>ポーン戦術育成を累計10回おこなった</original>
+    <translation>Complete a total of 10 Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2905</key>
     <original>ポーン戦術育成を累計30回おこなった</original>
+    <translation>Complete a total of 30 Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2906</key>
     <original>ポーン戦術育成を累計50回おこなった</original>
+    <translation>Complete a total of 50 Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2907</key>
     <original>ポーン戦術育成を累計100回おこなった</original>
+    <translation>Complete a total of 100 Pawn Tactics Training</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2908</key>
     <original>獣の将を1体討伐</original>
+    <translation>Kill a Beast Master</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2909</key>
     <original>獣の将を10体討伐</original>
+    <translation>Kill 10 Beast Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2910</key>
     <original>獣の将を100体討伐</original>
+    <translation>Kill 100 Beast Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2911</key>
     <original>カトブレパスを1体討伐</original>
+    <translation>Kill a Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2912</key>
     <original>カトブレパスを10体討伐</original>
+    <translation>Kill 10 Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2913</key>
     <original>カトブレパスを100体討伐</original>
+    <translation>Kill 100 Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2935</key>
     <original>ラスニテ山麓で&lt;ITEM 18738&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 18738&gt; in Rathnite Foothills</translation>
   </message>
 </resource>
