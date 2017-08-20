@@ -11,6 +11,17 @@
 
 【&lt;KC UI_CHAT&gt;】を押してチャットモードに
 切替え、発言を入力しましょう</original>
+    <translation>&lt;COL ffdc78&gt;"Chat"》&lt;/COL&gt;
+This is the fundamental tool you use to communicate
+with others during gameplay.
+
+The &lt;COL ffdc78&gt;"Chat Log"&lt;/COL&gt; records
+all messages recieved during gameplay.
+This chat gets refreshed constantly during gameplay.
+
+Press [&lt;KC UI_CHAT&gt;] to enter chat mode.
+This will switch to the chat window so you can input
+what you want to say.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_149</key>
@@ -24,6 +35,12 @@
 &lt;COL ffdc78&gt;拡大した状態であれば、発言者を直接選んで
 話しかけたり、プロフィール確認やパーティー要請、
 フレンド申請できます&lt;/COL&gt;</original>
+    <translation>The Information that is displayed can be filtered
+with [&lt;KC UI_LB&gt;／&lt;KC UI_RB&gt;] this will switch channels.
+Use (+) to add a channel.
+
+In the input field press [&lt;KC UI_RT&gt;] to enlarge the log
+Use [&lt;KC KEY_UP&gt;／&lt;KC KEY_DOWN&gt;] to scroll through it.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_280</key>
@@ -36,6 +53,12 @@
 話しかける相手を変えたい場合に利用しましょう
 
 操作方法は入力欄下のガイドで確認できます</original>
+    <translation>&lt;COL ffdc78&gt;You can choose who you
+speak to in the "Target menu" in the chat window.&lt;/COL&gt;
+
+Use it to when you want to change who you speak to,
+your party memebers, clan members or
+everyone else.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_390</key>
@@ -48,6 +71,15 @@
 　&lt;COL ffdc78&gt;Clan&lt;/COL&gt; ：クランメンバー
 　&lt;COL ffdc78&gt;Group&lt;/COL&gt; ：グループチャットメンバー
 　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt; ：エントリーボード参加者</original>
+    <translation>The chat targets are as follows:
+
+　&lt;COL ffdc78&gt;Say&lt;/COL&gt;: Surrounding players.
+　&lt;COL ffdc78&gt;Shout&lt;/COL&gt;: All players in the world.
+　&lt;COL ffdc78&gt;Party&lt;/COL&gt;: Party members.
+　&lt;COL ffdc78&gt;Tell&lt;/COL&gt;: Specific player.
+　&lt;COL ffdc78&gt;Clan&lt;/COL&gt;: Clan members
+　&lt;COL ffdc78&gt;Group&lt;/COL&gt; ：グループチャットメンバー
+　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt;: Entry Board participants.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_597</key>
@@ -61,5 +93,14 @@
 一番左に合わせることで確認できます
 また、チャットログから任意のテキストを選んで
 「メモする」ことでメモログに記録できます</original>
+    <translation>"Memo"
+
+You can create a &lt;COL ffdc78&gt;Memo&lt;/COL&gt;,
+a note that can only be seen by you, it will be
+saved in the &lt;COL ffdc78&gt;Memo Log&lt;/COL&gt;.
+
+The memo log is the the leftmost tab in the channel tab.
+Apart from notes you can also save specific messages
+that appear in the chat log into the Memo Log.</translation>
   </message>
 </resource>
