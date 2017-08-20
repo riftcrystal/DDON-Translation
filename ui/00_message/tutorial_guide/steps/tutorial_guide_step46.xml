@@ -11,7 +11,7 @@
 
 【&lt;KC UI_CHAT&gt;】を押してチャットモードに
 切替え、発言を入力しましょう</original>
-    <translation>&lt;COL ffdc78&gt;"Chat"》&lt;/COL&gt;
+    <translation>&lt;COL ffdc78&gt;"Chat"&lt;/COL&gt;
 This is the fundamental tool you use to communicate
 with others during gameplay.
 
@@ -26,21 +26,21 @@ what you want to say.</translation>
   <message>
     <key>TUTORIAL_STEP_149</key>
     <original>表示させる情報はフィルタリングできます
-　【&lt;KC UI_LB&gt;／&lt;KC UI_RB&gt;】でチャンネル切替
+　【&lt;KC UI_LB&gt;/&lt;KC UI_RB&gt;】でチャンネル切替
 　（＋）からチャンネル追加
 
 　入力欄などで【&lt;KC UI_RT&gt;】を押すとログ拡大
-　【&lt;KC KEY_UP&gt;／&lt;KC KEY_DOWN&gt;】でログ確認
+　【&lt;KC KEY_UP&gt;/&lt;KC KEY_DOWN&gt;】でログ確認
 
 &lt;COL ffdc78&gt;拡大した状態であれば、発言者を直接選んで
 話しかけたり、プロフィール確認やパーティー要請、
 フレンド申請できます&lt;/COL&gt;</original>
     <translation>The Information that is displayed can be filtered
-with [&lt;KC UI_LB&gt;／&lt;KC UI_RB&gt;] this will switch channels.
+with [&lt;KC UI_LB&gt;/&lt;KC UI_RB&gt;] this will switch channels.
 Use (+) to add a channel.
 
 In the input field press [&lt;KC UI_RT&gt;] to enlarge the log
-Use [&lt;KC KEY_UP&gt;／&lt;KC KEY_DOWN&gt;] to scroll through it.</translation>
+Use [&lt;KC KEY_UP&gt;/&lt;KC KEY_DOWN&gt;] to scroll through it.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_280</key>
@@ -77,8 +77,8 @@ everyone else.</translation>
 　&lt;COL ffdc78&gt;Shout&lt;/COL&gt;: All players in the world.
 　&lt;COL ffdc78&gt;Party&lt;/COL&gt;: Party members.
 　&lt;COL ffdc78&gt;Tell&lt;/COL&gt;: Specific player.
-　&lt;COL ffdc78&gt;Clan&lt;/COL&gt;: Clan members
-　&lt;COL ffdc78&gt;Group&lt;/COL&gt; ：グループチャットメンバー
+　&lt;COL ffdc78&gt;Clan&lt;/COL&gt;: Clan members.
+　&lt;COL ffdc78&gt;Group&lt;/COL&gt; Group Chat members.
 　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt;: Entry Board participants.</translation>
   </message>
   <message>
