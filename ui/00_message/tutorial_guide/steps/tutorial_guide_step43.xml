@@ -9,6 +9,13 @@
 
 &lt;COL ffdc78&gt;また、ジョブレベルだけではなく装備品もレベルに
 見合っていることが前提です&lt;/COL&gt;</original>
+    <translation>All quests have a &lt;COL ffdc78&gt;"Recommended Level"&lt;/COL&gt;
+This will tell you level of enemies that appear in the quest area.
+
+&lt;COL ffdc78&gt;Note that the recommended level not only
+means your Vocation level but also your Equipment level.&lt;/COL&gt;
+
+Be sure to challenge quests that match your level.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_189</key>
@@ -18,5 +25,11 @@
 
 装備品がレベルに見合わない場合もクリア難度は
 上がるため、挑む前には準備も整えましょう</original>
+    <translation>In "World Quests" and "Main Quests"
+all party memebers, be them friends or pawns,
+should also clear the "Recommended Level".
+
+If your equipment does not match your level, the quest
+difficulty goes up. Be sure to be prepared!</translation>
   </message>
 </resource>
