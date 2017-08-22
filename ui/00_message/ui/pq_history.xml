@@ -11,8 +11,7 @@
   <message>
     <key>pq_history_003</key>
     <original>使命：%s</original>
-    <translation>Mission: $s</translation>
-    <!--Needs revision, is it ok like this or it would be better to put percentages-->
+    <translation>Mission: %s</translation>
   </message>
   <message>
     <key>pq_history_004</key>
@@ -22,6 +21,6 @@
   <message>
     <key>pq_history_005</key>
     <original>次の受注まであと</original>
-    <translation>Unitl the next order</translation>
+    <translation>Until the next order</translation>
   </message>
 </resource>

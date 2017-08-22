@@ -381,7 +381,7 @@ to level it up?</translation>
   <message>
     <key>error_not_reach_condition</key>
     <original>使用条件を満たしていません</original>
-    <translation>You do not meet the conditions to use it</translation>
+    <translation>You do not meet the conditions to use it.</translation>
   </message>
   <message>
     <key>guide_change_ex_custom_skill</key>

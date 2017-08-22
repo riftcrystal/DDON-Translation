@@ -7,6 +7,6 @@
   <message>
     <key>quick_party_ready</key>
     <original>一定時間内に準備完了してください</original>
-    <translation>Please prepare within the period of time</translation>
+    <translation>Please complete preparations within the remaining time.</translation>
   </message>
 </resource>
