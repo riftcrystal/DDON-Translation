@@ -174,5 +174,7 @@ the party leader?</translation>
     <key>dialog_large_pt_warp_check</key>
     <original>集合場所に戻ります
 よろしいですか？</original>
+    <translation>Are you sure you want to
+return to the gathering place?</translation>
   </message>
 </resource>

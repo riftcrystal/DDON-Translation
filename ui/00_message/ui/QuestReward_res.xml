@@ -210,18 +210,21 @@ Total Sale: &lt;VAL GOLD&gt;</translation>
   <message>
     <key>REWARD_MSG_REWARD_PARTS</key>
     <original>部位破壊報酬</original>
+    <translation>Site destruction reward.</translation>
   </message>
   <message>
     <key>REWARD_MSG_GM_TITLE_SUB</key>
     <original>グランドミッション最終報酬受け取り</original>
-    <translation>Grand Mission Final Rewards Received</translation>
+    <translation>Grand Mission Final Rewards Received.</translation>
   </message>
   <message>
     <key>REWARD_MSG_RECEIVE_LIMIT</key>
     <original>受け取り期限まで</original>
+    <translation>Please accept the reward within the time limit.</translation>
   </message>
   <message>
     <key>REWARD_MSG_OTHER_REWARD_NOTICE</key>
     <original>特別報酬あり</original>
+    <translation>There is a special reward.</translation>
   </message>
 </resource>
