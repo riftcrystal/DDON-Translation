@@ -46,9 +46,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_10_195</key>
     <original>ウォール・グラスタ 剛</original>
+    <translation>Wall Grasta (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_10_196</key>
     <original>ウォール・グラスタ 技</original>
+    <translation>Wall Grasta (T)</translation>
   </message>
 </resource>

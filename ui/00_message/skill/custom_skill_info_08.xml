@@ -182,11 +182,17 @@ LV.6: Increases the target chain amount.&lt;/COL&gt;</translation>
     <original>【ＥＸ追加効果】
 ダメージ量が増加
 魔矢が刺さった敵の体力を継続して奪う</original>
+    <translation>【EX Additional Effects】
+Increase damage.
+Continuously cause damage at the point the arrow landed.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_185</key>
     <original>【ＥＸ追加効果】
 魔矢が刺さった敵へ攻撃した際の
 状態異常値を増加させる</original>
+    <translation>【EX Additional Effects】
+Increase status effect accumulation when attacking enemies hit by
+this skill.</translation>
   </message>
 </resource>

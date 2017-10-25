@@ -180,6 +180,11 @@ slash.&lt;/COL&gt;</translation>
 攻撃ヒット数が増加
 チャンス攻力と疲労攻力がやや増加
 &lt;COL ff7878&gt;人間／竜族／錬金系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Increase number of hits.
+Chance attack and Fatigue attack increased slightly.
+&lt;COL ff7878&gt;Further increase damage to Human/Dragon/Alchemy type enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_155</key>
@@ -188,5 +193,10 @@ slash.&lt;/COL&gt;</translation>
 吹き飛ばし力が増加
 ダメージ量がやや増加
 チャンス攻力と疲労攻力がやや増加</original>
+    <translation>【EX Additional Effects】
+Extend the range of the attack.
+Increase blow power.
+Slightly increase damage.
+Slightly increase chance attack and fatigue attack.</translation>
   </message>
 </resource>

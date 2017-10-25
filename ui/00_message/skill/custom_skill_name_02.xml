@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_02_160</key>
     <original>流し暗殺 剛</original>
+    <translation>Easy Kill (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_161</key>
     <original>流し暗殺 技</original>
+    <translation>Easy Kill (T)</translation>
   </message>
 </resource>

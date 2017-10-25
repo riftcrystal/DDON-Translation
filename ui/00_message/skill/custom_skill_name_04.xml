@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_04_166</key>
     <original>ソラースライザー 剛</original>
+    <translation>Solace Riser (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_04_167</key>
     <original>ソラースライザー 技</original>
+    <translation>Solace Riser (T)</translation>
   </message>
 </resource>

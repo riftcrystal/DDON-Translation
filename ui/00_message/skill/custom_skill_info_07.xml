@@ -183,6 +183,10 @@ LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>
 ダメージ量が増加
 リベンジゲージ最大時に威力が上昇
 &lt;COL ff7878&gt;亜人／鬼人／巨人系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>【EX Additional Effects】
+Increase damage.
+Further increase damage when revenge gauge is full.
+&lt;COL ff7878&gt;Further increase damage to Demihuman/Ogre/Giant enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_181</key>
@@ -190,5 +194,8 @@ LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>
 攻撃を受ける瞬間に発動すると
 ダメージ量が増加すると同時に
 攻撃を敵に接触させる度にリベンジゲージが増加</original>
+    <translation>【EX Additional Effects】
+If this skill is used before an attack, damage increases and
+revenge gauge increases as you hit enemies.</translation>
   </message>
 </resource>

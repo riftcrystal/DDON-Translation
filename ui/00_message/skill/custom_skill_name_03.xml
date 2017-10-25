@@ -72,9 +72,10 @@
   <message>
     <key>CUSTOM_SKILL_NAME_03_162</key>
     <original>連なり射ち 剛</original>
+    <translation>Threefold Arrow (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_163</key>
-    <original>連なり射ち 技</original>
+    <translation>Threefold Arrow (T)</translation>
   </message>
 </resource>

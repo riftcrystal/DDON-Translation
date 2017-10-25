@@ -168,10 +168,15 @@ LV.6: Increases damage of the skill and number of hits.&lt;/COL&gt;</translation
     <original>【ＥＸ追加効果】
 闇の霧の中心部分のダメージ量が増加
 &lt;COL ff7878&gt;亜人／鬼人／巨人の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>【EX Additional Effects】
+Increase damage to enemies at the center of the mist.
+&lt;COL ff7878&gt;Further increase damage to Giant/Ogre/Demihuman enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_177</key>
     <original>【ＥＸ追加効果】
 毒／睡眠の状態異常を付与</original>
+    <translation>【EX Additional Effects】
+Accumulate poison/sleep status effects.</translation>
   </message>
 </resource>

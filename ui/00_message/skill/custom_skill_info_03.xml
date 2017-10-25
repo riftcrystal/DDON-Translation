@@ -179,11 +179,19 @@ needed to advance to the next level of charge.&lt;/COL&gt;</translation>
 発射数が増加（５→６）
 連なり射ち 剛に付与した紅蓮爆矢の攻撃威力が上昇</original>
   </message>
+    <translation>【EX Additional Effects】
+Increase the number of arrows shot (5→6).
+Further increase the damage and blow power when
+using in conjuction with Crimson Arrow.</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_03_163</key>
     <original>【ＥＸ追加効果】
 構え中の移動速度が上昇
 最適距離の範囲が拡張
 射程距離が延長</original>
+    <translation>【EX Additional Effects】
+Moving speed increased during bow stance.
+Extend the optimal shooting range.
+Extend the shooting range.</translation>
   </message>
 </resource>

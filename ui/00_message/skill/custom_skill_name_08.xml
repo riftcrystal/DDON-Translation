@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_08_184</key>
     <original>炎魔弓 剛</original>
+    <translation>Flaming Bow (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_185</key>
     <original>炎魔弓 技</original>
+    <translation>Flaming Bow (T)</translation>
   </message>
 </resource>

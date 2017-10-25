@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_05_170</key>
     <original>アースシェイク 剛</original>
+    <translation>Earth Shake (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_171</key>
     <original>アースシェイク 技</original>
+    <translation>Earth Shake (T)</translation>
   </message>
 </resource>

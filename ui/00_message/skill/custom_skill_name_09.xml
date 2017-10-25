@@ -56,9 +56,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_09_189</key>
     <original>パイル・バインダ 剛</original>
+    <translation>Alchemica Burst (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_09_190</key>
     <original>パイル・バインダ 技</original>
+    <translation>Alchemica Burst (T)</translation>
   </message>
 </resource>

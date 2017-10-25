@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_07_180</key>
     <original>魔人駆け 剛</original>
+    <translation>Savage Lunge (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_07_181</key>
     <original>魔人駆け 技</original>
+    <translation>Savage Lunge (T)</translation>
   </message>
 </resource>

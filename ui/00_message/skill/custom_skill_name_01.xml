@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_01_154</key>
     <original>刀牙昇斬 剛</original>
+    <translation>Tusk Toss (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_155</key>
     <original>刀牙昇斬 技</original>
+    <translation>Tusk Toss (T)</translation>
   </message>
 </resource>

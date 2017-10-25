@@ -72,9 +72,11 @@
   <message>
     <key>CUSTOM_SKILL_NAME_06_176</key>
     <original>ダークネスミスト 剛</original>
+    <translation>Darkness Mist (P)</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_177</key>
     <original>ダークネスミスト 技</original>
+    <translation>Darkness Mist (T)</translation>
   </message>
 </resource>
