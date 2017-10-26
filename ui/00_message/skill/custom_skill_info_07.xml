@@ -195,7 +195,7 @@ Further increase damage when revenge gauge is full.
 ダメージ量が増加すると同時に
 攻撃を敵に接触させる度にリベンジゲージが増加</original>
     <translation>【EX Additional Effects】
-If this skill is used before an attack, damage increases and
+If this skill is used before being hit, damage increases and
 revenge gauge increases as you hit enemies.</translation>
   </message>
 </resource>
