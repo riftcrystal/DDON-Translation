@@ -8,10 +8,14 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>隠れ村ピレモス</original>
+    <translation>Hidden Village Piremoth</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -30,58 +34,86 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>小鬼の物見台</original>
+    <translation>Goblin Lookout</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>遠吠えの前線</original>
+    <translation>The Howling Front</translation>
+    <translation_format proper="false">Howling Front</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>廃村デニスィル</original>
+    <translation>Deserted Village of Denisyr</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>休憩所跡地</original>
+    <translation>Former Rest Station</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>落露の大穴</original>
+    <translation>Dewdrop Crater</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>フェルヤナ関所前</original>
+    <translation>Feryana Border Checkpoint</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>魔軍戦車駐留地</original>
+    <translation>Demon Army War Machine Garrison</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>魔軍緊急野営地</original>
+    <translation>Demon Army Camp</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>獣将の園生</original>
+    <translation>Beastmaster's Garden</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>冥府下りの洞穴</original>
+    <translation>Cave of Hell's Descent</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ラスニテ地下水路</original>
+    <translation>Rathnite Underground Waterway</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>湖畔の洞窟</original>
+    <translation>Lakeside Grotto</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>イミズディット遺跡</original>
+    <translation>Yimidhitt Ruins</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original>ウルタ古水路</original>
+    <translation>Ulta Ancient Watercourse</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -90,5 +122,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>ラスニテ納骨廟</original>
+    <translation>Rathnite Columbarium</translation>
+    <translation_format proper="false" />
   </message>
 </resource>

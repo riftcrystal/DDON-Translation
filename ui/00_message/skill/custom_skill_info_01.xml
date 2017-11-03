@@ -183,7 +183,7 @@ slash.&lt;/COL&gt;</translation>
     <translation>EX Additional Effects:
 Increase damage.
 Increase number of hits.
-Chance attack and Fatigue attack increased slightly.
+Slightly increase chance attack and Fatigue attack.
 &lt;COL ff7878&gt;Further increase damage to Human/Dragon/Alchemy type enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -193,7 +193,7 @@ Chance attack and Fatigue attack increased slightly.
 吹き飛ばし力が増加
 ダメージ量がやや増加
 チャンス攻力と疲労攻力がやや増加</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Extend the range of the attack.
 Increase blow power.
 Slightly increase damage.

@@ -17,7 +17,7 @@
   <message>
     <key>q00030030_00_2829</key>
     <original>目的地でジリアンと合流する</original>
-    <translation>Rendezvous with Gillian at 目的地</translation>
+    <translation>Rendezvous with Gillian at the destination</translation>
   </message>
   <message>
     <key>q00030030_00_2830</key>
@@ -35,6 +35,6 @@
   <message>
     <key>q00030030_00_2833</key>
     <original>レスタニアに帰還しジョゼフに報告する</original>
-    <translation>Report to レスタニアに帰還しジョゼフ</translation>
+    <translation>Return to Lestania and report to Joseph</translation>
   </message>
 </resource>

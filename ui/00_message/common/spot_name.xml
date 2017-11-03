@@ -686,6 +686,7 @@
     <key>SPOT_NAME_583</key>
     <original>テルの枯れ井戸</original>
     <translation>Tel's Withered Well</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_585</key>
@@ -2551,6 +2552,7 @@
   <message>
     <key>SPOT_NAME_1031</key>
     <original>隠れ村ピレモス</original>
+    <translation>Hidden Village Piremoth</translation>
   </message>
   <message>
     <key>SPOT_NAME_1032</key>
@@ -2561,26 +2563,33 @@
   <message>
     <key>SPOT_NAME_1034</key>
     <original>小鬼の物見台</original>
+    <translation>Goblin Lookout</translation>
   </message>
   <message>
     <key>SPOT_NAME_1035</key>
     <original>遠吠えの前線</original>
+    <translation>The Howling Front</translation>
+    <translation_format>Howling Front</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_1036</key>
     <original>廃村デニスィル</original>
+    <translation>Deserted Village of Denisyr</translation>
   </message>
   <message>
     <key>SPOT_NAME_1037</key>
     <original>休憩所跡地</original>
+    <translation>Former Rest Station</translation>
   </message>
   <message>
     <key>SPOT_NAME_1038</key>
     <original>落露の大穴</original>
+    <translation>Dewdrop Crater</translation>
   </message>
   <message>
     <key>SPOT_NAME_1039</key>
     <original>フェルヤナ関所前</original>
+    <translation>Feryana Border Checkpoint</translation>
   </message>
   <message>
     <key>SPOT_NAME_1058</key>
@@ -2590,38 +2599,47 @@
   <message>
     <key>SPOT_NAME_1059</key>
     <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
   </message>
   <message>
     <key>SPOT_NAME_1063</key>
     <original>ラスニテ地下水路</original>
+    <translation>Rathnite Underground Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_1064</key>
     <original>水源へ続く地下道</original>
+    <translation>Reservoir Underground Tunnel</translation>
   </message>
   <message>
     <key>SPOT_NAME_1065</key>
     <original>冥府下りの洞穴</original>
+    <translation>Cave of Hell's Descent</translation>
   </message>
   <message>
     <key>SPOT_NAME_1066</key>
     <original>イミズディット遺跡</original>
+    <translation>Yimidhitt Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_1067</key>
     <original>ウルタ古水路</original>
+    <translation>Ulta Ancient Watercourse</translation>
   </message>
   <message>
     <key>SPOT_NAME_1068</key>
     <original>ラスニテ納骨廟</original>
+    <translation>Rathnite Columbarium</translation>
   </message>
   <message>
     <key>SPOT_NAME_1081</key>
     <original>魔軍緊急野営地</original>
+    <translation>Demon Army Camp</translation>
   </message>
   <message>
     <key>SPOT_NAME_1082</key>
     <original>獣将の園生</original>
+    <translation>Beastmaster's Garden</translation>
   </message>
   <message>
     <key>SPOT_NAME_1091</key>
@@ -2636,14 +2654,17 @@
   <message>
     <key>SPOT_NAME_1095</key>
     <original>湖畔の洞窟</original>
+    <translation>Lakeside Grotto</translation>
   </message>
   <message>
     <key>SPOT_NAME_1100</key>
     <original>魔軍戦車駐留地</original>
+    <translation>Demon Army War Machine Garrison</translation>
   </message>
   <message>
     <key>SPOT_NAME_1105</key>
     <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
   </message>
   <message>
     <key>SPOT_NAME_1107</key>
@@ -2657,42 +2678,52 @@
   <message>
     <key>SPOT_NAME_1113</key>
     <original>湖畔の洞窟 深層部</original>
+    <translation>Lakeside Grotto Inner Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1114</key>
     <original>湖畔の洞窟 鍾乳洞</original>
+    <translation>Lakeside Grotto: Limestone Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_1115</key>
     <original>湖畔の洞窟 通路</original>
+    <translation>Lakeside Grotto Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1120</key>
     <original>冥府下りの洞穴 奥底</original>
+    <translation>Cave of Hell's Descent Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1121</key>
     <original>ラスニテ地下水路 通路</original>
+    <translation>Rathnite Underground Waterway Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1122</key>
     <original>イミズディット遺跡 通路</original>
+    <translation>Yimidhitt Ruins Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1123</key>
     <original>イミズディット遺跡 深層部</original>
+    <translation>Yimidhitt Ruins Inner Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1124</key>
     <original>ウルタ古水路 通路</original>
+    <translation>Ulta Ancient Watercourse Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_1125</key>
     <original>ラスニテ納骨廟 中央広場</original>
+    <translation>Rathnite Columbarium: Central Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_1126</key>
     <original>ラスニテ納骨廟 深層部</original>
+    <translation>Rathnite Columbarium Inner Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_1141</key>
@@ -2805,6 +2836,7 @@
   <message>
     <key>SPOT_NAME_1169</key>
     <original>メルゴダ・黄金宮</original>
+    <translation>Mergoda Golden Palace</translation>
   </message>
   <message>
     <key>SPOT_NAME_1170</key>

@@ -171,7 +171,7 @@ LV.6: Increases the damage of the magickal orb, and the amount that are placed (
     <original>【ＥＸ追加効果】
 魔法エリア内にいる味方の
 治癒上限値を徐々に回復する</original>
-<translation>【EX Additional Effects】
+<translation>EX Additional Effects:
 Gradually recover the healable limit of allies within the area.</translation>
   </message>
   <message>
@@ -179,7 +179,7 @@ Gradually recover the healable limit of allies within the area.</translation>
     <original>【ＥＸ追加効果】
 敵にダメージを与えた時、体力が回復する効果を付与
 離脱後の効果時間大幅延長</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Recover health when attacking enemies.
 Duration of effect after Field Shift is greatly increased.</translation>
   </message>

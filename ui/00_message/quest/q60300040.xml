@@ -1,54 +1,58 @@
 ﻿<resource>
   <message>
-    <original>我がエリアにおける
-貴殿の働きは輝かしいものでした
-主君に代わり褒章させてください</original>
+    <original>おお来たか！　異国の覚者よ、ついにお前は
+この地の全ての問題を治め
+国と王家を再興する、希望の礎となってくれた！</original>
   </message>
   <message>
-    <original>そこで――
-栄誉を讃える上で
-貴殿の戦功話をお聞かせください</original>
+    <original>――なあ、お前が突然現れてから
+あまりにもたくさんのことがあっただろう
+いい機会だ、少し話をしないか？</original>
   </message>
   <message>
-    <original>貴殿の戦功において――
-最も輝かしい貢献ができたと思う
-戦いはどれでしょうか？</original>
+    <original>――短い間だが、色々なことがあったな
+何が一番お前の心に残っているか
+一つ聞かせてくれないか</original>
   </message>
   <message>
-    <original>【選択】エリアミッションでの戦功</original>
+    <original>エリアミッションでの戦い</original>
   </message>
   <message>
-    <original>【選択】シーズンダンジョンでの戦功</original>
+    <original>《英霊眠りし道》の探索</original>
   </message>
   <message>
-    <original>【選択】王家の協力者での戦功</original>
+    <original>大食堂の復活</original>
   </message>
   <message>
-    <original>【選択】ウォーミッションでの戦功</original>
+    <original>ウォーミッションでの戦い</original>
   </message>
   <message>
-    <original>エリアミッションにおける
-魔軍戦車との死闘で輝かしい戦功
-を残した事はさすがでした――</original>
+    <original>ああ、魔軍戦車カトブレパスとの戦いか！
+お前の協力であの死闘を制することができた
+おかげでロスギルは今も攻め入られることはなく
+ティネス砦を再び奪われる心配も当面はないだろう</original>
   </message>
   <message>
-    <original>英霊の間における
-試練での戦功は大いに眠れる竜力
-を呼び覚ましてもらい助かりました</original>
+    <original>《英霊の間》――
+俺たちも存在は知っていたが
+まさか本当に英霊が現れるとは！
+英霊が力を貸したのも、お前だからこそだろうな</original>
   </message>
   <message>
-    <original>王家の協力者における
-砦復興の貢献は我が国にとって
-非常に助かりました</original>
+    <original>そうだな、大食堂が復活したおかげで
+兵たちの士気も向上し、健康状態もかなり改善した
+最初は誰も見向きしなかった食堂が
+解放軍の戦力に直結したのは驚くべきことだ</original>
   </message>
   <message>
-    <original>ウォーミッションにおける
-魔軍との死闘は我が国にとって
-大変な戦功として記憶されるでしょう</original>
+    <original>なるほど――ウォーミッションにおける
+お前の働きは目を瞠るほどだった！
+その戦功はラスニテで――
+いやアッカーシェラン全体で永久に記憶されるだろう</original>
   </message>
   <message>
-    <original>貴殿の我が国における働きは――
-我が大陸でも来世まで称えさせてもらい
-ここに主君にかわり敬意を称したいと思います</original>
+    <original>その功績を称え、このエリアに伝わる
+栄誉の証を与えよう！
+ありがとう覚者よ、感謝しているぞ！</original>
   </message>
 </resource>

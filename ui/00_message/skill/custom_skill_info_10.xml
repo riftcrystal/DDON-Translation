@@ -117,7 +117,7 @@ LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
     <original>【ＥＸ追加効果】
 防御力の上昇量が増加
 ヒールブースト時の攻撃力の上昇量が増加</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Increase defense buff value.
 Increase attack buff value during Heal Boost.</translation>
   </message>
@@ -127,7 +127,7 @@ Increase attack buff value during Heal Boost.</translation>
 攻撃を敵に接触させると
 スタミナが回復する効果を付与
 霊球の展開時間と効果時間が延長</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Recover stamina when attacking enemies.
 Extend the duration of the pool.</translation>
   </message>

@@ -1,0 +1,10 @@
+﻿<replication>
+  <message_set name="release content">
+    <match>^ui\\00_message\\common\\release_content$</match>
+    <rewrite>
+      <original_match>^(.+)ワールドクエスト$</original_match>
+      <translation_replace>{0} World Quests</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+  </message_set>
+</replication>

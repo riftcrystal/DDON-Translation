@@ -279,6 +279,7 @@
   <message>
     <key>entry_board_mission_info_condition</key>
     <original>受注条件</original>
+    <translation>Accept Requirements</translation>
   </message>
   <message>
     <key>entry_board_info_no_designate_job</key>
@@ -559,25 +560,31 @@
   <message>
     <key>entry_board_wm_rank_info</key>
     <original>ランク詳細（指定&lt;UNIT DP&gt;以上）</original>
+    <translation>Rank Details (Specified &lt;UNIT DP&gt; or more)</translation>
   </message>
   <message>
     <key>entry_board_wm_rank_s</key>
     <original>Ｓランク ： &lt;VAL DP&gt;</original>
+    <translation>S Rank: &lt;VAL DP&gt;</translation>
   </message>
   <message>
     <key>entry_board_wm_rank_a</key>
     <original>Ａランク ： &lt;VAL DP&gt;</original>
+    <translation>A Rank: &lt;VAL DP&gt;</translation>
   </message>
   <message>
     <key>entry_board_wm_rank_b</key>
     <original>Ｂランク ： &lt;VAL DP&gt;</original>
+    <translation>B Rank: &lt;VAL DP&gt;</translation>
   </message>
   <message>
     <key>entry_board_wm_rank_c</key>
     <original>Ｃランク ： &lt;VAL DP&gt;</original>
+    <translation>C Rank: &lt;VAL DP&gt;</translation>
   </message>
   <message>
     <key>entry_board_wm_rank_d</key>
     <original>Ｄランク ： &lt;VAL DP&gt;</original>
+    <translation>D Rank: &lt;VAL DP&gt;</translation>
   </message>
 </resource>

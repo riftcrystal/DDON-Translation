@@ -17,7 +17,7 @@
   <message>
     <key>q00030060_00_2857</key>
     <original>メイロワ将軍の後を追い湖畔の洞窟へ向かう</original>
-    <translation>Go after メイロワ将軍の後 heading to 湖畔の洞窟</translation>
+    <translation>Go after General Meirova heading to the Lakeside Grotto</translation>
   </message>
   <message>
     <key>q00030060_00_2870</key>
@@ -49,6 +49,6 @@
   <message>
     <key>q00030060_00_2860</key>
     <original>レスタニアに帰還しジョゼフに報告する</original>
-    <translation>Report to レスタニアに帰還しジョゼフ</translation>
+    <translation>Return to Lestania and report to Joseph</translation>
   </message>
 </resource>

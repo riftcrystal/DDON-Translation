@@ -332,16 +332,16 @@ to level it up?</translation>
     <original>&lt;VAL&gt;の
 &lt;VAL JP&gt;を消費して習得します
 よろしいですか？</original>
-    <translation>Are you sure you want to spend &lt;VAL&gt;'s
-&lt;VAL JP&gt; to learn this?</translation>
+    <translation>Are you sure you want to spend
+&lt;VAL&gt;'s &lt;VAL JP&gt; to learn this?</translation>
   </message>
   <message>
     <key>dialog_ability_lvup</key>
     <original>&lt;VAL&gt;の
 &lt;VAL JP&gt;を消費してレベルアップします
 よろしいですか？</original>
-    <translation>Are you sure you want to spend &lt;VAL&gt;'s
-&lt;VAL JP&gt; to level up this?</translation>
+    <translation>Are you sure you want to spend
+&lt;VAL&gt;'s &lt;VAL JP&gt; to level up this?</translation>
   </message>
   <message>
     <key>ability_search_learn_check</key>

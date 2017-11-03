@@ -207,6 +207,16 @@
       <translation_replace>True {0}</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
+    <rewrite>
+      <original_match>^極・(.+?)$</original_match>
+      <translation_replace>Extreme {0}</translation_replace>
+      <translation_arg message_set="item name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^衣装：(.+?)$</original_match>
+      <translation_replace>Outfit: {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
     <rewrite soft="true">
       <original_match>^(.+)$</original_match>
       <translation_replace>{0}</translation_replace>
@@ -227,16 +237,16 @@
     </rewrite>
     <!-- For batch additions generically named Prefix + Suffix -->
     <rewrite>
-      <original_match>^(.+)(ソード|シールド|ブレード|ウォール|ロッド|ダガー|ボウ|ガントレット|スペル|スタッフ|ワンズ|スピア)$</original_match>
+      <original_match>^(.+)(ソード|シールド|ブレード|ウォール|ロッド|ダガー|ボウ|ガントレット|スペル|スタッフ|ワンズ|スピア|ファルシオン|コンポジット|スクトゥム|ツインスペル|クレイモア|ツインスペル)$</original_match>
       <translation_replace>{0} {1}</translation_replace>
       <translation_arg index="0" message_set="item weapon prefix" required="true" />
-      <translation_arg index="1" message_set="item weapon suffix" />
+      <translation_arg index="1" message_set="item weapon suffix" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)(マスク|コイフ|ヘルム|アーマー|プレート|ガントレット|グローブ|サバトン|グリーブ)$</original_match>
       <translation_replace>{0} {1}</translation_replace>
       <translation_arg index="0" message_set="item armor prefix" required="true" />
-      <translation_arg index="1" message_set="item armor suffix" />
+      <translation_arg index="1" message_set="item armor suffix" required="true" />
     </rewrite>
   </message_set>
 </replication>

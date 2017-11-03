@@ -189,6 +189,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_update</key>
     <original>集計日: &lt;DATE&gt;</original>
+    <translation>Scored: &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>np_msg_starting</key>
@@ -392,7 +393,7 @@ Bonus Content:
   <message>
     <key>np_msg_reward_item_num</key>
     <original> × </original>
-    <translation> × </translation>
+    <translation> x</translation>
   </message>
   <message>
     <key>np_msg_no_gm</key>
@@ -414,26 +415,32 @@ Bonus Content:
   <message>
     <key>np_msg_header_gm</key>
     <original>Grand Mission</original>
+    <translation>Grand Mission</translation>
   </message>
   <message>
     <key>np_msg_header_wm</key>
     <original>War Mission</original>
+    <translation>War Mission</translation>
   </message>
   <message>
     <key>np_msg_dp_info_title</key>
     <original>ポイント獲得状況</original>
+    <translation>Point Acquisition Status</translation>
   </message>
   <message>
     <key>np_msg_dp_info_name_pos</key>
     <original>&lt;UNTN DP&gt;</original>
+    <translation>&lt;UNTN DP&gt;</translation>
   </message>
   <message>
     <key>np_msg_dp_info_name_acc</key>
     <original>ウォーミッション累積ポイント</original>
+    <translation>Cumulative War Mission Points</translation>
   </message>
   <message>
     <key>np_msg_dp_info_att_cap</key>
     <original>注意事項</original>
+    <translation>Important Note</translation>
   </message>
   <message>
     <key>np_msg_dp_info_att_inf</key>
@@ -451,5 +458,6 @@ Bonus Content:
   <message>
     <key>np_msg_mypoint_wm</key>
     <original>ウォーミッション累積&lt;UNIT PT&gt;</original>
+    <translation>Cumulative War Mission &lt;UNIT PT&gt;</translation>
   </message>
 </resource>

@@ -4310,12 +4310,15 @@
   </named_param>
   <named_param id="1750">
     <original type="Replace">謎のオーク</original>
+    <translation type="Replace">Mysterious Orc</translation>
   </named_param>
   <named_param id="1751">
     <original type="Replace">捕虜の見張り</original>
+    <translation type="Replace">Prisoner's Guard</translation>
   </named_param>
   <named_param id="1752">
     <original type="Prefix">村を襲撃する</original>
+    <translation type="Prefix">Village Raiding </translation>
   </named_param>
   <named_param id="1753">
     <original type="Replace">占領軍の大将</original>
@@ -4463,9 +4466,11 @@
   </named_param>
   <named_param id="1836">
     <original type="Prefix">処刑官</original>
+    <translation type="Prefix">Executioner </translation>
   </named_param>
   <named_param id="1837">
     <original type="Prefix">処刑長</original>
+    <translation type="Prefix">Lead Executioner </translation>
   </named_param>
   <named_param id="1838">
     <original type="Prefix">大砲士官</original>
@@ -4637,13 +4642,13 @@
     <original type="Prefix">未使用</original>
   </named_param>
   <named_param id="1965">
-    <original type="Prefix">未使用</original>
+    <original type="Prefix">強勢</original>
   </named_param>
   <named_param id="1966">
-    <original type="Prefix">未使用</original>
+    <original type="Prefix"></original>
   </named_param>
   <named_param id="1967">
-    <original type="Prefix">未使用</original>
+    <original type="Prefix"></original>
   </named_param>
   <named_param id="1968">
     <original type="Prefix"></original>
@@ -4753,9 +4758,11 @@
   </named_param>
   <named_param id="2047">
     <original type="Replace">ゴブリン一家のボス</original>
+    <translation type="Replace">Goblin Family Boss</translation>
   </named_param>
   <named_param id="2048">
     <original type="Replace">ゴブリン一家の下っ端</original>
+    <translation type="Replace">Goblin Family Underling</translation>
   </named_param>
   <named_param id="2049">
     <original type="None"></original>
@@ -4826,10 +4833,31 @@
   <named_param id="2090">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="2107">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2108">
+    <original type="Replace">お菓子大好き魔女</original>
+    <translation type="Replace">Candy-loving Witch</translation>
+  </named_param>
   <named_param id="2111">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="2112">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
+  </named_param>
+  <named_param id="2113">
+    <original type="Replace">宵闇より出でし翼</original>
+    <translation type="Replace">Wing Disciple emerging at Twilight</translation>
+  </named_param>
+  <named_param id="2115">
+    <original type="Replace">揺籃鳥</original>
+    <translation type="Replace">Bird Cradle</translation>
+  </named_param>
+  <named_param id="2135">
+    <original type="Replace">揺籃鳥</original>
+    <translation type="Replace">Bird Cradle</translation>
   </named_param>
 </named_params>

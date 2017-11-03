@@ -1,0 +1,15 @@
+﻿<replication>
+  <message_set name="custom skill name">
+    <match>^ui\\00_message\\skill\\custom_skill_name_\d+$</match>
+    <rewrite>
+      <original_match>^(.+) 剛$</original_match>
+      <translation_replace>{0} (P)</translation_replace>
+      <translation_arg message_set="custom skill name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+) 技$</original_match>
+      <translation_replace>{0} (T)</translation_replace>
+      <translation_arg message_set="custom skill name" />
+    </rewrite>
+  </message_set>
+</replication>

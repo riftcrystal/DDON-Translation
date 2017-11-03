@@ -10,9 +10,11 @@
   </message>
   <message>
     <original>近接攻撃主体</original>
+    <translation>Melee attackers</translation>
   </message>
   <message>
     <original>遠距離攻撃主体</original>
+    <translation>Ranged attackers</translation>
   </message>
   <message>
     <original>――少し考えさせてほしい</original>

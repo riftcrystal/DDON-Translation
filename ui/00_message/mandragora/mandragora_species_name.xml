@@ -414,4 +414,14 @@
     <original>【金】マッシュルームズ・ホワイト</original>
     <translation>(Gold) White Mushrooms</translation>
   </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_NAME_990</key>
+    <original>マンドラパンプキン</original>
+    <translation>Mandra Pumpkin</translation>
+  </message>
+  <message>
+    <key>MANDRAGORA_SPECIES_NAME_991</key>
+    <original>マンドラバンパイア</original>
+    <translation>Mandra Vampire</translation>
+  </message>
 </resource>

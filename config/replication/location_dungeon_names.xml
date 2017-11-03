@@ -1,8 +1,20 @@
 <replication>
   <message_set name="location dungeon area name">
     <extra>
+      <original>通路</original>
+      <translation>Passage</translation>
+    </extra>
+    <extra>
+      <original>奥底</original>
+      <translation>Depths</translation>
+    </extra>
+    <extra>
       <original>深部</original>
       <translation>Depths</translation>
+    </extra>
+    <extra>
+      <original>深層部</original>
+      <translation>Inner Depths</translation>
     </extra>
     <extra>
       <original>最深部</original>
@@ -101,6 +113,10 @@
     <extra>
       <original>集いの間</original>
       <translation>Gathering Area</translation>
+    </extra>
+    <extra>
+      <original>中央広場</original>
+      <translation>Central Square</translation>
     </extra>
   </message_set>
 </replication>

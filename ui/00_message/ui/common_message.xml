@@ -606,6 +606,7 @@
   <message>
     <key>common_enemy_transform_erosion_04</key>
     <original>・崩化</original>
+    <translation> (Ruin)</translation>
   </message>
   <message>
     <key>common_question</key>
@@ -679,14 +680,17 @@
   <message>
     <key>common_enemy_transform_armed_01</key>
     <original>・軽装</original>
+    <translation> (Light Armor)</translation>
   </message>
   <message>
     <key>common_enemy_transform_armed_02</key>
     <original>・重装</original>
+    <translation> (Heavy Armor)</translation>
   </message>
   <message>
     <key>common_enemy_transform_armed_03</key>
     <original>・神装</original>
+    <translation> (Supreme Armor)</translation>
   </message>
   <message>
     <key>common_unitname_tp</key>
@@ -737,6 +741,7 @@
   <message>
     <key>common_jp_kuten</key>
     <original>。</original>
+    <translation>.</translation>
   </message>
   <message>
     <key>common_jp_touten</key>

@@ -181,7 +181,7 @@ LV.6: Increases the number of hits.&lt;/COL&gt;</translation>
     <original>【ＥＸ追加効果】
 ダメージ量が増加
 気絶攻力が増加</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Increase damage.     
 Increase knockout power.</translation>
   </message>
@@ -191,7 +191,7 @@ Increase knockout power.</translation>
 空中で使用可能になる
 チャンス攻力が増加
 疲労攻力が増加</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 It is possible to execute in the air.    
 Increase chance attack.
 Increase fatigue power.</translation>

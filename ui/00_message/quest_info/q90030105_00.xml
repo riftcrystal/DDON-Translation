@@ -14,20 +14,89 @@
 戦局は大きく左右することになるだろう</original>
   </message>
   <message>
-    <key>q90030105_00_3410</key>
-    <original>砦に残る残党を全滅させる</original>
+    <key>q90030105_00_3806</key>
+    <original>ダクレイム砦を征圧する（残り２０分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3807</key>
+    <original>ダクレイム砦を征圧する（残り１９分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3808</key>
+    <original>ダクレイム砦を征圧する（残り１８分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3809</key>
+    <original>ダクレイム砦を征圧する（残り１７分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3810</key>
+    <original>ダクレイム砦を征圧する（残り１６分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3811</key>
+    <original>ダクレイム砦を征圧する（残り１５分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3812</key>
+    <original>ダクレイム砦を征圧する（残り１４分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3813</key>
+    <original>ダクレイム砦を征圧する（残り１３分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3814</key>
+    <original>ダクレイム砦を征圧する（残り１２分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3815</key>
+    <original>ダクレイム砦を征圧する（残り１１分）</original>
   </message>
   <message>
     <key>q90030105_00_3411</key>
-    <original>大将が待ち受ける場所へ行く</original>
+    <original>ダクレイム砦を征圧する（残り１０分）</original>
   </message>
   <message>
     <key>q90030105_00_3523</key>
-    <original>獣の将を討伐する</original>
+    <original>ダクレイム砦を征圧する（残り９分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3816</key>
+    <original>ダクレイム砦を征圧する（残り８分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3817</key>
+    <original>ダクレイム砦を征圧する（残り７分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3818</key>
+    <original>ダクレイム砦を征圧する（残り６分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3819</key>
+    <original>ダクレイム砦を征圧する（残り５分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3410</key>
+    <original>ダクレイム砦を征圧する（残り４分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3820</key>
+    <original>ダクレイム砦を征圧する（残り３分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3821</key>
+    <original>ダクレイム砦を征圧する（残り２分）</original>
+  </message>
+  <message>
+    <key>q90030105_00_3822</key>
+    <original>ダクレイム砦を征圧する（残り１分）</original>
   </message>
   <message>
     <key>q90030105_00_111</key>
     <original>ウォーミッション：ダクレイム砦《リザルト報酬》</original>
+    <translation>War Mission: Dacreim Fortress (Result Reward)</translation>
   </message>
   <message>
     <key>q90030105_00_111</key>

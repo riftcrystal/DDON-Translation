@@ -79,10 +79,11 @@ Blood is rusting the metal.</translation>
 白竜と盾を模した文様が刻まれている</original>
     <translation>A key that opens the master chamber in Dreed Castle.
 A shield and the White Dragon are engraved.</translation>
-    <!-- Needs Review -->
-    <!--This may be wrong, as far as I can tell this is the most likely translation for
-      ドリード《城主の間》の扉を開く鍵 but Im not sure. If someone has played the quest they can verify this
-      -->
+    <!-- NEEDS REVIEW -->
+    <!--
+    This may be wrong, as far as I can tell this is the most likely translation for
+    ドリード《城主の間》の扉を開く鍵 but Im not sure. If someone has played the quest they can verify this
+    -->
   </item>
   <item id="50">
     <original>ドリード城地下、最深部《監獄牢》の鍵
@@ -24569,12 +24570,12 @@ from Passport Courses.</translation>
     <original></original>
   </item>
   <item id="10983">
-    <original>グランドミッション《グリッテン砦攻防戦》
+    <original>《グリッテン砦攻防戦》
 で高い戦果を上げた者に送られる勲章
 高値で売却することができる</original>
   </item>
   <item id="10984">
-    <original>グランドミッション《グリッテン砦攻防戦》
+    <original>《グリッテン砦攻防戦》
 で優れた戦果を上げた者に送られる勲章
 高値で売却することができる</original>
   </item>
@@ -32619,12 +32620,12 @@ when equipped to armor.</translation>
     <translation>Coin with a finely detailed relief.</translation>
   </item>
   <item id="13819">
-    <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Coin with a finely detailed relief.</translation>
+    <original>極ジュエリーの抽選コイン
+《鑑定交換》の取引対象になるようだ</original>
   </item>
   <item id="13820">
-    <original>細密なレリーフの刻まれたコイン</original>
-    <translation>Coin with a finely detailed relief.</translation>
+    <original>極ジュエリーの確定抽選コイン
+《鑑定交換》の取引対象になるようだ</original>
   </item>
   <item id="13821">
     <original>細密なレリーフの刻まれたコイン</original>
@@ -42504,6 +42505,10 @@ Just the right size to be put on the bed.</translation>
     <original>お風呂に設置できる
 優雅な気分にひたれるキメラ型の湯口</original>
   </item>
+  <item id="17087">
+    <original>お風呂に設置できる
+優雅な気分にひたれるマンティコア型の湯口</original>
+  </item>
   <item id="17088">
     <original>お風呂に設置できる
 優雅な気分にひたれるグリフィン型の湯口</original>
@@ -44679,9 +44684,9 @@ a commemorative trophy.</translation>
 たたえる魔軍の印</original>
   </item>
   <item id="17860">
-    <original>雑多なクラフト用素材
-歴戦のドワーフオークであることを
-たたえる魔軍の印</original>
+    <original>歴戦のドワーフオークであることを
+たたえる魔軍の印
+《鑑定交換》の取引対象になるようだ</original>
   </item>
   <item id="17861">
     <original>雑多なクラフト用素材
@@ -44754,7 +44759,7 @@ a commemorative trophy.</translation>
 火を発する草といわれていたこともある</original>
   </item>
   <item id="17886">
-    <original>フィールド採取
+    <original>液体系のクラフト用素材
 水中微生物が多く含まれた液体</original>
   </item>
   <item id="17888">
@@ -46955,18 +46960,6 @@ when equipped.</translation>
   <item id="19367">
     <original>カスタムメイド工房にて使用できる通貨</original>
   </item>
-  <item id="19372">
-    <original></original>
-  </item>
-  <item id="19373">
-    <original></original>
-  </item>
-  <item id="19374">
-    <original></original>
-  </item>
-  <item id="19375">
-    <original></original>
-  </item>
   <item id="19376">
     <original>ダッシュ時に消費するスタミナ量が
 さらに軽減され、速度がアップする</original>
@@ -47437,21 +47430,152 @@ when equipped.</translation>
     <original></original>
   </item>
   <item id="19631">
-    <original>自室3.0ハロウィン・キッチン料理</original>
+    <original>キッチンに設置できる食事セット
+ホラーナイトメニュー</original>
   </item>
   <item id="19632">
-    <original>自室3.0ハロウィン・調理器具</original>
+    <original>キッチンに設置できる調理器具セット</original>
   </item>
   <item id="19633">
-    <original>自室3.0ハロウィン・ぬいぐるみ</original>
+    <original>レスタニアの職人の協力によって
+作成できるようになったパペット
+チェストの上に置ける大きめサイズ</original>
   </item>
   <item id="19634">
-    <original>自室3.0ハロウィン・庭具</original>
+    <original>自室の庭に設置できるオブジェ</original>
   </item>
   <item id="19635">
-    <original>自室3.0ハロウィン・壁紙</original>
+    <original>自室の壁をホラーナイト仕様に
+塗り替えることができる</original>
   </item>
   <item id="19636">
-    <original>自室3.0ハロウィン・リビング料理</original>
+    <original>テーブルに設置できる食事セット
+ホラーナイトメニュー</original>
+  </item>
+  <item id="19637">
+    <original>気軽に一休みできるベッド</original>
+  </item>
+  <item id="19638">
+    <original>気軽に一休みできるベッド</original>
+  </item>
+  <item id="19641">
+    <original>リビングに設置できる
+ホラーナイトにぴったりなカーペット</original>
+  </item>
+  <item id="20435">
+    <original></original>
+  </item>
+  <item id="20436">
+    <original></original>
+  </item>
+  <item id="20437">
+    <original></original>
+  </item>
+  <item id="20438">
+    <original></original>
+  </item>
+  <item id="20439">
+    <original></original>
+  </item>
+  <item id="20440">
+    <original></original>
+  </item>
+  <item id="20441">
+    <original></original>
+  </item>
+  <item id="20442">
+    <original></original>
+  </item>
+  <item id="20443">
+    <original></original>
+  </item>
+  <item id="21135">
+    <original></original>
+  </item>
+  <item id="21136">
+    <original></original>
+  </item>
+  <item id="21137">
+    <original></original>
+  </item>
+  <item id="21138">
+    <original></original>
+  </item>
+  <item id="21139">
+    <original></original>
+  </item>
+  <item id="21140">
+    <original></original>
+  </item>
+  <item id="21182">
+    <original>お化けの形をしたフワフワのマシュマロ
+不思議な味わいで、食べると体力が回復する</original>
+  </item>
+  <item id="21183">
+    <original>ドクロの形をしたムチムチのグミ
+ハードな歯ごたえで、食べるとスタミナが回復する</original>
+  </item>
+  <item id="21298">
+    <original></original>
+  </item>
+  <item id="21299">
+    <original></original>
+  </item>
+  <item id="21300">
+    <original></original>
+  </item>
+  <item id="21301">
+    <original></original>
+  </item>
+  <item id="21302">
+    <original></original>
+  </item>
+  <item id="21303">
+    <original></original>
+  </item>
+  <item id="21304">
+    <original></original>
+  </item>
+  <item id="21305">
+    <original></original>
+  </item>
+  <item id="21306">
+    <original></original>
+  </item>
+  <item id="21307">
+    <original></original>
+  </item>
+  <item id="21308">
+    <original></original>
+  </item>
+  <item id="21309">
+    <original></original>
+  </item>
+  <item id="21310">
+    <original></original>
+  </item>
+  <item id="21311">
+    <original></original>
+  </item>
+  <item id="21312">
+    <original></original>
+  </item>
+  <item id="21313">
+    <original></original>
+  </item>
+  <item id="21314">
+    <original></original>
+  </item>
+  <item id="21315">
+    <original></original>
+  </item>
+  <item id="21316">
+    <original></original>
+  </item>
+  <item id="21317">
+    <original></original>
+  </item>
+  <item id="21318">
+    <original></original>
   </item>
 </item_data>

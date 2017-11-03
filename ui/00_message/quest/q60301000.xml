@@ -1,0 +1,214 @@
+﻿<resource>
+  <message>
+    <original>やあ、今年もハロウィンの季節がきたんだが――
+実はシェリーちゃんの様子が変なんだ</original>
+  </message>
+  <message>
+    <original>怒ってるわけでも無さそうだし
+喋ると何だか妙に怖いしで
+ああなっている理由がさっぱりわからない
+頼む、君も様子をみてくれないか</original>
+  </message>
+  <message>
+    <original>ヨウヤク、コノキセツガキタワネ
+コトシコソハ――オカシヲ、タクサン――
+フフフフ――フフフフフ――</original>
+  </message>
+  <message>
+    <original>ワタシガ、ヘン――？
+フフフフフ、オカシナコトヲ――イウノネェ
+ホラ、マチガイナクしぇりーヨ</original>
+  </message>
+  <message>
+    <original>ソンナコトヨリ
+オカシ、チョウダイ</original>
+  </message>
+  <message>
+    <original>ほら！　な！？
+やっぱり様子がおかしいだろう
+頼む、彼女に何がおこったのか調べてくれ！
+このままでは今年のハロウィンは中止だぁ！</original>
+  </message>
+  <message>
+    <original>そういえば、ここに来る途中に聞いたんだが
+《ゴーストランタン》というものがあるらしい
+かざすと真実の姿を照らし出すという
+不思議な力をもったランタンだそうだ</original>
+  </message>
+  <message>
+    <original>それを何とかして入手できないだろうか――
+えーっと、いつもの！
+何でも交換してくれる彼！
+彼のところで調べてきてくれ</original>
+  </message>
+  <message>
+    <original>おやおや、覚者さん
+ずいぶん急いでどうなさいました
+――本日はどのようなご用件で？</original>
+  </message>
+  <message>
+    <original>なるほど、《ゴーストランタン》でございますか
+――あることにはありますよ、ええ</original>
+  </message>
+  <message>
+    <original>こちら少々“いわく付き”の品なので
+あまり表には出していないのですがね――
+へっへへ、他ならぬ覚者さんの頼みですからねぇ
+ええ、交換とさせていただきましょうか</original>
+  </message>
+  <message>
+    <original>そりゃ、いくら覚者さんといえど
+タダで差し上げるわけにはいきませんよ
+相応の品をお持ち下されば
+その対価としてお譲りいたしますとも――へへ</original>
+  </message>
+  <message>
+    <original>持ってきていただく品物は――
+そうですね、今しか手に入らない
+《おばけマシュマロ》でいかがです
+なんでも、魔物を倒すと手に入るそうで</original>
+  </message>
+  <message>
+    <original>おお、とてもよくお似合いで――
+ただし、以前にも申しました通り
+そのランタンは多少“いわく付き”の品でして
+あやしげなものを照らす際には、ご注意を</original>
+  </message>
+  <message>
+    <original>おおお、それがゴーストランタンか！
+早速シェリーちゃんを照らして
+――と思ったのだが、当のシェリーちゃんが
+どこかへ行ってしまったのだ</original>
+  </message>
+  <message>
+    <original>追いかけたのだが、フラフラしてる割に
+意外と足が速くて――
+み、見失ってしまって――</original>
+  </message>
+  <message>
+    <original>方向的にはテル村の方へ
+行ったんじゃないかと思うんだがね
+――頼む、彼女を探してきてくれ！</original>
+  </message>
+  <message>
+    <original>ああ、覚者さん
+ついさっき、不思議な恰好の美女が
+ブツブツ独り言を言いながら
+井戸の方に歩いていったのを見たんだよ</original>
+  </message>
+  <message>
+    <original>何事かと思って後を追ったんだけど
+いくら覗いても井戸の中には
+誰もいないんだ</original>
+  </message>
+  <message>
+    <original>真っ暗だし、探すのをやめて出てきたよ
+何か明るく照らすものがないとダメだな</original>
+  </message>
+  <message>
+    <original>そこの井戸に女性が入っていくのを見たけど
+暗くて何も見えないから、
+何か明るく照らすものをもって行った方がいい</original>
+  </message>
+  <message>
+    <original>ナ、ナアニ？　コンナトコロマデ――
+ワタシニ、ナニカヨウ？</original>
+  </message>
+  <message>
+    <original>ココニハ、アヤシイモノナンテ
+ナニモナイワ
+――シンジテクレルワヨネ？</original>
+  </message>
+  <message>
+    <original>信じない</original>
+    <translation>Don't believe</translation>
+  </message>
+  <message>
+    <original>信じる</original>
+    <translation>Believe</translation>
+  </message>
+  <message>
+    <original>アラ、ウフフフ
+オホホ――ァアハハハハハ</original>
+  </message>
+  <message>
+    <original>バレテイタノネ
+ミノガシテアゲヨウト
+オモッタノニ</original>
+  </message>
+  <message>
+    <original>ソウヨ、ワタシハしぇりーヨ</original>
+  </message>
+  <message>
+    <original>あら？　私、どうしてこんなところに？
+おかしいわねぇ、アンジェロと一緒に
+今年のハロウィンをお知らせに来たはずなのに</original>
+  </message>
+  <message>
+    <original>珍しいお菓子を拾おうと思ったら
+急に目の前に――誰かのドレスのすそが見えて――
+その先をよく覚えてないわ</original>
+  </message>
+  <message>
+    <original>とにかく、早くレスタニアに戻って
+アンジェロとハロウィンの準備をしなきゃね！
+先に戻ってアンジェロにもそう伝えてくれるかしら</original>
+  </message>
+  <message>
+    <original>先に戻ってアンジェロに伝えてくれない？
+私もすぐ帰るからって</original>
+  </message>
+  <message>
+    <original>おお！　シェリーちゃんが帰ってきた！
+しかも、様子がおかしかった原因も
+無事に解決したようじゃないか！</original>
+  </message>
+  <message>
+    <original>君に頼んで正解だった
+いやー助かった、本当にどうもありがとう
+正直怖くてどうしようかと思ったよ</original>
+  </message>
+  <message>
+    <original>さっ、今年も楽しくおいしい
+ステキなハロウィンを始めようじゃないかッ！</original>
+  </message>
+  <message>
+    <original>魔物を倒して、お菓子をたくさん集めたら
+あの鑑定交換のおじさんのところに行くといい</original>
+  </message>
+  <message>
+    <original>フフフ、彼には事前に“景品”になるものを
+準備してもらっておいたのだ
+食べてよし、交換してよしのハロウィン
+楽しんでくれたまえ！</original>
+  </message>
+  <message>
+    <original>――「いわく付きの物を処分するいい機会」とか
+言っていた気もするが、彼なりのジョークだろう
+い、一応は実際に見て確かめておいた方が
+いいかもしれないがね</original>
+  </message>
+  <message>
+    <original>アンジェロに心配かけちゃったわ
+彼ったらずいぶんうろたえたみたい</original>
+  </message>
+  <message>
+    <original>あ、そうそう
+あの不思議なカボチャの被り物
+私には似合わないからあなたに上げるわ</original>
+  </message>
+  <message>
+    <original>そうそう、ゴーストランタン以外にも
+いろんな“いわく付き”のものを取り揃えております
+気になるものがあれば、お菓子と交換いたしますよ</original>
+  </message>
+  <message>
+    <original>ああシェリーちゃん、一体どうしちゃったんだ</original>
+  </message>
+  <message>
+    <original>ワスレモシナイ　キョネンノイマゴロ――オマエタチハ
+ワタシノアツメタ、くっきートきゃんでぃーヲ
+ネコソギウバッテイッタノヨ！
+コトシコソ、ウバウガワニ――！</original>
+  </message>
+</resource>

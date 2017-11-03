@@ -2828,7 +2828,7 @@ Gained Secret Augment!</translation>
 よろしいですか？
 
 &lt;NAME ITEM&gt; × &lt;VAL&gt;枚</original>
-  <translation>Are you sure you want to consume the
+    <translation>Are you sure you want to consume the
 following items to enter the dungeon?
 
 &lt;NAME ITEM&gt; x&lt;VAL&gt;</translation>

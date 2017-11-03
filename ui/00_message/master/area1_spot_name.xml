@@ -82,6 +82,7 @@
     <key>SPOT_NAME_</key>
     <original>テルの枯れ井戸</original>
     <translation>Tel's Withered Well</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_</key>

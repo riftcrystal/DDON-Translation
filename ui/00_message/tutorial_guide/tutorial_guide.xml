@@ -644,7 +644,7 @@
   <message>
     <key>TUTORIAL_258</key>
     <original>覚者の自室</original>
-	<translation>Arisen's Room</translation>
+    <translation>Arisen's Room</translation>
   </message>
   <message>
     <key>TUTORIAL_261</key>
@@ -862,10 +862,12 @@
   <message>
     <key>TUTORIAL_348</key>
     <original>ドミニオンポイントショップ</original>
+    <translation>Dominion Point Shop</translation>
   </message>
   <message>
     <key>TUTORIAL_349</key>
     <original>ダクレイム砦奪還戦</original>
+    <translation>Dacreim Fortress Recapture Battle</translation>
   </message>
   <message>
     <key>TUTORIAL_350</key>
@@ -904,6 +906,7 @@
   <message>
     <key>TUTORIAL_358</key>
     <original>ハイオーブ</original>
+    <translation>High Orbs</translation>
   </message>
   <message>
     <key>TUTORIAL_359</key>
@@ -949,6 +952,7 @@
   <message>
     <key>TUTORIAL_372</key>
     <original>ドワーフオークについて</original>
+    <translation>About Dwarf Orc</translation>
   </message>
   <message>
     <key>TUTORIAL_381</key>

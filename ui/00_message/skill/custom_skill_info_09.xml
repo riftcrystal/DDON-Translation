@@ -149,9 +149,9 @@ LV.６で攻撃範囲拡大／ヒット数増加（３→５）&lt;/COL&gt;</ori
 ダメージ量が増加
 打ち込まれた錬成杭の錬成値が徐々に増加する
 しがみついた状態で発動可能</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Increase damage.
-The stake stuck by this skill slowly builds up automatically.
+The stake struck by this skill slowly builds up automatically.
 Can be used when climbing.</translation>
   </message>
   <message>
@@ -160,8 +160,8 @@ Can be used when climbing.</translation>
 錬成杭を打ち込んだ敵へ放った
 エリクシル／アルケム・バーストの
 状態異常値が増加</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Increase status effect accumulation when detonating the
-stake stuck by this skill using Elixir/Alchemical Burst.</translation>
+stake struck by this skill using Elixir/Alchemical Burst.</translation>
   </message>
 </resource>

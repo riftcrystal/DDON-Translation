@@ -67,7 +67,7 @@
   <message>
     <key>RELEASE_CONTENT_16</key>
     <original>エリアマスターのワールドクエスト情報</original>
-    <translation>Area Master World Quest</translation>
+    <translation>Area Master's World Quest Info</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_17</key>
@@ -303,22 +303,27 @@
   <message>
     <key>RELEASE_CONTENT_70</key>
     <original>ラスニテ山麓ワールドクエスト</original>
+    <translation>Rathnite Foothills World Quests</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_71</key>
     <original>フェルヤナ荒原ワールドクエスト</original>
+    <translation>Feryana Wilderness World Quests</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_72</key>
     <original>マンドラゴラ育成</original>
+    <translation>Mandragora Breeding</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_73</key>
     <original>HiBOツリー</original>
+    <translation>High Orb Tree</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_74</key>
     <original>自室のテラス</original>
+    <translation>Your Room's Terrace</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_75</key>

@@ -634,6 +634,7 @@
     <key>STAGE_NAME_126</key>
     <original>テルの枯れ井戸</original>
     <translation>Tel's Withered Well</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_127</key>
@@ -1812,6 +1813,7 @@
   <message>
     <key>STAGE_NAME_462</key>
     <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
   </message>
   <message>
     <key>STAGE_NAME_466</key>
@@ -1828,6 +1830,7 @@
   <message>
     <key>STAGE_NAME_468</key>
     <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
   </message>
   <message>
     <key>STAGE_NAME_469</key>
@@ -1847,6 +1850,7 @@
   <message>
     <key>STAGE_NAME_479</key>
     <original>湖畔の洞窟</original>
+    <translation>Lakeside Grotto</translation>
   </message>
   <message>
     <key>STAGE_NAME_480</key>
@@ -1855,30 +1859,37 @@
   <message>
     <key>STAGE_NAME_493</key>
     <original>ラスニテ地下水路</original>
+    <translation>Rathnite Underground Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_494</key>
     <original>水源へ続く地下道</original>
+    <translation>Reservoir Underground Tunnel</translation>
   </message>
   <message>
     <key>STAGE_NAME_495</key>
     <original>冥府下りの洞穴</original>
+    <translation>Cave of Hell's Descent</translation>
   </message>
   <message>
     <key>STAGE_NAME_496</key>
     <original>イミズディット遺跡</original>
+    <translation>Yimidhitt Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_497</key>
     <original>ウルタ古水路</original>
+    <translation>Ulta Ancient Watercourse</translation>
   </message>
   <message>
     <key>STAGE_NAME_498</key>
     <original>ラスニテ納骨廟</original>
+    <translation>Rathnite Columbarium</translation>
   </message>
   <message>
     <key>STAGE_NAME_511</key>
     <original>ピレモス旅人宿</original>
+    <translation>Piremoth Traveler's Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_512</key>
@@ -1945,18 +1956,22 @@
   <message>
     <key>STAGE_NAME_569</key>
     <original>冥府下りの洞穴 深層部</original>
+    <translation>Cave of Hell's Descent Inner Depths</translation>
   </message>
   <message>
     <key>STAGE_NAME_572</key>
     <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
   </message>
   <message>
     <key>STAGE_NAME_573</key>
     <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
   </message>
   <message>
     <key>STAGE_NAME_575</key>
     <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
   </message>
   <message>
     <key>STAGE_NAME_576</key>

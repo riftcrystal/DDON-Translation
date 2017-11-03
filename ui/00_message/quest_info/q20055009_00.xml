@@ -1,0 +1,67 @@
+﻿<resource>
+  <message>
+    <key>q20055009_00_684</key>
+    <original>古跡に響く子守歌</original>
+    <translation>The Lullaby Echoing in the Ruins</translation>
+  </message>
+  <message>
+    <key>q20055009_00_684</key>
+    <original>遺跡に打ち棄てられた遺物を回収する</original>
+  </message>
+  <message>
+    <key>q20055009_00_684</key>
+    <original>不確実な情報だが、&lt;NAME AREA&gt;から
+狂暴な魔物のしわざと思われる被害報告があった</original>
+  </message>
+  <message>
+    <key>q20055009_00_684</key>
+    <original>我、魔物の痕跡を発見せり
+速やかなる追跡が必須と判断
+これよりやつらの住処を探り討伐を果たす
+日暮れをすぎても我が戻らぬ場合は応援を請う</original>
+  </message>
+  <message>
+    <key>q20055009_00_1316</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り１０）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1317</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り９）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1318</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り８）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1319</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り７）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1320</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り６）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1321</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り５）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1322</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り４）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1323</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り３）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1324</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り２）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1325</key>
+    <original>敵に警戒し辺りに落ちたアイテムを拾う（残り１）</original>
+  </message>
+  <message>
+    <key>q20055009_00_1326</key>
+    <original>残された魔物を討伐する</original>
+  </message>
+</resource>

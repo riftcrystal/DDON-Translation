@@ -7,5 +7,9 @@
       <translation_replace>{0} Soldier</translation_replace>
       <translation_arg message_set="location name" required="true" />
     </rewrite>
+    <extra>
+      <original>メイロワ将軍</original>
+      <translation>General Meirova</translation>
+    </extra>
   </message_set>
 </replication>

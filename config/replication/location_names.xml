@@ -85,6 +85,11 @@
       <translation>Great Dining Hall</translation>
       <translation_format proper="false" />
     </extra>
+    <extra>
+      <original>フェルヤナ荒原</original>
+      <translation>Feryana Wilderness</translation>
+    </extra>
+    <ignore>異界の狭間　深層部</ignore>
     <!-- Replicate area names -->
     <rewrite>
       <original_match>^(.+)$</original_match>

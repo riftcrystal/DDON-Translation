@@ -32,17 +32,17 @@
   <message>
     <key>ORDER_CONDITION_998</key>
     <original>メインクエスト＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear main quest "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Main Quest "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_999</key>
     <original>パーソナルクエスト＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear personal quest "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Personal Quest "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1000</key>
     <original>エクストリームミッション＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear extreme mission "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Extreme Mission "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_993</key>
@@ -91,5 +91,10 @@
   <message>
     <key>ORDER_CONDITION_1014</key>
     <original>パーティプレイ不可（メインポーン&lt;QCND 0&gt;人同行可）</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1015</key>
+    <original>ワールドクエスト＜&lt;QCND 0&gt;＞をクリア</original>
+    <translation>Clear World Quest "&lt;QCND 0&gt;"</translation>
   </message>
 </resource>

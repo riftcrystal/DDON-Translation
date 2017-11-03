@@ -1,0 +1,62 @@
+﻿<resource>
+  <message>
+    <key>q60301000_00_282</key>
+    <original>ハロウィンの闇</original>
+    <translation>The Darkness of Halloween</translation>
+  </message>
+  <message>
+    <key>q60301000_00_282</key>
+    <original>アンジェロの悩みを解決する</original>
+    <translation>Resolve Angelo's problem.</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3823</key>
+    <original>シェリーの様子をうかがう</original>
+    <translation>Examine Shelly's appearance</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3824</key>
+    <original>アンジェロと話をする</original>
+    <translation>Speak to Angelo</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3825</key>
+    <original>グレゴリーにランタンについて聞きに行く</original>
+    <translation>Head to Gregory and enquire details about lanterns</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3826</key>
+    <original>ゴーストランタンを鑑定交換で手に入れる</original>
+    <translation>Obtain Ghost Lantern from Appraisal Exchange</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3833</key>
+    <original>入手したランタンをアンジェロに見せる</original>
+    <translation>Show Angelo the lantern you obtained</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3827</key>
+    <original>シェリーを追ってテル村へ向かい情報を探す</original>
+    <translation>Following Shelly head to Tel village and search for information</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3828</key>
+    <original>テルの枯れ井戸内を調査する</original>
+    <translation>Investigate inside Tel's Withered Well</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3829</key>
+    <original>出現した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3830</key>
+    <original>シェリーの無事を確認する</original>
+    <translation>Check Shelly's safety</translation>
+  </message>
+  <message>
+    <key>q60301000_00_3831</key>
+    <original>アンジェロに報告する</original>
+    <translation>Report to Angelo</translation>
+  </message>
+</resource>

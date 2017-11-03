@@ -16,8 +16,8 @@
   </message>
   <message>
     <key>NPC_TALK_ITEM_4</key>
-    <original>グランドミッション情報</original>
-    <translation>Grand Mission Information</translation>
+    <original>ウォーミッション情報</original>
+    <translation>War Mission Information</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_14</key>

@@ -48,5 +48,29 @@
       <original>スピア</original>
       <translation>Spear</translation>
     </extra>
+    <extra>
+      <original>ファルシオン</original>
+      <translation>Falchion</translation>
+    </extra>
+    <extra>
+      <original>コンポジット</original>
+      <translation>Composite</translation>
+    </extra>
+    <extra>
+      <original>スクトゥム</original>
+      <translation>Scutum</translation>
+    </extra>
+    <extra>
+      <original>ツインスペル</original>
+      <translation>Twin Spell</translation>
+    </extra>
+    <extra>
+      <original>クレイモア</original>
+      <translation>Claymore</translation>
+    </extra>
+    <extra>
+      <original>パルチザン</original>
+      <translation>Partisan</translation>
+    </extra>
   </message_set>
 </replication>

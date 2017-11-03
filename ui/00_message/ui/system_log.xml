@@ -329,7 +329,7 @@ Gained &lt;VAL AP&gt;.</translation>
   <message>
     <key>syslog_areamaster_spot_open</key>
     <original>&lt;NAME SPOT&gt;が解放されました</original>
-    <translation>&lt;NAME SPOT&gt; is now open.</translation>
+    <translation>&lt;NAME SPOT&gt; unlocked.</translation>
   </message>
   <message>
     <key>syslog_jobmaster_job_get</key>
@@ -1315,6 +1315,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_clan_common_unlock</key>
     <original>%s が解放されました</original>
+    <translation>%s unlocked.</translation>
   </message>
   <message>
     <key>syslog_dp_get</key>
@@ -1408,6 +1409,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_release_area_spot</key>
     <original>&lt;VAL&gt;の&lt;VAL&gt;が解放されました</original>
+    <translation>&lt;VAL&gt; at &lt;VAL&gt; unlocked.</translation>
   </message>
   <message>
     <key>syslog_pap_limit_up</key>

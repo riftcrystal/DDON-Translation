@@ -73,6 +73,32 @@
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+?)\s+救援要請$</original_match>
+      <translation_replace>{0}: Rescue Request</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s+解放軍支援$</original_match>
+      <translation_replace>{0}: Liberation Army Support</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s+敵追跡討伐$</original_match>
+      <translation_replace>{0}: Defeat Enemy Pursuit</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s+敵襲撃阻止$</original_match>
+      <translation_replace>{0}: Prevent Enemy Attack</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^冒険スポットの手引き：(.+)(.+?)$</original_match>
+      <translation_replace>Adventure Spot Guide: {0} {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="numerals" />
+    </rewrite>
+    <rewrite>
       <original_match>^戦技の継承　(.+?)求道試練(.+?)$</original_match>
       <translation_replace>Skill Augmentation: {0} Trial {1}</translation_replace>
       <translation_arg index="0" message_set="job name" />
@@ -415,11 +441,16 @@
     <!-- Check safety -->
     <rewrite>
       <original_match>^捜索対象の安否を確認する$</original_match>
-      <translation_replace>Check the search target's safety</translation_replace>
+      <translation_replace>Check the search target's well-being</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)の安否を確認する$</original_match>
+      <translation_replace>Check {0:d}'s well-being</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の無事を確認する$</original_match>
       <translation_replace>Check {0:d}'s safety</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
@@ -636,10 +667,10 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)を追い(.+)へ向かう$</original_match>
-      <translation_replace>Go after {0:d} heading to {1:d}</translation_replace>
+      <original_match>^(.+?)(の後)?を追い(.+)へ向かう$</original_match>
+      <translation_replace>Go after {0:d} heading to {2:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
-      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)軍を迎え撃つため(.+)へ向かう$</original_match>
@@ -730,6 +761,11 @@
       <original_match>^&lt;SPOT (\d+)&gt;内を調査する$</original_match>
       <translation_replace>Investigate inside &lt;SPOT {0}&gt;</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)内を調査する$</original_match>
+      <translation_replace>Investigate inside {0:d}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
     <!-- Rendezvous -->
     <rewrite>
       <original_match>^＜&lt;SPOT (\d+)&gt;＞で(.+)と合流する$</original_match>
@@ -741,6 +777,11 @@
       <translation_replace>Rendezvous with {1:d} before the gate at {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^目的地で(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {0:d} at the destination</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で(.+)と合流する$</original_match>
@@ -836,6 +877,12 @@
       <translation_replace>Report to {2:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に帰還し(.+?)に報告する$</original_match>
+      <translation_replace>Return to {0:d} and report to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)に報告する$</original_match>

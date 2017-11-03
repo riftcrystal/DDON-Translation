@@ -182,7 +182,7 @@ LV.6: Increases Guard Power and number of hits.&lt;/COL&gt;</translation>
     <original>【ＥＸ追加効果】
 岩石を吹き飛ばし、ダメージを与える
 &lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Blow off the rocks from earth and deal damage to enemies.
 Increase damage agaisnt War-ready enemies.</translation>
   </message>
@@ -192,7 +192,7 @@ Increase damage agaisnt War-ready enemies.</translation>
 周囲の敵の注目を素早く集める
 エンチャントが付与されている際は
 エンチャント属性の状態異常を発生させることも可能</original>
-    <translation>【EX Additional Effects】
+    <translation>EX Additional Effects:
 Attract enemies within the area.
 Cause status abnormality of the currently enchanted element of your weapon.</translation>
   </message>
