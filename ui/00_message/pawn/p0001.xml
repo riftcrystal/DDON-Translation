@@ -5,10 +5,12 @@
   </message>
   <message>
     <original>我らはいつも、覚者さまとともに</original>
+	<translation>The Rift is always with us.</translation>
   </message>
   <message>
     <original>覚者さま、お力添えの機会
 お待ちしています</original>
+	<translation>Master, we look forward in assisting you.</translation>
   </message>
   <message>
     <original>覚者さま、どうぞ私にも同伴の許可を
@@ -17,22 +19,28 @@
   </message>
   <message>
     <original>冒険の手助けなら、いつでもいたします</original>
+	<translation>If you are in need of help on your adventure, we are here for you.</translation>
   </message>
   <message>
     <original>まだ、作業を承っておりません</original>
+	<translation>I have not recieved work yet.</translation>
   </message>
   <message>
     <original>ご指示をお待ちしています</original>
+	<translation>We are awaiting instructions.</translation>
   </message>
   <message>
     <original>旅かクラフトのご用命あらば
 いつでも動きます</original>
+	<translation>We will follow you in your travels. We can move at anytime.</translation>
   </message>
   <message>
     <original>只今作業中ですので、お待ちください</original>
+	<translation>Please wait, as it is now under construction.</translation>
   </message>
   <message>
     <original>完成まで、いましばらくかかります</original>
+	<translation>It will take time until it is complete.</translation>
   </message>
   <message>
     <original>集中力を要しますので、会話はまた後ほど</original>
@@ -48,5 +56,6 @@
   <message>
     <original>次こそご期待を――
 この経験を生かします</original>
+	<translation>I will do better next time and make use of this experience.</translation>
   </message>
 </resource>
