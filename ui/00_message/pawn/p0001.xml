@@ -10,12 +10,13 @@
   <message>
     <original>覚者さま、お力添えの機会
 お待ちしています</original>
-	<translation>Master, we look forward in assisting you.</translation>
+	<translation>Master, I look forward to assisting you.</translation>
   </message>
   <message>
     <original>覚者さま、どうぞ私にも同伴の許可を
 リムストーンからのお声掛けを
 お待ちしています</original>
+	<translation>Please allow me to accompany you master.</translation>
   </message>
   <message>
     <original>冒険の手助けなら、いつでもいたします</original>
@@ -27,12 +28,12 @@
   </message>
   <message>
     <original>ご指示をお待ちしています</original>
-	<translation>We are awaiting instructions.</translation>
+	<translation>I await your instruction.</translation>
   </message>
   <message>
     <original>旅かクラフトのご用命あらば
 いつでも動きます</original>
-	<translation>We will follow you in your travels. We can move at anytime.</translation>
+	<translation>I will follow you in your travels. We can move at anytime.</translation>
   </message>
   <message>
     <original>只今作業中ですので、お待ちください</original>
@@ -44,18 +45,21 @@
   </message>
   <message>
     <original>集中力を要しますので、会話はまた後ほど</original>
+	<translation>I can't talk now, I must concentrate.</translation>
   </message>
   <message>
     <original>救っていただき、ありがとうございます
 次こそは必ずお役に――！</original>
+	<translation>Thanks for rescuing me! I will do better next time.</translation>
   </message>
   <message>
     <original>申し訳ありません、覚者さま
 精進いたします</original>
+	<translation>I am sorry master, it was unexpected.</translation>
   </message>
   <message>
     <original>次こそご期待を――
 この経験を生かします</original>
-	<translation>I will do better next time and make use of this experience.</translation>
+	<translation>I'll make use of this experience to meet your expectations next time.</translation>
   </message>
 </resource>
