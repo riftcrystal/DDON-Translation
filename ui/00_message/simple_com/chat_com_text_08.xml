@@ -127,17 +127,17 @@
   <message>
     <key>CHAT_COM_338</key>
     <original>装甲をこわしましょう！</original>
-    <translation>Let's break the armor!</translation>
+    <translation>Let us break the armor!</translation>
   </message>
   <message>
     <key>CHAT_COM_339</key>
     <original>ブレイクを狙おう！</original>
-    <translation>Let's break!</translation>
+    <translation>Let's aim to break!</translation>
   </message>
   <message>
     <key>CHAT_COM_340</key>
     <original>ブレイクを狙いましょう！</original>
-    <translation>Let's break!</translation>
+    <translation>Let us aim to break!</translation>
   </message>
   <message>
     <key>CHAT_COM_341</key>
@@ -152,12 +152,12 @@
   <message>
     <key>CHAT_COM_343</key>
     <original>侵食核を潰そう！</original>
-    <translation>Destroy the infected growths!</translation>
+    <translation>Let's destroy the infected growths!</translation>
   </message>
   <message>
     <key>CHAT_COM_344</key>
     <original>侵食核を潰しましょう！</original>
-    <translation>Destroy the infected growths!</translation>
+    <translation>Let us destroy the infected growths!</translation>
   </message>
   <message>
     <key>CHAT_COM_345</key>
@@ -177,7 +177,7 @@
   <message>
     <key>CHAT_COM_348</key>
     <original>コア、出します！</original>
-    <translation>Core reveal!</translation>
+    <translation>I will reveal the core!</translation>
   </message>
   <message>
     <key>CHAT_COM_349</key>
@@ -187,7 +187,7 @@
   <message>
     <key>CHAT_COM_350</key>
     <original>コアを叩きましょう！</original>
-    <translation>Let's attack the core!</translation>
+    <translation>Let us attack the core!</translation>
   </message>
   <message>
     <key>CHAT_COM_351</key>
@@ -197,17 +197,17 @@
   <message>
     <key>CHAT_COM_352</key><!-- NEEDS REVIEW -->
     <original>まとめて回復する！</original>
-    <translation>Let's gather and heal!</translation>
+    <translation>Gather around and heal!</translation>
   </message>
   <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_353</key>
     <original>大技、キメる！</original>
-    <translation>Great work!</translation>
+    <translation>A big technique, nail it!</translation>
   </message>
   <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_354</key>
     <original>大技、キメるわ！</original>
-    <translation>Great work!</translation>
+    <translation>A big technique, nail it!</translation>
   </message>
   <message>
     <key>CHAT_COM_355</key>
