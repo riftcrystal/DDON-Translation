@@ -2,186 +2,232 @@
   <message>
     <key>CHAT_COM_313</key>
     <original>炎が弱点だ！</original>
+    <translation>It's weak to fire!</translation>
   </message>
   <message>
     <key>CHAT_COM_314</key>
     <original>弱点は炎！</original>
+    <translation>It's weak to fire!</translation>
   </message>
   <message>
     <key>CHAT_COM_315</key>
     <original>氷が弱点だ！</original>
+    <translation>It's weak to ice!</translation>
   </message>
   <message>
     <key>CHAT_COM_316</key>
     <original>弱点は氷！</original>
+    <translation>It's weak to ice!</translation>
   </message>
   <message>
     <key>CHAT_COM_317</key>
     <original>雷が弱点だ！</original>
+    <translation>It's weak to lightning!</translation>
   </message>
   <message>
     <key>CHAT_COM_318</key>
     <original>弱点は雷！</original>
+    <translation>It's weak to lightning!</translation>
   </message>
   <message>
     <key>CHAT_COM_319</key>
     <original>聖が弱点だ！</original>
+    <translation>It's weak to holy!</translation>
   </message>
   <message>
     <key>CHAT_COM_320</key>
     <original>弱点は聖！</original>
+    <translation>It's weak to holy!</translation>
   </message>
   <message>
     <key>CHAT_COM_321</key>
     <original>闇が弱点だ！</original>
+    <translation>It's weak to dark!</translation>
   </message>
   <message>
     <key>CHAT_COM_322</key>
     <original>弱点は闇！</original>
+    <translation>It's weak to dark!</translation>
   </message>
   <message>
     <key>CHAT_COM_323</key>
     <original>毒が有効だ！</original>
+    <translation>Poison is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_324</key>
     <original>毒が有効よ！</original>
+    <translation>Poison is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_325</key>
     <original>睡眠が有効だ！</original>
+    <translation>Sleep is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_326</key>
     <original>睡眠が有効よ！</original>
+    <translation>Sleep is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_327</key>
     <original>遅延が有効だ！</original>
+    <translation>Torpor is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_328</key>
     <original>遅延が有効よ！</original>
+    <translation>Torpor is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_329</key>
     <original>気絶が有効だ！</original>
+    <translation>Stun is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_330</key>
     <original>気絶が有効よ！</original>
+    <translation>Stun is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_331</key>
     <original>封印が有効だ！</original>
+    <translation>Skill seal is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_332</key>
     <original>封印が有効よ！</original>
+    <translation>Skill seal is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_333</key>
     <original>石化が有効だ！</original>
+    <translation>Petrification is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_334</key>
     <original>石化が有効よ！</original>
+    <translation>Petrification is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_335</key>
     <original>黄金化が有効だ！</original>
+    <translation>Gilding is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_336</key>
     <original>黄金化が有効よ！</original>
+    <translation>Gilding is effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_337</key>
     <original>装甲をこわそう！</original>
+    <translation>Let's break the armor!</translation>
   </message>
   <message>
     <key>CHAT_COM_338</key>
     <original>装甲をこわしましょう！</original>
+    <translation>Let's break the armor!</translation>
   </message>
   <message>
     <key>CHAT_COM_339</key>
     <original>ブレイクを狙おう！</original>
+    <translation>Let's break!</translation>
   </message>
   <message>
     <key>CHAT_COM_340</key>
     <original>ブレイクを狙いましょう！</original>
+    <translation>Let's break!</translation>
   </message>
   <message>
     <key>CHAT_COM_341</key>
     <original>吹き飛ばし力の高い技が有効だ！</original>
+    <translation>High blow-power skills are effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_342</key>
     <original>吹き飛ばし力の高い技が有効よ！</original>
+    <translation>High blow-power skills are effective!</translation>
   </message>
   <message>
     <key>CHAT_COM_343</key>
     <original>侵食核を潰そう！</original>
+    <translation>Destroy the infected growths!</translation>
   </message>
   <message>
     <key>CHAT_COM_344</key>
     <original>侵食核を潰しましょう！</original>
+    <translation>Destroy the infected growths!</translation>
   </message>
   <message>
     <key>CHAT_COM_345</key>
     <original>胞子を止める！</original>
+    <translation>Stop the spores!</translation>
   </message>
   <message>
     <key>CHAT_COM_346</key>
     <original>胞子を止めます！</original>
+    <translation>Stop the spores!</translation>
   </message>
   <message>
     <key>CHAT_COM_347</key>
     <original>コアを出す！</original>
+    <translation>Core reveal!</translation>
   </message>
   <message>
     <key>CHAT_COM_348</key>
     <original>コア、出します！</original>
+    <translation>Core reveal!</translation>
   </message>
   <message>
     <key>CHAT_COM_349</key>
     <original>コアを叩こう！</original>
+    <translation>Let's attack the core!</translation>
   </message>
   <message>
     <key>CHAT_COM_350</key>
     <original>コアを叩きましょう！</original>
+    <translation>Let's attack the core!</translation>
   </message>
   <message>
     <key>CHAT_COM_351</key>
     <original>バリア張ります！</original>
+    <translation>Form a barrier!</translation>
   </message>
   <message>
-    <key>CHAT_COM_352</key>
+    <key>CHAT_COM_352</key><!-- NEEDS REVIEW -->
     <original>まとめて回復する！</original>
+    <translation>Let's gather and heal!</translation>
   </message>
-  <message>
+  <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_353</key>
     <original>大技、キメる！</original>
+    <translation>Great work!</translation>
   </message>
-  <message>
+  <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_354</key>
     <original>大技、キメるわ！</original>
+    <translation>Great work!</translation>
   </message>
   <message>
     <key>CHAT_COM_355</key>
     <original>大魔法いくぞ！</original>
+    <translation>Here comes the great magick!</translation>
   </message>
   <message>
     <key>CHAT_COM_356</key>
     <original>大魔法いくわよ！</original>
+    <translation>Here comes the great magick!</translation>
   </message>
   <message>
     <key>CHAT_COM_357</key>
     <original>っしゃあ、いくぞ！</original>
+    <translation>Well, let's go!</translation>
   </message>
   <message>
     <key>CHAT_COM_358</key>
     <original>さあ、いくわよ！</original>
+    <translation>Well, let's go!</translation>
   </message>
   <message>
     <key>CHAT_COM_359</key>
@@ -190,141 +236,176 @@
   <message>
     <key>CHAT_COM_360</key>
     <original>絶対に許さん</original>
+    <translation>I will not allow it!</translation>
   </message>
   <message>
     <key>CHAT_COM_361</key>
     <original>大ピンチ！</original>
+    <translation>Big pinch!</translation>
   </message>
-  <message>
+  <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_362</key>
     <original>はっ、余裕だな！</original>
+    <translation>Hah, I can afford it!</translation>
   </message>
-  <message>
+  <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_363</key>
     <original>ま、余裕ね！</original>
+    <translation>Well, I can afford it!</translation>
   </message>
-  <message>
+  <message><!-- NEEDS REVIEW -->
     <key>CHAT_COM_364</key>
     <original>大型、沈黙！</original>
+    <translation>Large silence!</translation>
   </message>
   <message>
     <key>CHAT_COM_365</key>
     <original>ナイスバリア！</original>
+    <translation>Nice barrier!</translation>
   </message>
   <message>
     <key>CHAT_COM_366</key>
     <original>ナイスヒール！</original>
+    <translation>Nice heal!</translation>
   </message>
   <message>
     <key>CHAT_COM_367</key>
     <original>ナイスダウン！</original>
+    <translation>Nice down!</translation>
   </message>
   <message>
     <key>CHAT_COM_368</key>
     <original>ナイスブレイク！</original>
+    <translation>Nice break!</translation>
   </message>
   <message>
     <key>CHAT_COM_369</key>
     <original>オーク相手に情けは無用！</original>
+    <translation>No mercy for orcs!</translation>
   </message>
   <message>
     <key>CHAT_COM_370</key>
     <original>これより生死の検分に入る！</original>
+    <translation>I'm at a life and death situation!</translation>
   </message>
   <message>
     <key>CHAT_COM_371</key>
     <original>果たせぬ夢などない！</original>
+    <translation>There is no dream that cannot be realized!</translation>
   </message>
   <message>
     <key>CHAT_COM_372</key>
     <original>攻城兵器、来たぞ！</original>
+    <translation>Siege weapons, here I come!</translation>
   </message>
   <message>
     <key>CHAT_COM_373</key>
     <original>攻城兵器、来たわ！</original>
+    <translation>Siege weapons, here I come!</translation>
   </message>
   <message>
     <key>CHAT_COM_374</key>
     <original>大砲を使え！</original>
+    <translation>Use the cannon!</translation>
   </message>
   <message>
     <key>CHAT_COM_375</key>
     <original>大砲を使おう！</original>
+    <translation>Use the cannon!</translation>
   </message>
   <message>
     <key>CHAT_COM_376</key>
     <original>大砲を潰せ！</original>
+    <translation>Destroy the cannons!</translation>
   </message>
   <message>
     <key>CHAT_COM_377</key>
     <original>大砲をこわそう！</original>
+    <translation>Let's break the cannons!</translation>
   </message>
   <message>
     <key>CHAT_COM_378</key>
     <original>突入成功！</original>
+    <translation>Successfuly charged into!</translation>
   </message>
   <message>
     <key>CHAT_COM_379</key>
     <original>開門した！　全員突撃！</original>
+    <translation>Gate opened, everyone charge!</translation>
   </message>
   <message>
     <key>CHAT_COM_380</key>
     <original>開門したわ！　全員突撃！</original>
+    <translation>Gate opened, everyone charge!</translation>
   </message>
   <message>
     <key>CHAT_COM_381</key>
     <original>部隊を分けて攻略しよう！</original>
+    <translation>Let's divide our troops and capture it!</translation>
   </message>
   <message>
     <key>CHAT_COM_389</key>
     <original>必ず生きて帰る！</original>
+    <translation>We will live and go home!</translation>
   </message>
   <message>
     <key>CHAT_COM_390</key>
     <original>必ず生きて帰ろう！</original>
+    <translation>We will live and go home!</translation>
   </message>
   <message>
     <key>CHAT_COM_382</key>
     <original>敵将を倒して帰るぞ！</original>
+    <translation>Let's defeat the general and go home!</translation>
   </message>
   <message>
     <key>CHAT_COM_383</key>
     <original>敵将、倒して帰りましょう！</original>
+    <translation>Let's defeat the general and go home!</translation>
   </message>
   <message>
     <key>CHAT_COM_384</key>
     <original>流れが悪い、押し返す！</original>
+    <translation>They hold the advantage, fall back!</translation>
   </message>
   <message>
     <key>CHAT_COM_385</key>
     <original>流れが悪い、反撃！</original>
+    <translation>We are at the disadvantage, counterattack!</translation>
   </message>
   <message>
     <key>CHAT_COM_386</key>
     <original>いいぞ！　優勢だ！</original>
+    <translation>We hold the advantage!</translation>
   </message>
   <message>
     <key>CHAT_COM_387</key>
     <original>優勢！　良い感じ！</original>
+    <translation>Advantage, nice!</translation>
   </message>
   <message>
     <key>CHAT_COM_388</key>
     <original>制圧完了！</original>
+    <translation>Domination complete!</translation>
   </message>
   <message>
     <key>CHAT_COM_391</key>
     <original>完全勝利！</original>
+    <translation>Total victory!</translation>
   </message>
   <message>
     <key>CHAT_COM_392</key>
     <original>我がクランの名にかけて！</original>
+    <translation>In the name of our clan!</translation>
   </message>
   <message>
     <key>CHAT_COM_393</key>
     <original>この勝利を我がクランへ捧げよう</original>
+    <translation>Let's dedicate this victory to our clan!</translation>
   </message>
   <message>
     <key>CHAT_COM_394</key>
     <original>この勝利、我がクランへ捧げましょう</original>
+    <translation>Let's dedicate this victory to our clan!</translation>
   </message>
 </resource>

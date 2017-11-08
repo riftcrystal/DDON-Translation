@@ -2,265 +2,331 @@
   <message>
     <key>CHAT_COM_246</key>
     <original>やあ！</original>
+    <translation>Yo!</translation>
   </message>
   <message>
     <key>CHAT_COM_247</key>
     <original>やっほー！</original>
+    <translation>Yahoo!</translation>
   </message>
   <message>
     <key>CHAT_COM_248</key>
     <original>久しぶり！</original>
+    <translation>Long time no see!</translation>
   </message>
   <message>
     <key>CHAT_COM_249</key>
     <original>何からやろうか？</original>
+    <translation>What are we going to do?</translation>
   </message>
   <message>
     <key>CHAT_COM_250</key>
     <original>何からやっちゃう？</original>
+    <translation>What are you doing?</translation>
   </message>
   <message>
     <key>CHAT_COM_251</key>
     <original>次どうする？</original>
+    <translation>What do we do next?</translation>
   </message>
   <message>
     <key>CHAT_COM_252</key>
     <original>次なににする？</original>
+    <translation>What are we going to do next?</translation>
   </message>
   <message>
     <key>CHAT_COM_253</key>
     <original>レベル上げどう？</original>
+    <translation>How about leveling?</translation>
   </message>
   <message>
     <key>CHAT_COM_254</key>
     <original>PP稼ぎ行かない？</original>
+    <translation>Do you want to farm PP?</translation>
   </message>
   <message>
     <key>CHAT_COM_255</key>
     <original>CP稼ぎどう？</original>
+    <translation>How about farming CP?</translation>
   </message>
   <message>
     <key>CHAT_COM_256</key>
     <original>CP稼ぎはどう？</original>
+    <translation>How about farming CP?</translation>
   </message>
   <message>
     <key>CHAT_COM_258</key>
     <original>オーブ集め行こう！</original>
+    <translation>Let's go farming Orbs!</translation>
   </message>
   <message>
     <key>CHAT_COM_257</key>
     <original>ハイオーブ集め行こう！</original>
+    <translation>Let's collect High Orbs!</translation>
   </message>
   <message>
     <key>CHAT_COM_259</key>
     <original>ウォーミッション行こう！</original>
+    <translation>Let's do War Missions!</translation>
   </message>
   <message>
     <key>CHAT_COM_261</key>
     <original>いいね！</original>
+    <translation>That's nice!</translation>
   </message>
   <message>
     <key>CHAT_COM_262</key>
     <original>回復してくる</original>
+    <translation>I'll go healing</translation>
   </message>
   <message>
     <key>CHAT_COM_263</key>
     <original>回復してくるね</original>
+    <translation>I'll go healing</translation>
   </message>
   <message>
     <key>CHAT_COM_264</key>
     <original>一瞬、離席します！</original>
+    <translation>Just a moment!</translation>
   </message>
   <message>
     <key>CHAT_COM_265</key>
     <original>すいません、ちょっとトイレ！</original>
+    <translation>Excuse me, toilet!</translation>
   </message>
   <message>
     <key>CHAT_COM_266</key>
     <original>すみません、お手洗いに――</original>
+    <translation>Excuse me, I need to go to the restroom</translation>
   </message>
   <message>
     <key>CHAT_COM_267</key>
     <original>おともします！</original>
+    <translation>I'll go!</translation>
   </message>
   <message>
     <key>CHAT_COM_268</key>
     <original>おまたせ！</original>
+    <translation>Sorry for the wait!</translation>
   </message>
   <message>
     <key>CHAT_COM_269</key>
     <original>おかえり！</original>
+    <translation>Welcome back!</translation>
   </message>
   <message>
     <key>CHAT_COM_270</key>
     <original>ヤバイ眠くなってきた――</original>
+    <translation>Not good, I'm getting sleepy...</translation>
   </message>
   <message>
     <key>CHAT_COM_271</key>
     <original>なんか眠くなってきた――</original>
+    <translation>I'm getting sleepy or something like that...</translation>
   </message>
   <message>
     <key>CHAT_COM_272</key>
     <original>ぼちぼちログアウトします</original>
+    <translation>I'm logging out</translation>
   </message>
   <message>
     <key>CHAT_COM_273</key>
     <original>そろそろログアウトします</original>
+    <translation>I'll log out soon</translation>
   </message>
   <message>
     <key>CHAT_COM_274</key>
     <original>決めポーズいくよ、せーの！</original>
+    <translation>Let's make a pose, come on!</translation>
   </message>
   <message>
     <key>CHAT_COM_275</key>
     <original>さあ、踊ろう！</original>
+    <translation>Let's dance!</translation>
   </message>
   <message>
     <key>CHAT_COM_276</key>
     <original>さあ、踊りましょう！</original>
+    <translation>Let's dance!</translation>
   </message>
   <message>
     <key>CHAT_COM_277</key>
     <original>いち、にの、さんはい！</original>
+    <translation>One more time!</translation>
   </message>
   <message>
     <key>CHAT_COM_278</key>
     <original>みんな集まれ！　こっちだ！</original>
+    <translation>Everyone gather overhere!</translation>
   </message>
   <message>
     <key>CHAT_COM_279</key>
     <original>みんな集まって、こっちこっち！</original>
+    <translation>Everyone gather overhere!</translation>
   </message>
   <message>
     <key>CHAT_COM_280</key>
     <original>ハイ、チーズ！</original>
+    <translation>Alright, cheese!</translation>
   </message>
   <message>
     <key>CHAT_COM_281</key>
     <original>よろこんで！</original>
+    <translation>My pleasure!</translation>
   </message>
   <message>
     <key>CHAT_COM_282</key>
     <original>それ、笑える！</original>
+    <translation>That's funny!</translation>
   </message>
   <message>
     <key>CHAT_COM_283</key>
     <original>それ、ウケる！</original>
+    <translation>That's hilarious!</translation>
   </message>
   <message>
     <key>CHAT_COM_284</key>
     <original>うわ、ミスった！！</original>
+    <translation>Oops, I made a mistake!!</translation>
   </message>
   <message>
     <key>CHAT_COM_285</key>
     <original>ごめん、ミスっちゃった！！</original>
+    <translation>I'm sorry, I made a mistake!!</translation>
   </message>
   <message>
     <key>CHAT_COM_286</key>
     <original>え、マジで？</original>
+    <translation>Oh, for real?</translation>
   </message>
   <message>
     <key>CHAT_COM_287</key>
     <original>え、ホントに？</original>
+    <translation>Oh, really?</translation>
   </message>
   <message>
     <key>CHAT_COM_288</key>
     <original>はいはい、なるほど </original>
+    <translation>Yeah yeah, I see</translation>
   </message>
   <message>
     <key>CHAT_COM_289</key>
     <original>それは無理</original>
+    <translation>That's impossible</translation>
   </message>
   <message>
     <key>CHAT_COM_290</key>
     <original>し、失礼な！</original>
+    <translation>Hey, that's rude!</translation>
   </message>
   <message>
     <key>CHAT_COM_291</key>
     <original>し、失礼ね！</original>
+    <translation>Hey, that's rude!</translation>
   </message>
   <message>
     <key>CHAT_COM_292</key>
     <original>新人覚者だな？</original>
+    <translation>You are a rookie?</translation>
   </message>
   <message>
     <key>CHAT_COM_293</key>
     <original>最高じゃねーか！</original>
+    <translation>Isn't it great!</translation>
   </message>
   <message>
     <key>CHAT_COM_294</key>
     <original>神降臨！</original>
+    <translation>God advent!</translation>
   </message>
   <message>
     <key>CHAT_COM_295</key>
     <original>ふっかーつ！！</original>
+    <translation>I'm back!</translation>
   </message>
   <message>
     <key>CHAT_COM_296</key>
     <original>きたーーー！</original>
+    <translation>Here it comes!</translation>
   </message>
   <message>
     <key>CHAT_COM_303</key>
     <original>流れ変わった？</original>
+    <translation>The flow has changed?</translation>
   </message>
   <message>
     <key>CHAT_COM_302</key>
     <original>言ってる意味は分かる</original>
+    <translation>I know what you mean</translation>
   </message>
   <message>
     <key>CHAT_COM_301</key>
     <original>深く反省しております</original>
+    <translation>I'm deeply sorry</translation>
   </message>
   <message>
     <key>CHAT_COM_299</key>
     <original>あははは！</original>
+    <translation>Ahahaha!</translation>
   </message>
   <message>
     <key>CHAT_COM_300</key>
     <original>ウフフフ</original>
+    <translation>Fufufu</translation>
   </message>
   <message>
     <key>CHAT_COM_297</key>
     <original>はーっはっは！</original>
+    <translation>Wahaha!</translation>
   </message>
   <message>
     <key>CHAT_COM_298</key>
     <original>あーっはっは！</original>
+    <translation>Wahaha!</translation>
   </message>
   <message>
     <key>CHAT_COM_304</key>
     <original>イヤッホー！</original>
+    <translation>Yahoo!</translation>
   </message>
   <message>
     <key>CHAT_COM_305</key>
     <original>ワーイ！</original>
+    <translation>Yay!</translation>
   </message>
   <message>
     <key>CHAT_COM_306</key>
     <original>カッコイイ！</original>
+    <translation>Cool!</translation>
   </message>
   <message>
     <key>CHAT_COM_307</key>
     <original>カワイイ！</original>
+    <translation>Cute!</translation>
   </message>
   <message>
     <key>CHAT_COM_308</key>
     <original>ステキ！</original>
+    <translation>Wonderful</translation>
   </message>
   <message>
     <key>CHAT_COM_309</key>
     <original>ビューティフル！</original>
+    <translation>Beautiful!</translation>
   </message>
   <message>
     <key>CHAT_COM_310</key>
     <original>メリークリスマス！</original>
+    <translation>Merry Christmas!</translation>
   </message>
   <message>
     <key>CHAT_COM_311</key>
     <original>ハッピーニューイヤー！</original>
+    <translation>Happy New Year!</translation>
   </message>
   <message>
     <key>CHAT_COM_312</key>
     <original>トリックオアトリート！</original>
+    <translation>Trick or Treat!</translation>
   </message>
 </resource>
