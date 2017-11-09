@@ -3,7 +3,7 @@
     <original>我が、主――
 私を救出に――？</original>
 	<translation>Master! 
-You came to rescue me?</translation>
+You have come to rescue me?</translation>
   </message>
   <message>
     <original>雇用ならば、しかるべき手順で</original>
@@ -24,11 +24,11 @@ You came to rescue me?</translation>
   </message>
   <message>
     <original>私への用命あらば、ただちに取りかかる</original>
-	<translation>Any requests, and I will see them through.</translation>
+	<translation>Any requests, and I will see them through, Arisen.</translation>
   </message>
   <message>
     <original>我が主、任務と指示を待つ</original>
-	<translation>I await your command.</translation>
+	<translation>I await your command, Arisen.</translation>
   </message>
   <message>
     <original>製作か戦闘か、私にも役割を――</original>
@@ -47,14 +47,16 @@ You came to rescue me?</translation>
 より技術を磨き、さらに生産効率を
 上げなければ</original>
 	<translation>I must improve my refining ability. 
-I must increase my production efficiency.</translation>
+I must increase my production efficiency as well.</translation>
   </message>
   <message>
     <original>こんな無様を――許していただきたい</original>
+	<translation>I am sorry for the delay. Please forgive me.</translation>
   </message>
   <message>
     <original>我が主――！
-償いは、次の戦いの場で――！</original>
+償いは、次の戦いの場で――！</original><translation>Arisen! 
+We will be victorious in our next battle!</translation>
   </message>
   <message>
     <original>私の力不足、恥じる他はない――
