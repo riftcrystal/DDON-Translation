@@ -2,6 +2,8 @@
   <message>
     <original>ああ、覚者さま――
 どうか今一度私を――</original>
+	<translation>Ah, Master! 
+Please, once more...!</translation>
   </message>
   <message>
     <original>我らはいつも、覚者さまとともに</original>
@@ -16,7 +18,7 @@
     <original>覚者さま、どうぞ私にも同伴の許可を
 リムストーンからのお声掛けを
 お待ちしています</original>
-	<translation>Please allow me to accompany you master.</translation>
+	<translation>Please allow me to accompany you, Master.</translation>
   </message>
   <message>
     <original>冒険の手助けなら、いつでもいたします</original>
@@ -33,7 +35,8 @@
   <message>
     <original>旅かクラフトのご用命あらば
 いつでも動きます</original>
-	<translation>I will follow you in your travels. We can move at anytime.</translation>
+	<translation>I will follow you in your travels. 
+We can move at anytime.</translation>
   </message>
   <message>
     <original>只今作業中ですので、お待ちください</original>
@@ -50,16 +53,19 @@
   <message>
     <original>救っていただき、ありがとうございます
 次こそは必ずお役に――！</original>
-	<translation>Thanks for rescuing me! I will do better next time.</translation>
+	<translation>Thanks for rescuing me! 
+I will do better next time!</translation>
   </message>
   <message>
     <original>申し訳ありません、覚者さま
 精進いたします</original>
-	<translation>I am sorry master, it was unexpected.</translation>
+	<translation>I am truly sorry, Master. 
+I will strive to be more diligent in the future.</translation>
   </message>
   <message>
     <original>次こそご期待を――
 この経験を生かします</original>
-	<translation>I'll make use of this experience to meet your expectations next time.</translation>
+	<translation>I'll make use of this experience. 
+And meet your expectations next time.</translation>
   </message>
 </resource>
