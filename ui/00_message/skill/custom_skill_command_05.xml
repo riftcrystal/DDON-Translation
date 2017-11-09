@@ -114,9 +114,13 @@ charge to finish.
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_170</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+    <translation>Charge. Press the assigned button and wait for the
+charge to finish.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_171</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+    <translation>Charge. Press the assigned button and wait for the
+charge to finish.</translation>
   </message>
 </resource>

@@ -75,9 +75,11 @@ Press the assigned button while in the air.</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_07_180</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_07_181</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
 </resource>

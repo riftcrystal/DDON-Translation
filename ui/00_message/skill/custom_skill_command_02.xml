@@ -77,9 +77,11 @@ Cancel the skill with &lt;KC JUMP&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_02_160</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_02_161</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
 </resource>

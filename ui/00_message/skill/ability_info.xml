@@ -2196,9 +2196,8 @@ allies you revive.
     <key>ABILITY_INFO_114</key>
     <original>回避行動時のすり抜け成功時間が延長される
 &lt;COL ffdc78&gt;LV UP毎にすり抜け時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases time in which you can successfully
-escape when grabbed.
-&lt;COL ffdc78&gt;LV UP: Further increases escape window.&lt;/COL&gt;</translation>
+    <translation>Increases the invincibility time for evasion skills.
+&lt;COL ffdc78&gt;LV UP: Further increases invincibility time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_150</key>

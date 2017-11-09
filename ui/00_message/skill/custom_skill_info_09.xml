@@ -107,21 +107,16 @@ LV.6: Can activate the skill at anytime except when grabbed.&lt;/COL&gt;</transl
 解放して大爆発を起こす。しがみつき状態から発動可
 &lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--敵を直接攻撃し、攻撃対象の敵単体に付着している
-錬成物質を解放して大爆発を起こす
-しがみつき状態からも発動可能
-<COL ffdc78>LV UP毎に攻撃威力の上昇
-LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>-->
-    <!--translation>Bring forth a giant metal arm that strikes the 
-enemy directly and can adhere to them if it hits an alchemical stake.
-Upon doing so, it unleashes alchemical substances and causes a
+LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</original>    
+    <translation>Form a giant alchemical arm to strike the 
+enemy directly. If it hits an alchemical stake, the attack
+will unleash alchemical substances and cause a
 giant explosion.
 Can be activated while climbing an enemy.
+&lt;COL ff7878&gt;Effective against War-ready enemies.&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
 LV.6: Increases number of hits and the surrounding
-enemies are affected by the explosion.&lt;/COL&gt;</translation-->
+enemies are affected by the explosion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_113</key>
@@ -142,6 +137,13 @@ LV.6: Allows activation while mid-air.&lt;/COL&gt;</translation>
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃性能上昇
 LV.６で攻撃範囲拡大／ヒット数増加（３→５）&lt;/COL&gt;</original>
+    <translation>Shoot alchemical substances radially toward you.
+If you are close to the enemies, all substances will hit.
+Can be activated in mid-air.
+&lt;COL ffdc78&gt;LV UP: Increase damage.
+LV.6: Increase range.
+Increase the number of substances (3→5)&lt;/COL&gt;
+    </translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_189</key>

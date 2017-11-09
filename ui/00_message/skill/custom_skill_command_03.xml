@@ -73,9 +73,11 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_162</key>
     <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+    <translation>While holding the assigned button, press &lt;KC SHOOT&gt; to shoot.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_163</key>
     <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+    <translation>While holding the assigned button, press &lt;KC SHOOT&gt; to shoot.</translation>
   </message>
 </resource>

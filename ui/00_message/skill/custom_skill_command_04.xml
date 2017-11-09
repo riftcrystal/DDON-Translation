@@ -86,9 +86,13 @@ release it when the chant completes, and press the assigned button again to canc
   <message>
     <key>CUSTOM_SKILL_COMMAND_04_166</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動、再度押すと解除</original>
+    <translation>Begin casting by pressing the assigned button,
+release it when the chant completes, and press the assigned button again to cancel.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_04_167</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動、再度押すと解除</original>
+    <translation>Begin casting by pressing the assigned button,
+release it when the chant completes, and press the assigned button again to cancel.</translation>
   </message>
 </resource>
