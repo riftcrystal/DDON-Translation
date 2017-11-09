@@ -2,7 +2,7 @@
   <message>
     <key>CHAT_COM_313</key>
     <original>炎が弱点だ！</original>
-    <translation>Fire is its weakness!</translation> testing
+    <translation>Fire is its weakness!</translation>
   </message>
   <message>
     <key>CHAT_COM_314</key>
@@ -195,16 +195,16 @@
     <translation>Form a barrier!</translation>
   </message>
   <message>
-    <key>CHAT_COM_352</key><!-- NEEDS REVIEW -->
+    <key>CHAT_COM_352</key>
     <original>まとめて回復する！</original>
     <translation>Gather around and heal!</translation>
   </message>
-  <message><!-- NEEDS REVIEW -->
+  <message>
     <key>CHAT_COM_353</key>
     <original>大技、キメる！</original>
     <translation>A big technique, nail it!</translation>
   </message>
-  <message><!-- NEEDS REVIEW -->
+  <message>
     <key>CHAT_COM_354</key>
     <original>大技、キメるわ！</original>
     <translation>A big technique, nail it!</translation>
@@ -244,17 +244,17 @@
     <original>大ピンチ！</original>
     <translation>Big pinch!</translation>
   </message>
-  <message><!-- NEEDS REVIEW -->
+  <message>
     <key>CHAT_COM_362</key>
     <original>はっ、余裕だな！</original>
     <translation>Hah, I can afford it!</translation>
   </message>
-  <message><!-- NEEDS REVIEW -->
+  <message>
     <key>CHAT_COM_363</key>
     <original>ま、余裕ね！</original>
     <translation>Well, I can afford it!</translation>
   </message>
-  <message><!-- NEEDS REVIEW -->
+  <message>
     <key>CHAT_COM_364</key>
     <original>大型、沈黙！</original>
     <translation>Large silence!</translation>
