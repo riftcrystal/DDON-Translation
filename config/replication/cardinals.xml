@@ -1,0 +1,8 @@
+<replication>
+  <message_set name="cardinals">
+    <extra>
+      <original>西</original>
+      <translation>west</translation>
+    </extra>
+  </message_set>
+</replication>

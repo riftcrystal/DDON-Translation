@@ -100,7 +100,8 @@
 (未選択の選択報酬は破棄されます)
 よろしいですか？
 売却合計額：&lt;VAL G&gt;</original>
-    <translation>Random Rewards that were not checked will be sold.
+    <translation>Random Rewards that were not checked
+will be sold.
 (Select Rewards not checked will be lost.)
 Are you sure?
 Total Sale: &lt;VAL G&gt;</translation>
@@ -177,7 +178,8 @@ Not all items will be received.</translation>
 (未選択の選択報酬は破棄されます)
 よろしいですか？
 売却合計額：&lt;VAL GOLD&gt;</original>
-    <translation>Random Rewards that were not checked will be sold.
+    <translation>Random Rewards that were not checked
+will be sold.
 (Select Rewards not checked will be lost.)
 Are you sure?
 Total Sale: &lt;VAL GOLD&gt;</translation>

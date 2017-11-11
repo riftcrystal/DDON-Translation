@@ -99,7 +99,7 @@
   <message>
     <key>eqenhance_first_only</key>
     <original>初回限定</original>
-    <translation>First Time Restricted</translation>
+    <translation>First Time Only</translation>
   </message>
   <message>
     <key>eqenhance_order_pack_type</key>
@@ -131,6 +131,7 @@
   <message>
     <key>eqenhance_success</key>
     <original>成功</original>
+    <translation>Success</translation>
   </message>
   <message>
     <key>eqrecycle_err_no_recycle_count</key>

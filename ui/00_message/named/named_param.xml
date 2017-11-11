@@ -3717,6 +3717,7 @@
   </named_param>
   <named_param id="1480">
     <original type="Prefix">傷ついた</original>
+    <translation type="Prefix">Wounded</translation>
   </named_param>
   <named_param id="1488">
     <original type="Prefix"></original>
@@ -3887,6 +3888,7 @@
   </named_param>
   <named_param id="1563">
     <original type="Prefix">傷ついた</original>
+    <translation type="Prefix">Wounded</translation>
   </named_param>
   <named_param id="1564">
     <original type="Replace">樹内の記憶</original>
@@ -4335,6 +4337,7 @@
   </named_param>
   <named_param id="1756">
     <original type="Replace">洞窟の主</original>
+    <translation type="Replace">Master of the Grotto</translation>
   </named_param>
   <named_param id="1757">
     <original type="Prefix">行く手を阻む</original>
@@ -4536,6 +4539,7 @@
   </named_param>
   <named_param id="1898">
     <original type="Prefix">占領軍の</original>
+    <translation type="Prefix">Occupation Army</translation>
   </named_param>
   <named_param id="1899">
     <original type="Replace">ロスギルを狙うマンティコア</original>

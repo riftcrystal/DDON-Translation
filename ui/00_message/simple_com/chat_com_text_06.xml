@@ -407,12 +407,12 @@
   <message>
     <key>CHAT_COM_202</key>
     <original>弱点を攻撃してくれ！</original>
-    <translation>Attack it's weak spot!</translation>
+    <translation>Attack its weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_240</key>
     <original>弱点を攻撃して！</original>
-    <translation>Strike at it's weak point!</translation>
+    <translation>Strike at its weak point!</translation>
   </message>
   <message>
     <key>CHAT_COM_203</key>
@@ -437,22 +437,22 @@
   <message>
     <key>CHAT_COM_206</key>
     <original>弱点を出そう！</original>
-    <translation>Reveal it's weak spot!</translation>
+    <translation>Reveal its weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_207</key>
     <original>弱点を狙おう！</original>
-    <translation>Aim for it's weak spot!</translation>
+    <translation>Aim for its weak spot!</translation>
   </message>
   <message>
     <key>CHAT_COM_208</key>
     <original>弱点を攻撃しよう！</original>
-    <translation>Attack it's weakspot!</translation>
+    <translation>Attack its weakspot!</translation>
   </message>
   <message>
     <key>CHAT_COM_209</key>
     <original>スタミナを減らそう！</original>
-    <translation>Decrease it's stamina!</translation>
+    <translation>Decrease its stamina!</translation>
   </message>
   <message>
     <key>CHAT_COM_210</key>

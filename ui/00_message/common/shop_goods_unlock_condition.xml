@@ -7,11 +7,16 @@
     <key>SHOP_GOODS_UNLOCK_CONDITION_2</key>
     <original>%sの
 ランキング%d位以内に入賞</original>
+    <translation>%s
+cleared with rank %d or better.
+</translation>
   </message>
   <message>
     <key>SHOP_GOODS_UNLOCK_CONDITION_3</key>
     <original>%sの
 %sを%d体討伐（%d/%d）</original>
+    <translation>Defeat %s
+%s x%d. (%d/%d)</translation>
   </message>
   <message>
     <key>SHOP_GOODS_UNLOCK_CONDITION_4</key>
@@ -28,5 +33,7 @@
     <key>SHOP_GOODS_UNLOCK_CONDITION_6</key>
     <original>LV.%d以上の
 %sを%d体討伐（%d/%d）</original>
+    <translation>Defeat LV.%d or more
+%s x%d. (%d/%d)</translation>
   </message>
 </resource>

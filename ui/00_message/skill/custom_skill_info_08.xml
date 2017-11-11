@@ -160,7 +160,7 @@ LV.6: Increases number of hits.&lt;/COL&gt;
 LV.６で起爆時の閃光効果強化&lt;/COL&gt;</original>
     <translation>Let loose a holy magickal arrow imbued with the power to heal
 into the sky and detonate it. The arrow emits a strong flash at the time of detonation,
-and those within it's light recover a portion of health.(Damages Undead)
+and those within its light recover a portion of health.(Damages Undead)
 &lt;COL ffdc78&gt;LV UP: Increases health recovery amount.
 LV.6: Increases the power of the flash at detonation.&lt;/COL&gt;</translation>
   </message>

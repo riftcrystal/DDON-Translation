@@ -28,9 +28,24 @@
       <translation_replace>Time Restriction: {0}</translation_replace>
     </rewrite>
     <rewrite soft="true">
+      <original_match>^＜エリアオーダー＞(.+?)近郊魔物征伐$</original_match>
+      <translation_replace>Area Order: Near {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜エリアオーダー＞(.+?)近郊魔物征伐$</original_match>
+      <translation_replace>Area Order: Near {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
       <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
+      <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" required="true" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)補給$</original_match>
@@ -608,6 +623,28 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+?)門の関所を抜け(.+)の村へ向かう$</original_match>
+      <translation_replace>Head through the {0} checkpoint gate to the village of {1:d}</translation_replace>
+      <translation_arg index="0" message_set="cardinals" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)門の関所を抜け(.+)へ向かう$</original_match>
+      <translation_replace>Head through the {0} checkpoint gate to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="cardinals" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^関所を抜け(.+)の村へ向かう$</original_match>
+      <translation_replace>Head through the checkpoint to the village of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^関所を抜け(.+)へ向かう$</original_match>
+      <translation_replace>Head through the checkpoint to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)で開かれる会談の場へ向かう$</original_match>
       <translation_replace>Head to the open meeting place in {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -790,6 +827,11 @@
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^丘上の(.+)へ向かう$</original_match>
+      <translation_replace>Head to the hilltop of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)へ向かう$</original_match>
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -833,6 +875,18 @@
       <original_match>^目的地で(.+)と合流する$</original_match>
       <translation_replace>Rendezvous with {0:d} at the destination</translation_replace>
       <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {1:d} at {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)前で(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {1:d} in front of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で(.+)と合流する$</original_match>

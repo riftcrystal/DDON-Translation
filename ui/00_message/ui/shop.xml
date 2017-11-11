@@ -233,6 +233,6 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>SHOP_TEXT_ACHIEVE_NG</key>
     <original>条件未達成</original>
-    <translation>Unfulfilled Requirements</translation>
+    <translation>Unmet Reqs</translation>
   </message>
 </resource>

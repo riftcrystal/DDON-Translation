@@ -1223,7 +1223,9 @@ Additional bonus on clear!</translation>
     <key>syslog_quest_root_reward</key>
     <original>条件が満たされたため、＜&lt;NAME QUEST&gt;＞の
 クリア報酬が変化します</original>
-    <translation>Because you satisfied the conditions, the clear reward of "&lt;NAME QUEST&gt;" will change.</translation>
+    <translation>Because you satisfied the conditions,
+the clear reward of "&lt;NAME QUEST&gt;"
+will change.</translation>
   </message>
   <message>
     <key>syslog_not_speak_a_while</key>
