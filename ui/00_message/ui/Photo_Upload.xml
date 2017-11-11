@@ -22,19 +22,24 @@
   <message>
     <key>pu_msg_004</key>
     <original>写真送信中</original>
+    <translation>Sending Photo</translation>
   </message>
   <message>
     <key>pu_msg_005</key>
     <original>電源を切らないでください</original>
+    <translation>Please do not turn off the power.</translation>
   </message>
   <message>
     <key>pu_msg_009</key>
     <original>現在サーバーが混み合っています
 しばらく経ってから再度お試しください</original>
+    <translation>The server is busy.
+Please try again later.</translation>
   </message>
   <message>
     <key>pu_msg_006</key>
     <original>送信が完了しました</original>
+    <translation>Send completed</translation>
   </message>
   <message>
     <key>pu_msg_007</key>
