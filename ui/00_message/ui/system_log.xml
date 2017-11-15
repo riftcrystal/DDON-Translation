@@ -1459,10 +1459,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_action_tornado_target</key>
     <original>&lt;NAME TARGET&gt; が竜巻に狙われている</original>
+    <translation>&lt;NAME TARGET&gt; has become the target of the tornado.</translation>
   </message>
   <message>
     <key>syslog_action_tornado_sign</key>
     <original>&lt;NAME TARGET&gt; が竜巻を起こそうとしている</original>
+    <translation>&lt;NAME TARGET&gt; is about to create a tornado.</translation>
   </message>
   <message>
     <key>syslog_action_humanhateup_target</key>
