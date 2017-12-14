@@ -1412,6 +1412,8 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_wm_statement_gauge_0_defeat</key>
     <original>戦況が最悪化し、敗戦状態となりました</original>
+    <translation>The situation has become the worst.
+We have been defeated.</translation>
   </message>
   <message>
     <key>syslog_release_area_spot</key>
@@ -1462,10 +1464,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_action_tornado_target</key>
     <original>&lt;NAME TARGET&gt; が竜巻に狙われている</original>
+    <translation>&lt;NAME TARGET&gt; has become the target of the tornado.</translation>
   </message>
   <message>
     <key>syslog_action_tornado_sign</key>
     <original>&lt;NAME TARGET&gt; が竜巻を起こそうとしている</original>
+    <translation>&lt;NAME TARGET&gt; is about to create a tornado.</translation>
   </message>
   <message>
     <key>syslog_action_humanhateup_target</key>
@@ -1475,15 +1479,19 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_pawn_expedition_hotsign</key>
     <original>そろそろホットスポットが見つかりそうです</original>
+    <translation>We are soon likely to find a hotspot.</translation>
   </message>
   <message>
     <key>syslog_wm_limited_condition_open</key>
     <original>&lt;VAL&gt;が期間限定で開催決定！
 詳しくは、レスタニアニュースをご覧ください</original>
+    <translation>&lt;VAL&gt; will occur for a limited time!
+More details on Lestania News</translation>
   </message>
   <message>
     <key>syslog_action_fog_sign</key>
     <original>異界の霧が吐き零されていく――</original>
+    <translation>The mist from another world is spread out...</translation>
   </message>
   <message>
     <key>syslog_action_alldestroy_rest_num</key>

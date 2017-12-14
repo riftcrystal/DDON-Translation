@@ -1,4 +1,4 @@
-﻿<resource>
+<resource>
   <message>
     <key>pawn_cultivation_head_0</key>
     <original>優先して狙う敵</original>
@@ -17,14 +17,17 @@
   <message>
     <key>pawn_cultivation_head_3</key>
     <original>行動の優先度</original>
+    <translation>Behavior priotity</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_4</key>
     <original>攻撃・支援の割合</original>
+    <translation>Attack/Support ratio</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_5</key>
     <original>敵との間合い</original>
+    <translation>Interaction with enemies</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_0</key>
@@ -59,10 +62,12 @@
   <message>
     <key>pawn_cultivation_element_3_0</key>
     <original>体力が危険な時に回復する</original>
+    <translation>Heal when HP is critical</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_1</key>
     <original>状態異常を回復する</original>
+    <translation>Cure status abnormalities</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_2</key>
@@ -71,14 +76,17 @@
   <message>
     <key>pawn_cultivation_element_3_3</key>
     <original>体力が少ない時に回復する</original>
+    <translation>Heal when HP is low</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_4</key>
     <original>タッチ救済する</original>
+    <translation>Touch assist</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_5</key>
     <original>スタミナを回復する</original>
+    <translation>Recover stamina</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_6</key>
@@ -87,18 +95,22 @@
   <message>
     <key>pawn_cultivation_element_3_7</key>
     <original>オブジェクトを破壊する</original>
+    <translation>Destroy objects</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_8</key>
     <original>敵の注目を集める</original>
+    <translation>Attract enemies</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_9</key>
     <original>シークレットコアを発現する</original>
+    <translation>Reveal secret core</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_10</key>
     <original>攻撃・支援をする</original>
+    <translation>Attack/Support</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_11</key>
@@ -107,6 +119,7 @@
   <message>
     <key>pawn_cultivation_element_3_12</key>
     <original>体力が少しでも減れば回復を受けにいく</original>
+    <translation>Heal when HP is slightly lowered</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_13</key>
@@ -215,10 +228,12 @@
   <message>
     <key>pawn_growtalk_choice_033</key>
     <original>攻撃の頻度を上げる</original>
+    <translation>Increase attack frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_034</key>
     <original>支援の頻度を上げる</original>
+    <translation>Increase support frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_035</key>
