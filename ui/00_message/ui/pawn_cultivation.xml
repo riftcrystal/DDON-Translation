@@ -17,10 +17,12 @@
   <message>
     <key>pawn_cultivation_head_3</key>
     <original>行動の優先度</original>
+    <translation>Priority of Actions</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_4</key>
     <original>攻撃・支援の割合</original>
+    <translation>Attack/Support Frequency</translation>
   </message>
   <message>
     <key>pawn_cultivation_head_5</key>
@@ -63,6 +65,7 @@
   <message>
     <key>pawn_cultivation_element_3_1</key>
     <original>状態異常を回復する</original>
+    <translation>Cure status abnormalities</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_2</key>
@@ -75,10 +78,12 @@
   <message>
     <key>pawn_cultivation_element_3_4</key>
     <original>タッチ救済する</original>
+    <translation>Assist actions</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_5</key>
     <original>スタミナを回復する</original>
+    <translation>Restore stamina</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_6</key>
@@ -87,6 +92,7 @@
   <message>
     <key>pawn_cultivation_element_3_7</key>
     <original>オブジェクトを破壊する</original>
+    <translation>Destroy objects</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_8</key>
@@ -95,10 +101,12 @@
   <message>
     <key>pawn_cultivation_element_3_9</key>
     <original>シークレットコアを発現する</original>
+    <translation>Reveal secret core</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_10</key>
     <original>攻撃・支援をする</original>
+    <translation>Attack/Support</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_11</key>
@@ -107,6 +115,7 @@
   <message>
     <key>pawn_cultivation_element_3_12</key>
     <original>体力が少しでも減れば回復を受けにいく</original>
+    <translation>Recover health even if it goes down a little</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_13</key>
@@ -219,10 +228,12 @@
   <message>
     <key>pawn_growtalk_choice_034</key>
     <original>支援の頻度を上げる</original>
+    <translation>Increase support frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_035</key>
     <original>敵との間合いをより取る</original>
+    <translation>Increase attack frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_036</key>
