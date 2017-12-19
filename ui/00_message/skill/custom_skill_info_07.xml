@@ -215,6 +215,12 @@ revenge gauge increases as you hit enemies.</translation>
 気絶攻力が増加
 攻撃回数が増加（１→２）
 ２回目の攻撃はボタン長押しで溜め可能</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Increase knockout power.
+Increase the number of hits (1→2)
+The second hit can be activated by pressing
+and holding the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_183</key>
@@ -222,5 +228,10 @@ revenge gauge increases as you hit enemies.</translation>
 チャンス攻力がやや増加
 疲労攻力がやや増加
 &lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Slightly increase chance attack.
+Slightly increase exhaust power.
+&lt;COL ff7878&gt;Further increase damage against War-Ready enemies&lt;/COL&gt;
+</translation>
   </message>
 </resource>

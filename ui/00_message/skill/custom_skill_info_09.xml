@@ -185,6 +185,11 @@ stake struck by this skill using Elixir/Alchemical Burst.</translation>
 ダメージ量が増加
 黄金化の状態異常を付与
 &lt;COL ff7878&gt;人間／竜族／錬金系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Add Gilded status abnormality.
+&lt;COL ff7878&gt;Further increase damage against Human/Dragon/Alchemy enemies.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_192</key>
@@ -193,5 +198,11 @@ stake struck by this skill using Elixir/Alchemical Burst.</translation>
 攻撃を受けても体勢を崩されにくくなる
 敵に与える錬成値と吹き飛ばし力が増加
 のけぞり、吹き飛び中でも発動可能</original>
+    <translation>EX Additional Effects:
+Increase physic and magick defense during execution.
+Increase endurance during execution.
+Increase the amount of alchemical substance and blow force.
+Possible to use when being knocked back.
+</translation>
   </message>
 </resource>

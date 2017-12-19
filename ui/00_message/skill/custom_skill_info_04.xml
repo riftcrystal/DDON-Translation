@@ -190,6 +190,11 @@ Duration of effect after Field Shift is greatly increased.</translation>
 ダメージ量と吹き飛ばし力が増加
 チャンス攻力と疲労攻力が増加
 &lt;COL ff7878&gt;骸骨／腐死／呪詛／霊体系の敵への与ダメージ量増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase the number of magick spheres (5→7)
+Increase damage and blow force.
+Increase chance attack and exhaust attack.
+&lt;COL ff7878&gt;Further increase damage against Skeleton/Infected/Cursed/Spirit enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_169</key>
@@ -198,5 +203,10 @@ Duration of effect after Field Shift is greatly increased.</translation>
 体力回復とシークレットコア発現が
 可能な魔法球を発射
 &lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Extend duration of magick spheres.
+Magick spheres can recover health and reveal secret core.
+&lt;COL ff7878&gt;Further increase damage against War-Ready enemies.&lt;/COL&gt;
+</translation>
   </message>
 </resource>

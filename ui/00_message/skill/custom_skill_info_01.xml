@@ -210,6 +210,10 @@ Slightly increase chance attack and fatigue attack.</translation>
 ダメージ量が増加
 吹き飛ばし力が増加
 気絶攻力が増加</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Increase blow force.
+Increase knockout power.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_175</key>
@@ -217,5 +221,9 @@ Slightly increase chance attack and fatigue attack.</translation>
 ダメージ量がやや増加
 チャンス攻力と疲労攻力が増加
 攻撃範囲がやや拡張</original>
+    <translation>EX Additional Effects:
+Slightly increase damage.
+Increase chance attack and exhaust attack.
+Slightly extend attack range</translation>
   </message>
 </resource>

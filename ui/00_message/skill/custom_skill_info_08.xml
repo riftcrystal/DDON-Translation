@@ -207,6 +207,10 @@ this skill.</translation>
 ダメージが追加
 吹き飛ばし力が増加
 魔矢の速度が上昇</original>
+    <translation>EX Additional Effects:
+Add damage to the skill.
+Increase blow force.
+Increase arrow's speed.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_187</key>
@@ -214,5 +218,10 @@ this skill.</translation>
 ダメージが追加
 封印の状態異常を付与／気絶攻力が増加
 魔矢の速度が上昇</original>
+    <translation>EX Additional Effects:
+Add damage to the skill.
+Add Skill Stiffling status abnormality
+and knockout power.
+Increase arrow's speed.</translation>
   </message>
 </resource>

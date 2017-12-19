@@ -143,11 +143,17 @@ Extend the duration of the pool.</translation>
     <original>【ＥＸ追加効果】
 ダメージ量が増加
 &lt;COL ff7878&gt;造魔／魔族／戦甲系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+&lt;COL ff7878&gt;Further increase damage to Demon/Ogre/War-Ready enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_194</key>
     <original>【ＥＸ追加効果】
 派生斬りを初段経由せずに空中で発動可能
 スピリットゲージ蓄積量が増加</original>
+    <translation>EX Additional Effects:
+Possible to activate in the air without executing the first hit.
+Increase Spirit Gauge accumulation.</translation>
   </message>
 </resource>

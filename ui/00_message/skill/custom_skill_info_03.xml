@@ -200,6 +200,10 @@ Extend the shooting range.</translation>
 ダメージ量が増加
 状態異常値が増加
 &lt;COL ff7878&gt;獣／有翼／侵食系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Increase debilitation rate.
+&lt;COL ff7878&gt;Further increase damage to Beast/Winged/Infected enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_165</key>
@@ -207,5 +211,9 @@ Extend the shooting range.</translation>
 チャンス攻力と疲労攻力が増加
 気絶攻力が増加
 &lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase chance attack and exhaust power.
+Increase knockout power.
+&lt;COL ff7878&gt;Further increase damage against War-Ready enemies.&lt;/COL&gt;</translation>
   </message>
 </resource>

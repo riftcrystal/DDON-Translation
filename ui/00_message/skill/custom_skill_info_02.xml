@@ -201,11 +201,16 @@ Increase fatigue power.</translation>
     <original>【ＥＸ追加効果】
 ダメージ量が増加
 &lt;COL ff7878&gt;獣／有翼／侵食系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+&lt;COL ff7878&gt;Further increase damage to Beast/Winged/Infected enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_159</key>
     <original>【ＥＸ追加効果】
 空中使用回数が増加（１→２）
 吹き飛ばし力がやや増加</original>
+    <translation>EX Additional Effects:
+Increase the number of possible executions in air (1→2)</translation>
   </message>
 </resource>
