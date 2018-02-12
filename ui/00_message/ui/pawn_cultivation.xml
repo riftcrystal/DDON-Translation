@@ -27,6 +27,7 @@
   <message>
     <key>pawn_cultivation_head_5</key>
     <original>敵との間合い</original>
+    <translation>Interaction with enemies</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_1_0</key>
@@ -66,7 +67,7 @@
   <message>
     <key>pawn_cultivation_element_3_1</key>
     <original>状態異常を回復する</original>
-    <translation>Cure status abnormalities</translation>
+    <translation>Cure debilitations</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_2</key>
@@ -106,7 +107,7 @@
   <message>
     <key>pawn_cultivation_element_3_9</key>
     <original>シークレットコアを発現する</original>
-    <translation>Reveal secret core</translation>
+    <translation>Expose secret core</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_10</key>
@@ -121,7 +122,7 @@
   <message>
     <key>pawn_cultivation_element_3_12</key>
     <original>体力が少しでも減れば回復を受けにいく</original>
-    <translation>Seek healing, even the slightest wounds</translation>
+    <translation>Seek healing, even for the slightest wounds</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_13</key>
@@ -131,10 +132,12 @@
   <message>
     <key>pawn_cultivation_element_4_0</key>
     <original>かなり支援寄り</original>
+    <translation>Support (↑↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_4_1</key>
     <original>支援寄り</original>
+    <translation>Support (↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_4_2</key>
@@ -144,30 +147,37 @@
   <message>
     <key>pawn_cultivation_element_4_3</key>
     <original>攻撃寄り</original>
+    <translation>Attack (↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_4_4</key>
     <original>かなり攻撃寄り</original>
+    <translation>Attack (↑↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_5_0</key>
     <original>かなり狭い</original>
+    <translation>Close (↑↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_5_1</key>
     <original>狭い</original>
+    <translation>Close (↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_5_2</key>
     <original>普通</original>
+    <translation>Normal</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_5_3</key>
     <original>広い</original>
+    <translation>Far (↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_5_4</key>
     <original>かなり広い</original>
+    <translation>Far (↑↑)</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_0_0</key>
@@ -197,6 +207,7 @@
   <message>
     <key>pawn_growtalk_choice_006</key>
     <original>スタミナの使用頻度</original>
+    <translation>Stamina usage frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_007</key>
@@ -413,10 +424,12 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_title_018</key>
     <original>敵との間合いは？</original>
+    <translation>Distance to enemies</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_019</key>
     <original>敵との間合いの最終確認</original>
+    <translation>Confirmation of distance to enemies</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_020</key>
@@ -436,10 +449,12 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_choice_049</key>
     <original>上げる</original>
+    <translation> (↑)</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_050</key>
     <original>下げる</original>
+    <translation> (↓)</translation>
   </message>
   <message>
     <key>pawn_growtalk_word_001</key>

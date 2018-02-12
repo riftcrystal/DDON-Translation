@@ -900,7 +900,7 @@ beast-type enemies.
     <original>錬金系の敵から受けるダメージ量が減少する
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
     <translation>Decrease damage received from
-alchemy-enhanced enemies.
+alchemised enemies.
 &lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1175,7 +1175,7 @@ beast-type enemies.
     <original>錬金系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
     <translation>Increases the damage you deal towards
-alchemy-enhanced enemies.
+alchemised enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>

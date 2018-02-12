@@ -522,7 +522,7 @@
   <message>
     <key>ABILITY_NAME_175</key>
     <original>造狙</original>
-    <translation>Rock Proficiency</translation>
+    <translation>Construct Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_200</key>
@@ -687,7 +687,7 @@
   <message>
     <key>ABILITY_NAME_174</key>
     <original>造護</original>
-    <translation>Rock Safeguard</translation>
+    <translation>Construct Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_199</key>
