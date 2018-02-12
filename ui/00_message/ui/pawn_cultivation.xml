@@ -61,6 +61,7 @@
   <message>
     <key>pawn_cultivation_element_3_0</key>
     <original>体力が危険な時に回復する</original>
+    <translation>Heal teammates when their health is critical</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_1</key>
@@ -70,10 +71,12 @@
   <message>
     <key>pawn_cultivation_element_3_2</key>
     <original>体力が危険な時に回復を受けにいく</original>
+    <translation>Seek healing when health is critical</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_3</key>
     <original>体力が少ない時に回復する</original>
+    <translation>Heal teammates when their health is low</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_4</key>
@@ -88,6 +91,7 @@
   <message>
     <key>pawn_cultivation_element_3_6</key>
     <original>体力が少ない時に回復を受けにいく</original>
+    <translation>Seek healing when health is low</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_7</key>
@@ -97,6 +101,7 @@
   <message>
     <key>pawn_cultivation_element_3_8</key>
     <original>敵の注目を集める</original>
+    <translation>Attract enemies</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_9</key>
@@ -111,11 +116,12 @@
   <message>
     <key>pawn_cultivation_element_3_11</key>
     <original>体力が少しでも減れば回復する</original>
+    <translation>Heal teammates, even their the slightest wounds</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_12</key>
     <original>体力が少しでも減れば回復を受けにいく</original>
-    <translation>Recover health even if it goes down a little</translation>
+    <translation>Seek healing, even the slightest wounds</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_13</key>
@@ -133,6 +139,7 @@
   <message>
     <key>pawn_cultivation_element_4_2</key>
     <original>普通</original>
+    <translation>Normal</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_4_3</key>
@@ -224,6 +231,7 @@
   <message>
     <key>pawn_growtalk_choice_033</key>
     <original>攻撃の頻度を上げる</original>
+    <translation>Increase attack frequency</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_034</key>
@@ -233,11 +241,12 @@
   <message>
     <key>pawn_growtalk_choice_035</key>
     <original>敵との間合いをより取る</original>
-    <translation>Increase attack frequency</translation>
+    <translation>Keep distance from enemies</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_036</key>
     <original>敵との間合いをより詰める</original>
+    <translation>Stay close to enemies</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_037</key>
@@ -262,10 +271,12 @@
   <message>
     <key>pawn_growtalk_choice_041</key>
     <original>行動の優先度を上げる</original>
+    <translation>Increase priority of action</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_042</key>
     <original>行動の優先度を下げる</original>
+    <translation>Decrease priority of action</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_043</key>
@@ -310,6 +321,7 @@
   <message>
     <key>pawn_growtalk_err_005</key>
     <original>スキルを持っていないので選択できません</original>
+    <translation>Cannot select because this pawn does not possess the skill</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_001</key>
@@ -349,6 +361,8 @@
   <message>
     <key>pawn_growtalk_title_008</key>
     <original>敵の大きさで使う技の最終確認</original>
+    <translation>Final confirmation of skill use
+according to enemy size</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_009</key>
@@ -364,14 +378,17 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_title_011</key>
     <original>行動の優先を変えたい項目を選択してください</original>
+    <translation>Please select the item you want to change priority</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_012</key>
     <original>優先度をどうしますか？</original>
+    <translation>How will you prioritize this?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_013</key>
     <original>行動の優先の最終確認</original>
+    <translation>Final confirmation of priority of actions</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_014</key>
@@ -381,10 +398,12 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_title_015</key>
     <original>攻撃・支援の割合は？</original>
+    <translation>What is the attack/support ratio?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_016</key>
     <original>攻撃・支援の割合の最終確認</original>
+    <translation>Final confirmation of attack/support ratio</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_017</key>
