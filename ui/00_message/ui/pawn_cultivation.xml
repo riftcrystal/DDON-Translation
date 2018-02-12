@@ -394,7 +394,7 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_title_012</key>
     <original>優先度をどうしますか？</original>
-    <translation>How will you prioritize this?</translation>
+    <translation>How will you prioritize actions?</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_013</key>
