@@ -584,9 +584,9 @@ after picking them up from incapacitation.
     <original>白竜神殿から出てしばらくの間
 最大体力が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your Strength after leaving
+    <translation>Increases your health after leaving
 White Dragon Temple for a period of time.
-&lt;COL ffdc78&gt;LV UP: Increases Strength further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Increases health further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_106</key>
@@ -723,7 +723,7 @@ and you do not stagger from enemy attacks.
     <original>エリクシル発動の予備動作が短縮される
 &lt;COL ffdc78&gt;LV UP毎に予備動作さらに短縮&lt;/COL&gt;</original>
     <translation>Decreases the time required to prepare your
-elixer.
+Elixir.
 &lt;COL ffdc78&gt;LV UP: Further decreases preparation time.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1265,7 +1265,7 @@ attacks.
     <original>エリクシル発動時、変換する状態異常値が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
     <translation>Increases the effectiveness of your chosen status
-when activating Elixer.
+when activating Elixir.
 &lt;COL ffdc78&gt;LV UP: Further increases status effectiveness.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -2146,7 +2146,7 @@ attacks.
 スタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
     <translation>Recovers your stamina when using a fully
-alchemized Elixer.
+alchemized Elixir.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -2528,7 +2528,7 @@ LV5~6: Increases stun power.&lt;/COL&gt;</translation>
     <original>エリクシルのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Elixer.
+    <translation>Increases the damage of Elixir.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -3763,20 +3763,35 @@ safely fall.
     <key>ABILITY_INFO_461</key>
     <original>友体/友活/友攻/友魔/友防/友護の
 Lv6以上の全てのアビリティ効果が付与される</original>
+    <translation>Grant the effect above Lv6 of the following augments:
+Companion Health, Companion Stamina, Companion Attack,
+Companion Magick, Companion Defense, Companion Magick Defense.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_462</key>
     <original>探採/宝眼/延泉/安着/流断/薬効の
 Lv6以上の全てのアビリティ効果が付与される</original>
+    <translation>Grant the effect above Lv6 of the following augments:
+Gathering, Treasure Eye, Extended Springs,
+Safe Landing, Flow, Efficacy.
+    </translation>
   </message>
   <message>
     <key>ABILITY_INFO_463</key>
     <original>侵壊/侵護/減侵/豪握/強壮の
 Lv6以上の全てのアビリティ効果が付与される</original>
+    <translation>Grant the effect above Lv6 of the following augments:
+Infected Destroyer, Infected Safeguard,
+Reduced Corruption, Great Grasp, Hardy.
+    </translation>
   </message>
   <message>
     <key>ABILITY_INFO_464</key>
     <original>羅刹/夜叉/空滅/速離/聖体の
 Lv6以上の全てのアビリティ効果が付与される</original>
+    <translation>Grant the effect above Lv6 of the following augments:
+Rakshasa, Yasha, Sky Annihilation,
+Egression, Holy Body.
+    </translation>
   </message>
 </resource>

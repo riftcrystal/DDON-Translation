@@ -1108,6 +1108,7 @@
   <message>
     <key>weakness_attack_armed</key>
     <original>対敵特効【戦甲】</original>
+    <translation>War-Ready Slayer</translation>
   </message>
   <message>
     <key>material_cateforyname_add_status</key>
