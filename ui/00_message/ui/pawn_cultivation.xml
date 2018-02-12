@@ -449,12 +449,12 @@ according to enemy condition</translation>
   <message>
     <key>pawn_growtalk_choice_049</key>
     <original>上げる</original>
-    <translation> (↑)</translation>
+    <translation>Increase</translation>
   </message>
   <message>
     <key>pawn_growtalk_choice_050</key>
     <original>下げる</original>
-    <translation> (↓)</translation>
+    <translation>Decrease</translation>
   </message>
   <message>
     <key>pawn_growtalk_word_001</key>
