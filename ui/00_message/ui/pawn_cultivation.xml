@@ -116,7 +116,7 @@
   <message>
     <key>pawn_cultivation_element_3_11</key>
     <original>体力が少しでも減れば回復する</original>
-    <translation>Heal teammates, even their the slightest wounds</translation>
+    <translation>Heal teammates' wounds, even their slightest ones</translation>
   </message>
   <message>
     <key>pawn_cultivation_element_3_12</key>
