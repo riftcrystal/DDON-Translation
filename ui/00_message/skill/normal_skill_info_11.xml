@@ -2,34 +2,46 @@
   <message>
     <key>NORMAL_SKILL_INFO_11_165</key>
     <original>剣による連撃を繰り出す</original>
+    <translation>Perform a continuous attack with your magick sword.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_166</key>
     <original>剣による強力な連撃を繰り出す</original>
+    <translation>Perform a strong continuous attack with your magick sword.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_175</key>
     <original>空中で敵に剣を叩きつけ飛翔し
 追加入力で空中から地面へ剣を叩きつける
 高所から行うことで威力が上昇する</original>
+    <translation>Attack an enemy in the air and further push yourself up.
+Perform a falling hit with additional input.
+Damage increases from high place.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_174</key>
     <original>空中で剣による連続攻撃を繰り出す</original>
+    <translation>Perform continuous attacks on air with your magick sword.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_167</key>
     <original>敵に向かう魔弾を放つ
 ボタン連打で弾数が増加する</original>
+    <translation>Shoot a magick bullet toward an enemy.
+Number of bullets increase with additional input.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_171</key>
     <original>敵の攻撃を避けつつ、剣による攻撃を繰り出す</original>
+    <translation>Attack nearby enemies with your sword
+while dodging at the same time.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_169</key>
     <original>狙いをつけ、敵の力の在り処を探る
 空中でも発動可能</original>
+    <translation>Target and explore an enemy's magickal strength.
+Can be activated in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_168</key>
@@ -37,30 +49,45 @@
 付与された敵を剣で攻撃することで
 魔印が成長し、持続的に多くの魔力を得る
 攻撃を行わないと徐々に減退する</original>
+    <translation>Put a Magick Glyph on an enemy.
+Attacking the Glyph with your sword quickly increases
+your magick gauge.
+Glyph will diminish if not attacked.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_172</key>
     <original>敵に密着した状態で使用することで
 後方に高速で移動する</original>
+    <translation>Instantly move yourself away from an enemy by
+activating this skill at close range.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_170</key>
     <original>バック・リープを接触させた敵に高速で接近する
 空中でも発動可能</original>
+    <translation>Quickly approach the enemy touched by Back Leap.
+Can be used in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_173</key>
     <original>大量の魔力を剣に込め、魔力の刃として敵に放つ
 着弾するまでの飛距離が長い程、威力が上昇する</original>
+    <translation>Channel a large amount of magick to your sword
+and launch your sword to an enemy. The longer distance it travels,
+the more damage increases.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_177</key>
     <original>敵に吹き飛ばされた際に転倒を回避する</original>
+    <translation>Recover quickly from being knocked down by an enemy.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_11_176</key>
     <original>しがみついた状態から
 剣による連続攻撃を繰り出す
 ボタン連打で攻撃回数が増加する</original>
+    <translation>When climbing, attack an enemy continously
+with your sword. The number of attacks increases with
+additional input.</translation>
   </message>
 </resource>

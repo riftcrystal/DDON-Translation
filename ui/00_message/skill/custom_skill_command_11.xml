@@ -2,39 +2,56 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_237</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_241</key>
     <original>セットボタンを押す
 　カテゴリ：補助魔法
 　魔力１ゲージ消費で発動可能</original>
+    <translation>Press the assigned button.
+Category: Support Magick.
+Consume 1 magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_244</key>
     <original>セットボタンを押す
 　カテゴリ：純魔法
 　魔力１スタック消費で発動可能</original>
+    <translation>Press the assigned button.
+Category: Pure Magick.
+Consume 1 stack of magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_240</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_238</key>
     <original>セットボタンを押す
 　カテゴリ：補助魔法
 　魔力１ゲージ消費で発動可能</original>
+    <translation>Press the assigned button.
+Category: Support Magick.
+Consume 1 magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_242</key>
     <original>セットボタンを押す
 　カテゴリ：純魔法
 　魔力２スタック消費で発動可能</original>
+    <translation>Press the assigned button.
+Category: Pure Magick.
+Consume 2 stacks of magickal gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_239</key>
     <original>セットボタンを押す
 　カテゴリ：純魔法
 　魔力２スタック消費で発動可能</original>
+    <translation>Press the assigned button.
+Category: Pure Magick.
+Consume 2 stacks of magickal gauge.</translation>
   </message>
 </resource>
