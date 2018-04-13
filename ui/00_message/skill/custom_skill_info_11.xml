@@ -5,6 +5,11 @@
 魔印が最大に成長している時、性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.6で空中でも発動可能&lt;/COL&gt;</original>
+    <translation>Imbue your sword with Holy attribute and
+attack surrounding enemies.
+Damage increases when the Magick Glyph grows.
+&lt;COL ffdc78&gt;LV UP Increases damage of skill.
+LV.6 Can be activated in the air.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_241</key>
@@ -13,6 +18,12 @@ LV.6で空中でも発動可能&lt;/COL&gt;</original>
 空中での連続発動は2回まで可能
 &lt;COL ffdc78&gt;LV UP毎に再発動禁止時間が短縮
 LV.6で攻撃アクション中であればいつでも発動可能&lt;/COL&gt;</original>
+    <translation>Create a phantom and teleport forward.
+If user comes into contact with enemy
+while teleporting, deal magic damage.
+Can use twice while mid air.
+&lt;COL ffdc78&gt;LV UP Reduce cooldown between activation.
+LV.6 Can be used at any time during attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_244</key>
@@ -20,6 +31,10 @@ LV.6で攻撃アクション中であればいつでも発動可能&lt;/COL&gt;<
 前方に複数の魔力の刃を放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.6で攻撃ヒット回数が増加&lt;/COL&gt;</original>
+    <translation>Ready your sword and slice downwards, releases several
+magic blades towards enemies infont of you.
+&lt;COL ffdc78&gt;LV UP Increases damage of skill.
+LV.6 Increases number of hit.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_240</key>
@@ -28,12 +43,22 @@ LV.6で攻撃ヒット回数が増加&lt;/COL&gt;</original>
 魔印が最大に成長している時、性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.6でしがみつき中でも発動可能&lt;/COL&gt;</original>
+    <translation>Thrusts the blade imbued with dark magick into
+the target's body before pulling it out.
+Damage is increased when the Magick Glyph grows.
+&lt;COL ffdc78&gt;LV UP Increases damage of skill.
+LV.6 Can be used when climbing.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_238</key>
     <original>自身の前方に魔力の盾を一定時間展開する
 &lt;COL ffdc78&gt;LV UP毎に展開時間延長
 LV.6で敵の攻撃に合わせて発動した際、展開時間延長&lt;/COL&gt;</original>
+    <translation>Create a magickal barrier in front of you
+for a certain amount of time.
+&lt;COL ffdc78&gt;LV UP Increases duration of the shield.
+LV.6 When invoked just before an enemy's attack connects,
+duration is further increased.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_242</key>
@@ -42,11 +67,19 @@ LV.6で敵の攻撃に合わせて発動した際、展開時間延長&lt;/COL&g
 ボタンの追加入力で攻撃ヒット数が増加
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 Lv.6で追加入力時の攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>Bombard an enemy with Magick Blade, dealing continuous
+Dark and Slash damage to enemy.
+Number of hits increases with consecutive button presses.
+&lt;COL ffdc78&gt;LV UP Increases damage of skill.
+Lv.6 Increases number of hits with consecutive button presses.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_11_239</key>
     <original>魔力を収束させ、聖・打属性の魔力の渦を発生させる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 Lv.6で攻撃ヒット回数が増加&lt;/COL&gt;</original>
+    <translation>Create a vortex that deals Holy and Impact damage.</translation>
+&lt;COL ffdc78&gt;LV UP Increases damage of skill
+Lv.6 Increases number of hits.&lt;/COL&gt;
   </message>
 </resource>

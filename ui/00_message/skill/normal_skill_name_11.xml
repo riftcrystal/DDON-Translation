@@ -2,46 +2,57 @@
   <message>
     <key>NORMAL_SKILL_NAME_11_165</key>
     <original>四連斬</original>
+    <translation>Quadruple Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_166</key>
     <original>弧連斬</original>
+    <translation>Arc Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_175</key>
     <original>昇墜斬</original>
+    <translation>Falling Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_174</key>
     <original>空叉斬</original>
+    <translation>Sky Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_167</key>
     <original>ルイン・ショット</original>
+    <translation>Ruin Shot</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_171</key>
     <original>避翻斬</original>
+    <translation>Dodge Counter Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_169</key>
     <original>ウィル・スタンス</original>
+    <translation>Will Stance</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_168</key>
     <original>ウィル・マーカー</original>
+    <translation>Will Marker</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_172</key>
     <original>バック・リープ</original>
+    <translation>Back Leap</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_170</key>
     <original>リターン・シフト</original>
+    <translation>Return Shift</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_173</key>
     <original>ルイン・ブレード</original>
+    <translation>Ruin Blade</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_11_177</key>
@@ -51,5 +62,6 @@
   <message>
     <key>NORMAL_SKILL_NAME_11_176</key>
     <original>握把斬</original>
+    <translation>Gripping Slash</translation>
   </message>
 </resource>
