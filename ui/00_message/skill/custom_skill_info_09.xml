@@ -165,6 +165,11 @@ Increase the number of substances (3→5)&lt;/COL&gt;
 タイミングよくボタンを押すと展開時間が延長する
 &lt;COL ffdc78&gt;LV UP毎に状態異常値上昇
 LV.６で最大入力回数が増加し、展開時間が延長&lt;/COL&gt;</original>
+    <translation>Generate an area that nullifies damage for all allies nearby.
+Enemies within the area are affected by your chosen Elixir.
+The duration is greatly increased with correct timing.
+&lt;COL ffdc78&gt;LV UP: Increases debilitation rate.
+LV.6: Maximum number of inputs increased, extending the duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_189</key>

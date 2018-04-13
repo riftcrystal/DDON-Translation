@@ -126,6 +126,12 @@ the motion of the skill.&lt;/COL&gt;</translation>
 展開サイズを拡張しつつ自身の強化性能を更に上昇させる
 &lt;COL ffdc78&gt;LV UP毎に効果時間延長
 LV.６でエンチャント強化と吹き飛ばし力強化の性能上昇&lt;/COL&gt;</original>
+    <translation>Expand a spiritual area that increases damage and
+blow force of enchantment of nearby allies including enchantment
+from crests. If used as a counter, the effect is greatly increased
+and the deployment size is expanded.
+&lt;COL ffdc78&gt;LV UP: Increases duration of effect.
+LV.6: Increases the effectiveness of the buff.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_195</key>
