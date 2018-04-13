@@ -11,7 +11,7 @@
 　魔力１ゲージ消費で発動可能</original>
     <translation>Press the assigned button.
 Category: Support Magick.
-Consume 1 magick gauge.</translation>
+Consumes 1 magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_244</key>
@@ -20,7 +20,7 @@ Consume 1 magick gauge.</translation>
 　魔力１スタック消費で発動可能</original>
     <translation>Press the assigned button.
 Category: Pure Magick.
-Consume 1 stack of magick gauge.</translation>
+Consumes 1 stack of magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_240</key>
@@ -34,7 +34,7 @@ Consume 1 stack of magick gauge.</translation>
 　魔力１ゲージ消費で発動可能</original>
     <translation>Press the assigned button.
 Category: Support Magick.
-Consume 1 magick gauge.</translation>
+Consumes 1 magick gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_242</key>
@@ -43,7 +43,7 @@ Consume 1 magick gauge.</translation>
 　魔力２スタック消費で発動可能</original>
     <translation>Press the assigned button.
 Category: Pure Magick.
-Consume 2 stacks of magickal gauge.</translation>
+Consumes 2 stacks of magickal gauge.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_11_239</key>
@@ -52,6 +52,6 @@ Consume 2 stacks of magickal gauge.</translation>
 　魔力２スタック消費で発動可能</original>
     <translation>Press the assigned button.
 Category: Pure Magick.
-Consume 2 stacks of magickal gauge.</translation>
+Consumes 2 stacks of magickal gauge.</translation>
   </message>
 </resource>

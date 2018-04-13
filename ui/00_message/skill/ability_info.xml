@@ -90,6 +90,8 @@ or stalactites.
     <key>ABILITY_INFO_467</key>
     <original>魔印の減退速度が低下する
 &lt;COL ffdc78&gt;LVUP毎により減退速度がさらに低下&lt;/COL&gt;</original>
+    <translation>Slows the drain of Magick Glyph.</translation>
+&lt;COL ffdc78&gt;LVUP Further decreases the drain.下&lt;/COL&gt;
   </message>
   <message>
     <key>ABILITY_INFO_4</key>
@@ -190,6 +192,8 @@ spring baths.
     <original>属性の付与されたルイン・ブレードで
 より敵を状態異常にかかりやすくする
 &lt;COL ffdc78&gt;LVUP毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Ruin Blade accumulates element faster when enchanted.
+&lt;COL ffdc78&gt;LVUP Increases status effect accumulation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_15</key>
@@ -289,6 +293,8 @@ Their maximum stamina is increased for a certain period of time.
     <key>ABILITY_INFO_478</key>
     <original>攻撃を受けて体勢を崩された際の魔印を減退を抑える
 &lt;COL ffdc78&gt;LVUP毎に減退量がさらに軽減&lt;/COL&gt;</original>
+    <translation>Slows the drain of Magick Glyph when you are damaged or staggered.
+&lt;COL ffdc78&gt;LVUP Further reduces the drain.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_5</key>
@@ -386,6 +392,9 @@ will display on the map.</translation>
     <original>ルイン・ショットのダメージ量と
 吹き飛ばし力と弾速が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージと吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases damage and blow power of Ruin Shot.
+&lt;COL ffdc78&gt;LVUP Further increases damage and blow power.&lt;/COL&gt;
+    </translation>
   </message>
   <message>
     <key>ABILITY_INFO_1</key>
@@ -482,6 +491,9 @@ when you stand at death's door.
     <key>ABILITY_INFO_468</key>
     <original>瀕死時に剣による攻撃の魔力吸収量が増加する
 &lt;COL ffdc78&gt;LVUP毎に魔力吸収量がより増加&lt;/COL&gt;</original>
+    <translation>Increases the amount of magick absorbed
+when you stand at death's door.
+&lt;COL ffdc78&gt;LVUP Further increases magickal energy absoprtion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_9</key>
@@ -583,6 +595,8 @@ duration of effects granted by items.
     <key>ABILITY_INFO_483</key>
     <original>疲労攻力が上昇する
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases exhaust attack.
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_16</key>
@@ -689,6 +703,10 @@ Their Physical and Magick Defense is increased for a period of time.
     <key>ABILITY_INFO_485</key>
     <original>瀕死状態中に、疲労攻力が上昇する
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases exhaust attack when you stand
+at death's door.
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>ABILITY_INFO_6</key>
@@ -784,6 +802,7 @@ Physical and Magick Defense are increased for a period of time.
     <key>ABILITY_INFO_472</key>
     <original>剣による攻撃の魔力吸収量が上がる
 &lt;COL ffdc78&gt;LVUP毎に魔力吸収量がより増加&lt;/COL&gt;</original>
+    <translation>Increases the amount of magick absorbed by sword attacks.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_25</key>
@@ -879,6 +898,9 @@ during rainy weather.
     <original>スタミナを一定量消費するスキルを使用した際に
 一定確率で消費を無効にする
 &lt;COL ffdc78&gt;LVUP毎に無効になる確率がより増加&lt;/COL&gt;</original>
+    <translation>Has a chance to not consume stamina when
+you use custom skills.
+&lt;COL ffdc78&gt;LVUP Further increases the chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_23</key>
@@ -974,6 +996,9 @@ Their Physical and Magick Attack is increased for a period of time.
     <key>ABILITY_INFO_466</key>
     <original>魔力スタックが2以上の時に、筋力と魔力が増加する
 &lt;COL ffdc78&gt;LVUP毎に筋力と魔力がより増加&lt;/COL&gt;</original>
+    <translation>Increases Strength and Magick when
+number magickal stack is more than 2.
+&lt;COL ffdc78&gt;LVUP Further increases Strength and Magick.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_24</key>
@@ -1072,6 +1097,9 @@ with Scar Move.
     <key>ABILITY_INFO_484</key>
     <original>体力が一定量以上のとき、疲労攻力が上昇する
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases exhaust attack when your health is
+above certain level.
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_22</key>
@@ -1166,6 +1194,10 @@ enemy attacks with Scar Move.
     <key>ABILITY_INFO_486</key>
     <original>スタミナが一定量以上のとき、疲労攻力が上昇する
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases exhaust attack when your stamina is
+above certain level.
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;
+</translation>
   </message>
   <message>
     <key>ABILITY_INFO_10</key>
@@ -1260,6 +1292,9 @@ high places.
     <key>ABILITY_INFO_470</key>
     <original>純魔法発動後、一定時間魔法攻撃力が増加する
 &lt;COL ffdc78&gt;LVUP毎に効果時間がより増加&lt;/COL&gt;</original>
+    <translation>Increases magickal attack after pure magick invocation
+for a period of time.
+&lt;COL ffdc78&gt;LVUP Further increases duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_2</key>
@@ -1358,6 +1393,9 @@ power for a period of time.
     <key>ABILITY_INFO_471</key>
     <original>純魔法発動後、一定時間物理攻撃力が増加する
 &lt;COL ffdc78&gt;LVUP毎に効果時間がより増加&lt;/COL&gt;</original>
+    <translation>Increases physical attack after pure magick invocation
+for a period of time.
+&lt;COL ffdc78&gt;LVUP Further increases duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_12</key>
@@ -1455,6 +1493,9 @@ damage received by an attack of the same element will be decreased.
     <original>毒沼やマグマなどの特殊な地形から受けるダメージや
 状態異常値が減る
 &lt;COL ffdc78&gt;LVUP毎にダメージと状態異常値がさらに減少&lt;/COL&gt;</original>
+    <translation>Lower damage and status effect accumulation from terrains
+such as poison and magma.
+&lt;COL ffdc78&gt;LVUP Further decreases damage and status effect accumulation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_17</key>
@@ -1551,6 +1592,8 @@ appear on your map.
 消費するスキルを使用した際に
 一定確率で消費を無効にする
 &lt;COL ffdc78&gt;LVUP毎に無効になる確率がより増加&lt;/COL&gt;</original>
+    <translation>Has a chance to not consume Force/Revenge/Magick Gauge.
+&lt;COL ffdc78&gt;LVUP Further increases the chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_19</key>
@@ -1656,6 +1699,8 @@ maximum stamina for a period of time.
     <key>ABILITY_INFO_489</key>
     <original>戦甲系の敵から受けるダメージ量が減少する
 &lt;COL ffdc78&gt;LVUP毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces damage taken from War-Ready enemies.
+&lt;COL ffdc78&gt;LVUP Further reduce damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_8</key>
@@ -1749,6 +1794,8 @@ enemies.
     <key>ABILITY_INFO_481</key>
     <original>大砲の砲弾により与えるダメージと吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージと吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases damage and blow force when using artillery.
+&lt;COL ffdc78&gt;LVUP Further increases damage and blow force.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_18</key>
@@ -1845,6 +1892,9 @@ effect.
     <key>ABILITY_INFO_488</key>
     <original>戦甲パーツへ与えるダメージと吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage and blow force against armor parts
+of War-Ready enemies.
+&lt;COL ffdc78&gt;LVUP Further increases damage and blow force.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_3</key>
@@ -1939,6 +1989,8 @@ safely fall.
     <key>ABILITY_INFO_490</key>
     <original>戦甲系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt to War-Ready enemies.
+&lt;COL ffdc78&gt;LVUP Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_13</key>
@@ -2028,6 +2080,9 @@ blow to an enemy.
     <key>ABILITY_INFO_477</key>
     <original>補助魔法を発動し魔力消費した際に少し魔力が残る
 &lt;COL ffdc78&gt;LVUP毎に魔力残量がより増加&lt;/COL&gt;</original>
+    <translation>When using support magick, a tiny portion of
+magick gauge remains.
+&lt;COL ffdc78&gt;LVUP Further increases the remaining portion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_21</key>
@@ -2202,6 +2257,9 @@ element's affliction increases.
     <key>ABILITY_INFO_475</key>
     <original>純魔法を発動し魔力消費した際に少し魔力が残る
 &lt;COL ffdc78&gt;LVUP毎に魔力残量がより増加&lt;/COL&gt;</original>
+    <translation>When using pure magick, a tiny portion of
+magick gauge remains.
+&lt;COL ffdc78&gt;LVUP Further increases the remaining portion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_7</key>
@@ -2296,6 +2354,9 @@ the chance to apply an elemental affliction is increased.
     <original>敵にダメージを与えた時
 自身の蓄積中の状態異常値が減少する
 &lt;COL ffdc78&gt;LVUP毎に状態異常値がさらに減少&lt;/COL&gt;</original>
+    <translation>Status effect accumulation on yourself decreases
+when you are attacking enemies.
+&lt;COL ffdc78&gt;LVUP Further decreases status effect accumulation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_14</key>
@@ -2382,6 +2443,9 @@ magic.
     <original>ルイン・ブレードの魔力消費量を増加させ
 ダメージを大幅に増加させる
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation>Increases amount of magic gauge consumed by Ruin Blade,
+greatly increasing its damage.
+&lt;COL ffdc78&gt;LVUP Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_20</key>
@@ -2485,6 +2549,9 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>四連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Quadruple Slash.
+&lt;COL ffdc78&gt;LVUP Increases damage further.
+LV5~6: Increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_252</key>
@@ -2589,6 +2656,9 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>弧連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Arc Slash.
+&lt;COL ffdc78&gt;LV UP: Further increases damage.
+LV5~6: Increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_253</key>
@@ -2696,6 +2766,9 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <original>空叉斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Sky Slash.
+&lt;COL ffdc78&gt;LV UP: Further increases damage.
+LV5~6: Increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_254</key>
@@ -2799,6 +2872,9 @@ attracting enemy attention as a Tank.
     <original>昇墜斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Fall Slash.
+&lt;COL ffdc78&gt;LVUP Increases damage further.
+LV5~6: Increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_255</key>
@@ -2902,6 +2978,8 @@ LV5~6: Increases blow power.&lt;/COL&gt;</translation>
     <key>ABILITY_INFO_497</key>
     <original>全てのノーマルスキルのダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage of all normal skills.
+&lt;COL ffdc78&gt;LVUP Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_256</key>
@@ -2996,6 +3074,9 @@ difficult for enemies to stagger you.
     <original>剣による攻撃の魔印の成長速度が増加するが、
 攻撃を受けて体勢を崩された際の減退量も増加する
 &lt;COL ffdc78&gt;LVUP毎に魔印の成長速度がより増加&lt;/COL&gt;</original>
+    <translation>Increases Magick Glyph growth when using sword skills,
+but also increases Magick Glyph decay when being staggered.
+&lt;COL ffdc78&gt;LVUP Further increases growth rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_257</key>
@@ -3101,6 +3182,9 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>四連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Quadruple Slash.
+&lt;COL ffdc78&gt;LVUP Further increases damage dealt.
+LV5~6: Increases magickal energy absorption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_258</key>
@@ -3205,6 +3289,9 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>弧連撃のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Arc Slash.
+&lt;COL ffdc78&gt;LVUP Further increases damage dealt.
+LV5~6: Increases magickal energy absorption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_259</key>
@@ -3311,6 +3398,9 @@ LV5~6: Increases chance and exhaust attack.&lt;/COL&gt;</translation>
     <original>空叉斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Sky Slash.
+&lt;COL ffdc78&gt;LVUP Further increases damage dealt.
+LV5~6: Increases magickal energy absorption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_260</key>
@@ -3404,6 +3494,9 @@ the weapon is enchanted.
     <original>昇墜斬のダメージ量が増加する
 &lt;COL ffdc78&gt;LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加&lt;/COL&gt;</original>
+    <translation>Increases damage of Falling Slash.
+&lt;COL ffdc78&gt;LVUP Further increases damage dealt.
+LV5~6: Increases magickal energy absorption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_261</key>

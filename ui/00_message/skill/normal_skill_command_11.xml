@@ -2,57 +2,77 @@
   <message>
     <key>NORMAL_SKILL_COMMAND_11_165</key>
     <original>&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_166</key>
     <original>&lt;KC ATTACK1&gt;後、少し遅らせて&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>After pressing &lt;KC ATTACK1&gt;, delay a moment and press
+&lt;KC ATTACK1&gt; repeatedly.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_175</key>
     <original>空中で&lt;KC ATTACK1&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK1&gt; while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_174</key>
     <original>&lt;PADM&gt;空中で左スティックを倒しながら&lt;KC ATTACK1&gt;を押す&lt;KEYM&gt;空中で移動キーを押しながら&lt;KC ATTACK1&gt;を押す&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;While in the moving in the air with the left stick, 
+press &lt;KC ATTACK1&gt;
+&lt;KEYM&gt; While in the moving in the air, press &lt;KC ATTACK1&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_167</key>
     <original>&lt;KC ATTACK2&gt;を押す</original>
+    <translation>Press &lt;KC ATTACK2&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_171</key>
     <original>&lt;KC ROLLING&gt;を押す</original>
+    <translation>Press &lt;KC ROLLING&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_169</key>
     <original>&lt;KC WEAPON_SUB&gt;を押す</original>
+    <translation>Press &lt;KC WEAPON_SUB&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_168</key>
     <original>&lt;KC WEAPON_SUB&gt;を押しながら&lt;KC MARK_SHOT&gt;を押す</original>
+    <translation>While pressing, >&lt;KC WEAPON_SUB&gt;, press &lt;KC MARK_SHOT&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_172</key>
     <original>&lt;KC SKILL_NORMAL1&gt;を押す
 　カテゴリ：補助魔法
 　魔力１ゲージ消費で発動可能</original>
+    <translation>Press &lt;KC SKILL_NORMAL1
+Category: Support Magick.
+Consumes 1 magick gauge.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_170</key>
     <original>バックリープ発動後に&lt;KC SKILL_NORMAL1&gt;を押す</original>
+    <translation>After activating Back Leap. press &lt;KC SKILL_NORMAL1&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_173</key>
     <original>&lt;KC OVER_BRADE&gt;を押す
 　カテゴリ：純魔法
 　魔力１スタック消費で発動可能</original>
+    <translation>Press &lt;KC OVER_BRADE&gt;
+Category: Pure Magick.
+Consumes 1 stack of magick gauge.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_177</key>
     <original>吹き飛ばされ中に&lt;KC JUMP&gt;を押す</original>
+    <translation>While being knocked away, press &lt;KC JUMP&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_11_176</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を連続して押す</original>
+    <translation>While climbing an enemy, press &lt;KC ATTACK1&gt; continuously</translation>
   </message>
 </resource>

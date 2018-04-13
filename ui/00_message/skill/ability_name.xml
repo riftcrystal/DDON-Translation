@@ -52,6 +52,7 @@
   <message>
     <key>ABILITY_NAME_467</key>
     <original>延印</original>
+    <translation>Extended Glyph</translation>
   </message>
   <message>
     <key>ABILITY_NAME_4</key>
@@ -111,6 +112,7 @@
   <message>
     <key>ABILITY_NAME_473</key>
     <original>烈翔</original>
+    <translation>Fierce Flight</translation>
   </message>
   <message>
     <key>ABILITY_NAME_15</key>
@@ -170,6 +172,7 @@
   <message>
     <key>ABILITY_NAME_478</key>
     <original>護印</original>
+    <translation>Protective Glyph</translation>
   </message>
   <message>
     <key>ABILITY_NAME_5</key>
@@ -229,6 +232,7 @@
   <message>
     <key>ABILITY_NAME_469</key>
     <original>強弾</original>
+    <translation>Strong Shot</translation>
   </message>
   <message>
     <key>ABILITY_NAME_1</key>
@@ -288,6 +292,7 @@
   <message>
     <key>ABILITY_NAME_468</key>
     <original>危吸</original>
+    <translation>Perilous Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_9</key>
@@ -347,6 +352,7 @@
   <message>
     <key>ABILITY_NAME_483</key>
     <original>活鎮</original>
+    <translation>Active Supression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_16</key>
@@ -406,6 +412,7 @@
   <message>
     <key>ABILITY_NAME_485</key>
     <original>迫鎮</original>
+    <translation>Imperative Supression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_6</key>
@@ -465,6 +472,7 @@
   <message>
     <key>ABILITY_NAME_472</key>
     <original>加吸</original>
+    <translation>Increased Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_25</key>
@@ -524,6 +532,7 @@
   <message>
     <key>ABILITY_NAME_479</key>
     <original>武運</original>
+    <translation>Fortunes of War</translation>
   </message>
   <message>
     <key>ABILITY_NAME_23</key>
@@ -583,6 +592,7 @@
   <message>
     <key>ABILITY_NAME_466</key>
     <original>魔充</original>
+    <translation>Magickal Charge</translation>
   </message>
   <message>
     <key>ABILITY_NAME_24</key>
@@ -642,6 +652,7 @@
   <message>
     <key>ABILITY_NAME_484</key>
     <original>勇鎮</original>
+    <translation>Courageous Supression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_22</key>
@@ -701,6 +712,7 @@
   <message>
     <key>ABILITY_NAME_486</key>
     <original>精鎮</original>
+    <translation>Vigorous Supression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_10</key>
@@ -760,6 +772,7 @@
   <message>
     <key>ABILITY_NAME_470</key>
     <original>増魔</original>
+    <translation>Augmented Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_2</key>
@@ -819,6 +832,7 @@
   <message>
     <key>ABILITY_NAME_471</key>
     <original>転魔</original>
+    <translation>Altered Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_12</key>
@@ -878,6 +892,7 @@
   <message>
     <key>ABILITY_NAME_482</key>
     <original>厚足</original>
+    <translation>Heavy Foot</translation>
   </message>
   <message>
     <key>ABILITY_NAME_17</key>
@@ -937,6 +952,7 @@
   <message>
     <key>ABILITY_NAME_480</key>
     <original>源運</original>
+    <translation>Source Luck</translation>
   </message>
   <message>
     <key>ABILITY_NAME_19</key>
@@ -996,6 +1012,7 @@
   <message>
     <key>ABILITY_NAME_489</key>
     <original>戦護</original>
+    <translation>War-Ready Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_8</key>
@@ -1055,6 +1072,7 @@
   <message>
     <key>ABILITY_NAME_481</key>
     <original>砲撃</original>
+    <translation>Bombardment</translation>
   </message>
   <message>
     <key>ABILITY_NAME_18</key>
@@ -1114,6 +1132,7 @@
   <message>
     <key>ABILITY_NAME_488</key>
     <original>甲砕</original>
+    <translation>Armor Crusher</translation>
   </message>
   <message>
     <key>ABILITY_NAME_3</key>
@@ -1173,6 +1192,7 @@
   <message>
     <key>ABILITY_NAME_490</key>
     <original>戦狙</original>
+    <translation>War-Ready Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_13</key>
@@ -1231,6 +1251,7 @@
   <message>
     <key>ABILITY_NAME_477</key>
     <original>節補</original>
+    <translation>Complement Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_21</key>
@@ -1344,6 +1365,7 @@
   <message>
     <key>ABILITY_NAME_475</key>
     <original>節魔</original>
+    <translation>Magickal Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_7</key>
@@ -1403,6 +1425,7 @@
   <message>
     <key>ABILITY_NAME_487</key>
     <original>抗滅</original>
+    <translation>Anti-Reduction</translation>
   </message>
   <message>
     <key>ABILITY_NAME_14</key>
@@ -1462,6 +1485,7 @@
   <message>
     <key>ABILITY_NAME_474</key>
     <original>翔剣</original>
+    <translation>Soaring Sword</translation>
   </message>
   <message>
     <key>ABILITY_NAME_20</key>
@@ -1521,6 +1545,7 @@
   <message>
     <key>ABILITY_NAME_499</key>
     <original>四撃 倒</original>
+    <translation>Quadruple Slash: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_252</key>
@@ -1580,6 +1605,7 @@
   <message>
     <key>ABILITY_NAME_500</key>
     <original>弧撃 倒</original>
+    <translation>Arc Slash: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_253</key>
@@ -1639,6 +1665,7 @@
   <message>
     <key>ABILITY_NAME_502</key>
     <original>空叉 倒</original>
+    <translation>Sky Slash: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_254</key>
@@ -1698,6 +1725,7 @@
   <message>
     <key>ABILITY_NAME_501</key>
     <original>昇墜 倒</original>
+    <translation>Falling Slash: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_255</key>
@@ -1757,6 +1785,7 @@
   <message>
     <key>ABILITY_NAME_497</key>
     <original>常撃</original>
+    <translation>Ordinary Attack</translation>
   </message>
   <message>
     <key>ABILITY_NAME_256</key>
@@ -1816,6 +1845,7 @@
   <message>
     <key>ABILITY_NAME_504</key>
     <original>偏吸</original>
+    <translation>Respiration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_257</key>
@@ -1875,6 +1905,7 @@
   <message>
     <key>ABILITY_NAME_493</key>
     <original>四撃 吸</original>
+    <translation>Quadruple Slash: Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_258</key>
@@ -1934,6 +1965,7 @@
   <message>
     <key>ABILITY_NAME_494</key>
     <original>弧撃 吸</original>
+    <translation>Arc Slash: Destroyer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_259</key>
@@ -1993,6 +2025,7 @@
   <message>
     <key>ABILITY_NAME_495</key>
     <original>空叉 吸</original>
+    <translation>Sky Slash: Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_260</key>
@@ -2052,6 +2085,7 @@
   <message>
     <key>ABILITY_NAME_496</key>
     <original>昇墜 吸</original>
+    <translation>Falling Slash: Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_261</key>
