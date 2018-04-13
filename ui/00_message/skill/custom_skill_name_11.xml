@@ -2,29 +2,36 @@
   <message>
     <key>CUSTOM_SKILL_NAME_11_237</key>
     <original>光円月</original>
+    <translation>Full Moon Light</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_241</key>
     <original>ミラージュ・シフト</original>
+    <translation>Mirage Shift</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_244</key>
     <original>ディム・スライス</original>
+    <translation>Dim Slice</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_240</key>
     <original>黒閃牙</original>
+    <translation>Black Flash Fang</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_238</key>
     <original>ウォール・バリア</original>
+    <translation>Wall Barrier</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_242</key>
     <original>テラー・ブラスト</original>
+    <translation>Terror Blast</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_11_239</key>
     <original>エクリプス・ブライト</original>
+    <translation>Eclipse Blast</translation>
   </message>
 </resource>
