@@ -3,24 +3,35 @@
     <original>ハイデルは我々ポーンにとっても
 もっとも縁深き場所
 なにせ、我がマスターとの契約の地ですから！</original>
+	<translation>For us pawns, Hidell is the most familiar of places. 
+It is where we contract with our Masters.</translation>
   </message>
   <message>
     <original>おのれ！　オークが少なからず
 侵入しているようです
 どこから入り込んだのでしょう</original>
+	<translation>There! 
+Orcs seem to be intruding! 
+Where did they come from?</translation>
   </message>
   <message>
     <original>ハーブを見かけたらありったけ
 摘んでおきましょう！
 神殿に戻ったら私が薬にしますので！</original>
+	<translation>If you see herbs, pick them up. 
+I can craft them into medicine for you, back at the capital.</translation>
   </message>
   <message>
     <original>比較的穏やかなハイデルでも
 時に大型の魔物が現れます
 気は抜けませんね！</original>
+	<translation>Hidell is relatively calm, but sometimes large monsters may appear. 
+Be wary, Arisen.</translation>
   </message>
   <message>
     <original>ブリアやミスリウへは十分徒歩でいけますよ
 もちろん、マスターとなら地の果てまでも！</original>
+	</translation>We can walk to Mysree Forest and the Breya Coast from here. 
+I will walk to the ends of the world for you, Master!</translation>
   </message>
 </resource>

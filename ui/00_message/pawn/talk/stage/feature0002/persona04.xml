@@ -3,20 +3,28 @@
     <original>海岸は植生、魔物の種類とも平原とは異なる
 特に多いのはハ―ピー、
 そしてリザードマンなど水棲型</original>
+	<translation>The creatures who lurk here are much different then that of the plains. 
+Harpies are plentiful. 
+And Lizardmen stalk close to the water.</translation>
   </message>
   <message>
     <original>ブリア海岸南部は北部とは異なり
 危険度が高い
 水竜の目撃例も、多々</original>
+	<translation>Unlike the northern part of Breya, rumor has it, that a sea drake was once spotted there.</translation>
   </message>
   <message>
     <original>漂流船の発見時は、速やかに検分を</original>
+	<translation>If we find a beached ship, it would be best to inspect it.</translation>
   </message>
   <message>
     <original>波音は、精神衛生にも効果的――</original>
+	<translation>The melody of the tides, is calming to the mind.</translation>
   </message>
   <message>
     <original>海岸部の情報収集であれば、
 ローテスへの立ち寄りを勧める</original>
+	<translation>As far as coastal information gathering is concerned, I encourage you to stop by Rotes Village. 
+Im sure they will have helpful information.</translation>
   </message>
 </resource>

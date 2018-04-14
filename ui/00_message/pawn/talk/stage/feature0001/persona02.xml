@@ -2,21 +2,29 @@
   <message>
     <original>ハイデル平原は、一番落ち着きます
 白竜さまのお膝元ですし――</original>
+	<translation>The Hidell Plains is mostly calm. It is closest to the White Dragon.</translation>
   </message>
   <message>
     <original>ハイデルにこれ以上オークが
 侵入してきたら、大変です――</original>
+	<translation>There are very few Orcs that inhabit the Hidell Plains. 
+However, If they infiltrate the city, there will be tragedy.</translation>
   </message>
   <message>
     <original>ハーブは薬の材料になります
 見つけたら多めに採っておいた方が――</original>
+	<translation>Herbs are a crafting material. 
+That can be later crafted into medicine.</translation>
   </message>
   <message>
     <original>なるべく街道沿いを歩きましょう
 少しでも安全なところを</original>
+	<translation>If we walk along the road, it will be much safer. 
+Beyond it, danger lurks.</translation>
   </message>
   <message>
     <original>テルに寄ったら、またアルフレドさんに
 ご挨拶しておかないと――</original>
+	<translation>If we visit the Village of Tel, we should greet Alfred at the Black Grape Tavern.</translation>
   </message>
 </resource>

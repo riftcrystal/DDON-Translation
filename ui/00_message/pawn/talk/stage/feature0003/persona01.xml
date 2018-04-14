@@ -2,24 +2,35 @@
   <message>
     <original>森の空気は気もちいいですね
 ――エイプのねぐら付近を除けば、ですが</original>
+	<translation>The air here is refreshing here in this forest. 
+Not so much where the apes rest.</translation>
   </message>
   <message>
     <original>ミスリウには洞窟も多いようです
 森と洞窟となれば、魔物が多いのも
 うなずけます</original>
+	<translation>There are many caves in the Forest. 
+Monsters dwell in such forgotten places, I am sure of it.</translation>
   </message>
   <message>
     <original>木材やキノコがあちこちにあります
 伐採ナイフは多めに持っておくといいかも
 しれません</original>
+	<translation>The forest is abundant with mushrooms and wood. 
+A lumbering knife would be quite useful here.</translation>
   </message>
   <message>
     <original>大きな樹は登れそうですね
 上になにかあるかもしれません</original>
+	<translation>Look! A large tree. 
+If we climb, there could be something uptop.</translation>
   </message>
   <message>
     <original>オオカミやフォレストゴブリンは
 群れで襲ってきます
 囲まれないよう目を光らせなければ</original>
+	<translation>Wolves and forest goblins travel in packs. 
+We must keep our wits about us. 
+We could potentially be surrounded.</translation>
   </message>
 </resource>

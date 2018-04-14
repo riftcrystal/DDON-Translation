@@ -2,21 +2,31 @@
   <message>
     <original>鬱蒼と樹が茂ったところは
 見通しが悪くて、少しだけ怖いです――</original>
+	<translation>Where the plants and brush grow thick, makes it difficult to see. 
+We should be cautious.</translation>
   </message>
   <message>
     <original>この辺り、洞窟がたくさんあるみたいです
 きっと魔物もいっぱいいるはず――</original>
+	<Translation>There are many caves here. 
+An ideal place for monsters to dwell.</translation>
   </message>
   <message>
     <original>キノコがあちこちに生えてます
 木材も、これだけあれば困りませんね</original>
+	<translation>Mushrooms tend to grow here. 
+Branches and logs litter the forest floor.</translation>
   </message>
   <message>
     <original>あの樹の上、登れそうですよ
 ――でも落ちたらかなりの高さです</original>
+	<translation>We should climb that tree. 
+It is quite high, a fall would be deadly.</translation>
   </message>
   <message>
     <original>ところどころ、気味悪い廃屋があります
 できるだけ近づかないほうが――</original>
+	<translation>In some places, there are abandon buildings. 
+It is best to avoid them, they are home for creatures and beasts alike.</translation>
   </message>
 </resource>

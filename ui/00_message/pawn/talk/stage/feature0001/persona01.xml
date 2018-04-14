@@ -3,23 +3,33 @@
     <original>ハイデル平原は、白竜さまがおわす
 今やレスタニアの中心
 何とかこの地は死守しなければ――</original>
+	<translation>The Hidell Plains somehow help preserve the life of the White Dragon. 
+He rests here in Lestania.</translation>
   </message>
   <message>
     <original>平原は見通しがいいですね
 大型の魔物も、遠目に見つけやすいですし</original>
+	<translation>The plains are vast and open. 
+Easily to spot large creatures from a distance.</translation>
   </message>
   <message>
     <original>レスタニアハーブやベビーハーブが
 ハイデルには多く自生しています
 薬は何かと入用ですし、見つけたら採取しましょう</original>
+	<translation>Herbs and Baby Herbs naturally grow here in Hidell. 
+Collect and craft them into medicine.</translation>
   </message>
   <message>
     <original>テルはワインづくりが盛んだったとか
 近年はやや活力に陰りがあるようですが――</original>
+	<translation>In recent years, the Village of Tel was once famous for its wine. 
+But much has changed since then.</translation>
   </message>
   <message>
     <original>南はミスリウ、西はブリア、東はダウに
 北はバートランド――
 ハイデルはレスタニアの地理的中心でもあります</original>
+	<translation>Mysree Forest is in the South, Breya Coast in the West, Dowe Valley in the East, North is the Betland Plains. 
+Hidell Plains is geographically in the Center of Lestania.</translation>
   </message>
 </resource>
