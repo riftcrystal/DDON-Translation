@@ -12,6 +12,14 @@
 
 ※《黒呪の迷宮リセット券》は1週間に1度
 　　黒呪の迷宮を訪れると補充されます</original>
+    <translation>Bitterblack Maze is a special dungeon where
+the enemies and treasure change each time you enter.
+
+You can use a "Bitterblack Maze Reset Ticket" to reset
+chests and rewards, allowing you to collect them again.
+
+*"Bitterblack Maze Reset Ticket" will restock each week
+after visiting Bitterblack Maze.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_742</key>
@@ -23,6 +31,11 @@
 1度だけ変更可能&lt;/COL&gt;です
 
 ※覚者の名前は変更できません</original>
+    <translation>Bitterblack Maze is isolated from the world,
+So you can travel it with a different appearance.
+	
+Your appearance &lt;COL ffdc78&gt;can only be changed upon your 
+first entrance to Bitterblack Maze.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_743</key>
@@ -33,6 +46,11 @@
 &lt;COL ffdc78&gt;特定のエリアをクリアすることで
 進行が保存される&lt;/COL&gt;ので、最後まで諦めずに
 クリアを目指して頑張りましょう！</original>
+    <translation>Your character data is saved during progression,
+&lt;COL ffdc78&gt;so you can resume progress at any time.&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;Progress is saved when you clear a specific area,&lt;/COL&gt;
+so try to reach all the way to the end!</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_798</key>
@@ -46,6 +64,15 @@
 　　集めることで黒呪アイテムと交換できます
 ・赤竜の印　&lt;COL ffdc78&gt;所持上限 99999個&lt;/COL&gt;
  　《黒呪装具の効果封印》に使用します</original>
+    <translation>When you "Report Search Results" to Guide Lyka
+you will recieve "Gold Dragon Marks" "Silver Dragon Marks", and "Red Dragon Marks".
+
+Gold Dragon Marks: &lt;COL ffdc78&gt;Maximum amount 30&lt;/COL&gt;
+Used for "Bitterblack Item Takeaway"
+Silver Dragon Marks: &lt;COL ffdc78&gt;Maximum amount 150&lt;/COL&gt;
+Can be exchanged for Bitterblack Items
+Red Dragon Marks: &lt;COL ffdc78&gt;Maximum amount 99999&lt;/COL&gt;
+Used for "Bitterblack Maze Effect Seal"</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_788</key>
@@ -56,5 +83,10 @@
 プレイしていて分からないことや
 気になることがあった時は
 まずチュートリアルガイドを確認してみましょう</original>
+    <translation>Bitterblack Maze tutorials are gathered in the
+"Bitterblack Maze" tutorial guide category.
+
+If there is something you don't understand
+consult the tutorial guide.</translation>
   </message>
 </resource>

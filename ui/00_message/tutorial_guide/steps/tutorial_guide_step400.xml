@@ -12,5 +12,15 @@
 
 &lt;COL ffdc78&gt;レアアイテムの鑑定交換は、
 港洞や、黒呪の迷宮にいるリュカから行えます&lt;/COL&gt;</original>
+    <translation>When you obtain a "Bitterblack Ring" from 
+inside a &lt;COL ffdc78&gt;Bitterblack Chest&lt;/COL&gt; or
+when you appraise a "Bitterblack Deed Box",
+&lt;COL ffdc78&gt;"Bitterblack Equiment Effect Seal"&lt;/COL&gt; is activated.
+	
+You can obtain a ring with a non-sealed effect,
+so make sure to use it.
+	
+&lt;COL ffdc78&gt;You can appraise rare items by talking
+to Lyka at the Cave Harbor or in the Bitterblack Maze.&lt;/COL&gt;</translation>
   </message>
 </resource>

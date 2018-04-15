@@ -8,6 +8,10 @@
 また、《黒呪のディードボックス》を
 鑑定交換することでも
 それらのジュエリーを入手できます</original>
+    <translation>You can acquire jewelry with various effects
+from the "Bitterblack Chests" inside Bitterblack Maze.
+
+You can also acquire jewelry from appraising "Bitterblack Deed Boxes".</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_799</key>
@@ -18,5 +22,10 @@
 不要な効果を封印すると
 その効果が発動することがなくなるため
 &lt;COL ffdc78&gt;自分の欲しい効果が付与される確率が上がります&lt;/COL&gt;</original>
+    <translation>Before appraising, if you use "Bitterblack Maze Effect Seal"
+&lt;COL ffdc78&gt;you can seal unwanted effects.&lt;/COL&gt;
+
+If you seal an unwanted effect it will no longer show up,
+&lt;COL ffdc78&gt;so desired effects will become more frequent.&lt;/COL&gt;</translation>
   </message>
 </resource>

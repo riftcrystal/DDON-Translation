@@ -11,5 +11,15 @@
 
 黒呪の迷宮を探索して、様々なアイテムを
 レスタニアに持ち帰りましょう！</original>
+    <translation>Items found inside the Bitterblack Maze
+can be brought back to Lestania by talking to Lyka
+and selecting "Bitterblack Item Takeaway".
+&lt;COL ffdc78&gt;This will consume either "Gold Dragon Mark" or "Gold Gemstone"&lt;/COL&gt;
+
+*Items brought back from Bitterblack Maze
+will no be able to be used inside.
+
+Explore Bitterblack Maze and bring back
+all kinds of items!</translation>
   </message>
 </resource>

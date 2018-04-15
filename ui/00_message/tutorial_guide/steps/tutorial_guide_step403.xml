@@ -9,6 +9,12 @@
 &lt;COL ffdc78&gt;その際に所持しているアイテムは破棄されるため&lt;/COL&gt;
 必要なアイテムは《黒呪アイテムの持ち帰り》から
 レスタニアに持ち帰りましょう</original>
+    <translation>Even when you reach the end of Bitterblack Maze
+you can reset your progress
+and explore again.
+
+When you reset &lt;COL ffdc78&gt;your items are lost&lt;/COL&gt; so
+bring important items back through "Bitterblack Item Takeaway"</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_792</key>
@@ -22,5 +28,15 @@
 &lt;COL ffdc78&gt;②《進行と報酬のリセット》&lt;/COL&gt;
 　特別な宝箱やクリア報酬を再び入手可能です
 　黒呪の迷宮を再周回するために必ず必要となります</original>
+    <translation>There are two different types of resets
+	
+&lt;COL ffdc78&gt;1"Reset Progress"&lt;/COL&gt;
+Return to level 1 and play again from the start
+Chests and rewards are not reset
+Use when you want to play with other players from the start
+
+&lt;COL ffdc78&gt;2"Reset Rewards and Progress"&lt;/COL&gt;
+Chests and rewards are available again
+Necessary to explore Bitterblack Maze again.
   </message>
 </resource>
