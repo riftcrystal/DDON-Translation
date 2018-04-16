@@ -12,6 +12,15 @@
 
 あなたのポーンは既に１つ特技を覚えているので
 一緒に冒険して確かめてみて下さい！</original>
+    <translation>&lt;COL 78f5ff&gt;"Pawn Special Skills" are now available!&lt;/COL&gt;
+&lt;COL ffdc78&gt;These are a new type of support skill for pawns&lt;/COL&gt;
+
+There are several types of skills.
+Such as increasing ones own abilities or recovering health.
+Occasionally, they can even revive the arisen!
+
+Your pawn already has 1 special skill learned,
+so be sure to check that out.</translation>	
   </message>
   <message>
     <key>TUTORIAL_STEP_735</key>
@@ -23,6 +32,15 @@
 
 (※)パーソナルクエスト＜不思議な呼び鈴＞を
 　  クリアすると手に入ります</original>
+    <translation>While adventuring with your pawns 
+they will become &lt;COL ffdc78&gt;"Inspired".&lt;/COL&gt;
+
+You can set inspired skills with the 
+bell(※) in the arisens room.
+The more skill you set, the easier they
+are to activate so be sure to set them.
+
+(※)Acquired by completing Personal Quest "Mysterious Summoning Bell"</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_734</key>
@@ -37,6 +55,17 @@
 &lt;COL ffdc78&gt;《取得》&lt;/COL&gt;か&lt;COL ffdc78&gt;《破棄》&lt;/COL&gt;を選択できます
 破棄すると、次の機会に
 より高ランクな特技を閃きやすくなります</original>
+    <translation>There are different&lt;COL ffdc78&gt;"Skill Ranks"&lt;/COL&gt;
+The higher the rank, the stronger the effect.
+
+Heaven: Highest rank
+Sky: High rank
+Earth: Normal rank
+
+When a skills is inspired
+You can&lt;COL ffdc78&gt;"Acquire"&lt;/COL&gt;or&lt;COL ffdc78&gt;"Destroy"&lt;/COL&gt;it.
+If you destroy it, the next time they're inspired
+there's a better chance for a higher rank.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_736</key>
@@ -50,5 +79,15 @@
 狙いたい特技がある時には
 すでにその特技を覚えているサポートポーンを
 探して雇用してみましょう！</original>
+    <translation>Support pawns also have
+an effect on "Inspiration"
+
+If you bring a support pawn along on
+an adventure, your pawn has a higher cance
+of learning their Special Skills.
+
+If there's a specific skill you want
+go hire a support pawn that has
+already learned it!</translation>
   </message>
 </resource>
