@@ -2,38 +2,58 @@
   <message>
     <original>一定時間自身の物理攻撃力と魔法攻撃力が増加する
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    <translation>Temporarily increases physical attack power and magic attack power.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>一定時間自身の吹き飛ばし力と疲労攻力とチャンス攻力が増加する
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    <translation>Temporarily increases blow power, fatigue power, and chance attack.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>    
   </message>
   <message>
     <original>瞬時にパーティーメンバーの体力とスタミナが回復する
 &lt;COL ffdc78&gt; 特技ランクが高いほど回復量が増加 &lt;/COL&gt;</original>
+    <translation>Instantly recovers party members health and stamina
+&lt;COL ffdc78&gt; Skill rank increases amount recovered.  &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>一定時間パーティーメンバーの物理防御力と魔法防御力と状態異常耐性が増加する
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    </translation>Temporarily increases party members physical defense,
+magic defense, and debilitation resistance.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>	
   </message>
   <message>
     <original>一定時間自身のスキルでより敵を状態異常にかけやすくなる
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    <translation>Temporarily increases debilitation rate from skills.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>瞬時に自身の周囲の敵の注目を集める
 &lt;COL ffdc78&gt; 特技ランクが高いほど注目度が増加 &lt;/COL&gt;</original>
+    <translation>Instantly attract the attention of surrounding enemies
+&lt;COL ffdc78&gt; Skill rank increases amount of enemy attention &lt;/COL&gt;
   </message>
   <message>
     <original>一定時間自身の物理防御力と魔法防御力と状態異常耐性を大幅に増加させ、
 敵の攻撃を回避しなくなる
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    <translation>Temporarily greatly increases physical defense, magic defense,
+and debilitation resistance, can no longer evade enemy attacks.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>一定時間自身の詠唱と溜めに必要な時間が短くなる
 &lt;COL ffdc78&gt; 特技ランクが高いほど効果時間が増加 &lt;/COL&gt;</original>
+    <translation>Temporarily decreases time needed to chant or charge attacks.
+&lt;COL ffdc78&gt; Skill rank increases effect duration. &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>覚者が行動不能状態となった時に、一定確率で覚者を復活させる
 &lt;COL ffdc78&gt; 特技ランクが高いほど確率が増加 &lt;/COL&gt;</original>
+    <translation>Chance to revive arisen when they become incapacitated.
+&lt;COL ffdc78&gt; Skill rank increases chance. &lt;/COL&gt;</translation>
   </message>
 </resource>

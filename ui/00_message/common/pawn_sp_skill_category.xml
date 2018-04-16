@@ -1,29 +1,38 @@
 ﻿<resource>
   <message>
     <original>剛化</original>
+	<translation>Harden</translation>
   </message>
   <message>
     <original>重化</original>
+	<translation>Heavy</translation>
   </message>
   <message>
     <original>癒活</original>
+	<translation>Restoration</translation>
   </message>
   <message>
     <original>守護</original>
+	<translation>Protection</translation>
   </message>
   <message>
     <original>柔化</original>
+	<translation>Weaken</translation>
   </message>
   <message>
     <original>集視</original>
+	<translation>Attraction</translation>
   </message>
   <message>
     <original>無恐</original>
+	<translation>Fearless</translation>
   </message>
   <message>
     <original>集中</original>
+	<translation>Concentraion</translation>
   </message>
   <message>
     <original>蘇生</original>
+	<translation>Resurrection</translation>
   </message>
 </resource>

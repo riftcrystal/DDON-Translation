@@ -1,11 +1,14 @@
 ﻿<resource>
   <message>
     <original>地</original>
+	<translation>Earth</translation>
   </message>
   <message>
     <original>空</original>
+	<translation>Sky</translation>
   </message>
   <message>
     <original>天</original>
+	<translation>Heaven</translation>
   </message>
 </resource>
