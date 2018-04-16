@@ -34,7 +34,7 @@ magic defense, and debilitation resistance.
     <original>瞬時に自身の周囲の敵の注目を集める
 &lt;COL ffdc78&gt; 特技ランクが高いほど注目度が増加 &lt;/COL&gt;</original>
     <translation>Instantly attract the attention of surrounding enemies
-&lt;COL ffdc78&gt; Skill rank increases amount of enemy attention &lt;/COL&gt;
+&lt;COL ffdc78&gt; Skill rank increases amount of enemy attention &lt;/COL&gt;</translation>
   </message>
   <message>
     <original>一定時間自身の物理防御力と魔法防御力と状態異常耐性を大幅に増加させ、
