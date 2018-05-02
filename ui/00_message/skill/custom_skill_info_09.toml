@@ -238,7 +238,7 @@ EX Additional Effects:
 May employ strengthened alchemical substances that deal
 more damage and has faster alchemical buildup.
 Normal alchemical substance has a chance to be strengthened.
-If used in conjunction with Golda Aurum, all substances are
+If used in conjunction with Counterra Aurum, all substances are
 strengthened.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_230'
