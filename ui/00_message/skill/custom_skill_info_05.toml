@@ -241,6 +241,12 @@ old = '''
 ダメージ量と気絶攻力が増加
 フォースゲージ消費時に威力が上昇／ヒット数増加
 <COL ff7878>造魔／魔族／戦甲系の敵に与えるダメージ量が増加</COL>'''
+new = '''
+EX Additional Effects:
+Increase damage and knockout power.
+Further increase damage and number of hits
+when a Force Gauge is consumed.
+<COL ff7878> Further increase damage against Construct/Demon/War-Ready type enemies.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_05_206'
 old = '''
@@ -248,3 +254,8 @@ old = '''
 スキル発動中ガード状態になる
 敵の攻撃を防いだ後、攻撃を敵に接触させる度に
 フォースゲージが増加する'''
+new = '''
+EX Additional Effects:
+Guard yourself during execution.
+After blocking an enemy's attack,
+Force Gauge increases with every hit.'''

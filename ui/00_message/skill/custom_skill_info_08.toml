@@ -242,6 +242,11 @@ old = '''
 HP回復量アップ
 <COL ff7878>骸骨／腐死／呪詛／霊体系の敵へ
 与えるダメージ量と攻撃ヒット数増加</COL>'''
+new = '''
+EX Additional Effects:
+Increase the amount of health recovered.
+<COL ff7878>Increase damage and number of hits against
+Skeleton/Undead/Cursed/Spirit type enemies</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_202'
 old = '''
@@ -249,3 +254,8 @@ old = '''
 治癒上限値を回復する
 シークレットコア露出時間／触芽封印時間／
 戦甲の修復停止時間が延長'''
+new = '''
+EX Additional Effects:
+Recover healable limit of affected allies.
+Increase duration of Secret Core reveal, Infected seal and
+War-Ready Armor reveal.'''

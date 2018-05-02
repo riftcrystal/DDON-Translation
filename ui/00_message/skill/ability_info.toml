@@ -894,7 +894,9 @@ key = 'ABILITY_INFO_472'
 old = '''
 剣による攻撃の魔力吸収量が上がる
 <COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>'''
-new = 'Increases the amount of magick absorbed by sword attacks.'
+new = '''
+Increases the amount of magick absorbed by sword attacks.
+<COL ffdc78>LVUP: Further increases the absorbed amount.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_25'
 old = '''

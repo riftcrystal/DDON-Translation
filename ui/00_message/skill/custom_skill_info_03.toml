@@ -200,7 +200,7 @@ old = '''
 射程距離が延長'''
 new = '''
 EX Additional Effects:
-Moving speed increased during bow stance.
+Increase moving speed during bow stance.
 Extend the optimal shooting range.
 Extend the shooting range.'''
 [[message]]
@@ -232,6 +232,9 @@ key = 'CUSTOM_SKILL_INFO_03_197'
 old = '''
 【ＥＸ追加効果】
 攻撃ヒット数が増加'''
+new = '''
+EX Additional Effects:
+Increase number of hits.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_03_198'
 old = '''
@@ -239,3 +242,8 @@ old = '''
 構え中の移動速度が上昇
 最適距離の範囲が拡張
 射程距離が延長'''
+new = '''
+EX Additional Effects:
+Increase moving speed during bow stance.
+Extend the optimal shooting range.
+Extend the shooting range.'''

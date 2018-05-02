@@ -1,4 +1,4 @@
-﻿[[message]]
+[[message]]
 key = 'CUSTOM_SKILL_INFO_09_105'
 old = '''
 拳を地面に突き立て、自身を囲むように
@@ -233,6 +233,13 @@ old = '''
 錬成物質が強化されダメージ量と錬成値が増加
 強化される錬成物質の数は一定確率で変化するが
 カウンテラ・アウルム発動時は全ての錬成物質が強化される'''
+new = '''
+EX Additional Effects:
+May employ strengthened alchemical substances that deal
+more damage and has faster alchemical buildup.
+Normal alchemical substance has a chance to be strengthened.
+If used in conjunction with Golda Aurum, all substances are
+strengthened.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_230'
 old = '''
@@ -240,3 +247,9 @@ old = '''
 錬成物質の生成数と生成速度が増加し
 攻撃距離が延長される
 物防低下／魔防低下の状態異常を付与'''
+new = '''
+EX Additional Effects:
+Increase the number of alchemical waves created and
+generation speed.
+Increase attack distance.
+Inflict Physic/Magick Defense Down effects.'''

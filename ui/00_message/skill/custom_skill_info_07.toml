@@ -247,6 +247,12 @@ old = '''
 ダメージ量が増加
 リベンジゲージ最大時に威力が上昇
 敵の攻撃を直前回避すると追加攻撃のすり抜け時間が延長'''
+new = '''
+EX Additional Effects:
+Increase damage.
+Further increase damage when revenge gauge is full.
+Increase invulnerability duration if you avoid the enemy at the
+closest possible moment.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_07_226'
 old = '''
@@ -254,3 +260,8 @@ old = '''
 敵の攻撃を直前回避すると
 追加攻撃のダメージ量が増加すると同時に
 攻撃を敵に接触させる度にリベンジゲージが増加'''
+new = '''
+EX Additional Effects:
+Increase damage of the additional hits after evasion
+if you avoid the enemy at the closest possible moment.
+Increase revenge gauge as you hit enemies.'''

@@ -219,6 +219,9 @@ key = 'CUSTOM_SKILL_INFO_06_221'
 old = '''
 【ＥＸ追加効果】
 中央に巨大な爆炎が追加で発生'''
+new = '''
+EX Additional Effects:
+Create a huge explosion at the center.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_06_222'
 old = '''
@@ -226,3 +229,8 @@ old = '''
 攻撃範囲の高度が拡張
 延焼エリアに吹き飛ばし力が追加され
 展開時間が延長される'''
+new = '''
+EX Additional Effects:
+Increase the altitude range of the attack.
+Add blow power to the lingering hits.
+Increase duration of the skill.'''

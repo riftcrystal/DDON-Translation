@@ -245,6 +245,10 @@ old = '''
 ダメージ量が増加
 引き抜きの攻撃ヒット数が増加
 ジャンプの飛距離が延長'''
+new = '''
+EX Additional Effects:
+Increase number of hits when pulling your sword out.
+Increase leaping distance.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_01_210'
 old = '''
@@ -253,3 +257,10 @@ old = '''
 吹き飛ばし力が増加
 攻撃対象に密着した状態で空中で発動すると
 対象を蹴ってより高くジャンプする'''
+new = '''
+EX Additional Effects:
+Possible to activate in the air.
+Increase blow force.
+If activated near enemies, use them as steeping stones
+and jump higher.'''
+

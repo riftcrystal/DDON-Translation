@@ -232,9 +232,18 @@ old = '''
 石化／黄金化／侵食を死亡確定前であれば治療可能になる
 ステータスダウン系の状態異常を治療可能になる
 詠唱時間を短縮'''
+new = '''
+EX Additional Effects:
+Can cure Petrification/Gilded/Infected before death occurs.
+Can cure Status Reduction debilitations.
+Reduce cast time.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_217'
 old = '''
 【ＥＸ追加効果】
 魔法エリアに入ると一定時間
 キュアスポットの効果が付与される'''
+new = '''
+EX Additional Effects:
+When enter the magick area, the curing effect
+lingers for an amount of time.'''

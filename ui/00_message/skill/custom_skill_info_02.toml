@@ -208,7 +208,7 @@ old = '''
 疲労攻力が増加'''
 new = '''
 EX Additional Effects:
-It is possible to execute in the air.    
+Possible to activate in the air.    
 Increase chance attack.
 Increase fatigue power.'''
 [[message]]
@@ -237,9 +237,18 @@ old = '''
 空中発動時１度だけモーションが変化しダメージが追加
 攻撃スキルを敵に接触させる／着地／しがみつきにより
 カスタムスキルＥＸ追加効果を空中で再度発動可能'''
+new = '''
+EX Additional Effects:
+Change motion only once when activate in the air and add damage.
+This EX effect can be activated again in the air if you attack/climb/land.
+'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_02_214'
 old = '''
 【ＥＸ追加効果】
 発動時と跳び上がり時に敵の攻撃をすり抜ける
 空中発動時に短剣による攻撃が追加'''
+new = '''
+EX Additional Effects:
+Add invulnerability time when activated and jumping.
+Add dagger attack when in the air.'''

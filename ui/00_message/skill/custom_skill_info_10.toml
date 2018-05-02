@@ -182,9 +182,16 @@ key = 'CUSTOM_SKILL_INFO_10_233'
 old = '''
 【ＥＸ追加効果】
 溜め満了の瞬間に攻撃を放つと威力が上昇する'''
+new = '''
+EX Additional Effects:
+Increase damage if you release the attack
+just as the charge is completed.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_10_234'
 old = '''
 【ＥＸ追加効果】
 攻撃が最初にヒットした敵に
 エイド／エイド・モールを吸着させる'''
+new = '''
+EX Additional Effects:
+Attach an Aid/Aid More sphere at the impact point.'''
