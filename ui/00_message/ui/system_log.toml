@@ -1302,7 +1302,7 @@ old = '''
 祓うには、“怨塊”を破壊せよ――'''
 new = '''
 Comrade has been possessed
-Destroy Gruide Pillars to purify'''
+Destroy Grudge Pillars to purify'''
 [[message]]
 key = 'syslog_action_ensa_clear'
 old = '“怨塊”を失い、<NAME TARGET> の力が弱まっていく――'
