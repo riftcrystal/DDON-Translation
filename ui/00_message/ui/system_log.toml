@@ -1294,7 +1294,7 @@ old = '''
 祓うには、“怨塊”を破壊せよ――'''
 new = '''
 Possessed by evil spirits
-Destroy Gruide Pillars to purify'''
+Destroy Grudge Pillars to purify'''
 [[message]]
 key = 'syslog_action_ensa_target_p'
 old = '''
