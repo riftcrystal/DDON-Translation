@@ -1278,45 +1278,63 @@ reloaded. (<VAL> time today)'''
 [[message]]
 key = 'syslog_action_summon_enemy01'
 old = '<NAME TARGET> が魔物を呼び寄せている――'
+new = '<NAME TARGET> is calling monsters'
 [[message]]
 key = 'syslog_action_summon_enemy_clear'
 old = '召喚された魔物を一掃した――'
+new = 'Summoned monsters have been eliminated'
 [[message]]
 key = 'syslog_action_ensa'
 old = '怨嗟の声が渦巻いている――'
+new = 'Voice of Resentment is whirling'
 [[message]]
 key = 'syslog_action_ensa_target_i'
 old = '''
 邪悪な怨念に憑りつかれた
 祓うには、“怨塊”を破壊せよ――'''
+new = '''
+Possessed by evil spirits
+Destroy Gruide Pillars to purify'''
 [[message]]
 key = 'syslog_action_ensa_target_p'
 old = '''
 仲間が怨念に憑りつかれた
 祓うには、“怨塊”を破壊せよ――'''
+new = '''
+Comrade has been possessed
+Destroy Gruide Pillars to purify'''
 [[message]]
 key = 'syslog_action_ensa_clear'
 old = '“怨塊”を失い、<NAME TARGET> の力が弱まっていく――'
+new = 'Grudge Pillars are destroyed, <NAME TARGET> is weakening'
 [[message]]
 key = 'syslog_action_summon_enemy02'
 old = '<NAME TARGET> が魔物を召喚しようとしている――'
+new = '<NAME TARGET> is summoning monsters'
 [[message]]
 key = 'syslog_action_ikai_01'
 old = '<NAME TARGET> が異界に飛ばされた――'
+new = '<NAME TARGET> was teleported to a different world'
 [[message]]
 key = 'syslog_action_ikai_02'
 old = '“魔物”を倒し、魂を集めて異界の扉を開け――'
+new = 'Defeat monsters and collect their souls to open Door to the Other World'
 [[message]]
 key = 'syslog_action_ikai_03'
 old = '異界から救い出すには、“怨塊”を破壊せよ――'
+new = 'Destroy Grudge Pillars to rescue comrade from the other world'
 [[message]]
 key = 'syslog_action_ikai_04'
 old = '異界の扉が開かれた――'
+new = 'Door to the Other World has opened'
 [[message]]
 key = 'syslog_action_ikai_05'
 old = '''
 仲間によって“怨塊”が破壊されたことで
 異界の扉が開かれた――'''
+new = '''
+Your comrades have destroyed the Grudge Pillars
+and Door to the Other World has opened'''
 [[message]]
 key = 'syslog_pawn_get_spskill_stack'
 old = '''
@@ -1358,12 +1376,15 @@ new = '<UNTN KT> <UNIT KT><VAL> spent.'
 [[message]]
 key = 'syslog_action_ikai_06'
 old = '異界の扉が、より多くの魂を求めている――'
+new = 'Door to the Other World desires more souls'
 [[message]]
 key = 'syslog_action_ikai_07'
 old = '残り半分の魂を捧げれば、扉は開かれる――'
+new = 'The door will open after you offer more souls'
 [[message]]
 key = 'syslog_action_ikai_08'
 old = '残りわずかな魂で、異界の扉が開く――'
+new = 'The door will open after just a few more souls'
 [[message]]
 key = 'syslog_bbi_item_embody'
 old = '<VAL>に<NAME ITEM>を<VAL>個、持ち帰りました'
@@ -1375,12 +1396,15 @@ new = '<UNTN KT> has been replenished to the maximum.'
 [[message]]
 key = 'syslog_content_buff_get'
 old = '“<VAL>”の効果が付与されました'
+new = '"<VAL>" effect has been applied.'
 [[message]]
 key = 'syslog_content_buff_lost'
 old = '“<VAL>”の効果が解除されました'
+new = '"<VAL>" effect has been removed.'
 [[message]]
 key = 'syslog_action_ikai_09'
 old = '異界に飛ばされた――'
+new = 'Teleported to a different world'
 [[message]]
 key = 'syslog_action_em_escape'
 old = '周囲から <NAME TARGET> の気配が消えた'
@@ -1388,6 +1412,7 @@ new = 'The sign of <NAME TARGET> has disappeared from the surroundings.'
 [[message]]
 key = 'syslog_action_ikai_10'
 old = '残っている“怨塊”を、すべて破壊せよ――'
+new = 'Destroy all of the remaining "Grudge Pillars"'
 [[message]]
 key = 'syslog_item_lockset'
 old = 'アイテムをセーフティ設定しました'
@@ -1399,13 +1424,20 @@ new = 'Item safety setting disabled.'
 [[message]]
 key = 'syslog_action_ikai_11'
 old = '怨塊 残り“<VAL>個”――'
+new = '"<VAL>" Grudge Pillars left'
 [[message]]
 key = 'syslog_action_ikai_12'
 old = '''
 <NAME TARGET> が凶骨の祭壇へ運ばれた
 助けなければ、全員に厄災が降りかかる――'''
+new = '''
+<NAME TARGET> was taken to the Bone Altar.
+If you don't rescue them, everyone will meet with disaster'''
 [[message]]
 key = 'syslog_action_ikai_13'
 old = '''
 生贄として、<NAME TARGET> が祭壇に捧げられ
 全員に厄災が降りかかった――'''
+new = '''
+<NAME TARGET> was sacrificed at the Altar.
+Everyone has met with disaster'''
