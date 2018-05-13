@@ -2135,7 +2135,7 @@ new = "Pawn's conversation has increased!"
 [[message]]
 key = 'ana_partner_pawn_lpup'
 old = 'パートナーポーンとの絆が深まった'
-new = 'You have deepend bonds with the Partner Pawn.'
+new = 'You have deepened bonds with the Partner Pawn.'
 [[message]]
 key = 'ana_quest_announce_set_discover_add'
 old = '未公開クエスト「%s」を発見した！'
