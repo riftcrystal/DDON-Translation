@@ -549,8 +549,8 @@ old = '''
 瀕死時に剣による攻撃の魔力吸収量が増加する
 <COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>'''
 new = '''
-Increases the amount of magick absorbed
-when you stand at death's door.
+Increases the amount of magick absorbed from
+sword attacks when you stand at death's door.
 <COL ffdc78>LVUP Further increases magickal energy absoprtion.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_9'
