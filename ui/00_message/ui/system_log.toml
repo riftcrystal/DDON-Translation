@@ -1293,20 +1293,20 @@ old = '''
 邪悪な怨念に憑りつかれた
 祓うには、“怨塊”を破壊せよ――'''
 new = '''
-Possessed by evil spirits
-Destroy Grudge Pillars to purify'''
+You have been possessed by evil spirits
+Destroy your Grudge Pillar to purify'''
 [[message]]
 key = 'syslog_action_ensa_target_p'
 old = '''
 仲間が怨念に憑りつかれた
 祓うには、“怨塊”を破壊せよ――'''
 new = '''
-Comrade has been possessed
-Destroy Grudge Pillars to purify'''
+Comrades have been possessed
+Destroy Grudge Pillars to purify them'''
 [[message]]
 key = 'syslog_action_ensa_clear'
 old = '“怨塊”を失い、<NAME TARGET> の力が弱まっていく――'
-new = 'Grudge Pillars are destroyed, <NAME TARGET> is weakening'
+new = 'Grudge Pillars have been destroyed, <NAME TARGET> is weakening'
 [[message]]
 key = 'syslog_action_summon_enemy02'
 old = '<NAME TARGET> が魔物を召喚しようとしている――'
@@ -1380,7 +1380,7 @@ new = 'Door to the Other World desires more souls'
 [[message]]
 key = 'syslog_action_ikai_07'
 old = '残り半分の魂を捧げれば、扉は開かれる――'
-new = 'The door will open after you offer more souls'
+new = 'The door will open after you offer some more souls'
 [[message]]
 key = 'syslog_action_ikai_08'
 old = '残りわずかな魂で、異界の扉が開く――'
