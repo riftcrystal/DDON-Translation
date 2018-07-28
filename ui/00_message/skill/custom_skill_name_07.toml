@@ -37,7 +37,7 @@ new = 'Defensive Stance'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_07_89'
 old = '大風車斬り'
-new = 'Large Windmill'
+new = 'Great Windmill'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_07_91'
 old = '飛龍突'
