@@ -1226,6 +1226,9 @@ key = 'syslog_wm_limited_condition_open'
 old = '''
 <VAL>が期間限定で開催決定！
 詳しくは、レスタニアニュースをご覧ください'''
+new = '''
+<VAL> will be held for a limited time!
+For details, please see the Lestania News'''
 [[message]]
 key = 'syslog_action_fog_sign'
 old = '異界の霧が吐き零されていく――'
