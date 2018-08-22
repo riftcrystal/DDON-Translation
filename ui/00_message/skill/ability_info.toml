@@ -101,7 +101,7 @@ old = '''
 <COL ffdc78>LV UP毎により減退速度がさらに低下</COL>'''
 new = '''
 Slows the drain of Magick Glyph.
-<COL ffdc78>LV UP: Further decreases the drain.下</COL>'''
+<COL ffdc78>LV UP: Further decreases the drain.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_4'
 old = '''

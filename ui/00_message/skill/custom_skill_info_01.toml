@@ -270,9 +270,18 @@ old = '''
 ダメージ量が増加
 攻撃回数が増す度に剣を振る速度が上昇
 最大攻撃回数増加'''
+new = '''
+EX Additional Effects:
+Increase damage.
+Increase attack speed as the number of attack increases.
+Increase maximum number of attacks.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_01_212'
 old = '''
 【ＥＸ追加効果】
 攻撃範囲が大幅に拡張
 吹き飛ばし力増加'''
+new = '''
+EX Additional Effects:
+Greatly extend attack range.
+Increase blow power.'''

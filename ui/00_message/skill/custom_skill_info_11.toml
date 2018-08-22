@@ -64,7 +64,7 @@ old = '''
 <COL ffdc78>LV UP毎に展開時間延長
 LV.6で敵の攻撃に合わせて発動した際、展開時間延長</COL>'''
 new = '''
-Create a magickal barrier in front of youfor a certain amount of
+Create a magickal barrier in front of you for a certain amount of
 time. Barrier duration does not decrease when using pure magick.
 <COL ffdc78>LV UP: Increases duration of the barrier.
 LV.6 When invoked just before an enemy's attack connects,

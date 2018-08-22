@@ -258,6 +258,10 @@ old = '''
 【ＥＸ追加効果】
 モーションが変化し、短剣による攻撃回数が増加
 爆発の攻撃ヒット数が増加'''
+new = '''
+EX Additional Effects:
+Change motion, increase number of dagger attacks.
+Increase number of explosion hits.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_02_216'
 old = '''
@@ -265,3 +269,8 @@ old = '''
 斬り上げと爆発の攻撃範囲が拡張
 爆発に炎防低下の状態異常が付与され
 延焼の状態異常蓄積値も増加'''
+new = '''
+EX Additional Effects:
+Increase range of dagger slash and explosion.
+Add Fire Resist Down accumulation to explosion hits.
+Increase Burn accumulation.'''

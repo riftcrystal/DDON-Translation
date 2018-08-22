@@ -274,6 +274,11 @@ old = '''
 闇属性のダメージが追加
 溜め時間短縮
 ターゲット数増加（５→７）'''
+new = '''
+EX Additional Effects:
+Add Dark-attribute damage.
+Reduce charge time.
+Increase the number of target locks (5→7).'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_204'
 old = '''
@@ -281,3 +286,9 @@ old = '''
 最適距離の範囲が拡張
 魔道弓に付与されている属性の
 防御力を低下させる状態異常を付与'''
+new = '''
+EX Additional Effects:
+Extend the optimal range.
+Add Elemental Resist Down accumulation that matches your
+weapon's element.
+'''

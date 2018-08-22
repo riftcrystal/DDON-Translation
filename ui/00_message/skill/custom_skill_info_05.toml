@@ -157,8 +157,8 @@ Fire a magickal anchor towards a foe, and gradually
 fill the force gauge and aggression meter if it hits.
 While the anchor is active, you can move in any direction
 with <PADM>the left stick.<KEYM>the movement keys.</KEYM>
-<COL ffdc78>LV UP: Decreases stamina consumption for each additional hit while
-the anchor is active.
+<COL ffdc78>LV UP: Decreases stamina consumption for each additional
+hit while the anchor is active.
 LV.6: Increases range of the skill.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_05_136'
@@ -268,8 +268,17 @@ old = '''
 展開中に魔法の壁を解放して聖属性の攻撃が可能
 敵の攻撃を防ぐと魔法の壁のエネルギーが蓄積し
 解放時のダメージ量が増加する'''
+new = '''
+EX Additional Effects:
+Reduce charge time.
+Can release magick wall and attack surrounding enemies.
+Blocking attacks will accumulate the energy of the wall,
+increasing damage.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_05_208'
 old = '''
 【ＥＸ追加効果】
 展開中、物理防御力／魔法防御力／耐久力が増加'''
+new = '''
+EX Additional Effects:
+Increase Physical/Magick defense and Endurance.'''

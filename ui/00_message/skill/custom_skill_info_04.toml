@@ -253,15 +253,22 @@ new = '''
 EX Additional Effects:
 When enter the magick area, the curing effect
 lingers for an amount of time.
-Increase the number of magick spot you can deploy (1→2)'''
+Increase the number of magick spots you can deploy (1→2)'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_219'
 old = '''
 【ＥＸ追加効果】
 フィールドシフト時、
 １度だけ攻撃を無効化する魔球を付与'''
+new = '''
+EX Additional Effects:
+When Field Shifting, grant each ally one magick sphere that
+nullifies one attack.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_220'
 old = '''
 【ＥＸ追加効果】
 風圧と地震を無効にする'''
+new = '''
+EX Additional Effects:
+Nullify Wind Pressure and Tremor.'''

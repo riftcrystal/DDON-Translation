@@ -251,8 +251,16 @@ old = '''
 エンチャントの効果を受けると
 自身のみエンチャント属性の状態異常蓄積値が
 大幅に増加'''
+new = '''
+EX Additional Effects:
+When you receive the enchant from this skill, elemental
+debilitation is greatly increased only on yourself.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_232'
 old = '''
 【ＥＸ追加効果】
 設置時のみ広範囲にエンチャント効果を付与'''
+new = '''
+EX Additional Effects:
+Grant enchantment to surrounding allies when you place the
+orb.'''

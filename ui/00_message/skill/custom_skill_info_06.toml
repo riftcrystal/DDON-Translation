@@ -240,9 +240,17 @@ old = '''
 【ＥＸ追加効果】
 攻撃ヒット数が増加
 凍結の状態異常蓄積値が増加'''
+new = '''
+EX Additional Effects:
+Increase number of hits.
+Increase Freeze accumulation.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_06_224'
 old = '''
 【ＥＸ追加効果】
 氷の塊消滅後、氷粒の渦を展開
 氷防低下の状態異常を付与'''
+new = '''
+EX Additional Effects:
+Leave an icy vortex after the ice pillar disappears.
+Add Ice Resist Down accumulation.'''
