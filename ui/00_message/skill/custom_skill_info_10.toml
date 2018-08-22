@@ -70,9 +70,9 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で霊力最大の起爆ヒット数増加／溜まる霊力増加</COL> '''
 new = '''
-Form a spirit orb that generates shockwaves
-when attacked. The orb gathers spiritual energy when attacked.
-It can also be detonated both on the ground and mid-air manually.
+Form a spirit orb that generates shockwaves when attacked.
+The orb gathers spiritual energy when attacked. It can also
+be detonated both on the ground and mid-air manually.
 <COL ffdc78>LV UP: Increases damage of skill.
 LV.6: Increases maximum hits of the detonation and amount of
 spirit energy gained.</COL>'''
@@ -85,10 +85,9 @@ old = '''
 <COL ffdc78>LV UP毎に展開時間延長
 LV.６で展開エリアの最大サイズが拡張</COL>'''
 new = '''
-Form spiritual spheres around yourself that
-recovers health and status abnormalities. The range grows depending
-on the charge time. The effectiveness of the skill rises upon a full
-charge.
+Form spiritual spheres around yourself that recovers health
+and status abnormalities. The range grows dependingon the
+charge time. The effectiveness rises upon a full charge.
 <COL ffdc78>LV UP: Increases duration of skill.
 LV.6: Increases the area of effect of the skill.</COL>'''
 [[message]]
@@ -100,11 +99,10 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇／バリア展開時間延長
 LV.６でバリアの耐久値増加（１→２）</COL>'''
 new = '''
-Form a barrier around yourself to prevent
-enemy attacks. When attacking enemies while the barrier is active,
-spiritual energy gathers in the barrier. You can unleash the energy
+Form a barrier around yourself to prevent enemy attacks.
+When attacking enemies while the barrier is active, spiritual
+energy gathers in the barrier. You can unleash the energy
 by pressing the assigned button.
-<COL ff7878>Effective against War-Ready enemies.</COL>
 <COL ffdc78>LV UP: Increases damage of skill and duration.
 LV.6: Increase maximum barrier durability (1→2)</COL>'''
 [[message]]
@@ -116,11 +114,11 @@ old = '''
 LV.６でモーション変化／攻撃ヒット数増加</COL>'''
 new = '''
 A high power skill that covers a wide area.
-If the first hit is successfully landed, it will become a full on
-combo attack.
+If the first hit is successfully landed, it will become
+a full on combo attack.
 <COL ffdc78>LV UP: Increases damage of the skill.
-LV.6: Increases the number of hits in the attack, and changes
-the motion of the skill.</COL>'''
+LV.6: Increases the number of hits in the attack, and
+changes the motion of the skill.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_10_188'
 old = '''
@@ -130,9 +128,9 @@ old = '''
 <COL ffdc78>LV UP毎に効果時間延長
 LV.６でエンチャント強化と吹き飛ばし力強化の性能上昇</COL>'''
 new = '''
-Expand a spiritual area that increases damage and
-blow force of enchantment of nearby allies including enchantment
-from crests. If used as a counter, the effect is greatly increased
+Expand a spiritual area that increases damage and blow force
+of enchantment of nearby allies including enchantment from
+crests. If used as a counter, the effect is greatly increased
 and the deployment size is expanded.
 <COL ffdc78>LV UP: Increases duration of effect.
 LV.6: Increases the effectiveness of the buff.</COL>'''
@@ -175,7 +173,8 @@ old = '''
 スピリットゲージ蓄積量が増加'''
 new = '''
 EX Additional Effects:
-Possible to activate in the air without executing the first hit.
+Possible to activate in the air without
+executing the first hit.
 Increase Spirit Gauge accumulation.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_10_233'
@@ -201,8 +200,15 @@ old = '''
 【ＥＸ追加効果】
 治癒上限値を徐々に回復する
 ヒールブースト時の攻撃力の上昇量が増加'''
+new = '''
+EX Additional Effects:
+Gradually recover the healable limit of allies.
+Further increase attack power during Heal Boost.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_10_236'
 old = '''
 【ＥＸ追加効果】
 耐久力を強化する効果を付与'''
+new = '''
+EX Additional Effects:
+Increase Endurance for allies inside.'''

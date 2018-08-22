@@ -146,9 +146,9 @@ old = '''
 LV.６で溜め時間短縮</COL>'''
 new = '''
 Draw the bow back with all your might and loose an arrow
-of extraordinary power. Further increase damage if fired just as the charge is
-completed. The lower the enemy's health, the higher the damage of this skill.
-<COL ff7878>Effective against War-Ready enemies.</COL>
+of extraordinary power. Further increase damage if fired
+just as the charge is completed. The lower the enemy's
+health, the higher the damage of this skill.
 <COL ffdc78>LV UP: Increases damage of the skill.
 LV.6: Decreases charge time.</COL>'''
 [[message]]
@@ -161,8 +161,8 @@ old = '''
 LV.６で爆発回数増加</COL>'''
 new = '''
 Loose an arrow wrapped with explosive powder into
-the sky. Detonation altitude rises the longer the button is held
-while firing.
+the sky. Detonation altitude rises the longer the button is
+held while firing.
 <COL ffdc78>LV UP: Increases damage of the skill.
 LV.6: Increases the number of explosions.</COL>'''
 [[message]]
@@ -174,12 +174,12 @@ old = '''
 LV.６で溜め段階上昇（２→３）
 ボタン入力回数減少</COL>'''
 new = '''
-Tightly bind together all the arrows in the quiver,
-and unleash them with your entire body's might.
+Tightly bind together all the arrows in the quiver, and
+unleash them with your entire body's might.
 Can be activated while climbing an enemy.
 <COL ffdc78>LV UP: Increases damage of the skill.
-LV.6: Increases maximum charge (2→3) and reduces number of button presses
-needed to advance to the next level of charge.</COL>'''
+LV.6: Increases maximum charge (2→3) and reduces number of
+button presses needed to advance to the next level of charge.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_03_162'
 old = '''
@@ -237,7 +237,7 @@ old = '''
 溜め段階２の攻撃ヒット数が増加'''
 new = '''
 EX Additional Effects:
-Increase number of hits.'''
+Increase number of hits on second charge.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_03_198'
 old = '''
@@ -257,6 +257,11 @@ old = '''
 溜め時間短縮
 起爆時の爆発ダメージ量が増加
 溜め２段階で、中央の爆発の攻撃ヒット数が増加'''
+new = '''
+EX Additional Effects:
+Reduce charge time.
+Increase explosion damage.
+Increase number of hits at the center on second charge.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_03_200'
 old = '''
@@ -265,3 +270,8 @@ old = '''
 爆薬矢に継続ダメージを付与
 攻撃により起爆しなくなり
 時間による起爆時の威力が増加'''
+new = '''
+EX Additional Effects:
+Reduce charge time.
+Arrows deal continuous damage.
+Arrows cannot be detonated by attack.'''

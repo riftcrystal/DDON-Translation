@@ -175,10 +175,11 @@ old = '''
 <COL ffdc78>LV UP毎に魔法砲台の出現時間延長
 LV.６で魔法球の威力上昇／魔法砲台増加（１→２）</COL>'''
 new = '''
-Call forth a magickal orb that acts as a turret and
-when hit by Blast Bit, will generate additional Blast Bits from itself.
+Call forth a magickal orb that acts as a turret and when hit
+by Blast Bit, will generate additional Blast Bits from itself.
 <COL ffdc78>LV UP: Increases duration of the magickal orb.
-LV.6: Increases the damage of the magickal orb, and the amount that are placed (1→2)</COL>'''
+LV.6: Increases the damage of the magickal orb, and the amount
+that are placed (1→2)</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_166'
 old = '''
@@ -251,7 +252,8 @@ old = '''
 new = '''
 EX Additional Effects:
 When enter the magick area, the curing effect
-lingers for an amount of time.'''
+lingers for an amount of time.
+Increase the number of magick spot you can deploy (1→2)'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_219'
 old = '''

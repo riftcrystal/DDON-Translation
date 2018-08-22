@@ -156,9 +156,9 @@ new = '''
 After gathering sufficient magickal power, let loose
 an extraordinarily powerful Holy arrow.
 The arrow can be controlled mid-flight with the <PADM>Left Stick<KEYM>Movement Keys</KEYM>.
-The power of the skill depends on the max stamina available. The spot
-that is hit will automatically be targeted by magickal arrows for a period
-of time.
+The power of the skill depends on the stamina available.
+The hit spot will automatically be targeted by the magickal
+arrows for a while.
 <COL ffdc78>LV UP: Increases damage and cast speed of the skill.
 LV.6: Increases number of hits.</COL>
 '''
@@ -172,8 +172,9 @@ old = '''
 LV.６で起爆時の閃光効果強化</COL>'''
 new = '''
 Let loose a holy magickal arrow imbued with the power to heal
-into the sky and detonate it. The arrow emits a strong flash at the time of detonation,
-and those within its light recover a portion of health.(Damages Undead)
+into the sky and detonate it. The arrow emits a strong flash at
+the time of detonation, recovering a portion of health for allies.
+(Damages Undead)
 <COL ffdc78>LV UP: Increases health recovery amount.
 LV.6: Increases the power of the flash at detonation.</COL>'''
 [[message]]
@@ -191,9 +192,10 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で連鎖回数増加</COL>'''
 new = '''
-Let loose a dark magickal arrow that tears apart the enemy it
-contacts with tentacles. The tentacles will seek out additional enemies, and 
-attack them. Effective for destroying Infected Sprouts.
+Let loose a magickal arrow that tears apart the enemy it contacts
+with tentacles. The tentacles will seek out additional enemies or
+continue to attack current target depending on its size. 
+Effective for destroying Infected Sprouts.
 <COL ffdc78>LV UP: Increases damage of skill.
 LV.6: Increases the target chain amount.</COL>'''
 [[message]]

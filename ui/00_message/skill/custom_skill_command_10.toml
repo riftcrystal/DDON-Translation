@@ -74,8 +74,9 @@ old = '''
 new = '''
 Press the assigned button.
 After forming the barrier, press the assigned button
-to release energy.
-Further enhanced with Attack Boost.'''
+to release energy. Further enhanced with Attack Boost.
+<COL ff7878>Effective against War-Ready enemies if this skill is executed
+at maximum spiritual accumulation.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_10_153'
 old = '''

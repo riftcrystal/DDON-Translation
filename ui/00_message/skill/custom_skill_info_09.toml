@@ -41,10 +41,8 @@ new = '''
 Create an elemental orb that bestows one of the
 three main attributes of fire, ice, or lightning,
 from the ground and place it in the air.
-<COL ffdc78>LV UP: Increases duration of
-the skill.
-LV.6: Unlocks the final two elements, Holy and
-Darkness.</COL>'''
+<COL ffdc78>LV UP: Increases duration of the skill.
+LV.6: Unlocks the final two elements, Holy and Darkness.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_109'
 old = '''
@@ -99,8 +97,7 @@ new = '''
 Generate a trap from an alchemical substance.
 When enemies approach the trap, pillars spike out
 from it and penetrate them.
-<COL ffdc78>LV UP: Increases number of
-trap activations.
+<COL ffdc78>LV UP: Increases number of trap activations.
 LV.6: Increases the number of pillar spikes (1→3)</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_111'
@@ -111,13 +108,11 @@ old = '''
 <COL ffdc78>LV UP毎に黄金化の異常値上昇
 LV.６でダウン、拘束中を除きいつでも発動可能</COL>'''
 new = '''
-Coat yourself in gold and deflect enemy attacks.
-Enemies that attack will build up the "Gilded"
-status abnormality.
+Coat yourself in gold and deflect enemy attacks. Enemies
+that attack will build up the "Gilded" status abnormality.
 Can be activated even while in the air.
 <COL ffdc78>LV UP: Increases rate of Gilding build-up.
-LV.6: Can activate the skill at anytime except
-when grabbed.</COL>'''
+LV.6: Can activate the skill at anytime except when grabbed.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_112'
 old = '''
@@ -126,11 +121,8 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>'''
 new = '''
-Form a giant alchemical arm to strike the enemy
-directly. If it hits an alchemical stake, the attack
-will unleash alchemical substances and cause a
-giant explosion. Can be activated while climbing an enemy.
-<COL ff7878>Effective against War-Ready enemies.</COL>
+Directly strike the enemy and detonate alchemical stake on
+target, creating a large explosion. Can be used when climbing.
 <COL ffdc78>LV UP: Increases damage of skill.
 LV.6: Increases number of hits and the surrounding
 enemies are affected by the explosion.</COL>'''
@@ -158,10 +150,8 @@ new = '''
 Shoot alchemical substances radially toward you.
 If you are close to the enemies, all substances will hit.
 Can be activated in mid-air.
-<COL ffdc78>LV UP: Increase damage.
-LV.6: Increase range.
-Increase the number of substances (3→5)</COL>
-    '''
+<COL ffdc78>LV UP: Increases damage.
+LV.6: Increases range and the number of substances (3→5)</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_115'
 old = '''
@@ -171,11 +161,11 @@ old = '''
 <COL ffdc78>LV UP毎に状態異常値上昇
 LV.６で最大入力回数が増加し、展開時間が延長</COL>'''
 new = '''
-Generate an area that nullifies damage for all allies nearby.
+Generate an area that nullifies damage for all allies inside.
 Enemies within the area are affected by your chosen Elixir.
 The duration is greatly increased with correct timing.
 <COL ffdc78>LV UP: Increases debilitation rate.
-LV.6: Maximum number of inputs increased, extending the duration.</COL>'''
+LV.6: Number of inputs increased, extending the duration.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_189'
 old = '''
@@ -210,7 +200,8 @@ new = '''
 EX Additional Effects:
 Increase damage.
 Add Gilded status abnormality.
-<COL ff7878>Further increase damage against Human/Dragonkin/Alchemized enemies.</COL>
+<COL ff7878>Further increase damage against
+Human/Dragonkin/Alchemized enemies.</COL>
 '''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_192'
@@ -238,8 +229,8 @@ EX Additional Effects:
 May employ strengthened alchemical substances that deal
 more damage and has faster alchemical buildup.
 Normal alchemical substance has a chance to be strengthened.
-If used in conjunction with Counterra Aurum, all substances are
-strengthened.'''
+If used in conjunction with Counterra Aurum, all substances
+are strengthened.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_09_230'
 old = '''

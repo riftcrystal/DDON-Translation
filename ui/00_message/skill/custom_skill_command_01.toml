@@ -25,7 +25,9 @@ old = '''
 <COL ff7878>威力が最大となる高度からの攻撃で
 戦甲へのカウンターに特化</COL> '''
 # NEEDS REVIEW
-new = 'Press the assigned button.'
+new = '''Press the assigned button.
+<COL ff7878>Effective against War-Ready enemies if this skill is executed
+from high position.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_01_11'
 old = 'セットボタンを連続して押す'

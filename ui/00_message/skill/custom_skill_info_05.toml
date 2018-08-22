@@ -155,8 +155,8 @@ LV.６で射程距離延長</COL>'''
 new = '''
 Fire a magickal anchor towards a foe, and gradually
 fill the force gauge and aggression meter if it hits.
-While the anchor is active, you can move in any direction with 
-<PADM>the left stick.<KEYM>the movement keys.</KEYM>
+While the anchor is active, you can move in any direction
+with <PADM>the left stick.<KEYM>the movement keys.</KEYM>
 <COL ffdc78>LV UP: Decreases stamina consumption for each additional hit while
 the anchor is active.
 LV.6: Increases range of the skill.</COL>'''
@@ -169,10 +169,10 @@ old = '''
 <COL ffdc78>LV UP毎に石化の異常値上昇
 LV.６で照射範囲拡大</COL>'''
 new = '''
-Keep the rod focused on an enemy, and radiate
-a light that builds up the Petrified status abnormality on them.
-When the Force Gauge has one or more charges, they will be automatically
-consumed to increase the performance of the skill.
+Keep the rod focused on an enemy, and radiate a light that
+builds up the Petrified status abnormality on them.
+When the Force Gauge has one or more charges, they will be
+automatically consumed to increase the skill's performance.
 <COL ffdc78>LV UP: Increases Petrified status accumulation.
 LV.6: Increases the range of the light.</COL>'''
 [[message]]
@@ -184,10 +184,10 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で盾ガード値上昇／ヒット数増加</COL>'''
 new = '''
-Shake the Greatshield about while running around enemies, preventing their attacks
-and increasing aggression.
-When the Force Gauge has one or more charges, they will be automatically
-consumed to increase the performance of the skill.
+Shake the Greatshield about while running around enemies,
+preventing their attacks and increasing aggression.
+When the Force Gauge has one or more charges, they will be
+automatically consumed to increase the skill's performance.
 <COL ffdc78>LV UP: Increases damage of the skill.
 LV.6: Increases Guard Power and number of hits.</COL>'''
 [[message]]
@@ -210,7 +210,8 @@ old = '''
 new = '''
 EX Additional Effects:
 Attract enemies within the area.
-Cause status abnormality of the currently enchanted element of your weapon.'''
+Cause status abnormality of the currently enchanted element
+of your weapon.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_05_172'
 old = '''

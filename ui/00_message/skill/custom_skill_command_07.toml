@@ -52,7 +52,9 @@ old = '''
 セットボタン押しっぱなし
 <COL ff7878>溜め満了で戦甲へのカウンターに特化</COL>'''
 # NEEDS REVIEW
-new = 'Hold the assigned button.'
+new = '''Hold the assigned button.
+<COL ff7878>Effective against War-Ready enemies if this skill is executed
+at full gauge.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_07_139'
 old = 'しがみつき中にセットボタンを押す'

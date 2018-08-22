@@ -145,10 +145,10 @@ old = '''
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で爆発範囲の限界幅が拡張</COL>'''
 new = '''
-After charging magick, conjure a non-elemental
-magick orb. The magickal power stored within the orb is released over
-a wide area, dealing a great deal of damage to foes within its range.
-Especially effective in narrow areas.
+After charging magick, conjure a non-elemental magick orb.
+The magickal power stored within the orb is released over
+an adjustable area, dealing a great deal of damage to foes
+within its range. Power increases as the orb becomes smaller.
 <COL ffdc78>LV UP: Increases damage of the skill.
 LV.6: Expands the range of the explosion.</COL>'''
 [[message]]
@@ -172,8 +172,8 @@ old = '''
 <COL ffdc78>LV UP毎にスタミナ消費量の減少
 LV.６で攻撃威力上昇／攻撃ヒット数増加</COL>'''
 new = '''
-Conjure a magickal stake that gathers magickal power from your staff,
-and calls down lightning when charged.    
+Conjure a magickal stake that gathers magickal power from
+your staff, and calls down lightning when charged.    
 <COL ffdc78>LV UP: Decreases stamina cost of skill.
 LV.6: Increases damage of the skill and number of hits.</COL>'''
 [[message]]

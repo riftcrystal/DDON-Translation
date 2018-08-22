@@ -49,7 +49,9 @@ old = '''
 <COL ff7878>溜め満了の瞬間に放つことで
 戦甲へのカウンターに特化</COL>'''
 # NEEDS REVIEW
-new = 'While holding the assigned button, <KC SHOOT> to shoot.'
+new = '''While holding the assigned button, <KC SHOOT> to shoot.
+<COL ff7878>Effective against War-Ready enemies if this skill is executed
+just as the charge gauge is full.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_03_131'
 old = '''

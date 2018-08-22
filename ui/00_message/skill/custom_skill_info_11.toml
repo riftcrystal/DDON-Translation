@@ -22,7 +22,7 @@ LV.6で攻撃アクション中であればいつでも発動可能</COL>'''
 new = '''
 Create a phantom and teleport forward.
 If user comes into contact with enemy
-while teleporting, deal magic damage.
+while teleporting, deal magick damage.
 Can use twice while mid air.
 <COL ffdc78>LV UP Reduce cooldown between activation.
 LV.6 Can be used at any time during attack.</COL>'''
@@ -35,7 +35,7 @@ old = '''
 LV.6で攻撃ヒット回数が増加</COL>'''
 new = '''
 Ready your sword and slice downwards, releases several
-magic blades towards enemies infont of you.
+magick blades towards enemies infont of you.
 <COL ffdc78>LV UP Increases damage of skill.
 LV.6 Increases number of hit.</COL>'''
 [[message]]
@@ -64,9 +64,9 @@ old = '''
 <COL ffdc78>LV UP毎に展開時間延長
 LV.6で敵の攻撃に合わせて発動した際、展開時間延長</COL>'''
 new = '''
-Create a magickal barrier in front of you
-for a certain amount of time.
-<COL ffdc78>LV UP: Increases duration of the shield.
+Create a magickal barrier in front of youfor a certain amount of
+time. Barrier duration does not decrease when using pure magick.
+<COL ffdc78>LV UP: Increases duration of the barrier.
 LV.6 When invoked just before an enemy's attack connects,
 duration is further increased.</COL>'''
 [[message]]
@@ -101,3 +101,10 @@ old = '''
 魔力吸収特化の一撃を放つ。発動中は魔力を消費し続ける
 <COL ffdc78>LV UP毎に発動中の魔力消費量が減少
 LV.6で再入力時の攻撃回数による強化段階が増加（１→２）'''
+new = '''
+Imbue magickal power on your sword, adding afterimage to the
+core sword skills. Press the assigned button again to release
+an attack that absorbs an amount of magick based on the number
+of afterimage attacks. Slowly drain magick during activation.
+<COL ffdc78>LV UP Reduces magick drain during activation.
+Lv.6 Increases maximum number of charges from attacks (1→2).</COL>'''

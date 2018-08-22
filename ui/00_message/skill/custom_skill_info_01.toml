@@ -75,7 +75,6 @@ old = '''
 LV.６で攻撃ヒット数増加</COL> '''
 new = '''
 Leap forward and stab your sword into the ground.
-<COL ff7878>Effective against War-Ready enemies.</COL>
 <COL ffdc78>LV UP: Increases damage.
 LV.6: Increases number of hits.</COL>'''
 [[message]]
@@ -198,8 +197,9 @@ new = '''
 EX Additional Effects:
 Increase damage.
 Increase number of hits.
-Slightly increase chance attack and Fatigue attack.
-<COL ff7878>Further increase damage to Human/Dragonkin/Alchemized type enemies.</COL>'''
+Slightly increase Chance attack and Fatigue attack.
+<COL ff7878>Further increase damage to
+Human/Dragonkin/Alchemized type enemies.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_01_155'
 old = '''
