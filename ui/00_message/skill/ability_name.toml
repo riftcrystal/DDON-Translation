@@ -1715,6 +1715,7 @@ new = 'Sweeping Spear: Destroyer'
 [[message]]
 key = 'ABILITY_NAME_498'
 old = '移撃'
+new = 'Rush Attack'
 [[message]]
 key = 'ABILITY_NAME_262'
 old = '親闇'
@@ -1762,6 +1763,7 @@ new = 'Spirit Hoard'
 [[message]]
 key = 'ABILITY_NAME_503'
 old = '流撃'
+new = 'Flow Attack'
 [[message]]
 key = 'ABILITY_NAME_263'
 old = '制毒'

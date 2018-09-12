@@ -21,9 +21,11 @@ new = 'Embark'
 [[message]]
 key = 'bbi_match_msg_006'
 old = '進行状況が合わないメンバーがいるため、突入できません'
+new = 'Cannot enter because there are members with different progress.'
 [[message]]
 key = 'bbi_match_msg_007'
 old = 'リーダーが突入を開始していないため、突入できません'
+new = 'Cannot enter because leader has not started.'
 [[message]]
 key = 'bbi_match_msg_008'
 old = 'クイックパーティー'
@@ -31,9 +33,11 @@ new = 'Quick Party'
 [[message]]
 key = 'bbi_match_msg_009'
 old = '進行状況が合わないメンバーがいるため、クイックパーティーできません'
+new = 'Cannot use quick party because there are members with different progress.'
 [[message]]
 key = 'bbi_match_msg_010'
 old = 'パーティーメンバーが揃っているため選べません'
+new = 'Cannot select this option because your party is full.'
 [[message]]
 key = 'bbi_match_msg_011'
 old = '所在状況'
@@ -41,6 +45,8 @@ new = 'Status'
 [[message]]
 key = 'bbi_match_msg_012'
 old = '所在状況が合わないメンバーがいるため、突入できません'
+new = 'Cannot enter because there are members in different location.'
 [[message]]
 key = 'bbi_match_msg_013'
 old = '所在状況が合わないメンバーがいるため、クイックパーティーできません'
+new = 'Cannot use quick party because there are members in different location.'

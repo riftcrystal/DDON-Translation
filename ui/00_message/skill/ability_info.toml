@@ -4017,6 +4017,9 @@ old = '''
 発動すると前方へ大きく移動するスキルの
 ダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
+new = '''
+Increases the damage of skills that move you forward.
+<COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_262'
 old = '''
@@ -4125,6 +4128,10 @@ old = '''
 敵の攻撃に合わせて発動することで
 ダメージを与えるスキルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
+new = '''
+Increases damage for skills that trigger based on
+enemy's attacks.
+<COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_263'
 old = '''
