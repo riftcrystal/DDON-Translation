@@ -1465,7 +1465,7 @@ new = 'Trying to absorb the power of flames from magma'
 [[message]]
 key = 'syslog_action_evildra_02'
 old = '悪しき竜は“火焔の竜晶”を召喚しようとしている――'
-new = '''The Wicked Dragon is about to summon 
+new = '''The Wicked Dragon is about to summon a
 "Dragon Crystal of Flame"'''
 [[message]]
 key = 'syslog_action_evildra_03'
@@ -1478,10 +1478,12 @@ key = 'syslog_action_evildra_04'
 old = '''
 大量のマグマが溜まってきている
 悪しき竜が炎の力を吸収する時が近付く――'''
+new = '''There is a large amount of magma built up, the time
+the Wicked Dragon absorbs the flames power draws near'''
 [[message]]
 key = 'syslog_action_evildra_05'
 old = '死力を尽くした咆哮に、火垂れ山が揺れている――'
-new = '''The roar of death has shaken the fiery mountain'''
+new = '''The fire dripping mountain is shaken by the frantic roar'''
 [[message]]
 key = 'syslog_action_evildra_06'
 old = 'マグマが上昇し始めた――'

@@ -99,6 +99,7 @@ old = 'Storage'
 [[message]]
 key = 'menu_cmn_open_online_shop'
 old = 'オンラインショップを開く'
+new = 'Open online shop'
 [[message]]
 key = 'menu_cmn_shortage_gs'
 old = '''
@@ -111,6 +112,8 @@ new = 'Item'
 [[message]]
 key = 'menu_cmn_receive_bag'
 old = 'アイテムバッグに受け取る'
+new = 'Receive in item bag'
 [[message]]
 key = 'menu_cmn_receive_box'
 old = '保管ボックスに受け取る'
+new = 'Receive in storage'

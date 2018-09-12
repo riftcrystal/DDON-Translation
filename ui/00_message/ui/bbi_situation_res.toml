@@ -9,9 +9,11 @@ new = 'Searching "%s"'
 [[message]]
 key = 'bbi_sit_msg_state_05'
 old = '黒呪の迷宮 探索結果の報告待ち'
+new = 'Waiting for Maze search result report'
 [[message]]
 key = 'bbi_sit_msg_state_06'
 old = '黒呪の迷宮 進行リセット可能'
+new = 'Reset Maze progress possible'
 [[message]]
 key = 'bbi_sit_msg_state_07'
 old = ''
