@@ -1473,7 +1473,7 @@ key = 'syslog_action_evildra_03'
 old = '''
 “火焔の竜晶”の出現により
 マグマが溜まっていく――'''
-new = '''Magma is rising because of the "Dragon Crystal of Flame"'''
+new = 'Magma is rising because of the "Dragon Crystal of Flame"'
 [[message]]
 key = 'syslog_action_evildra_04'
 old = '''
