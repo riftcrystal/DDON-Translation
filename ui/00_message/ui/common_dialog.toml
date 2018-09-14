@@ -2394,30 +2394,41 @@ new = 'Select Dungeon'
 [[message]]
 key = 'ana_epitaph_005'
 old = '確認'
+new = 'Confirm'
 [[message]]
 key = 'ana_epitaph_007'
 old = '待ち受けをキャンセルしますか？'
+new = 'Cancel waiting?'
 [[message]]
 key = 'ana_epitaph_008'
 old = 'パーティーリーダーが決定するまで、使用できません'
+new = 'Cannot select until the party leader decides.'
 [[message]]
 key = 'ana_epitaph_009'
 old = 'リーダーが選択したダンジョンに突入しますか？'
+new = 'Enter the selected dungeon?'
 [[message]]
 key = 'ana_epitaph_010'
 old = '《魂》を捧げることで道が開けそうだ――'
+new = 'Seems the path will open by offering souls――'
 [[message]]
 key = 'ana_epitaph_011'
 old = '''
 パーティーメンバーが開拓済みのため
 一時的に《魂》を捧げずに開拓できます
 (その場合、開拓状況は保存されません)'''
+new = '''
+A party member has already reclaimed so
+you can temporarily reclaim without offering souls.
+(If you do your reclamation status won't be saved.)'''
 [[message]]
 key = 'ana_epitaph_012'
 old = '通常開拓'
+new = 'Normal Reclamation'
 [[message]]
 key = 'ana_epitaph_013'
 old = '一時開拓'
+new = 'Temporary Reclamation'
 [[message]]
 key = 'ana_epitaph_014'
 old = '''
@@ -2443,22 +2454,33 @@ key = 'ana_epitaph_017'
 old = '''
 パーティーメンバーが別の場所で
 試練開始を待っています'''
+new = '''
+Party member is waiting for the trial
+to start from a different location.'''
 [[message]]
 key = 'ana_epitaph_019'
 old = '待ち受けをキャンセルしますか？'
+new = 'Cancel waiting?'
 [[message]]
 key = 'ana_epitaph_020'
 old = '''
 試練の開始待ちです
 (キャンセルはできません)'''
+new = '''
+Waiting for trial to start.
+(Cannot cancel.)'''
 [[message]]
 key = 'ana_epitaph_021'
 old = '石板が青白く輝いている――'
+new = 'The stone slab is glowing blue――'
 [[message]]
 key = 'ana_epitaph_022'
 old = '''
 絶技の継承から
 さらなる力を得られるようになった'''
+new = '''
+You are now able to become even more powerful
+through Special Skill Augmentation.'''
 [[message]]
 key = 'ana_epitaph_023'
 old = '不思議な力が辺りに散らばった'
