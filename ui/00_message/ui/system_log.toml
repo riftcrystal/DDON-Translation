@@ -1461,19 +1461,19 @@ old = '''
 [[message]]
 key = 'syslog_action_evildra_01'
 old = 'マグマから炎の力を吸収しようとしている――'
-new = 'Trying to absorb the power of flames from magma'
+new = 'Trying to absorb the power of flames from magma.'
 [[message]]
 key = 'syslog_action_evildra_02'
 old = '悪しき竜は“火焔の竜晶”を召喚しようとしている――'
 new = '''
 The Wicked Dragon is about to summon a
-"Dragon Crystal of Flame"'''
+"Dragon Crystal of Flame".'''
 [[message]]
 key = 'syslog_action_evildra_03'
 old = '''
 “火焔の竜晶”の出現により
 マグマが溜まっていく――'''
-new = 'Magma is rising because of the "Dragon Crystal of Flame"'
+new = 'Magma is rising because of the "Dragon Crystal of Flame".'
 [[message]]
 key = 'syslog_action_evildra_04'
 old = '''
@@ -1481,11 +1481,11 @@ old = '''
 悪しき竜が炎の力を吸収する時が近付く――'''
 new = '''
 There is a large amount of magma built up, the time
-the Wicked Dragon absorbs the flames power draws near'''
+the Wicked Dragon absorbs the flames power draws near.'''
 [[message]]
 key = 'syslog_action_evildra_05'
 old = '死力を尽くした咆哮に、火垂れ山が揺れている――'
-new = 'The fire dripping mountain is shaken by the frantic roar'
+new = 'The fire dripping mountain is shaken by the frantic roar.'
 [[message]]
 key = 'syslog_action_evildra_06'
 old = 'マグマが上昇し始めた――'
@@ -1501,7 +1501,7 @@ old = '''
 マグマの滝が流れ出した――'''
 new = '''
 Magma is flowing out from the waterfall because of the
-"Dragon Crystal of Flame"'''
+"Dragon Crystal of Flame".'''
 [[message]]
 key = 'syslog_action_evildra_09'
 old = '''
@@ -1509,7 +1509,7 @@ old = '''
 マグマの量が減り、戦闘エリアが広がった――'''
 new = '''
 Destroying the "Dragon Crystals of Flame" in the crater
-reduces the amount of magma, expanding your foothold'''
+reduces the amount of magma, expanding your foothold.'''
 [[message]]
 key = 'syslog_action_evildra_10'
 old = '''
@@ -1525,7 +1525,7 @@ old = '''
 地表からマグマが噴き上がる――'''
 new = '''
 Magma is flowing out from the surface because of the
-"Dragon Crystal of Flame"'''
+"Dragon Crystal of Flame".'''
 [[message]]
 key = 'syslog_action_evildra_12'
 old = '''
@@ -1533,7 +1533,7 @@ old = '''
 空から火山弾が降り注ぐ――'''
 new = '''
 Meteors are falling down because of the
-"Dragon Crystal of Flame"'''
+"Dragon Crystal of Flame".'''
 [[message]]
 key = 'syslog_action_evildra_13'
 old = '''
@@ -1541,8 +1541,8 @@ old = '''
 熱風が吹き荒れている――'''
 new = '''
 Hot steam of airs is blowing out because of the
-"Dragon Crystal of Flame"'''
+"Dragon Crystal of Flame".'''
 [[message]]
 key = 'syslog_action_evildra_14'
 old = '悪しき竜が最後の命を燃やそうとしている――'
-new = 'The Wicked Dragon is trying to burn its last fragment of life'
+new = 'The Wicked Dragon is trying to burn its last fragment of life.'
