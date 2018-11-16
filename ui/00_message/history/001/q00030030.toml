@@ -10,7 +10,8 @@ old = '''
 やはり軍隊には芯になる者が必要だ。話を聞く限り、
 メイロワ将軍は、任に相応しい人物のように思える
 
-　さて、もうひとつ特筆すべき報せがあった。かの地
+　さて、もうひとつ武
+人特筆すべき報せがあった。かの地
 を治めていたアッカー王家の末裔である１２歳のネド
 王子が戦禍を逃れ、どこかで生きているらしい
 
@@ -26,26 +27,27 @@ old = '''
 子は果たして覚者なのであろうか。先代の火竜はネド
 王子を覚者にしたのであろうか'''
 new = '''
- The Arisen grew friendly with the one
-leading the Liberation Army, General Meirova.
- He is a veteran soldier over 70 years old.
-His personality is broad minded, and he's plenty
-capable of a warrior. I thought the young warriors
-had decided everything through conference, 
-but it seems a military needs someone at the head.
+ The Arisen befriended the leader the 
+Liberation Army, General Meirova.
+ He is an old soldier, however his 
+personaility fits a capable warrior.
+I had expected the younger warriors
+decided everything through conference, 
+but a military needs someone at the head.
 From what I've heard, Meirova seems to be
 fit for the job.
  There's one other news I should mention.
-Prince Ned, a descendent of the rulers of Acre Selund,
-the Acre royal family, fled the war 
-and is still alive somewhere.
- I have learned that the Fire Dragon is passed
-down from generation to generation in
-the royal family. If that is true, then
-the prince should be the next Fire Dragon.
- General Meirova believes the Liberation Army
-will become a new hope for the people while
-searching for the missing prince.
- Naturally I want to believe too, but I am a 
-bit unsure. Is Prince Ned an arisen? Did 
-the previous Fire dragon make him one?'''
+Prince Ned, a descendent of the rulers
+of Acre Selund, the Acre royal family,
+fled the war and is still alive somewhere.
+ I have learned that the role of the
+Fire Dragon is passed down from 
+generation to generation in the royal
+family. If that is true, then the prince
+should be the next Fire Dragon.
+ General Meirova believes adding the
+prince to the Liberation Army will
+rekindle the dwindling hope in the people.
+ Naturally I want to believe too, but I
+am a bit unsure. Did the previous Fire
+Dragon actually make Prince Ned an Arisen?'''

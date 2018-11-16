@@ -17,14 +17,17 @@ old = '''
 　依然として王子の行方は不明だが、今のところは良
 い流れに乗っているように思われる'''
 new = '''
- We still have not been able to meet with Prince Ned.
-However we did find an important clue to his whereabouts.
-I have no idea how helpful the clue is, however
-I heard General Meirova was quite pleased with it.
- The Liberation Army succeeded in taking back
-a fort stolen by the orcs. Our very own arisen were
-pivotal in taking back the fortress.
- General Meirova was deeply moved by the result,
-and praised the Arisen. He is as proud of them as I am.
- The prince's whereabouts are still unknown, however
-it seems the situation is improving.'''
+ We still have not been able to
+rendezvous with Prince Ned. However 
+we did find an important clue to 
+his whereabouts. I have no idea how
+helpful the clue is, however I heard
+General Meirova was pleased.
+ The Liberation Army succeeded in taking
+back a fort stolen by the orcs. Our Arisen
+helped immensely with the effort.
+ General Meirova was deeply moved by
+the result, and praised the Arisen. He is
+as proud of them as I am.
+ The prince's whereabouts are still unknown,
+however it seems the situation is improving.'''
