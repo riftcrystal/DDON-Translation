@@ -21,3 +21,25 @@ old = '''
 
 　黒騎士は死んだ。もちろんそう信じているが、胸騒
 ぎを覚えるのはわたしだけではないらしい'''
+new = '''
+ The Liberation Army crossed the rugged
+mountains from their new base in Lookout
+Castle in order to secure a foothold for
+their invasion of the Capital City Megado.
+ I'd like to end this entry with nothing
+but good news, however there is another
+report that troubles me.
+ I have heard many times that the enemy
+had support when conquering the capital
+city. This time I recieved word of who that
+support was.
+ They were a single knight, clad in black
+armor, utilizing their strong leadership
+and swordsmanship to make quick work of
+the city's guards.
+ A knight clad in black armor, It reminds
+me of the dreaded knight that stole the
+commander of our arisen away.
+ I whole-heartedly believe the Black Knight
+is dead, however certainly I am not the only
+one concerned by this news.'''

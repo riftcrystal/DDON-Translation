@@ -18,3 +18,22 @@ old = '''
 
 　悪しき竜の目的は明白だ。しかしそれがわかったと
 ころで今は何になろう'''
+new = '''
+ The White Dragon has been severely
+weakened. The Knights are seeking out
+blood orbs, but it is not apparent if
+they are having an effect.
+ The arisen tried to acquire some healing
+power from the Phantasmic Dragon, but it
+is a mere phantom born from the White
+Dragon's power. It will certainly have
+no effect.
+ The bad news continues. The number of
+arisen in bad condition is increasing,
+there are several who have gone unconscious.
+ The arisen whom are deeply bonded with
+the White Dragon are the most effected.
+Currently, I can see no way to fix the
+crisis.
+ The Wicked Dragon's goal is clear. However,
+what can we possibly do about it now?'''

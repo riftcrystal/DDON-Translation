@@ -26,3 +26,30 @@ old = '''
 　しかし、忘れてはいけない。覚者たちをアッカーシ
 ェランに運んだのは悪しき竜である。この疑問が残る
 限り、局地的な勝利を喜ぶことは難しい'''
+new = '''
+ Things did not go according to plan. We
+will have to confirm whether Prince Ned
+can inherit the Dragon Force later.
+ The enemy learned that Prince Ned has
+rendezvoused with the Liberation Army.
+The Wicked Dragon's counterattack has
+grown violent. The Liberation Army is
+currently being pursued. I have high
+expectations for our arisen.
+ Thankfully, our arisen have grown
+accustomed to fighting orcs. Even if
+the land changes, orcs never change.
+As long as they fight together with the
+Liberation Army, the orcs should not be
+a threat.
+ The problem is the strange weapons and
+beasts that appear in Acre Selund, however
+our elite arisen superbly dealt with them.
+ They saved Prince Ned fighting on the
+front lines, furthering the faith people
+have in them.
+ However, we must not forget the Wicked
+Dragon is the one that brought them to
+Acre Selund. As long as these questions
+remain, it is difficult to be excited
+over one victory.'''

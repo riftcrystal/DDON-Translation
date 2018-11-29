@@ -24,3 +24,27 @@ old = '''
 　覚者たちには、悪しき竜の討伐を最優先するように
 伝えてある。彼らなら、わたしの真意を理解してくれ
 るだろう。よそ者にしかできないことがあるのだ'''
+new = '''
+ The arisen used a different path from
+Prince Ned and finally arrived at
+Firefall Mountain. They established a
+base at the entrance to the mountain and
+returned here to prepare.
+ There is something that concerns me
+about the prince running off by himself.
+ The members of the Liberation Army intend
+to respect the princes feelings. Could
+that be an advantage for the Wicked Dragon?
+ To the Liberation Army, Prince Ned is
+their master. It is difficult for vassals
+to reject their master's words or actions.
+Meirova is an old fashioned man, he may
+think the prince sacrificing himself as
+virtuous.
+ Of course, I can't accept his behavior.
+Here in Lestania it would not have any
+possitive effect.
+ I told the arisen to prioritize defeating
+Wicked Dragon. They should be able to
+understand my true meaning. There are
+some things only an outsider can do.'''

@@ -11,3 +11,15 @@ old = '''
 の機微はわからないのであろう。多少でも理解が及べ
 ばこのような不在はありえない。王子には猛省を促し
 たい'''
+new = '''
+ We acquired the assistance of the
+Northern Bandits and are searching for
+the prince. I hope that the bandits
+remain honorable until the end.
+ From what I hear with the prince's
+disappearance the atmosphere in the castle
+has become more lax. It stands to reason,
+nobody wants to fight a war. A king would
+not understand this. If they could understand,
+he would not have disappeared. I urge
+the prince to reconsider his actions.'''
