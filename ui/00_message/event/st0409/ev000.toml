@@ -2,15 +2,26 @@
 old = '''
 竜の命とて永遠ではない――
 人の命は言わずもがな――'''
+new = '''
+A dragon can not live forever,
+nor can a human.'''
 [[message]]
 old = '有限こそが世の理――'
+new = 'Impermanence is the natural order of things.' 
 [[message]]
 old = '''
 なぜ我らには無限が与えられなかったのか――
 永遠の有無を決めたのは何者だろうか――'''
+new = '''
+Why were we not granted immortality?
+Who decides what can last for eternity?'''
 [[message]]
 old = '''
 理の造物主を知りたくば――
 竜になるより道はない――'''
+new = '''
+If I wish to know the Maker,
+I have no choice but to become a dragon.'''
 [[message]]
 old = '完全なる竜に――'
+new = 'A complete dragon.'

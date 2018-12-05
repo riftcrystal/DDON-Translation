@@ -2,9 +2,15 @@
 old = '''
 おーいー
 祝福のはじまりだ！'''
+new = '''
+Hey!
+Time to be blessed!'''
 [[message]]
 old = 'さぁ、不死身のおれとざんざか殺り合おう'
+new = 'Now, shall we dance the dance of death?'
 [[message]]
 old = '貧相な覚者ども'
+new = 'Pitiful arisen.'
 [[message]]
 old = 'めいっぱい楽しんでくれよ'
+new = 'I hope you enjoy yourselves.'

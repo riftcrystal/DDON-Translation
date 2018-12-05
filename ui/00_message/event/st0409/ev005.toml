@@ -2,11 +2,19 @@
 old = '''
 我を倒しても――貴様は有限の存在――
 何も変わらぬ――'''
+new = '''
+Even if you defeat me, your life is limited.
+Nothing will change.'''
 [[message]]
 old = '''
 ああ――復活か――終わりか――
 死にゆく者の――恐怖と快感――'''
+new = '''
+Will I be born again? Or is this the end?
+This is the fear, and pleasure, of one at death's door.
 [[message]]
 old = '我が輝きは永遠の象徴――'
+new = 'My radiance is the symbol of eternity.'
 [[message]]
 old = 'ああ主よ――違うという――のか？'
+new = 'Maker, am I wrong?'

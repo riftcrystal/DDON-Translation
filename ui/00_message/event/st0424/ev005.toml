@@ -1,8 +1,13 @@
 ﻿[[message]]
 old = '命が――おれの命が――'
+new = 'My... Life...'
 [[message]]
 old = '''
 イヤだ――
 また死にたくない――'''
+new = '''
+No!
+I don't want to die again!'''
 [[message]]
 old = 'オオオオ――おれは不死身だろうに――'
+new = 'I'm supposed to be immortal!'
