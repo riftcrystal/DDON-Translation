@@ -9,15 +9,15 @@ new = 'Aurom Slay'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_146'
 old = 'コル・スパイク'
-new = 'Col Spike'
+new = 'Corr Spike'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_149'
 old = 'ウォール・グラスタ'
-new = 'Wall Grasta'
+new = 'Wall Glasta'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_145'
 old = 'コル・ストルム'
-new = 'Col Storm'
+new = 'Corr Storm'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_147'
 old = 'シュクリス・ブラスト'
@@ -25,15 +25,15 @@ new = 'Shukris Blast'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_150'
 old = 'キュア・グラスタ'
-new = 'Cure Grasta'
+new = 'Cure Glasta'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_148'
 old = 'シュクリス・ガーダー'
-new = 'Shukris Guard'
+new = 'Scrios Guard'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_153'
 old = 'コル・ミーティア'
-new = 'Col Meteor'
+new = 'Corr Meteor'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_188'
 old = 'エードラム・カウンター'
@@ -41,11 +41,11 @@ new = 'Éadrom Counter'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_195'
 old = 'ウォール・グラスタ 剛'
-new = 'Wall Grasta (P)'
+new = 'Wall Glasta (P)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_196'
 old = 'ウォール・グラスタ 技'
-new = 'Wall Grasta (T)'
+new = 'Wall Glasta (T)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_193'
 old = 'アラム・ファング 剛'
@@ -57,16 +57,16 @@ new = 'Aurom Fang (T)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_233'
 old = 'コル・スパイク 剛'
-new = 'Col Spike (P)'
+new = 'Corr Spike (P)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_234'
 old = 'コル・スパイク 技'
-new = 'Col Spike (T)'
+new = 'Corr Spike (T)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_235'
 old = 'キュア・グラスタ 剛'
-new = 'Cure Grasta (P)'
+new = 'Cure Glasta (P)'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_236'
 old = 'キュア・グラスタ 技'
-new = 'Cure Grasta (T)'
+new = 'Cure Glasta (T)'

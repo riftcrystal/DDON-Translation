@@ -21,7 +21,7 @@ new = 'Aid'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_152'
 old = 'エイド・モール'
-new = 'Aid More'
+new = 'Aid Mór'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_161'
 old = 'フォル・ムーヴ'
@@ -29,7 +29,7 @@ new = 'Fall Move'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_153'
 old = 'スカー・ムーヴ'
-new = 'Scar Move'
+new = 'Scáth Move'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_155'
 old = 'アタックブースト'
@@ -45,7 +45,7 @@ new = 'Boost Cancel'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_160'
 old = 'イラー・スラスト'
-new = 'Irah Thrust'
+new = 'Iolar Thrust'
 [[message]]
 key = 'NORMAL_SKILL_NAME_10_163'
 old = 'ブースト解除'
