@@ -6,8 +6,7 @@ old = '''
 new = '''
 During battle, Physical Attack/Magick Attack/
 Physical Defense/Magick Defense are increased.
-<COL ffdc78>LV UP Further increases the effectiveness.</COL>
-'''
+<COL ffdc78>LV UP Further increases the effectiveness.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_2'
 old = '''
