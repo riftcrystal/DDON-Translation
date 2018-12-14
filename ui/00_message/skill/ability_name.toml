@@ -457,7 +457,7 @@ new = 'Construct Proficiency'
 [[message]]
 key = 'ABILITY_NAME_200'
 old = '獣狙'
-new = 'Poacher'
+new = 'Beast Proficiency'
 [[message]]
 key = 'ABILITY_NAME_222'
 old = '錬護'
