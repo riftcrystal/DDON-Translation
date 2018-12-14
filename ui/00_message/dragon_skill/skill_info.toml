@@ -3,36 +3,62 @@ key = 'DRAGON_SKILL_INFO_1'
 old = '''
 戦闘中、物理攻撃力／魔法攻撃力／物理防御力／魔法防御力が増加する
 <COL ffdc78>LV UP毎にステータスアップ効果がより上昇</COL>'''
+new = '''
+During battle, Physical Attack/Magick Attack/
+Physical Defense/Magick Defense are increased.
+<COL ffdc78>LV UP Further increases the effectiveness.</COL>
+'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_2'
 old = '''
 アバドーンの弱点部位に一定量のダメージを与えると
 大ダメージを与える追撃が発生する
 <COL ffdc78>LV UP毎に追撃のダメージがより増加</COL>'''
+new = '''
+Deal a great amount damage to Abaddon after you inflict
+a certain amount of damage to its weak point.
+<COL ffdc78>LV UP Further increases bonus damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_3'
 old = '''
 バフォメットの弱点部位に一定量のダメージを与えると
 大ダメージを与える追撃が発生する
 <COL ffdc78>LV UP毎に追撃のダメージがより増加</COL>'''
+new = '''
+Deal a great amount damage to Baphomet after you inflict
+a certain amount of damage to its weak point.
+<COL ffdc78>LV UP Further increases bonus damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_4'
 old = '''
 黒騎士の弱点部位に一定量のダメージを与えると
 大ダメージを与える追撃が発生する
 <COL ffdc78>LV UP毎に追撃のダメージがより増加</COL>'''
+new = '''
+Deal a great amount damage to Black Knight after you inflict
+a certain amount of damage to its weak point.
+<COL ffdc78>LV UP Further increases bonus damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_5'
 old = '''
 黒竜の弱点部位、または黒竜により召喚された竜晶に
 一定量のダメージを与えると、大ダメージを与える追撃が発生する
 <COL ffdc78>LV UP毎に追撃のダメージがより増加</COL>'''
+new = '''
+Deal a great amount damage to Black Dragon and the summoned
+Dragon Crystal after you inflict a certain amount of damage
+to them.
+<COL ffdc78>LV UP Further increases bonus damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_6'
 old = '''
 大ダメージを受けるアバドーンの攻撃＜キラーアルベ＞の
 ダメージを軽減する。残り体力が少ない場合は発動しない
 <COL ffdc78>LV UP毎にダメージをさらに軽減</COL>'''
+new = '''
+Reduces damage of fatal attacks from Abaddon. Does not activate
+if your health is low.
+<COL ffdc78>LV UP Further reduces damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_7'
 old = '''
@@ -40,12 +66,22 @@ old = '''
 弱点部位を攻撃すると《精霊竜の反撃アイコン》が増加する
 アイコンが満了になると破壊可能部位へのダメージが大幅に増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
+new = '''
+When enemy strikes, attacking the part used by the attack
+will increase the "Spirit Dragon Counterattack Gauge".
+When the gauge is full, damage to destructible parts
+is greatly increased.
+<COL ffdc78>LV UP Further increases bonus damage.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_8'
 old = '''
 闇炎の状態異常にかかった際に回復までの時間を短縮する
 回復までの時間は、付与される毎にやや増減する
 <COL ffdc78>LV UP毎に回復までの時間がさらに短縮</COL>'''
+new = '''
+Shorten the recovery time of Dark Flame debilitation. The time
+needed slightly increases or decreases each time this is triggered.
+<COL ffdc78>LV UP Further shortens the recovery time.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_9'
 old = '''
@@ -54,6 +90,13 @@ old = '''
 バリア展開中は筋力／魔力／疲労攻力／チャンス攻力が増加するが
 魔法攻撃を受けるか時間経過によりバリアの耐久値は減少する
 <COL ffdc78>LV UP毎にステータスアップ効果／バリアの耐久値がより上昇</COL>'''
+new = '''
+Create a barrier to disable the "Magick Attack Increase" buff
+from enemy. While inside the barrier, Strength/Magick/
+Chance Attack/Exhaust Attack are increased. The durability of the
+barrier deteriotates over time and magick damage taken.
+<COL ffdc78>LV UP Further increases the stat bonus and duration
+of the barrier.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_10'
 old = '''
@@ -62,6 +105,13 @@ old = '''
 バリア展開中は筋力／魔力／疲労攻力／チャンス攻力が増加するが
 物理攻撃を受けるか時間経過によりバリアの耐久値は減少する
 <COL ffdc78>LV UP毎にステータスアップ効果／バリアの耐久値がより上昇</COL>'''
+new = '''
+Create a barrier to disable the "Physical Attack Increase" buff
+from enemy. While inside the barrier, Strength/Magick/
+Chance Attack/Exhaust Attack are increased. The durability of the
+barrier deteriotates over time and physical damage taken.
+<COL ffdc78>LV UP Further increases the stat bonus and duration
+of the barrier.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_11'
 old = '''
@@ -70,14 +120,28 @@ old = '''
 鎧硬化状態を解除すると、敵が体勢を崩している間
 筋力／魔力／疲労攻力／チャンス攻力が増加する追加効果が発動する
 <COL ffdc78>LV UP毎にステータスアップ効果がより上昇</COL>'''
+new = '''
+Blow power increases in response to "Armor Harden" state triggered
+by enemy, making it easier to break through their armor. When the
+enemy is in the staggered state, Strength/Magick/Exhaust Attack/
+Chance Attack increase.
+<COL ffdc78>LV UP Further increases the stat bonus.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_12'
 old = '''
 ボス撃破時に獲得できる宝箱報酬が増加する
 <COL ffdc78>LV UP毎に報酬がより増加</COL>'''
+new = '''
+Increases the reward from chests after killing the boss.
+<COL ffdc78>LV UP Further increases the reward.</COL>'''
 [[message]]
 key = 'DRAGON_SKILL_INFO_13'
 old = '''
 黄金竜の攻撃により、敵の特定の攻撃を中断する
 攻撃を中断すると＜破滅の力＞の蓄積量が減少する
 <COL ffdc78>LV UP毎に破滅の力の減少量がより増加</COL>'''
+new = '''
+The Golden Dragon attacks, trying to interrupt a specific
+attack of the enemy. If the interruption succeeds, the
+"Power of Destruction" is lowered.
+<COL ffdc78>LV UP Further decreases the Destruction power.</COL>'''

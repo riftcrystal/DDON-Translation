@@ -1558,53 +1558,72 @@ old = '<UNTN RDM>を<VAL>(+<VAL>)<UNIT RDM>、入手しました'
 [[message]]
 key = 'syslog_ds_info_enemy_01'
 old = '敵が闇の炎をまとった！'
+new = 'The enemy is shrouded in dark flame!'
 [[message]]
 key = 'syslog_ds_info_enemy_02'
 old = '敵の魔法攻撃力が上昇した！'
+new = 'Magick attack of the enemy has increased!'
 [[message]]
 key = 'syslog_ds_info_enemy_03'
 old = '敵の物理攻撃力が上昇した！'
+new = 'Physical attack of the enemy has increased!'
 [[message]]
 key = 'syslog_ds_info_enemy_04'
 old = '敵の鎧が硬化した！'
+new = 'The armor of enemy has hardened!'
 [[message]]
 key = 'syslog_ds_support_ana_01'
 old = '竜の祝福により報酬が強化された'
+new = 'Blessing of the Dragons have improved the reward.'
 [[message]]
 key = 'syslog_ds_support_ana_02'
 old = '敵の部位を破壊しやすくなった'
+new = 'It is now easier to break destructible parts.'
 [[message]]
 key = 'syslog_ds_support_ana_03'
 old = '敵の防御を破り、プレイヤーの攻撃力が強化された'
+new = 'Break through their defense to enhance your offensive power.'
 [[message]]
 key = 'syslog_pp_possession_max'
 old = 'プレイポイントが最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of PP and cannot earn any more.'
 [[message]]
 key = 'syslog_g_possession_max'
 old = '<UNTN G>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN G> and cannot earn any more.'
 [[message]]
 key = 'syslog_r_possession_max'
 old = '<UNTN R>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN R> and cannot earn any more.'
 [[message]]
 key = 'syslog_bo_possession_max'
 old = '<UNTN BO>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN BO> and cannot earn any more.'
 [[message]]
 key = 'syslog_ho_possession_max'
 old = '<UNTN HB>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN HB> and cannot earn any more.'
 [[message]]
 key = 'syslog_rp_possession_max'
 old = '<UNTN RP>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN RP> and cannot earn any more.'
 [[message]]
 key = 'syslog_ms_possession_max'
 old = '<UNTN MS>が最大に達したため、これ以上獲得できません'
+new = 'You have reached the maximum amount of <UNTN MS> and cannot earn any more.'
 [[message]]
 key = 'syslog_darkgauge_rise'
 old = '''
 “破滅の力”の高まりを感じる――
 ゲージが十分に溜まるとすべてが滅びる！'''
+new = '''
+The Power of Destruction is growing...
+When it reaches maximum power, all life will perish!'''
 [[message]]
 key = 'syslog_darkgauge_growup'
 old = '“破滅の力”のゲージが徐々に上昇してゆく！'
+new = 'The Power of Destruction is rising!'
 [[message]]
 key = 'syslog_darkgauge_spdown'
 old = '“黄金竜の一撃”によって“破滅の力”のゲージが減少した！'
+new= 'The attack of Golden Dragon has reduced the Power of Destruction!'
