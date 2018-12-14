@@ -213,21 +213,28 @@ new = 'Spirited Away'
 [[message]]
 key = 'CONDITION_NAME_65'
 old = '寄生毒'
+new = 'Parasitic Poison'
 [[message]]
 key = 'CONDITION_NAME_66'
 old = '寄生毒'
+new = 'Parasitic Poison'
 [[message]]
 key = 'CONDITION_NAME_67'
 old = '抗蟲状態'
+new = 'Parasitic Poison Resist'
 [[message]]
 key = 'CONDITION_NAME_68'
 old = '全攻撃能力上昇'
+new = 'Extreme Attack Up'
 [[message]]
 key = 'CONDITION_NAME_69'
 old = '全防御能力上昇'
+new = 'Extreme Defense Up'
 [[message]]
 key = 'CONDITION_NAME_70'
 old = '闇炎'
+new = 'Dark Flame'
 [[message]]
 key = 'CONDITION_NAME_71'
 old = '闇牢'
+new = 'Dark Prison'
