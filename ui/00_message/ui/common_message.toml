@@ -683,37 +683,47 @@ old = '冒険回数0'
 [[message]]
 key = 'common_msg_jp_of'
 old = 'の'
+new = '’'
 [[message]]
 key = 'common_msg_attribute_A1'
 old = '斬'
+new = 'Slash'
 [[message]]
 key = 'common_msg_attribute_A2'
 old = '打'
+new = 'Impact'
 [[message]]
 key = 'common_msg_attribute_A3'
 old = '射'
+new = 'Pierce'
 [[message]]
 key = 'common_msg_attribute_B1'
 old = '無'
+new = 'Null'
 [[message]]
 key = 'common_msg_attribute_B2'
 old = '炎'
+new = 'Fire'
 [[message]]
 key = 'common_msg_attribute_B3'
 old = '氷'
+new = 'Ice'
 [[message]]
 key = 'common_msg_attribute_B4'
 old = '雷'
+new = 'Thunder'
 [[message]]
 key = 'common_msg_attribute_B5'
 old = '聖'
+new = 'Holy'
 [[message]]
 key = 'common_msg_attribute_B6'
 old = '闇'
+new = 'Dark'
 [[message]]
 key = 'common_msg_jp_attribute'
 old = '属性'
-new = 'Attribute'
+new = ' Attribute'
 [[message]]
 key = 'common_msg_jp_damage'
 old = 'ダメージ'
@@ -745,9 +755,12 @@ old = '指定'
 [[message]]
 key = 'common_enemy_transform_division_01'
 old = '・分身体'
+new = ' (Avatar)'
 [[message]]
 key = 'common_enemy_transform_division_02'
 old = '・分身体Ⅰ'
+new = ' (Avatar 1)'
 [[message]]
 key = 'common_enemy_transform_division_03'
 old = '・分身体Ⅱ'
+new = ' (Avatar 2)'
