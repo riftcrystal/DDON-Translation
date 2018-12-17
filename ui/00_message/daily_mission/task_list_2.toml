@@ -1,6 +1,7 @@
 ﻿[[message]]
 key = 'DAILY_MISSION_TASK_40'
 old = '滅びの渦で暗黒の大竜晶を破壊する'
+new = 'Destroy the Dark Dragon Crystal in the Vortex of Ruin'
 [[message]]
 key = 'DAILY_MISSION_TASK_42'
 old = '''

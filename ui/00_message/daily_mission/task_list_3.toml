@@ -1,27 +1,36 @@
 ﻿[[message]]
 key = 'DAILY_MISSION_TASK_12'
 old = '滅びの渦で暗黒の大竜晶を破壊する'
+new = 'Destroy the Dark Dragon Crystal in the Vortex of Ruin'
 [[message]]
 key = 'DAILY_MISSION_TASK_14'
 old = 'エピタフロードの大試練をクリアする'
+new = 'Complete one epitaph great ordeal'
 [[message]]
 key = 'DAILY_MISSION_TASK_13'
 old = '黒呪の迷宮１層をクリアする'
+new = 'Traverse one layer of Bitterblack Maze'
 [[message]]
 key = 'DAILY_MISSION_TASK_34'
 old = '黒呪の迷宮２層をクリアする'
+new = 'Traverse two layers of Bitterblack Maze'
 [[message]]
 key = 'DAILY_MISSION_TASK_35'
 old = '黒呪の迷宮３層をクリアする'
+new = 'Traverse three layers of Bitterblack Maze'
 [[message]]
 key = 'DAILY_MISSION_TASK_36'
 old = '黒呪の迷宮 深淵１層をクリアする'
+new = 'Traverse one layer of Bitterblack Maze Abyss'
 [[message]]
 key = 'DAILY_MISSION_TASK_37'
 old = '黒呪の迷宮 深淵２層をクリアする'
+new = 'Traverse two layers of Bitterblack Maze Abyss'
 [[message]]
 key = 'DAILY_MISSION_TASK_38'
 old = '黒呪の迷宮 深淵３層をクリアする'
+new = 'Traverse three layers of Bitterblack Maze Abyss'
 [[message]]
 key = 'DAILY_MISSION_TASK_39'
 old = '黒呪の迷宮 深淵４層をクリアする'
+new = 'Traverse four layers of Bitterblack Maze Abyss'
