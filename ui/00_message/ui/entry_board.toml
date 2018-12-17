@@ -498,11 +498,11 @@ new = 'Bonus Dragon Ability'
 [[message]]
 key = 'entry_board_dra_skill_msg_004'
 old = 'パーティー合計='
-new = 'Party total ='
+new = 'Party total = '
 [[message]]
 key = 'entry_board_dra_skill_msg_005'
 old = '個人合計='
-new = 'Personal total ='
+new = 'Personal total = '
 [[message]]
 key = 'entry_board_dra_skill_msg_006'
 old = '発動中'
