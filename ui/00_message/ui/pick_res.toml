@@ -41,6 +41,9 @@ key = 'pick_item_err_001'
 old = '''
 このアイテムは個別に受け取ることができません
 【すべて受け取る】を押してください'''
+new = '''
+Cannot receive items individually
+Please select "Take All"'''
 [[message]]
 key = 'pick_item_btn_000'
 old = '受け取る'
@@ -54,3 +57,7 @@ key = 'pick_item_err_002'
 old = '''
 必要アイテム（<NAME ITEM>×<VAL>）を
 アイテムバッグに所持していないため、受け取れません'''
+new = '''
+You cannot receive items because
+you do not carry enough items in the bag
+(<NAME ITEM>×<VAL>)'''

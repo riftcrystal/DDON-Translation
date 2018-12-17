@@ -202,6 +202,7 @@ new = 'Pawn Expedition Corps'
 [[message]]
 key = 'FUNC_CLASS_NAME_56'
 old = '遠征成果の確認'
+new = 'Check Expedition Result'
 [[message]]
 key = 'FUNC_CLASS_NAME_57'
 old = 'プレイポイントショップ'
@@ -376,6 +377,7 @@ new = 'Dragon Ability Synthesis'
 [[message]]
 key = 'FUNC_CLASS_NAME_102'
 old = '竜防具の鑑定交換'
+new = 'Dragon Armor Appraisal'
 [[message]]
 key = 'FUNC_CLASS_NAME_103'
 old = 'リワードミッション'
