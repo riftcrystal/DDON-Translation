@@ -3329,7 +3329,7 @@ old = '''
 全てのノーマルスキルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 new = '''
-Increases damage of all normal skills.
+Increases damage of all core skills.
 <COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_256'
