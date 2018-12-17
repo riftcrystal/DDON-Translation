@@ -474,48 +474,64 @@ new = 'D Rank: <VAL DP>'
 [[message]]
 key = 'entry_board_recommend_counter_skill_title'
 old = '推奨ドラゴンアビリティ'
+new = 'Recommended Dragon Ability'
 [[message]]
 key = 'entry_board_playable_time_header'
 old = '出撃可能時間'
+new = 'Sortie Time'
 [[message]]
 key = 'entry_board_playable_time_info'
 old = '<DATE> - <DATE>'
+new = '<DATE> - <DATE>'
 [[message]]
 key = 'entry_board_dra_skill_msg_001'
 old = 'ドラゴンアビリティ指定'
+new = 'Dragon Ability Designation'
 [[message]]
 key = 'entry_board_dra_skill_msg_002'
 old = 'ドラゴンアビリティ情報'
+new = 'Dragon Ability Information'
 [[message]]
 key = 'entry_board_dra_skill_msg_003'
 old = 'ボーナスドラゴンアビリティ'
+new = 'Bonus Dragon Ability'
 [[message]]
 key = 'entry_board_dra_skill_msg_004'
 old = 'パーティー合計='
+new = 'Party total ='
 [[message]]
 key = 'entry_board_dra_skill_msg_005'
 old = '個人合計='
+new = 'Personal total ='
 [[message]]
 key = 'entry_board_dra_skill_msg_006'
 old = '発動中'
+new = 'Active'
 [[message]]
 key = 'entry_board_dra_skill_msg_007'
 old = '―'
+new = '-'
 [[message]]
 key = 'entry_board_dra_skill_msg_008'
 old = '未発動'
+new = 'Inactive'
 [[message]]
 key = 'entry_board_dra_skill_msg_009'
 old = '有利：'
+new = 'Advantagous: '
 [[message]]
 key = 'entry_board_dra_skill_msg_010'
 old = '適正：'
+new = 'Reasonable: '
 [[message]]
 key = 'entry_board_dra_skill_msg_011'
 old = '不利：'
+new = 'Disadvantagous: '
 [[message]]
 key = 'entry_board_dra_skill_msg_012'
 old = '募集：'
+new = 'Recruit: '
 [[message]]
 key = 'entry_board_dra_skill_msg_013'
 old = 'ボーナス発動'
+new = 'Bonus activation'

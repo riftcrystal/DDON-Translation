@@ -348,6 +348,7 @@ new = 'Need %s magick stack!'
 [[message]]
 key = 'hud_name_om_safetydome'
 old = '護身の結界'
+new = 'Barrier of Defense'
 [[message]]
 key = 'hud_get_announce_gdm_ex'
 old = '<VAL> <VAL> $#'
@@ -363,21 +364,28 @@ old = 'Chain'
 [[message]]
 key = 'hud_dragon_skill_pl_1'
 old = '“%s”を発動した！'
+new = '"%s" has activated!'
 [[message]]
 key = 'hud_dragon_skill_pl_2'
 old = '渾身の“%s”を発動した！'
+new = '"%s" has fully activated!'
 [[message]]
 key = 'hud_dragon_skill_pl_0'
 old = '“%s”を発動できなかった――'
+new = '"%s" could not be activated'
 [[message]]
 key = 'hud_dark_dungeon_p_0'
 old = 'ダンジョン内の異変を調査せよ'
+new = 'Investigate the abnomalities in the dungeon'
 [[message]]
 key = 'hud_job_elementarcher_single'
 old = 'シングルロックオン'
+new = 'Single Lock On'
 [[message]]
 key = 'hud_job_elementarcher_multi'
 old = 'マルチロックオン'
+new = 'Multi Lock On'
 [[message]]
 key = 'hud_announce_dragon_skill_set'
 old = 'ドラゴンアビリティが発動した！'
+new = 'Dragon ability has activated!'
