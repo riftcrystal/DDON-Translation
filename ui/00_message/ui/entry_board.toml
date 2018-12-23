@@ -518,15 +518,15 @@ new = 'Inactive'
 [[message]]
 key = 'entry_board_dra_skill_msg_009'
 old = '有利：'
-new = 'Advantagous: '
+new = 'ADV: '
 [[message]]
 key = 'entry_board_dra_skill_msg_010'
 old = '適正：'
-new = 'Reasonable: '
+new = 'OK: '
 [[message]]
 key = 'entry_board_dra_skill_msg_011'
 old = '不利：'
-new = 'Disadvantagous: '
+new = 'DIS: '
 [[message]]
 key = 'entry_board_dra_skill_msg_012'
 old = '募集：'
@@ -534,4 +534,4 @@ new = 'Recruit: '
 [[message]]
 key = 'entry_board_dra_skill_msg_013'
 old = 'ボーナス発動'
-new = 'Bonus activation'
+new = 'Bonus Buff'
