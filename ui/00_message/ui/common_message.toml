@@ -683,7 +683,7 @@ old = '冒険回数0'
 [[message]]
 key = 'common_msg_jp_of'
 old = 'の'
-new = '’s '
+new = "'s "
 [[message]]
 key = 'common_msg_attribute_A1'
 old = '斬'
